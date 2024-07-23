@@ -1,0 +1,562 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b3ac0111659cd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab7a439bec25666",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202110251055 creer une relation et s adapter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/On/202110251055 creer une relation et s adapter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Explorer CNV - blessure de l'autre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/On/Explorer CNV - blessure de l'autre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "202110251055 creer une relation et s adapter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/On/202110251055 creer une relation et s adapter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202106101627 valeurs agiles pogi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202106101627 valeurs agiles pogi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":32},\"to\":{\"line\":9,\"ch\":32}},\"scroll\":9.894164297919485}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Notes/Ideas/202007312156 auto empathie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac37436f9a0ec4c8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202110251057 unique strategie entraine la souffrance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202110251057 unique strategie entraine la souffrance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":128},\"to\":{\"line\":23,\"ch\":128}},\"scroll\":20.197823876325266}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts/On/202201022000 dev perso, exigence a la perfection.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc952e08ada919cd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202205040859 emotion correctrice",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202205040859 emotion correctrice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":134},\"to\":{\"line\":14,\"ch\":134}},\"scroll\":9.395647879364102}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Notes/Ideas/202205040910 hpi empathie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecde77b48d01cd19",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Relate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Relate.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":26.242512615864253}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Calendar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Calendar.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":9}"
+                },
+                {
+                  "title": "Keto Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Keto Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Change Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":11.476261097410902}"
+                },
+                {
+                  "title": "Thoughts logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":223},\"to\":{\"line\":9,\"ch\":223}},\"scroll\":5}"
+                },
+                {
+                  "title": "Psy Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Psy Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Keto Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Keto Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "202205130902 informations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202205130902 informations.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/Life Map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "24035f78e96ab0f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0b00981f6b8e20",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CNV",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/CNV.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":21},\"to\":{\"line\":26,\"ch\":21}},\"scroll\":8}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":3}"
+                },
+                {
+                  "title": "Coaching",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Coaching.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "202007302305 echelle d'action du coach",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202007302305 echelle d'action du coach.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "202007302255 depression",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202007302255 depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "202007302239 se changer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202007302239 se changer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Colere",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Colere.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efdb9f8af3b9b295",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/Coaching.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5004348754883
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 62.64916467780429,
+        "children": [
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atlas/Maps/Life Map.md"
+              }
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "🔥",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73db5b082edd0c05",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8e15cd93a6a4be64",
+        "type": "tabs",
+        "dimension": 37.3508353221957,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atlas/Maps/Life Map.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atlas/Maps/Life Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Toggle stacked tabs": false,
+      "obsidian42-brat:BRAT": false,
+      "soundscapes:Soundscapes: My Music": false
+    }
+  },
+  "active": "dddbab8b18fd423a",
+  "lastOpenFiles": [
+    "Atlas/Maps/Relate.md",
+    "Atlas/Maps/Life Map.md",
+    "Atlas/Maps/Calendar.md",
+    "Atlas/Maps/Library.md",
+    "Atlas/Maps/Concepts Map.md",
+    "Atlas/Maps/Communicate.md",
+    "Calendar/Logs/Keto Log.md",
+    "Calendar/Logs/Change Log.md",
+    "Calendar/Logs/Thoughts logs.md",
+    "Home.md",
+    "Atlas/Maps/CNV.md",
+    "Calendar/Logs/Psy Log.md",
+    "Calendar/Logs/Untitled.md",
+    "Atlas/Notes/Ideas/202205130902 informations.md",
+    "Atlas/Notes/Ideas/202205040910 hpi empathie.md",
+    "Atlas/Notes/Ideas/202205040859 emotion correctrice.md",
+    "Atlas/Maps/Coaching.md",
+    "Atlas/Notes/Ideas/202205012108 agilisation d'une agence.md",
+    "Atlas/Maps/Transfo agile.md",
+    "Efforts/On/202201022000 dev perso, exigence a la perfection.md",
+    "Atlas/Notes/Ideas/202110251057 unique strategie entraine la souffrance.md",
+    "Atlas/Notes/Ideas/202007312156 auto empathie.md",
+    "Efforts/On/202110251055 creer une relation et s adapter.md",
+    "Efforts/On/Explorer CNV - blessure de l'autre.md",
+    "Atlas/Notes/Ideas/202106101627 valeurs agiles pogi.md",
+    "Atlas/Notes/Ideas/202007312151 colère CNV.md",
+    "templates",
+    "Nouveau dossier",
+    "Atlas/Notes/bio",
+    "Efforts/ZDone",
+    "Efforts/Notes/My Videos",
+    "Atlas/Utilities/Images/lyt-kit-example-cooling-pad-.png",
+    "Atlas/Utilities/Images/lyt-kit-example-cooling-pad-.jpg",
+    "Calendar/Notes/Past Years",
+    "Calendar/Logs",
+    "Calendar/Notes",
+    "Atlas/Utilities/Images/mckie-ship-and-sea-mid-narrow-.jpg",
+    "Atlas/Utilities/Images/mckie-ship-and-sea-mid-narrower.jpg",
+    "Atlas/Utilities/Images/robert-mccall-space-ship-launch-narrower.png",
+    "Atlas/Notes/X",
+    "Atlas/Notes/X",
+    "Atlas/Utilities/Images/whelan-space-station-1978-mod.jpg",
+    "Atlas/Utilities/Images/flight-school-hotkey-wide.jpg",
+    "Atlas/Utilities/Images/McCall-pen-sketch-narrow.jpg",
+    "Atlas/Utilities/Images/whelan-the-wave-1994.jpg",
+    "Atlas/Utilities/Images/robert-mccall-black-hole-concept-art-bottom.jpg",
+    "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
+    "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
+    "Atlas/Utilities/Canvases/LYT W11 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/Obsidian Canvas MOC.canvas",
+    "Atlas/Utilities/Canvases/Ship of the Sensemaker.canvas",
+    "Atlas/Utilities/Canvases/LYT 2023 Rules.canvas",
+    "Atlas/Utilities/Canvases/LYT Book Framing.canvas",
+    "Atlas/Utilities/Canvases/LYT Nick Weekly Schedule.canvas",
+    "Atlas/Utilities/Canvases/LYT Website Ideaverse.canvas"
+  ]
+}
