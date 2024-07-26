@@ -4,16 +4,14 @@ obsidianUIMode: preview
 Your launchpad and home base. That's here. That's **home**.
 
 > [!Map]- # Atlas
-> > ``` dataview
-> > TABLE WITHOUT ID
->  > file.link as ""
->  >
-> > FROM "Atlas/Maps"
-> > where contains(tags,"mymaps")
-> > 
-> > ```
-
-
+> > *Where would you like to go?*
+> 
+> - To do inspired work, go to [[Add]], [[Relate]], and [[Communicate]].
+>   
+> ![[mckie-ship-and-sea-mid-narrow-.jpg|400]]
+> - To launch into your knowledge, try out: [[Library]] | [[People Map]] | [[Sources Map]].
+> - To catalyze your mind, go to your [[Thinking Map]] and [[Concepts Map]]. 
+> - For grounding, [[Life Map]]. For training, [[Ideaverse Map]]. For rules, [[Meta PKM]].
 
 > [!Calendar]- # Calendar
 > > *What's on your mind?* 
@@ -61,19 +59,6 @@ Your launchpad and home base. That's here. That's **home**.
 > > SORT rank desc
 > > ```
 > 
-> > [!Box]- ### 🚀 ZDone
-> > Efforts Done
-> > 
-> > ``` dataview
-> > TABLE WITHOUT ID
-> > file.link as "",
-> > rank as "Rank"
-> > FROM "Efforts/ZDone"
-> > SORT rank desc
-> > ```
-
-
-
 > ![[robert-mccall-black-hole-concept-art copy.jpg|400]]
 
 ![[pale-blue-dot-banner.jpg]]

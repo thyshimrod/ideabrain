@@ -22,8 +22,18 @@ tags:
 # Ecoute & Feedback
 [[202007312153 Demande de reformulation]]
 [[202103282042 parler pour etre ecouter]]
+[[202401021530 Feedback]]
 # Reflexion
 [[202103240951 Bienveillance]]
 
 # Changement
 [[202205040859 emotion correctrice]]
+[[202206101013 homeostasie de groupe]]
+[[202311202116 Reves Peur]]
+[[202311202137 Aristote Vocation]] : Ikigai
+[[202311291826 confort de ne pas changer]]
+# Posture
+[[202306202142 Posture basse]]
+
+# Compréhension de l'autre
+[[202407231433 personamorphisme]]

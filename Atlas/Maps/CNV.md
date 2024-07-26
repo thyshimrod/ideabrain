@@ -14,10 +14,11 @@ tags:
 # Stimulus
 [[20240423 dev perso et couple|Stimulus dans le couple, comment le vivre]]
 [[202007312204 Exemple pour un même stimulus, des besoins peuvent différer d'une personne à une autre]]
+[[202305120918 stimulus pour l'autre]]
 # Vivre ensemble 
 [[20240423 dev perso et couple|Stimulus dans le couple, comment le vivre]]
 [[202007312154 Points de Vigilance CNV]]
-
+[[202310102126 Imposer sa souffrance a autrui]]
 # AutoEmpathie
  [[202007312156 auto empathie]]
 # Sentiment
@@ -27,7 +28,7 @@ tags:
 # Besoin et stratégie
 [[20240424 besoin et respect]]
 [[202110251057 unique strategie entraine la souffrance]]
-
+[[202320062149 trouver ses besoins]]
 # Expression Authentique
 [[202007312152 demande d'expression]] : vérifier ce qui se passe chez l'autre
 [[202007312152 Faire une demande]]
@@ -40,6 +41,8 @@ tags:
 [[202007312153 Demande de reformulation]]
 [[202007312157 principes de l'écoute empathique]]
 [[202103282042 parler pour etre ecouter]]
+[[202407231433 personamorphisme]]
+[[202401021530 Feedback]]
 
 # Vivre la CNV
 [[202407212100 Devenir et etre une girafe]]

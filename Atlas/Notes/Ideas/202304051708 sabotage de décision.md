@@ -1,0 +1,19 @@
+---
+tags:
+  - manipulation
+  - leadership
+  - decision
+  - sabotage
+---
+- Interrompre le travail le plus souvent possible.  
+- Organiser des réunions alors qu'il y a du travail plus important à faire.  
+- Multiplier la paperasse.  
+- Toutes les décisions doivent être prises par un comité. Essayez de rendre le comité aussi grand que possible - jamais moins de cinq.  
+- Faire des exposés et aborder des questions sans intérêt.  
+- Faites des « discours ». Parlez aussi souvent et longuement que possible. Illustrez vos « points » par de longues anecdotes et récits d'expériences personnelles.  
+- Tout doit être validé par 3 personnes, là où une seule suffirait.  
+- Insistez pour tout faire par le biais de « canaux ». Ne permettez jamais que des raccourcis soient pris pour accélérer les décisions.  
+- Abordez les problèmes non pertinents aussi souvent que possible.  
+- Pinailler sur les formulations précises des communications, des procès-verbaux, des résolutions.  
+- Revenir aux décisions prises lors de la précédente réunion et tentez de remettre en cause leurs bien fondé.  
+- Prôner la « prudence ». Soyez "raisonnable" et exhortez vos confrères à être "raisonnables" et évitez la hâte qui pourrait entraîner de l'embarras ou des difficultés plus tard.
