@@ -3,6 +3,14 @@ tags:
   - pascal
   - log
 ---
+## 29/07/2024
+
+Je continue à donner/sauver Aydan alors qu'elle ne m'a rien demandé. Elle se prend tout dans la tête.
+Exploration : Enneagramme & SD
+
+Exploration : SD : Je vois que ma perception de la SD était largement incomplète. Des pistes intéressantes sur voir la SD comme une map, et non comme un état figé. Une vision holonique, avec des pregnances plus ou moins fortes de chaque couleur.
+
+Point important aussi sur la SD. Le premier Tiers sont des niveaux de conscience qui s'antagonisent. L'un est mal par rapport à l'autre. Il y a donc du rejet, et une incapacité à lier tout cela. Les solutions d'un niveau sont alors conçus comme allant contre son propre niveau. Cela m'a fait penser à Gwen, qui se considère comme Jaune, alors qu'elle n'a pas encore résolu ses conflits internes, et reste en antagonisme avec les autres niveaux. L'élévation de conscience viendrait du fait de pouvoir se mettre en paix avec chaque niveau de conscience, et de valoriser ce que chaque niveau nous apporte.
 
 ## 23/07/2024
 

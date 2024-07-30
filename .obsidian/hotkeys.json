@@ -746,5 +746,19 @@
       ],
       "key": "D"
     }
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
   ]
 }

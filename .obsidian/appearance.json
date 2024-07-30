@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Prism",
+  "cssTheme": "AnuPpuccin",
   "translucency": false,
   "baseFontSize": 16,
   "enabledCssSnippets": [
@@ -32,7 +32,7 @@
   ],
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "accentColor": "#8b6df0",
   "showViewHeader": true,
   "nativeMenus": true,

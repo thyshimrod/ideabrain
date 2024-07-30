@@ -19,12 +19,15 @@ tags:
 [[20240423 dev perso et couple|Stimulus dans le couple, comment le vivre]]
 [[202007312154 Points de Vigilance CNV]]
 [[202310102126 Imposer sa souffrance a autrui]]
+[[202405061813 connaissance du couple]]
+
 # AutoEmpathie
  [[202007312156 auto empathie]]
 # Sentiment
 [[202109141108 La colere au dessus des sentiments]]
 [[202007312151 colère CNV]]
 [[202205040859 emotion correctrice]]
+[[202404180912 colere exemple et explication]]
 # Besoin et stratégie
 [[20240424 besoin et respect]]
 [[202110251057 unique strategie entraine la souffrance]]

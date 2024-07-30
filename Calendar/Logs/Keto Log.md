@@ -4,7 +4,11 @@ tags:
   - pascal
   - keto
 ---
-
+## 29/07/2024
+Prise de conscience de ma gourmandise et du pourquoi. Je mange moins, m'empiffre moins.
+Je suis heureux que Aydan veuille le faire.
+Je commence à trouver plus d'énergie. Course + Tabata. Course à une distance un peu plus longue. CEla reste dur, mais j'ai réussi à aller au delà. 
+Arrivé à 102,2 kg ce matin, et 101,9kg après course (juste le fait de voir apparaître ce chiffre qui me fait tellement plaisir).
 
 ## 23/07/2024
 Non perte de poids. Je pense que je mange trop, et trop gras.

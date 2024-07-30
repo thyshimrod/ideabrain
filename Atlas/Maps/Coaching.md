@@ -32,8 +32,15 @@ tags:
 [[202311202116 Reves Peur]]
 [[202311202137 Aristote Vocation]] : Ikigai
 [[202311291826 confort de ne pas changer]]
+[[202404041051 Priere du changemaker]]
+[[202404222047 contrôle, compulsion, type7]]
 # Posture
 [[202306202142 Posture basse]]
 
 # Compréhension de l'autre
 [[202407231433 personamorphisme]]
+
+
+# Leadership
+[[202404151531 posture de leader selon SD]]
+[[202404151507 énergie et leadership]]

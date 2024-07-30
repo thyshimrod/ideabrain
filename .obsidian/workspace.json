@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b3ac0111659cd1",
+        "id": "e4e640290e7066d2",
         "type": "tabs",
         "children": [
           {
-            "id": "11bdb289d28a6708",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "306014c33d2521e6",
+            "id": "f940778546529c8c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -42,281 +18,30 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Ideaverse Kit (OE) (Example)",
+                  "title": "202407292105 SD et ennéagramme",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Ideaverse Kit (OE) (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":19},\"to\":{\"line\":20,\"ch\":19}},\"scroll\":6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202407292105 SD et ennéagramme.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":41},\"to\":{\"line\":25,\"ch\":41}},\"scroll\":13.115380983854216}"
                 },
                 {
-                  "title": "Efforts",
+                  "title": "Explorer Ennéagramme & SD",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Efforts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":10.810303348698158}"
-                },
-                {
-                  "title": "Newsletter (OE) (Example)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Newsletter (OE) (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
-                },
-                {
-                  "title": "LYT Notes 1 (Example)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Notes/My Newsletters/LYT Notes 1 (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hello, Old Friend (Example)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Notes/My Newsletters/Hello, Old Friend (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Groundhog Day (kit)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Sources/Groundhog Day (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Movie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Movie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Groundhog Day (kit)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Sources/Groundhog Day (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sources Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Sources Map.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
-                },
-                {
-                  "title": "Book",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Book.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Movie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Movie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Atomic Habits (book)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Sources/Atomic Habits (book).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":2},\"to\":{\"line\":39,\"ch\":2}},\"scroll\":10}"
-                },
-                {
-                  "title": "Do you suffer from note-taking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Do you suffer from note-taking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Add",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Add.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":61},\"to\":{\"line\":11,\"ch\":61}},\"scroll\":11}"
-                },
-                {
-                  "title": "Library",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Library.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Language MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Language MOC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Game",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Game.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":83},\"to\":{\"line\":12,\"ch\":83}},\"scroll\":6}"
-                },
-                {
-                  "title": "Ideaverse Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideaverse Map.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":40.27514281222158}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "What is an ideaverse",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/What is an ideaverse.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "We've already discovered aliens. We call them bees",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/We've already discovered aliens. We call them bees.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Make straight cuts first",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Make straight cuts first.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Do you suffer from note-taking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Do you suffer from note-taking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "3 Ways to Go Faster with Obsidian (Example)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/3 Ways to Go Faster with Obsidian (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Explorer Ennéagramme & SD.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":21},\"to\":{\"line\":8,\"ch\":21}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d293e103b69c616",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Life Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Life Map.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-08-w34",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2023-08-w34.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elden Ring",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Sources/Elden Ring.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "Idea Log (Example)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Idea Log (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "+ About Calendar",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/+ About Calendar.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-04-22",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2023-04-22.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "2024-07-01",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2024-07-01.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "2025-03-15",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2025-03-15.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-08-w34 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2023-08-w34 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-08-23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2023-08-23.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-08-21",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2023-08-21.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-08",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Notes/2023-08.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":3}"
-                },
-                {
-                  "title": "Analogy as Core (talk)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Sources/Analogy as Core (talk).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
-                },
-                {
-                  "title": "Ideaverse Kit Launch (E) (Example)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/On/Ideaverse Kit Launch (E) (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/Ideas/202407261043 causalité simple, animisme.md",
+                "file": "Atlas/Notes/bio/202208161825 me prendre en main.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -395,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Notes/Ideas/202407261043 causalité simple, animisme.md"
+                "file": "Atlas/Notes/bio/202208161825 me prendre en main.md"
               }
             }
           },
@@ -486,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Notes/Ideas/202407261043 causalité simple, animisme.md",
+                "file": "Atlas/Notes/bio/202208161825 me prendre en main.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -512,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Notes/Ideas/202407261043 causalité simple, animisme.md",
+                "file": "Atlas/Notes/bio/202208161825 me prendre en main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -522,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -540,57 +264,57 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Toggle stacked tabs": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "8d293e103b69c616",
+  "active": "f940778546529c8c",
   "lastOpenFiles": [
+    "Atlas/Notes/Ideas/202407292105 SD et ennéagramme.md",
+    "Atlas/Notes/BooksNotes",
+    "Efforts/Ongoing/Explorer Ennéagramme & SD.md",
+    "+/Untitled 1.md",
+    "Atlas/Maps/Développement personnel.md",
+    "Atlas/Maps/Spirale Dynamique.md",
+    "Atlas/Notes/Ideas/202406011545 Faire en SD.md",
+    "Atlas/Notes/Ideas/202406121224 SDDifference_entreprise_niveau_orange_et_vert.md",
+    "Atlas/Notes/Ideas/202406101152 Elements_de_transition_culture.md",
+    "Atlas/Notes/Ideas/202407021153 gwen support.md",
     "Home.md",
-    "Atlas/Maps/Life Map.md",
-    "Calendar/Notes/2023-08-w34.md",
-    "Atlas/Notes/Sources/Elden Ring.md",
-    "Calendar/Logs/Idea Log (Example).md",
-    "Calendar/Notes/+ About Calendar.md",
-    "Calendar/Notes/2023-04-22.md",
-    "Calendar/Notes/2024-07-01.md",
-    "Calendar/Notes/2025-03-15.md",
-    "Calendar/Notes/2023-08-w34 1.md",
-    "Calendar/Notes/2023-08-23.md",
-    "Calendar/Notes/2023-08-21.md",
-    "Calendar/Notes/2023-08.md",
-    "Atlas/Notes/Sources/Analogy as Core (talk).md",
-    "Efforts/On/Ideaverse Kit Launch (E) (Example).md",
-    "Efforts/Ongoing/Ideaverse Kit (OE) (Example).md",
-    "Atlas/Maps/Efforts.md",
-    "Efforts/Ongoing/Newsletter (OE) (Example).md",
-    "Efforts/Notes/My Newsletters/LYT Notes 1 (Example).md",
-    "Efforts/Notes/My Newsletters/Hello, Old Friend (Example).md",
-    "Atlas/Notes/Sources/Groundhog Day (kit).md",
-    "Atlas/Maps/Movie.md",
-    "Atlas/Maps/Sources Map.md",
-    "Atlas/Maps/Book.md",
-    "Atlas/Notes/Sources/Atomic Habits (book).md",
-    "+/Do you suffer from note-taking.md",
+    "Atlas/Notes/Ideas/202404291125 Enneagramme - exercice de panel.md",
+    "Atlas/Notes/Ideas/202404300934 evolution type 7.md",
+    "Atlas/Maps/Transfo agile.md",
+    "Atlas/Maps/Agilité.md",
+    "Atlas/Notes/Ideas/202407162036 estimation agile, planification, chantier.md",
+    "Atlas/Notes/Ideas/202405061813 connaissance du couple.md",
+    "Atlas/Notes/Ideas/202405221057 enneagramme liste des types synthèses.md",
+    "Atlas/Notes/Ideas/202405271357 prez spirale dynamique.md",
+    "Atlas/Notes/Ideas/202405271407 Spirale dynamique vue synthetique.md",
+    "Atlas/Maps/Enneagramme.md",
+    "Atlas/Maps/CNV.md",
+    "Atlas/Notes/Ideas/20240423 dev perso et couple.md",
+    "Atlas/Maps/Coaching.md",
+    "+/Untitled.md",
+    "Efforts/On/202407262124 explorer SD + ennea - resistance changement.md",
+    "Atlas/Utilities/Images/Tableau-de-Fox.pdf",
+    "Atlas/Utilities/Images/paradigm21-blog-spirale-dynamique-transitions.png",
+    "Atlas/Utilities/Images/paradigm21-blog-spirale-dynamique-niveaux-d-existence.png",
+    "Atlas/Utilities/Images/meca9-1030x579.png",
+    "Atlas/Utilities/Images/meca8-1030x579.png",
+    "Atlas/Utilities/Images/meca7-1030x579.png",
+    "Atlas/Utilities/Images/meca6-1030x579.png",
+    "Atlas/Utilities/Images/meca5-1030x579.png",
+    "Atlas/Utilities/Images/meca4-1030x579.png",
+    "Atlas/Utilities/Images/meca3-1030x579.png",
+    "Atlas/Utilities/Images/meca2-1030x579.png",
     "Efforts/Notes/My Videos",
-    "Atlas/Utilities/Images/lyt-kit-example-cooling-pad-.png",
-    "Atlas/Utilities/Images/lyt-kit-example-cooling-pad-.jpg",
     "Calendar/Notes/Past Years",
     "Calendar/Logs",
     "Calendar/Notes",
-    "Atlas/Utilities/Images/mckie-ship-and-sea-mid-narrow-.jpg",
-    "Atlas/Utilities/Images/mckie-ship-and-sea-mid-narrower.jpg",
-    "Atlas/Utilities/Images/robert-mccall-space-ship-launch-narrower.png",
     "Atlas/Notes/X",
     "Atlas/Notes/X",
     "Atlas/Notes/People",
     "Atlas/Notes",
-    "Atlas/Utilities/Images/whelan-space-station-1978-mod.jpg",
-    "Atlas/Utilities/Images/flight-school-hotkey-wide.jpg",
-    "Atlas/Utilities/Images/McCall-pen-sketch-narrow.jpg",
-    "Atlas/Utilities/Images/whelan-the-wave-1994.jpg",
-    "Atlas/Utilities/Images/robert-mccall-black-hole-concept-art-bottom.jpg",
-    "Atlas/Sources/+/Tweets (Readwise)",
-    "Atlas/Sources/+/Articles (Readwise)",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
