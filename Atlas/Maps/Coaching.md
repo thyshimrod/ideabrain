@@ -43,6 +43,7 @@ tags:
 [[202407231433 personamorphisme]]
 [[202007302240 détresse psychologique et pensées]]
 [[202007302256 L'homme et le reverbère]]
+[[202106181353 Faire plus de la meme chose]]
 
 # Leadership
 [[202404151531 posture de leader selon SD]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e640290e7066d2",
+        "id": "5af4bc4bffb7aede",
         "type": "tabs",
         "children": [
           {
-            "id": "cead904543cdbda9",
+            "id": "d663dd15ca704430",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,289 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/BooksNotes/202404291038 enneagramme spiritual.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceae8299630909ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Honte - Le compas des besoins.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88277eef2e1b7c31",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Honte et sexe.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f17b4dc5c5910dd9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Liberté de choix ou dépendance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89f910ae8b5bc4d0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - obeir ou s auto discipliner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "e39858e06dc07118",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e2d0ba1beb505b4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Transfo agile.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1c60f7cd3afb96e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "CNV",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/CNV.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":25.011448196908987}"
-                },
-                {
-                  "title": "Colere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Colere.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Jeux Psychologiques.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ada1ffce95a1384",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "202007312211 type 4 l'artiste",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202007312211 type 4 l'artiste.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":5}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Enneagramme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b333a5cc393989",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "202007312151 colère CNV",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202007312151 colère CNV.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":5}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/CNV.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b2cbb8d5452174a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Développement personnel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81c92b2e9ef9c13d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Colere.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "727e7c68367f2d12",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Coaching.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -380,9 +102,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atlas/Notes/BooksNotes/202404291038 enneagramme spiritual.md"
-              }
+              "state": {}
             }
           },
           {
@@ -400,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#essence",
+                "query": "tag:#loi_du_temps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -473,7 +193,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Notes/BooksNotes/202404291038 enneagramme spiritual.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -499,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Notes/BooksNotes/202404291038 enneagramme spiritual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -530,34 +248,34 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "cead904543cdbda9",
+  "active": "d663dd15ca704430",
   "lastOpenFiles": [
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Accomplir vs Créer.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Appreciation vs Approbation.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Deuil ou abandon.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - obeir ou s auto discipliner.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Liberté de choix ou dépendance.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Honte et sexe.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Honte 1.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Honte - Le compas des besoins.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Honte.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Excuses.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Empathie.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Domination ou Prise en compte des besoins.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Différentiations.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Deviner le besoin.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Culpabilite.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Compromis vs Mouvement.md",
-    "Atlas/Notes/BooksNotes/Shame, Guilty, Anger - Colere.md",
-    "Atlas/Maps/Colere.md",
-    "Atlas/Notes/BooksNotes/202307061431 Shame Guilty Anger.md",
-    "Atlas/Notes/BooksNotes/202407161045 Denouer les conflits par la cnv.md",
-    "Atlas/Maps/CNV.md",
-    "Atlas/Notes/BooksNotes/202407132202 enneagramme tableaux - type 1.md",
-    "Atlas/Maps/Enneagramme.md",
-    "Atlas/Notes/BooksNotes/202407132116 enneagramme tableaux - type 9.md",
-    "Atlas/Notes/BooksNotes/202407122257 enneagramme tableaux - type 8.md",
-    "Atlas/Notes/BooksNotes/202407122207 enneagramme tableaux - type 6.md",
+    "Atlas/Maps/Développement personnel.md",
+    "Atlas/Maps/Jeux Psychologiques.md",
+    "Atlas/Maps/Transfo agile.md",
+    "Atlas/Notes/BooksNotes/202007312117 Loi d'Illich Tu feras des pauses.md",
+    "Atlas/Notes/BooksNotes/202106181353 Faire plus de la meme chose.md",
+    "Atlas/Notes/BooksNotes/202106181351 Mesurer.md",
+    "Atlas/Notes/BooksNotes/202007302251 La vie est un jeu.md",
+    "Atlas/Notes/BooksNotes/202007302254 puritanisme.md",
+    "Atlas/Notes/BooksNotes/202007302301 Destin.md",
+    "Atlas/Notes/BooksNotes/202007312115 Loi de Kotter tu agiras avec célérité, et tu célébreras chaque victoire.md",
+    "Atlas/Notes/BooksNotes/202007312117 Loi de Carlson tu limiteras les interruptions.md",
+    "Atlas/Notes/BooksNotes/202109081338 etape transfo.md",
+    "Atlas/Maps/Coaching.md",
+    "Atlas/Maps/Agilité.md",
+    "Atlas/Notes/BooksNotes/202103282037 parler de soi et guérir.md",
+    "Atlas/Notes/BooksNotes/202103240945 Sentez l'expérience.md",
+    "Atlas/Notes/BooksNotes/202007312158 Citation violence.md",
+    "Atlas/Notes/BooksNotes/202007312120 loi du temps.md",
+    "Atlas/Notes/BooksNotes/202007312119 Loi de Fraisse tu regarderas ta montre ... ou pas.md",
+    "Atlas/Notes/BooksNotes/202007312120 Loi de parkinson se fixer des délais courts.md",
+    "Atlas/Notes/BooksNotes/202007312119 Loi de Douglas tu rangeras ton bureau.md",
+    "Atlas/Notes/BooksNotes/202007312118 Loi de Laborit tu commenceras par le plus difficile.md",
+    "Atlas/Notes/BooksNotes/202007312117 Loi de Taylor Ordonnancer les tâches.md",
+    "Atlas/Notes/BooksNotes/202007312116 Loi Swoboda-Fliess-Teltscher connaît toi même.md",
+    "Atlas/Notes/BooksNotes/202007312116 Loi de l'écclesiaste chaque chose en son temps, et un temps pour chaque chose..md",
+    "Atlas/Notes/BooksNotes/202007312115 Loi de murphy Tu évalueras les risques et prévoieras de la marge.md",
     "+/signal-2024-08-01-12-25-34-262.bin",
     "Atlas/Notes/BooksNotes",
     "Atlas/Utilities/Images/Tableau-de-Fox.pdf",
