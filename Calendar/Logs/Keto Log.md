@@ -4,18 +4,30 @@ tags:
   - pascal
   - keto
 ---
-## 29/07/2024
+# 03/07/2024
+reprise de poids 102kg.
+Cetone reduite au test urinaire. Surement lié à une surconsommation de boisson et de fruits.
+Plus d'énergie aujourd'hui (moins de cétone? ou habitude)
+Capable de courir 6,89km à 5:37 en fin de journée. 22000 pas.
+Toujours de la fringale, et grosse capacité à manger.
+# 31/07/2024
+Descente à 101.6kg. INcroyable
+Par contre, j'ai faim, beaucoup faim.
+Aydan a commencé à le faire avec moi.
+Je mange encore beaucoup. Peut être aussi l'envie de partager avec Aydan.
+
+# 29/07/2024
 Prise de conscience de ma gourmandise et du pourquoi. Je mange moins, m'empiffre moins.
 Je suis heureux que Aydan veuille le faire.
 Je commence à trouver plus d'énergie. Course + Tabata. Course à une distance un peu plus longue. CEla reste dur, mais j'ai réussi à aller au delà. 
 Arrivé à 102,2 kg ce matin, et 101,9kg après course (juste le fait de voir apparaître ce chiffre qui me fait tellement plaisir).
 
-## 23/07/2024
+# 23/07/2024
 Non perte de poids. Je pense que je mange trop, et trop gras.
 Hier j'ai marché 16000 pas et pourtant pas de dépenses suffisantes ou rétention.
 La gourmandise est surement lié à un mode stuck (impuissance ou incapacité à faire des choses) et l'incapacité à le gérer.
 
-## 21/07/2024
+# 21/07/2024
 Pas tant de perte d'eau que cela
 Après 10j, perte de 2kg (graisse & eau?).
 La faim est ralentie. Très vite en satiété.

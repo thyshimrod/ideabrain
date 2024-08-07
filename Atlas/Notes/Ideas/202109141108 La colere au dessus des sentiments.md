@@ -5,9 +5,9 @@ tags:
   - developpementpersonnel
   - sentiment
 related:
-  - "[[202007312151 colère CNV]]"
-  - "[[202007302255 Les professionnels de la destruction de relation]]"
-  - "[[202007312156 auto empathie]]"
+  - "[[Atlas/Notes/Ideas/202007312151 colère CNV]]"
+  - "[[Atlas/Notes/Ideas/202007302255 Les professionnels de la destruction de relation]]"
+  - "[[Atlas/Notes/Ideas/202007312156 auto empathie]]"
 ---
 La colère se manifeste souvent et rapidement chez les personnes. Colère contre soi même ou contre autrui.
 

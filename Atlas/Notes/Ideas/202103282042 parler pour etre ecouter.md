@@ -5,7 +5,7 @@ tags:
 ---
 .
 <!-- Related -->
-[[202007312202 Honnêteté et assertivité]]
+[[Atlas/Notes/Ideas/202007312202 Honnêteté et assertivité]]
 
 il faut quand on souhaite etre reellement ecouté, retirer de son langage tout ce qui peut etre perçu comme jugement, critique, cliché, préjugé.
 
