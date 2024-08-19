@@ -5,23 +5,28 @@ Your launchpad and home base. That's here. That's **home**.
 
 > [!Map]- # Atlas
 > > *Where would you like to go?*
+> ![[dragon.png]]
 > 
-> - To do inspired work, go to [[Add]], [[Relate]], and [[Communicate]].
+> Comprendre et décrypter les dynamiques de groupes et de société :
+> * [[Spirale Dynamique]]
+> * [[Jeux Psychologiques]]
+> * [[Enneagramme]]
+> 
+> Apporter de la lumière au monde, du soin, et faire grandir
+> * [[CNV]]
+> * [[Développement personnel]]
+> * [[Coaching]]
 >   
-> ![[mckie-ship-and-sea-mid-narrow-.jpg|400]]
-> - To launch into your knowledge, try out: [[Library]] | [[People Map]] | [[Sources Map]].
-> - To catalyze your mind, go to your [[Thinking Map]] and [[Concepts Map]]. 
-> - For grounding, [[Life Map]]. For training, [[Ideaverse Map]]. For rules, [[Meta PKM]].
+
+
 
 > [!Calendar]- # Calendar
 > > *What's on your mind?* 
 > 
-> - To journal, focus your day, or to capture a spark, hit `Cmd-d` or `Ctrl-d`.
-> - To capture specific type of things, go to [[Logs (Example)|Logs]].
->   
-> ![[robert-mccall-space-ship-launch-narrower.png|400]]
-> - To broadly reflect, go to [[Plan and Review]].
-> - To learn more about time travel, go to [[Calendar]].
+> Let see My Thoughts : [[Thoughts logs]]
+> [[Psy Log]]
+> [[Keto Log]]
+> [[Change Log]]
 
 > [!Training]- # Efforts
 > > *What can you work on?* 
@@ -36,7 +41,7 @@ Your launchpad and home base. That's here. That's **home**.
 >  > file.link as "",
 >  > rank as "Rank"
 > > FROM "Efforts/On"
-> > SORT rank desc
+> > SORT Rank asc
 > > ```
 > 
 > > [!Box]+ ### ♻️ Ongoing

@@ -5,10 +5,28 @@ tags:
   - changement
   - pascal
 ---
+# 19/08/2024
+Changement de corps. C'est intéressant par rapport aux blessures de l'âme et notamment de l'humiliation et de contrôle. Ce corps qui devait prendre beaucoup de place pour exister, et imposer à l'autre. Se sentir dans la honte aussi en permanence. 
+Justifier une posture de victime, me laisser porter par le regard des autres.
 
-# 04/07/2024
+Cela pose question sur ce que je vais devenir ensuite. Le changement de mon corps va influer sur la perception que les autres ont de moi, l'influence que jai sur eux, la manière de vivre le regard des autres.
+Ca va ouvrir un moment intermédiaire surement, où je devrai vivre avec cet entre deux, où je vivais la honte avec délice, et un espace où je suis fier, et je vois de l'envie chez l'autre, ou de la crainte de quelqu'un de puissant.
+Vivre ma puissance.
+D'ailleurs cette perte de poids est elle liée à la suppression de la honte, sa réduction?
+
+Je vois que je vis plus de colère aussi. Elle s'écoule plus. Il faut que je vois ce que j'en fais. Ne pas être malveillant, mais accepter de la vivre.
+
+# 14/08/2024
+Tous ces problèmes me ramènent à mes compulsions habituelles.
+J'ai pas mal faim, envie de manger des choses non keto, ou en quantité.
+Présence du sauveur très présent, et surement une forme d'hypervigilance aussi. Je le vois, notamment sexuellement, où je suis trop attentif à l'autre, sans penser à moi. J'ai des difficultés à jouir, et je préfère le faire en cachette.
+
+# 07/08/2024
+Encore des compulsions à manger. J'ai du mal à me retenir. Ce soir, je me sens mal d'avoir trop mangé de saucisson.
+Posture de sauveur trop prononcée.
+# 04/08/2024
 J'ai remarqué que je ne me curais plus le nez. Moins de choses dans le nez (lié au keto?). ou abandon d'un toc.
-# 03/07/2024
+# 03/08/2024
 Question poséee par Aydan sur pourquoi je me suis senti aussi coupable de la situation. Culpabilité ou honte? d'ailleurs.
 Je me demande si ce n'est pas de la peur de ne pas répondre à ses attentes, ou de pouvoir agir comme elle aimerait. Il y a évidemment la peur d'une gestion de conflit.
 Je ressens comme si je devais prendre la responsabilité de ce qu'il lui arrive :(

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBellRing",
       "〰",
       "LiStopCircle",
       "LiWaves",
@@ -33,5 +34,10 @@
   "Efforts/Ongoing": "♻",
   "Efforts/On": "🔥",
   "Efforts/Simmering": "〰",
-  "Efforts/Sleeping": "💤"
+  "Efforts/Sleeping": "💤",
+  "Efforts/ZDone": "🚀",
+  "Efforts/Actions Recurrentes": "🫧",
+  "Efforts/Explorations": "LiWaves",
+  "Efforts/Evideos": "🌊",
+  "Efforts/Explorations personnelles": "🎒"
 }

@@ -12,6 +12,8 @@ tags:
 
 # Ideation
 [[202406011545 Faire en SD]]
+[[202408142329 SD Friction entre zones]]
+[[202408161803 SD et CNV]]
 # Mise en pratique
 [[202207300410 HT création communauté verte]]
 [[202407292105 SD et ennéagramme]]
@@ -19,3 +21,4 @@ tags:
 [[202407021153 gwen support]]
 [[202406101152 Elements_de_transition_culture]]
 [[202406121224 SDDifference_entreprise_niveau_orange_et_vert]]
+[[202408161749 SD émergence et direction]]

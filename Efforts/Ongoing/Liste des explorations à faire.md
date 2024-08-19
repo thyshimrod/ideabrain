@@ -11,7 +11,7 @@ up:
 > > TABLE WITHOUT ID
 >  > file.link as "",
 >  > rank as "Rank"
-> > FROM "Efforts/On"
+> > FROM "Efforts/Explorations"
 > >  WHERE type = [[Exploration]]
 > > SORT rank desc
 > > ```

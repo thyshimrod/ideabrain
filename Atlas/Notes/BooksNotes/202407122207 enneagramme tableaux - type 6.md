@@ -72,7 +72,7 @@ Maussade           Suspicieux
 a                          *son image"*
 
 *6. Level of Overcompensation*
-**Blâmant**               **Autoritaire**             De prouver leur valeur et leur         Que leurs actions aient touché
+**Blâmant**               **Autoritaire**             De prouver leur valeur et leur    Que leurs actions aient touché
 Belliqueux             Cynique                  force(à eux mêmes, à leurs alliés      à leur sécurité
 Sarcastique            Défiant                   et à leurs ennemies)
 Bouc émissaire      Méchant 
@@ -84,9 +84,9 @@ Abus de substance  contrephobique"
 
 *Unhealthy*
 *7. Level of Violation*
-**"Dépendant**            **Soumis**                          D'obtenir la protection    Que les autres viennent détruire
-**s'accrochant"**          Affolé                             d'un allié puissant            ce qui leur reste de sécurité
-"Se conformant        "Sentiment                     (pour être sauvé)
+**"Dépendant**            **Soumis**                          D'obtenir la protection    Que les autres viennent
+**s'accrochant"**          Affolé                             d'un allié puissant             détruire ce qui leur reste de 
+"Se conformant        "Sentiment                     (pour être sauvé)             sécurité
 Complétement"        d'infériorité"
 Lâcheté                     Se sent impuissant
 Auto humiliation       dépressif

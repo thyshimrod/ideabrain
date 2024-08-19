@@ -54,6 +54,7 @@ tags:
 [[202407202127 Exigence]]
 [[Atlas/Notes/Ideas/202007312202 Honnêteté et assertivité]]
 [[202007302318 expression authentique]]
+[[202408161803 SD et CNV]]
 
 # Ecoute & Feedback
 [[202007312152 demande d'expression]]
