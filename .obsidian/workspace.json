@@ -902,6 +902,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Thoughts logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":5}"
+                },
+                {
                   "title": "Change Log",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -942,7 +948,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1003,7 +1009,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5004348754883
+    "width": 306.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -1029,7 +1036,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md"
+                "file": "Home.md"
               }
             }
           },
@@ -1099,7 +1106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -1121,7 +1128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1147,7 +1154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1157,7 +1164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1180,6 +1188,8 @@
   },
   "active": "69b53a67aa748277",
   "lastOpenFiles": [
+    "Atlas/Utilities/Images/dragonmiddle.png",
+    "Calendar/Logs/Thoughts logs.md",
     "Calendar/Logs/Change Log.md",
     "Calendar/2024-07-17.md",
     "Efforts/Explorations/Greco.md",
@@ -1204,8 +1214,6 @@
     "Efforts/Explorations/Explorer SD comment créer une map & assessment.md",
     "Efforts/Explorations personnelles/Mon rouge.md",
     "Atlas/Notes/BooksNotes/202407122207 enneagramme tableaux - type 6.md",
-    "Atlas/Maps/Enneagramme.md",
-    "Efforts/Explorations/Explorer SD as a map.md",
     "Efforts/Explorations personnelles",
     "Atlas/Utilities/Images/dragon.png",
     "Atlas/Utilities/Images/8-QLQb43WG3YvxPkP.png",

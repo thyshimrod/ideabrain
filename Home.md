@@ -1,7 +1,21 @@
 ---
 obsidianUIMode: preview
 ---
-Your launchpad and home base. That's here. That's **home**.
+                         ![[dragonmiddle.png]]
+
+# Ce que j'ai envie de faire
+
+* J'ai envie de . . . continuer à **apprendre** comment **fonctionne le monde** pour avoir un meilleur impact
+* J'ai envie de . . . continuer à **apprendre** sur les **relations humaines** pour pouvoir accompagner les autres dans le but de rendre *le monde meilleur*. Mais aussi de *grandir moi même*
+* J'ai envie de . . . continuer à **dispenser mon savoir** par différents moyens, afin que les gens grandissent, *trouvent de l'espoir*, voit le monde d'une *manière alternative*
+* J'ai envie de . . . trouver **ma place** au travers de tout cela, *contribuer* au monde
+
+Pour cela :
+* Je vais continuer à publier **vidéos** et des *articles* sur les sujets qui m'intéressent
+* Je vais regarder pour un projet concret de type **lieu physique**pour *accueillir, coacher, former*
+* Je vais regarder pour créer un projet de **ventes de mes connaissance** à la manière de Nick Milo
+
+
 
 > [!Map]- # Atlas
 > > *Where would you like to go?*
@@ -17,8 +31,6 @@ Your launchpad and home base. That's here. That's **home**.
 > * [[Développement personnel]]
 > * [[Coaching]]
 >   
-
-
 
 > [!Calendar]- # Calendar
 > > *What's on your mind?* 

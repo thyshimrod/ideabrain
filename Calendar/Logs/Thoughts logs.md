@@ -3,6 +3,42 @@ tags:
   - pascal
   - log
 ---
+
+
+# 20/08/2024
+
+Journée assez dur aujourd'hui. Effondrement lié aux enfants.
+Je ne l'ai pas vu venir. L'anniversaire d'Alistair a été qeulque chose de très dur pour moi.
+Pas de merci, pas de sms, aucun contact, plus aucun contact tel depuis 3 semaines avec les enfants.
+Je me sens tellement triste. Je sens de plus en plus la perte de contact, la perte de repère entre enfants et père. Quelque soit les efforts que je fasse, il n'y a pas de considération, d'amélioration, de retour. Est ce que tout cela a du sens? Je me sens tellement impuissant, d'autant que je ne suis que dans l'hypothèse, car peut être que cela leur plait mais comme je n'ai pas de feedbacks, c'est une boîte noire. Je reste convaincu que je fais bien, j'essaye de rester convaincu.
+La solitude me pèse. J'aurai besoin de leur faire des câlins, de partager des choses. LE fait juste de savoir qu'ils sont mes enfants n'est pas suffisant. Angoisse sur l'avenir, est ce que je vais vraiment les revoir. Quels sont les moyens qui me sauront donné? Est ce qu'ils ont vraiment tourné la page.
+
+Aydan n'a pas réussi à supporter toute cette tristesse en moi.
+La colère s'est emparée d'elle. pleins d'hypothèses, notamment sur l'attention dont elle a besoin, de manière exclusive, d'une forme de totale soumission à elle. Fidélité absolue.
+Je vois que moi aussi j'ai besoin d'attention, de savoir que mes problèmes existent et qu'ils importent.
+Elle est partie en colère, à quitter la maison. Marcher des kms. 
+A la maison, elle m'a rejeté avec des fuck off. Je me sentais mal, Je revivais en somme ce que j'avais pu vivre en 2009 avec Camille. Trop de similitudes sur le rejet. J'ai donc quitté la maison pour ne pas subir la pression des ondes présentes.
+Il s'avère, et je l'ai vu après qu'elle avait bu. Au départ, je me demandais si ses symptômes n'étaient pas du à un excès de Cétone. En fait, elle avait bu, selon elle 2 verres de Rhum.
+Tête qui tourne, difficulté à se repérer, et à marcher, vomissement, et une odeur tellement forte dans la chambre.
+Je vois que chez moi, plein de boutons ont été appuyés. Le rejet, l'humiliation, l'abandon, l'impuissance, la culpabilité. J'ai essayé de ne pas me jeter dans un sauveur, victime ou autre. Le rôle prédominant aura été plutôt le persécuteur. J'avais énormément de colère.
+Il y a une part qui est lié à la trahison (alcool) qui m'a amené un fort sentiment de rejet.
+Il y a une part qui est lié au fait de l'injustice. Elle me reproche quelque chose pour laquelle elle m'avait absout d'une part (ne sois pas coupable, j'ai fait mes choix) et d'autre part, qui ne semblait pas déraisonnable de mon point de vue à l'époque, et qui m'apportait une grande source de joie. C'est donc complétement injuste de m'accuser de cela, alors que je l'ai fait avec la plus grande attention, et envie.
+Il y a une part, qui refuse de revivre ce que j'ai vécu avec ma mère & Camille. En effet, c'est le fait d'essayer de me faire croire que je suis le pire homme sur la terre, pour plein de raisons. Je n'agis pas comme attendu, je ne suis pas comme attendu, je ne suis pas soumis.... peu importe. Camille me fait vivre cela depuis des années avec le divorce, et surement plus avant. Cela m'a coûté la séparation d'avec les enfants, et ma relation (mon manque de relation avec). Avec ma mère, cela m'a coûté aussi beaucoup, notamment, mon estime de moi, mon manque d'implication dans les projets qui comptaient pour moi, etcetc
+Je pense que cette colère était prépondérante. Le fait qu'on essaye de me blesser à nouveau. Je n'ai plus envie de revivre tout cela. Cela a été tellement blessant. Me faire croire que je suis le pire des êtres humains. Je ne mérite pas cela et c'est faux.
+Et c'est tellement injuste vis à vis de tout ce que je fais pour elle aussi. Je la soutiens, je suis présent.
+
+Je sais bien qu'elle est dans un mode panique, une inquiétude incroyable, une position hyper inconfortable vis à vis de sa famille, de son fils, de son divorce. Il y a trop de choses chez elle. Je peux comprendre ce côté "hopeless" qui l'a poussé à boire.
+Mais je vois ce qui est vraiment intolérable est sa volonté de vouloir me faire du mal, de me blesser, et d'utiliser contre moi ce qu'elle connait de moi pour me faire du mal et me faire croire que je suis une mauvaise personne. J'en ai marre de cela. J'ai trop vécu cela. 
+
+# 19/08/2024
+
+Aujourd'hui dans ma course à pied, j'ai réfléchi à ce que j'aurai envie de faire. 
+Je vois qu'il y a ce centre à quelques pas de chez moi qui m'attire. Un ancien centre social, qu'on pourrait réhabiliter avec la mairie. Et aussi les terrains pour en faire des jardins ouvriers collectifs.
+
+Le deuxième de faire comme Mick Milo créer un produit autour de la transfo ou le coaching. Créer quelque chose de suffisamment attractif en terme d'apprentissage pour le monétiser.
+Surement le faire de manière incrémental, cela va me demander du deepwork, un but à atteindre, sans savoir si cela va me ramener quelque chose.
+Un travail de vision, d'étapes, d'idéation, de brainstorming. Ca va être chaud et excitant.
+
 # 14/08/2024
 De la tristesse aujourd'hui, en préparant les cadeaux d'anniversaire d'Alistair. Surement de l'impuissance aussi. Je vois que j'aimerai pouvoir faire quelque chose pour recréer du lien avec mes enfants, et je suis toujours dans l'incapacité d'agir, ou de faire quoi que ce soit. Je ne sais mêem pas ce que je pourrai faire.
 Tristesse, et peur --> intéressant le mixte des deux s'appellent anxiété. Effectivement, cela décrit plutôt mon état. 
