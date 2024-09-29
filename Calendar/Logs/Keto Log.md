@@ -4,6 +4,24 @@ tags:
   - pascal
   - keto
 ---
+# 17/09/2024
+Trop de kawetes définitivement.
+REvenir à plus de gras. 
+
+# 07/09/2024
+
+Je mange en moins grande quantité. Vu cela ces deux derniers jours. Je vois les quantités, et je vois quand je n'ai plus faim. Je stoppe de manger quand je vois que je passe dans la gourmandise.
+Vivement les 95kg, ou les 90kg.
+Mon corps a beaucoup changé. Mes cuisses sont très musclées et apparentes.
+Mon ventre a considérablement réduit.
+Mes clavicules apparaissent. Je vois que j'ai un "problème" (?) de posture, car quand je lève les épaules, mes clavicules sont apparentes, sinon non, car mes épaules sont affaissées. Cf discussion avec Luc sur le crossfit pour se redresser?
+Ca me pose question en tout cas.
+# 28/08/2024
+faible niveau de cétone dans les urines.
+Il va falloir que je régule de nouveau mon appétit et ce que je mange. Plus de gras, moins d'autres choses.
+Globalement manger moins.
+Peut être relire sur le sujet pour me redonner un élan.
+j'aimerai pouvoir continuer à perdre et passer en deça des 95kg.
 
 # 19/08/2024
 Comme toute chose, il fallait que je réduise l'ingestion de nourriture.

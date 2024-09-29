@@ -11,6 +11,8 @@ tags:
 [[202007312201 Responsabilité]]
 [[202408072246 protocole de desidentification]]
 [[202408072247 energie du changement portee par les emotions]]
+[[202408232155 how to be peacier]]
+[[202408302046 posture méta, desidentification, retour au choix]]
 
 # Couple
 [[202405061813 connaissance du couple]]

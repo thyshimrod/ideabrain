@@ -3,7 +3,55 @@ tags:
   - pascal
   - log
 ---
+# 14/09/2024
 
+Camille m'a envoyé un mail. Je suis de nouveau la variable d'ajustement. Elle vient jouer sur le bouton culpabilité "Ancelin est torturé"... Alors qu'en soit, pour l'instant on ne sait pas.
+Je vois que mon envie profonde est d'aller gérer la situation immédiatement pour trouver une solution, et me sacrifier de nouveau.
+Je vois que la culpabilité, et la peur de ne pas voir mes enfants est importante.
+DE mal faire, et de retirer encore la possibilité de voir mes enfants.
+En dessous de la colère, il y a la peur en fait, l'angoisse.
+Il y a je vois aussi quelque chose de l'ordre de l'impuissance et donc du contrôle. L'appareil était rôdé, et en confiance.
+Dans les actions que j'ai pour reprendre le contrôle:
+* Appeler l'entraineur et lui expliquer la situation
+* Trouver un train, blablabla... 
+* Proposer de venir le matin à la place.
+* L'envoyer chier... hahaha
+* Prendre le risque que personne ne vienne... L'un dans l'autre, cela serait aidant pour moi également, de montrer que les enfants ne sont pas présentés.
+
+A quoi me sert de vivre cela? Je vois qu'il y a surement de la honte. 
+Je vais prendre rendez vous avec mon avocat pour en parler. J'en ai marre de me sacrifier.
+Je vois que quelque chose diffère. Il y a quelque chose de l'ordre, rien n'ira comme il faut. Même ce qui est établi est remis en cause, cela ne sera jamais suffisant. Je vois que ce que j'ai envie de faire est de aller jsuqu'à la plainte, et de lui écrire, vu avec mon avocat, dorénavant, à chaque fois que les enfants ne sont pas présentés, je porterai plainte.
+A un moment donné, elle doit aussi garantir à ce que je puisse voir les enfants.
+Tiens effectivement, c'est à elle qu'incombe la responsabilité de me garantir le droit de voir mes enfants, ce n'est pas à moi de trouver tous les moyens pour les voir. Dans la mesure où je ne peux pas les voir, elle est en faute.
+
+Faire un release sur la culpabilité.
+
+# 08/09/2024
+
+Procrastination à fond les ballons. Grosse tension intérieure.
+J'ai fait mon arbre de soutien / de vie. 
+Je me sens tiraillé entre une forme d'exigence (faire du sport, maigrir....). Mais mon corps est fatigué, besoin de repos.
+Je pense que c'est essentiellement n évitement. Ou un sabotage, un rappel, tu n'es pas assez bien.
+Il y a toujours cette peur de ne pas faire assez bien.*
+Il fauit que je me lance sur quelque chose. Sinon je vais rester stuck très longtemps.
+Est ce qu'il y a une peur de me confronter à Luc.
+En tous les cas, il y a quelque chose de non apaisé. Je n'arrive pas à y voir clair seul. Ce choix de musique me montre à quel point c'est tourmenté en moi. Ca pete dans tous les sens.
+Voilà mes sujets de tension :
+* Ancelin, ses cadeux, et lui donner mes tomes de Freiren.
+* Ce qui se pass chez Reacteev, La peur de ne pas être payé à un moment donné.
+* L'injustice aussi, et me retrouver mêler avec "la direction". Je ne sais pas si je peux leur parler, sans peur.
+* La situation de Aydan.
+* Les impôts
+* Mon envie de partir et aller faire quelque chose d'autre.  (Comment gérer les vacances si je trouve une nouvelle entreprise)
+* Ce projet de construire une plate forme.
+* Le fait que je n'avance aucunement sur mes sujets BNP (steerco, Sonar, accompagnement équipes)
+* Le divorce
+Je vois aque je suis dans la compulsion achat. Donc je ne suis plus dans mon healthy. En même temps, tout cela cela fait beaucoup.
+
+
+# 03/09/2024
+Journée difficile aujourd'hui.
+Je suis dans un état de freeze, très désagréable. Est ce la sortie du keto? est ce la fatigue? Est ce la colère? Est ce l'impuissance?
 
 # 20/08/2024
 

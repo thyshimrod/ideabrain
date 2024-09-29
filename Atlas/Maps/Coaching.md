@@ -35,6 +35,8 @@ tags:
 [[202404041051 Priere du changemaker]]
 [[202404222047 contrôle, compulsion, type7]]
 [[202107071115 Desordre et estime de soi]]
+[[202408232155 how to be peacier]]
+[[202408302046 posture méta, desidentification, retour au choix]]
 # Posture
 [[202306202142 Posture basse]]
 [[202007302237 Rester dans le présent, changement comportementale]]
@@ -51,7 +53,7 @@ tags:
 
 # Méthodologie ou process
 [[20240305 Activez vos talents, ils peuvent changer le monde]]
-
+[[202408292208 Reve du dragon - Dragon dreaming]]
 # Coaching collectif
 [[202007312208 Coaching d'équipe La coopération]]
 [[202007312210 Les 5 dysfonctionnement d'équipe]]

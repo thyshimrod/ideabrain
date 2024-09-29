@@ -5,6 +5,37 @@ tags:
   - changement
   - pascal
 ---
+# 22/09/2024
+Je reçois encore de la culpabilité / honte. Le bouton est encore actif. Release à faire de nouveau.
+Néanmoins, je vois que c'est injuste, et je vois qu'en fait elle me pointe du doigt alors que c'est elle en faute. Elle a imposé une manière de faire qui fait qu'elle se retrouve coincée.
+Alors forcément elle va raconter des choses à ses fils, pour dire que je n'arrange pas.... blablabla.
+Je pense que je vais répondre sans la mettre en copie.
+En tout cas intéressant de voir que je suis plus combattif, et prêt à ne pas aller au centre au besoin.
+
+Malgré tout, cela reste désagréable pour moi. Mais mon rouge est là, il a envie de crier à quel point c'est injuste et le dire aux autres.
+
+C'est juste un monstre en fait, d'égoïsme. 
+
+Je vois que parfois Aydan vient me parler de son fils alors que je suis en douleur avec les miens. Ce n'est pas simple dans ma tête. Surement de l'envie. De l'injustice aussi.
+
+Il y a quelque chose aussi en moi qui en a marre, et qui veut que tout cela s'arrête. Partir à l'étranger, vivre ailleurs, sortir de tout cela.
+
+# 07/09/2024
+
+Réussir à demander à voir les enfants. J'ai vu Ancelin, qui finalement voulait faire le clown avec moi. lol
+Intéressant, je n'avais pas remarqué, mais elle ne me regarde pas durant notre échange.
+Ca me fait pitié.
+
+# 30/08/2024
+Travail aujourd'hui sur l'impuissance, ou/et le contrôle.
+Travail sur le release.
+La considération est toujours de ne pas se laisser identifier à, mais d'avoir la capacité à prendre une posture méta à chaque fois que quelque chose se passe.
+en l'observant, on devient "détaché" et dans la capacité de reprendre un choix sur ce qu'on a envie de vivre.
+Concernant le contrôle, il est dit de faire confiance, en ne donnant que l'intention, et laissant faire le reste.
+Le contrôle prive de liberté car il induit des comportements automatiques, pour brider la peur, en se mettant dans l'anticipation et la croyance qu'on va pouvoir éviter ce qui doit se passer.
+Du coup, dans l'action, reprendre contact avec soi, voir ce qu'il se passe, et savoir si on est dans une action automatique, ou si on peut reprendre le choix. Avoir peur n'est pas mal, on n'a pas forcément besoin de s'en débarrasser.
+
+
 # 19/08/2024
 Changement de corps. C'est intéressant par rapport aux blessures de l'âme et notamment de l'humiliation et de contrôle. Ce corps qui devait prendre beaucoup de place pour exister, et imposer à l'autre. Se sentir dans la honte aussi en permanence. 
 Justifier une posture de victime, me laisser porter par le regard des autres.

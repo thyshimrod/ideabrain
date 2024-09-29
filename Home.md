@@ -7,14 +7,20 @@ obsidianUIMode: preview
 
 * J'ai envie de . . . continuer à **apprendre** comment **fonctionne le monde** pour avoir un meilleur impact
 * J'ai envie de . . . continuer à **apprendre** sur les **relations humaines** pour pouvoir accompagner les autres dans le but de rendre *le monde meilleur*. Mais aussi de *grandir moi même*
+* J'ai envie de . . . continuer à **théoriser** pour expliquer le monde, notamment l'aider à changer
 * J'ai envie de . . . continuer à **dispenser mon savoir** par différents moyens, afin que les gens grandissent, *trouvent de l'espoir*, voit le monde d'une *manière alternative*
 * J'ai envie de . . . trouver **ma place** au travers de tout cela, *contribuer* au monde
 
 Pour cela :
-* Je vais continuer à publier **vidéos** et des *articles* sur les sujets qui m'intéressent
-* Je vais regarder pour un projet concret de type **lieu physique**pour *accueillir, coacher, former*
-* Je vais regarder pour créer un projet de **ventes de mes connaissance** à la manière de Nick Milo
+* Je vais continuer à publier **vidéos** et des **articles** sur les sujets qui m'intéressent
+* Je vais regarder pour un projet concret de type **lieu physique** pour *accueillir, coacher, former*
+* Je vais regarder pour créer un projet de **ventes de mes connaissance** à la manière de Nick Milo                           : **[[1 - Zoimmeisdess Project]]** 
 
+# Qui je suis
+* Ennéagramme envolutif : 7       2                 Mineur 4
+* MBTI : ESFJ : Consul 
+* Valeurs : Profondeur, Simplicité (efficacité), Créativité, Autonomie, Apprentissage
+* Top Talents : Idéation, Intellectualisme, Studieux, Individualisation, Input, Activateur, Stratégique, Positivité, Connexion, Arrangeur
 
 
 > [!Map]- # Atlas

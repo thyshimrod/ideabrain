@@ -50,10 +50,10 @@ divertissant                audacieux
 **consommant**             <- **Acquisitive**
 Cherchant la variété        garder les options ouvertes    <- Augmenter le             qu'ils vont se sentir 
 Expérimenter                   orienté plaisir                          nombre de sources         ennuyés ou frustrés
-Occupé                            dans l'appétit                          de stimulation                 et du coup que des 
-Dilettante                         matérialiste                                                                     émotions désagréables
-élégant                            sagesse du monde                                                          vont arriver
-Bavard                             branché
+Occupé                            dans l'appétit                          de stimulation                 et du coup que  
+Dilettante                         matérialiste                                                                     des émotions 
+élégant                            sagesse du monde                                                          désagréables vont 
+Bavard                             branché                                                                            arriver
 *prosélytisme*                    *à la recherche de sensation*
 
 *5. Level of interpersonal control*

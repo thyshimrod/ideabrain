@@ -4,6 +4,37 @@ tags:
   - log
   - psy
 ---
+
+
+# 17/09/2024
+
+Travail avec ma psy sur la honte, la peur paralysante, la peur de mal faire.
+VU en séance, le désir de changer, et de voir tout ce que cette honte m'a amené de négatif dans ma vie. Vie de compromis, sans vivre réellement. En ménageant le choux et la chèvre en permanence. De la colère était présente en voyant ce rôle perpétuel mis en avant. Le désir de changement était présent.
+J'ai matérialisé ma force combattive, l'accès à mon rouge (SD) par l'image d'un lion. Il rugit car il veut se faire entendre et prendre sa place.
+Il faut que je conserve cette férocité en moi.
+L'heure des compromis a cessé.
+
+# 02/09/2024
+
+Dig dive on procrastination.
+Travail sur le fait qu'il vaut ne rien faire que de faire et que cela se transforme en échec / critique.
+En remontant le truc, il s'avère que cela pourrait venir de ma relation avec ma mère, où quand je faisais quelque chose ce n'était pas assez bien, donc critique, donc frustration, incompréhension, injustice. A un moment donné, j'ai pu me mettre en posture, je ne fais rien, quitte à être critiqué autant l'être pour une bonne raison. Donc ne rien faire, je me fais gronder, critiquer, mais à juste titre.
+Aujourd'hui, je suis plutôt entouré par des gens qui me soutiennent, qui m'aiment, je n'ai plus besoin d'être dans la peur de la critique.
+Je me rends compte que j'ai peur d'essayer, car je sais que cela ne sera pas parfait.
+Actions : faire un arbre de vie avec les gens qui m'aiment et me soutiennent.
+Essayer de produire du contenu régulièrement.
+
+On a été voir aussi le jeune Pascal. Besoin d'amour, de câlins. Aussi de recréer de la lumière dans sa chambre noire. Construire une fenêtre ensemble pour apporter de la lumière. C'est un temps de construction, bâtir à deux. Il faut que j'aille le voir, tous les jours, et l'aider à percer ce mur, et y aménager une fenêtre vers l'extérieur pour apporter de la lumière.
+
+# 28/08/2024
+J'ai quand même beaucoup de pensées pour mes enfants. Après une soirée sexuelle extatique, avant de m'endormir j'ai pensé aux enfants. Peut être est ce lié à mon impuissance.
+J'ai aussi ce truc qui vient me travailler, plus le temps passe, plus les liens se défont. Plus j'attends, plus je les perds.
+J'aimerai tellement pouvoir faire quelque chose, reconstruire le lien. D'autant que dernièrement personne n'est venu à l'appel.  Je pense qu'il y a une forme de dépression latente qui est présente.
+Je devrai peut être reprendre du triptophane comme me l'a conseillé Regina.
+Je vois que c'est un poids lourd tout cela. Cela m'occupe beaucoup d'espace mental.
+Il y a quelque chose qui dit que tout le reste est vain et sans importance. C'est pour cela que je parle de dépression.
+Possible que j'ai besoin de plus de soutien.
+
 # 08/08/2024
 j'ai une capacité à oublier mes séances de psy.
 Le travail primordial finalement a été de voir que globalement, on avait coupé le lien toxique, émotionnel avec ma mère. Cela étant fait, il faut passer à l'étape reprogrammation des comportements. Ces comportements m'ont servi à une époque et notamment dans ma relation avec ma mère. Aujourd'hui, je peux vivre différemment, car je n'ai plus ma mère sur mon dos. Je dois sortir de l'hypervigilance, la peur de retrouver l'humiliation.
