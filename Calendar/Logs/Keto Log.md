@@ -4,6 +4,12 @@ tags:
   - pascal
   - keto
 ---
+# 06/10/2024
+
+Keto : difficulté d'avancer désormais. Les effets bénéfiques ont du mal à se faire sentir.
+Je pense que c'est lié aux compulsions.
+En vérité, je peux moins manger. Il faudrait que je suive plus ce que mon corps me demande, plutôt que de manger à tout prix.
+
 # 17/09/2024
 Trop de kawetes définitivement.
 REvenir à plus de gras. 

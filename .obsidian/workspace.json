@@ -20,7 +20,7 @@
                 {
                   "title": "Video - Individualisation",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Evideos/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":21,\"ch\":285}},\"scroll\":14.631944444444445}"
                 },
                 {
@@ -32,7 +32,7 @@
                 {
                   "title": "Video - Individualisation",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Evideos/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":21,\"ch\":285}},\"scroll\":12.291666666666666}"
                 },
                 {
@@ -44,7 +44,7 @@
                 {
                   "title": "Video - Individualisation",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Evideos/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":285},\"to\":{\"line\":21,\"ch\":285}},\"scroll\":14.42361111111111}"
                 },
                 {
@@ -164,7 +164,7 @@
                 {
                   "title": "Culpabilité etre un mauvais pere",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Culpabilité etre un mauvais pere.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Culpabilité etre un mauvais pere  peur du rejet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":49},\"to\":{\"line\":7,\"ch\":49}}}"
                 },
                 {
@@ -268,97 +268,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "56848ef937eb3bfc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202406191408 enneagramme tableaux types healthy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":53},\"to\":{\"line\":21,\"ch\":53}},\"scroll\":9.25}"
-                },
-                {
-                  "title": "202407032141 enneagramme tableaux - type 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202407032141 enneagramme tableaux - type 3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":75},\"to\":{\"line\":12,\"ch\":75}},\"scroll\":11}"
-                },
-                {
-                  "title": "202406191408 enneagramme tableaux types healthy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":48},\"to\":{\"line\":17,\"ch\":48}},\"scroll\":6.666666666666667}"
-                },
-                {
-                  "title": "202406191007 enneagramme tableaux - type 7",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":64},\"to\":{\"line\":12,\"ch\":64}},\"scroll\":11}"
-                },
-                {
-                  "title": "Enneagramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":35},\"to\":{\"line\":70,\"ch\":35}},\"scroll\":52.43331425300515}"
-                },
-                {
-                  "title": "Avocat logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Avocat logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":48},\"to\":{\"line\":33,\"ch\":48}},\"scroll\":16.811611374407583}"
-                },
-                {
-                  "title": "Change Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":143},\"to\":{\"line\":20,\"ch\":143}}}"
-                },
-                {
-                  "title": "Psy Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Psy Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "Avocat logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Avocat logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":78},\"to\":{\"line\":41,\"ch\":78}},\"scroll\":27.65521327014218}"
-                },
-                {
-                  "title": "Causalité simple",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/Causalité simple.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "202409212348 individualisation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202409212348 individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":285},\"to\":{\"line\":20,\"ch\":285}},\"scroll\":12.259765625}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -437,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md"
+                "file": "Efforts/ZDone/Greco.md"
               }
             }
           },
@@ -529,7 +441,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md",
+                "file": "Efforts/ZDone/Greco.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -555,7 +467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md",
+                "file": "Efforts/ZDone/Greco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -587,11 +499,24 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "56848ef937eb3bfc",
+  "active": "79c2281961c17a4b",
   "lastOpenFiles": [
+    "Efforts/Explorations personnelles/Culpabilité envers Aydan.md",
+    "Calendar/Logs/Thoughts logs.md",
+    "Efforts/Explorations personnelles/Release du controle à refaire.md",
+    "Efforts/Explorations personnelles/Release sur la honte de nouveau.md",
+    "Efforts/Explorations personnelles/Untitled.md",
+    "Calendar/Logs/Keto Log.md",
+    "Efforts/Explorations personnelles/se donner, et arreter d attendre des autres.md",
+    "Efforts/Explorations personnelles/s'aimer.md",
+    "Efforts/Explorations personnelles/Peur de l'abandon refaire.md",
+    "Efforts/Explorations personnelles/Culpabilité etre un mauvais pere  peur du rejet.md",
+    "Atlas/Notes/Ideas/202408072246 protocole de desidentification.md",
+    "Atlas/Maps/Développement personnel.md",
+    "Efforts/ZDone/Video - Individualisation.md",
+    "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md",
     "Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md",
     "Atlas/Notes/BooksNotes/202407032141 enneagramme tableaux - type 3.md",
-    "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md",
     "Atlas/Maps/Enneagramme.md",
     "Calendar/Logs/Avocat logs.md",
     "Calendar/Logs/Change Log.md",
@@ -599,22 +524,9 @@
     "Efforts/Explorations/Causalité simple.md",
     "Atlas/Notes/Ideas/202409212348 individualisation.md",
     "Efforts/ZDone/Greco.md",
-    "Efforts/Evideos/Video - Individualisation.md",
     "Calendar/2024-09-21.md",
     "Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md",
-    "Calendar/Logs/Keto Log.md",
     "Calendar/Logs/ZoimmeisdessProject Log.md",
-    "Calendar/Logs/Untitled.md",
-    "Calendar/Logs/Thoughts logs.md",
-    "Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md",
-    "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
-    "Home.md",
-    "+/signal-2024-08-01-12-25-34-262.md",
-    "Efforts/Explorations personnelles/Culpabilité etre un mauvais pere.md",
-    "Efforts/Explorations personnelles/Culpabilité tromper ex + plainte.md",
-    "Efforts/Explorations/Echelle des comportements.md",
-    "Atlas/Notes/Ideas/202408072246 protocole de desidentification.md",
-    "Atlas/Maps/Développement personnel.md",
     "Atlas/Projects/Zoimmeisdess/vidéos/intro vivre ses émotions .mp4",
     "Atlas/Projects/Zoimmeisdess/vidéos",
     "Atlas/Projects/Zoimmeisdess/Nouveau dossier",

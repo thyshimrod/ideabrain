@@ -3,6 +3,24 @@ tags:
   - pascal
   - log
 ---
+
+# 06/10/2024
+J'ai réussi à ne pas aller regarder mes mails ce week end c'est quand même une souffrance pour moi.
+Je passe beaucoup de temps en ce moment dans mes compulsions. Je fais aussi beaucoup de mauvais rêves. La peur de l'abandon était très présente. Je n'ai pas réussi à me focus.
+Je vois que j'anticipe peut être aussi de cette période à venir. La décision du tribunal à venir, les prochaines difficultés. Mais peut être aussi l'arrivée de la mère de Aydan qui va nous couper pendant un moment. Plus de nuits ensemble, plus de week end. 
+Il y a quelque chose que je dois renforcer dans ma résilience, pour pouvoir mieux vivre cela.
+Je suis inquiet financièrement forcément, notamment pour Aydan.
+Probablement, il faudrait que je reprenne du focus sur moi, et du détachement. Il faut que je trouve les moyens de me ressourcer également.
+Un travail sur être auto suffisant et savoir m'appuyer sur mon réseau de soutien.
+Etre plus focus sur ce que je crée, cela m'aidera surement à voir que je m'auto suffis, et prendre un direction qui me convient mieux.
+De nouveau, un auto coaching à faire surement. Beaucoup de release à faire.
+Mes compulsions sont vraiment liées à la peur. Peut être réussir à démêler ces peurs. Peur de l'abandon, rejet, très présent, mais pas que. Je pense qu'il y a aussi de la honte, pas mal de honte.
+Humiliation toujours là, sinon je n'aurai pas passé ma journée à me masturber et à manger. J'ai besoin de me sentir honteux, et donc de m'infliger des humiliations.
+Toujours beaucoup d'anticipation, et donc de contrôle
+Epuisement moral. Il faut que je trouve un moyen de me ressourcer réellement.
+Comment cela serait pour moi de me poser avec mes émotions difficiles à vivre?
+J'ai passé tout le week end à vivre. Je me demande s'il n'y avait pas de la colère. Il faut que je retrouve ma place dans tout cela. J'ai l'impression que je passe beaucoup de temps à subir ma relation avec Aydan notamment. Elle m'inflige beaucoup de choses. J'ai l'espoir que cela s'arrangera une fois revenue dans sa vie normale. Néanmoins, je vis dans la culpabitlité de ce qu'elle vit, je pense que c'est pour cela que je suis pas mal dans un mode sauveur, attentif, hyper vigilant, très supportant. Et elle joue avec ce bouton très fort.
+
 # 14/09/2024
 
 Camille m'a envoyé un mail. Je suis de nouveau la variable d'ajustement. Elle vient jouer sur le bouton culpabilité "Ancelin est torturé"... Alors qu'en soit, pour l'instant on ne sait pas.
