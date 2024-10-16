@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2293f1e025342da",
+        "id": "fbad02754cab0b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "79c2281961c17a4b",
+            "id": "67ad703ce899ca34",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,259 +18,64 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Video - Individualisation",
+                  "title": "202410161446 culpabilité, honte, actions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":21,\"ch\":285}},\"scroll\":14.631944444444445}"
-                },
-                {
-                  "title": "2024-09-21",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2024-09-21.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Video - Individualisation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":21,\"ch\":285}},\"scroll\":12.291666666666666}"
-                },
-                {
-                  "title": "Greco",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Greco.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "Video - Individualisation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Video - Individualisation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":285},\"to\":{\"line\":21,\"ch\":285}},\"scroll\":14.42361111111111}"
-                },
-                {
-                  "title": "La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":140},\"to\":{\"line\":32,\"ch\":140}},\"scroll\":7}"
-                },
-                {
-                  "title": "Keto Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Keto Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":24},\"to\":{\"line\":8,\"ch\":24}},\"scroll\":6}"
-                },
-                {
-                  "title": "Avocat logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Avocat logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":94},\"to\":{\"line\":26,\"ch\":94}},\"scroll\":15.075062034739455}"
-                },
-                {
-                  "title": "ZoimmeisdessProject Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/ZoimmeisdessProject Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thoughts logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Untitled.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Psy Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Psy Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":30},\"to\":{\"line\":12,\"ch\":30}},\"scroll\":6}"
-                },
-                {
-                  "title": "La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":74},\"to\":{\"line\":17,\"ch\":74}},\"scroll\":11.639810426540285}"
-                },
-                {
-                  "title": "Zoimmeisdess Vivre avec ses émotions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":13.410481770833334}"
-                },
-                {
-                  "title": "La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":37},\"to\":{\"line\":54,\"ch\":37}},\"scroll\":41.88671875}"
-                },
-                {
-                  "title": "Zoimmeisdess Vivre avec ses émotions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":21},\"to\":{\"line\":6,\"ch\":21}},\"scroll\":4}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":0},\"to\":{\"line\":70,\"ch\":0}},\"scroll\":37.77859391395593}"
-                },
-                {
-                  "title": "Zoimmeisdess Vivre avec ses émotions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":59},\"to\":{\"line\":52,\"ch\":59}},\"scroll\":38.911458333333336}"
-                },
-                {
-                  "title": "Zoimmeisdess Vivre avec ses émotions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
-                },
-                {
-                  "title": "signal-2024-08-01-12-25-34-262",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/signal-2024-08-01-12-25-34-262.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":24},\"to\":{\"line\":26,\"ch\":24}},\"scroll\":23.824999809265137}"
-                },
-                {
-                  "title": "Thoughts logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":230},\"to\":{\"line\":24,\"ch\":230}},\"scroll\":5}"
-                },
-                {
-                  "title": "Culpabilité etre un mauvais pere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Culpabilité etre un mauvais pere  peur du rejet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":49},\"to\":{\"line\":7,\"ch\":49}}}"
-                },
-                {
-                  "title": "Culpabilité tromper ex + plainte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Culpabilité tromper ex + plainte.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thoughts logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":36},\"to\":{\"line\":23,\"ch\":36}}}"
-                },
-                {
-                  "title": "Echelle des comportements",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/Echelle des comportements.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "202408072246 protocole de desidentification",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202408072246 protocole de desidentification.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":8}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/202410161446 culpabilité, honte, actions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "Développement personnel",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Développement personnel.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":37},\"to\":{\"line\":11,\"ch\":37}},\"scroll\":4}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":44},\"to\":{\"line\":21,\"ch\":44}}}"
                 },
                 {
-                  "title": "202408302046 posture méta, desidentification, retour au choix",
+                  "title": "202410161446 culpabilité, honte, actions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202408302046 posture méta, desidentification, retour au choix.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":16.8500001695421}"
-                },
-                {
-                  "title": "Coaching",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Coaching.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":41},\"to\":{\"line\":38,\"ch\":41}},\"scroll\":22.041666984558105}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":16.54166571299235}"
-                },
-                {
-                  "title": "Zoimmeisdess Vivre avec ses émotions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":4}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":56},\"to\":{\"line\":52,\"ch\":56}},\"scroll\":41.89270774523417}"
-                },
-                {
-                  "title": "Zoimmeisdess Vivre avec ses émotions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}},\"scroll\":4}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":55},\"to\":{\"line\":52,\"ch\":55}},\"scroll\":36.21875}"
-                },
-                {
-                  "title": "Thoughts logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":5}"
-                },
-                {
-                  "title": "Change Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "202408302046 posture méta, desidentification, retour au choix",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202408302046 posture méta, desidentification, retour au choix.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/202410161446 culpabilité, honte, actions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":244},\"to\":{\"line\":7,\"ch\":244}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efforts/ZDone/Greco.md",
+                "file": "Atlas/Notes/Involution evolution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee2815e4dba10a57",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Involution evolution",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Involution evolution.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/Développement personnel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efforts/ZDone/Greco.md"
+                "file": "Atlas/Notes/Involution evolution.md"
               }
             }
           },
@@ -441,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efforts/ZDone/Greco.md",
+                "file": "Atlas/Notes/Involution evolution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -467,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efforts/ZDone/Greco.md",
+                "file": "Atlas/Notes/Involution evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -499,20 +304,27 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "79c2281961c17a4b",
+  "active": "67ad703ce899ca34",
   "lastOpenFiles": [
+    "Atlas/Notes/202410161446 culpabilité, honte, actions.md",
+    "Atlas/Maps/Développement personnel.md",
+    "Atlas/Notes/Involution evolution.md",
+    "Atlas/Utilities/Images/involution evolution.jpg",
+    "+/202408182207 dev perso, exigence à la perfection.md",
+    "Atlas/Notes/Ideas/202408072246 protocole de desidentification.md",
+    "Efforts/ZDone/Release sur la honte de nouveau.md",
+    "Atlas/Maps/Exploration.md",
+    "Atlas/Maps/Exploration Personnelle.md",
+    "Efforts/Explorations personnelles/se donner, et arreter d attendre des autres.md",
+    "Efforts/ZDone/Greco.md",
     "Efforts/Explorations personnelles/Culpabilité envers Aydan.md",
     "Calendar/Logs/Thoughts logs.md",
     "Efforts/Explorations personnelles/Release du controle à refaire.md",
-    "Efforts/Explorations personnelles/Release sur la honte de nouveau.md",
     "Efforts/Explorations personnelles/Untitled.md",
     "Calendar/Logs/Keto Log.md",
-    "Efforts/Explorations personnelles/se donner, et arreter d attendre des autres.md",
     "Efforts/Explorations personnelles/s'aimer.md",
     "Efforts/Explorations personnelles/Peur de l'abandon refaire.md",
     "Efforts/Explorations personnelles/Culpabilité etre un mauvais pere  peur du rejet.md",
-    "Atlas/Notes/Ideas/202408072246 protocole de desidentification.md",
-    "Atlas/Maps/Développement personnel.md",
     "Efforts/ZDone/Video - Individualisation.md",
     "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md",
     "Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md",
@@ -521,12 +333,6 @@
     "Calendar/Logs/Avocat logs.md",
     "Calendar/Logs/Change Log.md",
     "Calendar/Logs/Psy Log.md",
-    "Efforts/Explorations/Causalité simple.md",
-    "Atlas/Notes/Ideas/202409212348 individualisation.md",
-    "Efforts/ZDone/Greco.md",
-    "Calendar/2024-09-21.md",
-    "Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md",
-    "Calendar/Logs/ZoimmeisdessProject Log.md",
     "Atlas/Projects/Zoimmeisdess/vidéos/intro vivre ses émotions .mp4",
     "Atlas/Projects/Zoimmeisdess/vidéos",
     "Atlas/Projects/Zoimmeisdess/Nouveau dossier",
@@ -546,7 +352,6 @@
     "Atlas/Utilities/Images/want-to_freedom.jpg",
     "Atlas/Utilities/Images/resistance.jpg",
     "Atlas/Utilities/Images/paradigm21-blog-spirale-dynamique-transitions.png",
-    "Atlas/Utilities/Images/paradigm21-blog-spirale-dynamique-niveaux-d-existence.png",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

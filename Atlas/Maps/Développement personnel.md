@@ -13,13 +13,13 @@ tags:
 [[202408072247 energie du changement portee par les emotions]]
 [[202408232155 how to be peacier]]
 [[202408302046 posture méta, desidentification, retour au choix]]
-
+[[Involution evolution]]
 # Couple
 [[202405061813 connaissance du couple]]
 
 # Blessure de l'âme
 [[202309271311 blessure de l'ame]]
-
+[[202410161446 culpabilité, honte, actions]]
 # Resistance
 [[202408072242 resistance worksheet]]
 [[202408072245 ce qui nous empeche d'acceder a la liberte]]
