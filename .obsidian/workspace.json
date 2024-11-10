@@ -44,7 +44,111 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Involution evolution"
+            }
+          },
+          {
+            "id": "efd363ce2e90f67f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ne pas changer les gens dans une orga SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Ne pas changer les gens dans une orga SD.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ne pas changer les gens dans une orga SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Vendre ma twingo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Vendre ma twingo.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vendre ma twingo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "peur de m'isoler, me séparer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/peur de m'isoler, me séparer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"peur de m'isoler, me séparer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":156},\"to\":{\"line\":6,\"ch\":156}}}"
+                },
+                {
+                  "title": "Tristesse de ne pas être compris (reacteev)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Tristesse de ne pas être compris (reacteev).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tristesse de ne pas être compris (reacteev)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":220},\"to\":{\"line\":6,\"ch\":220}}}"
+                },
+                {
+                  "title": "Ne pas mériter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Ne pas mériter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ne pas mériter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Faire le point sur mon cercle d'avancement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Faire le point sur mon cercle d'avancement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Faire le point sur mon cercle d'avancement\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Vidéo - conf outils",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Evideos/Vidéo - conf outils.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - conf outils\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "je souffre donc je suis -pascal bruckner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/je souffre donc je suis -pascal bruckner.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"je souffre donc je suis -pascal bruckner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":36.06666564941406}"
+                },
+                {
+                  "title": "Signature et non soi pour le manifesting Generator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Signature et non soi pour le manifesting Generator.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Signature et non soi pour le manifesting Generator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
+                },
+                {
+                  "title": "stage des communautes. belgique - debrief",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/stage des communautes. belgique - debrief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"stage des communautes. belgique - debrief\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":61},\"to\":{\"line\":16,\"ch\":49}},\"scroll\":133.03645833333334}"
+                },
+                {
+                  "title": "Signature et non soi pour le manifesting Generator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Signature et non soi pour le manifesting Generator.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Signature et non soi pour le manifesting Generator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
+                },
+                {
+                  "title": "je souffre donc je suis -pascal bruckner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/je souffre donc je suis -pascal bruckner.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"je souffre donc je suis -pascal bruckner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":45.125}"
+                },
+                {
+                  "title": "Release Notes 1.7.4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.7.4\"},\"icon\":\"lucide-file\",\"title\":\"Release Notes 1.7.4\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Logs/Psy Log.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psy Log"
             }
           },
           {
@@ -72,10 +176,13 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Développement personnel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +211,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -121,7 +230,9 @@
             },
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -154,8 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Notes/Involution evolution.md"
-              }
+                "file": "Efforts/Evideos/Vidéo - conf outils.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vidéo - conf outils"
             }
           },
           {
@@ -179,7 +292,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -199,7 +314,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -220,7 +337,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -246,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Notes/Involution evolution.md",
+                "file": "Efforts/Evideos/Vidéo - conf outils.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +373,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vidéo - conf outils"
             }
           },
           {
@@ -272,10 +393,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Notes/Involution evolution.md",
+                "file": "Efforts/Evideos/Vidéo - conf outils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vidéo - conf outils"
             }
           }
         ]
@@ -304,8 +427,19 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "67ad703ce899ca34",
+  "active": "efd363ce2e90f67f",
   "lastOpenFiles": [
+    "Efforts/Ongoing/Ne pas changer les gens dans une orga SD.md",
+    "Efforts/ZDone/Vendre ma twingo.md",
+    "Efforts/Explorations personnelles/peur de m'isoler, me séparer.md",
+    "Efforts/Explorations personnelles/Tristesse de ne pas être compris (reacteev).md",
+    "Efforts/Explorations personnelles/Ne pas mériter.md",
+    "+/Untitled.md",
+    "Efforts/ZDone/Faire le point sur mon cercle d'avancement.md",
+    "Efforts/Evideos/Vidéo - conf outils.md",
+    "+/je souffre donc je suis -pascal bruckner.md",
+    "+/Signature et non soi pour le manifesting Generator.md",
+    "+/stage des communautes. belgique - debrief.md",
     "Atlas/Notes/202410161446 culpabilité, honte, actions.md",
     "Atlas/Maps/Développement personnel.md",
     "Atlas/Notes/Involution evolution.md",
@@ -322,17 +456,6 @@
     "Efforts/Explorations personnelles/Release du controle à refaire.md",
     "Efforts/Explorations personnelles/Untitled.md",
     "Calendar/Logs/Keto Log.md",
-    "Efforts/Explorations personnelles/s'aimer.md",
-    "Efforts/Explorations personnelles/Peur de l'abandon refaire.md",
-    "Efforts/Explorations personnelles/Culpabilité etre un mauvais pere  peur du rejet.md",
-    "Efforts/ZDone/Video - Individualisation.md",
-    "Atlas/Notes/BooksNotes/202406191007 enneagramme tableaux - type 7.md",
-    "Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md",
-    "Atlas/Notes/BooksNotes/202407032141 enneagramme tableaux - type 3.md",
-    "Atlas/Maps/Enneagramme.md",
-    "Calendar/Logs/Avocat logs.md",
-    "Calendar/Logs/Change Log.md",
-    "Calendar/Logs/Psy Log.md",
     "Atlas/Projects/Zoimmeisdess/vidéos/intro vivre ses émotions .mp4",
     "Atlas/Projects/Zoimmeisdess/vidéos",
     "Atlas/Projects/Zoimmeisdess/Nouveau dossier",

@@ -4,6 +4,18 @@ tags:
   - log
   - psy
 ---
+# 05/11/2024
+
+Voir ma tristesse au sujet de reacteev. Voir la reproduction de choses préexistantes depuis l'enfance. L'incompréhension de mes propres envies versus le fait que je n'arrive pas à fédérer sur ces sujets avec moi. du coup, abandon de mes propres envies / désirs / rêves pour adaptation au monde.
+Pourquoi continuer à m'adapter? Je pourrai plutôt faire ce dont j'ai envie sans attendre d'autres personnes. Pourquoi continuer à chercher un groupe et à faire adhérer des gens. POurquoi ne pas mener mes recherchezs de mon côté comme Luc le fait. Il y a surement un sujet autour de penser en être capable sans les autres.
+Il y a forcément aussi un sujet isolation / peur d'être ostracisé. La peur de réussir est lié bien entendu à cela.
+Comme Aydan le dit, ils ne me méritent pas. Je devrai penser à moi et à consacrer mon intellect à des choses de mon niveau.
+Discipline... croire en moi. Me détacher du monde.
+SAvoir que je suis meilleur que les autres, l'accepter, et avancer. Aujourd'hui, mes égaux sont rares.
+Continuer à élaborer des théories et expérimenter et apprendre.
+Reprendre du temps au sujet de mon corps. Me lancer dans un sujet important pour moi.
+Travail de visualisation de ce qui est important pour moi, me le rappeler, ainsi que des mantras.
+Envie de développer un assistant.
 
 
 # 17/09/2024
