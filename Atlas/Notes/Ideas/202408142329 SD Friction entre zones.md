@@ -44,3 +44,7 @@ Plusieurs pistes :
 	* Voir quelles parts mériteraient plus de place, plus de respect car certains prennent trop de place. Réduire la place de ceux qui en prennent trop.
 	* Pourquoi je laisse tant de place à cette couleur? Est ce du confort? Est ce une réponse à mon environnement? Peut être mon enneatype ([[202407292105 SD et ennéagramme]]) fait que ma préférence est de garder un pied dans une couleur en fonction de mon niveau de Santé dans mon enneatype.
 		* Pour bouger, il faudrait du coup peut être améliorer ma santé.
+
+![[Pasted image 20241124220205.png]]
+
+

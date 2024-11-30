@@ -5,6 +5,61 @@ tags:
   - changement
   - pascal
 ---
+# 24/11/2024
+Je me sens pas mal du tout. J'ai passé un week end à prendre soin de moi dans une certaine mesure. Je vois que j'ai encore du mal à lancer des actions pour mon insta. INterressant à voir.
+Je pense que j'ai décidé sur ma vente teachable de terminer la partie émotions, sans faire la partie colère et tristesse dans un premier temps.
+Il faut que je regarde une partie éditoriale pour mon insta. JE vois que j'ai envie de faire des choses, mais que je n'ose pas car non structurée.
+J'ai besoin de me remettre à avoir des achievements.
+J'ai ma conf causalité à finir aussi. Un peu de sabotage on dirait.
+j'aimerai accentuer mes releases aussi, mais il y a une sorte de peur d'y aller.
+Il y a encore quelque chose qui n'assume pas. Et qui veut continuer à avoir une "fausse" vie. J'ai du mal à tout mener de front en même temps. Je vois que j'ai quand même pas mal de fatigue physique, car je pousse mon corps.
+Je dépense trop.
+Il faudrait que je réussisse à épargner.
+Ce sujet me trotte dans la tête. Après Noel, je pense, car là, il va y avoir tous les cadeaux à faire.
+Il y a un truc pas ok dans la relation avec Aydan. Je ne sais pas trop ce que c'est. Elle est beaucoup dans la rébellion, suis je trop dans le parent? Peut être besoin de se donner plus d'espace? 
+
+
+# 19/11/2024
+Observation d'un gros détachement chez moi.
+Très en observation de ce qui se passe chez les autres.
+Grosse prise de recul.  Je vois que je pense que de manière très momentanée. Plus dans le désir que dans la peur, l'angoisse, le questionnement.
+Malgré tout, je vois que j'ai du mal à m'occuper des sujets profonds, d'être dans la rigueur et la discipline.
+Je ne perds plus de poids, ou tout du moins quand je le fais je me sabote pour remonter.
+Je n'ai pas avancé mon sujet teachabble.
+Je ne capitalise plus dans obsidian. Je ne fais plus mes logs.
+J'ai des reves qui essayent de me parler. Je ne passe pas le temps à y regarder de plus près.
+
+Ma réussite est quand même d'avoir démarré ma conf de Aix. 
+
+Parmi les choses que j'aimerai faire relancer gladys sur la CNV, et aussi faire une prez Spirale dynamique à l'équipe transfo.
+J'aimerai aussi faire une courte vidéo pour l'esprit critique.
+J'aimerai aussi relancer ma chaine insta.
+J'aimerai aussi relancer les vidéos.
+
+Et en même temps, je suis stuck + différentes compulsions qui sont présentes.
+
+J'aimerai profiter de ma période avec peu d'Aydan dispo pour me focus bien plus fort sur mes sujets, et mes envies d'avancer.
+
+J'ai des sujets à creuser. J'aimerai être plus rigoureux sur mes releases, et avancer sur mon travail sur moi. Il y a trop de sabotage.
+
+# 11/11/2024
+C'est reparti. Je vois qu'aujourd'hui les choses ont été bien meilleures. Beaucoup de réalisation.
+J'ai fait beaucoup de choses pour me sentir bien. Je vois que ce que je pensais être de la dispersion est peut être juste un moyen de me rappeler ma puissance et de ce que je suis capable.
+L'expérimentation ou le développement de petits projets annexes m'amènent de la fierté, estime de moi, confiance en moi. C'est bon de me rappeler comme je suis bon, et capable.
+Je ne devrai pas négliger cela.
+Il y a uen chose qui gravite autour de tout cela, c'est la place d'Aydan, et l'exigence que j'ai envers elle. J'aimerai qu'elle fasse plus. Plus de sport, plus d'efforts, plus d'apprentissage, plus, plus...
+Qu'est ce qui se passe, qu'est ce que j'essaye de faire? Je cherche à saboter notre relation?
+Je dois y mettre plus de douceur. Il y a quelque chose qui ne va pas chez moi.
+A voir comment je peux y mettre plus d'authenticité, plutôt que du jeu, et être dans uen posture enfant, qui fait des bêtises.
+Je dois me satisfaire de moi, et arrêter d'attendre de qui que ce soit. Et particulièrement de mes proches.
+Je ne sais pas comment je peux agir.
+je vois que je continue à être dans la honte. J'ai du mal à venir ici faire mon log, et en même temps, j'avais honte de venir écrire ce qui m'habite.
+Il est une chose qu'il faut que je réduise aussi, c'est ma capacité à analyser les situations et à proposer ma réflexion sur ces sujets. Comme si j'étais en train d'étaler ma science. En fait je n'en sais rien. Ai je honte de ma puissance? Il y a quelque chose à regarder là dessus.
+Je vois que je pousse parfois un peu fort, sans m'adapter. Je vois qu'il y a une bête qui cherche à sortir, et qui en a marre de rester en arrière plan. j'en ai marre de ne pas laisser plus de place à l'homme qui a toutes ces capacités, et qui les retient par faute de gens compréhensifs, ou en capacité de comprendre, ou qui veulent rester dans leur mode victime.
+
+# 10/11/2024
+Difficulté à me remettre à faire mes logs.
+
 # 22/09/2024
 Je reçois encore de la culpabilité / honte. Le bouton est encore actif. Release à faire de nouveau.
 Néanmoins, je vois que c'est injuste, et je vois qu'en fait elle me pointe du doigt alors que c'est elle en faute. Elle a imposé une manière de faire qui fait qu'elle se retrouve coincée.
