@@ -5,6 +5,38 @@ tags:
   - changement
   - pascal
 ---
+# 11/12/2024
+Beaucoup de fatigue.
+JE vois que je suis moins dans l'exigence, et c'est déjà pas si mal.
+Je prends en compte ma fatigue.
+J'ai pris des compléments pour booster un peut tout cela. A voir.
+
+J'ai vu que j'avais plein d'amis, et c'est incroyable.
+Ma relation avec Aydan a changé. C'est plus doux. J'ai un effet relaxant sur elle. hahaha.
+Je vois que je suis plus indépendant. Moins de manque, ou d'incertitude, de peur de l'abandon.
+Il y a quand même 2 choses qui me viennent à l'esprit.
+D'une part, et je pense que son mal être l'a fait aller dans son 3, je ressens quelque chose de manipulatoire, elle m'utilise pour satisfaire ses besoins. C'est parfois assez désagréable. Est ce que je lui en parle, ou est ce que je me défais de ces boutons?
+D'autre part, j'ai peur que mon détachement puisse la rendre insécure. Après cela lui appartient, et en même temps, c'est notre relation. C'est vrai que ce qu'elle m'a raconté sur le fait d'être allé voir ailleurs quand elle s'est sentie délaissée, m'inquiète quand même. Loyauté jusqu'à quel point? et moi comment je pourrai vivre cela si c'était le cas? 
+Je pense qu'il y a une part d'insécurité dans notre relation depuis cet été, en tout cas, cela a été exacerbé.
+j'essaye de vivre les choses plus sereinement. J'aspire à plus de quietude, de sérénité.
+Travail sur le détachement à continuer. je passe des moments heureux avec elle, et aussi je peux me créer des choses pour moi également. Je n'ai plus besoin de cette dépendance.
+J'ai une inquiétude aussi d'aller plus vite sur le changement, et qu'elle n'arrive pas à suivre, et que cela crée un fossé à terme entre nous. Est ce grave? Je ne sais pas. En tout cas, cela sera difficile pour moi, de retrouver quelqu'un.
+
+
+
+# 02/12/2024
+
+Difficulté à revenir à la discipline sur l'aspect intellecturel, produire du contenu, célébrer, écrire.
+LE sport assez ok. 
+la nourriture c'est un peu n'importe quoi. Je pense que mon corps maigrit fort, et perd ses repères.
+Des releases à faire pas mal. 
+Je vois que la douleur pour mes enfants est là. 
+Je vois que ma puissance est maladroite.
+Je pousse fort Aydan en ce moment. A regarder car je la pousse trop à mon sens.
+On revient à cette discussion, j'en ai marre des gens qui se complaisent dans leur malheur, ou leur médiocrité. Peut être je devrai aussi me l'appliquer à moi même, d'où ma colère en miroir?
+J'ai besoin de revenir dans la douceur. Peut être ai je besoin d'attention.
+En même temps, je suis fier d'elle sur plein d'aspect. 
+
 # 24/11/2024
 Je me sens pas mal du tout. J'ai passé un week end à prendre soin de moi dans une certaine mesure. Je vois que j'ai encore du mal à lancer des actions pour mon insta. INterressant à voir.
 Je pense que j'ai décidé sur ma vente teachable de terminer la partie émotions, sans faire la partie colère et tristesse dans un premier temps.

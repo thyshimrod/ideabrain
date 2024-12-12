@@ -14,6 +14,7 @@ tags:
 # Vivre ensemble
 [[202312061630 Vivre sa relation avec un type enneagramme]]
 [[202407292105 SD et ennéagramme]]
+[[202412022102 colline et enneagramme]]
 
 # Theorie globale
 [[202405221057 enneagramme liste des types synthèses]]

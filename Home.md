@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 ---
-                         ![[dragonmiddle.png]]
+![[dragonmiddle.png]]
+                         
 
 # Ce que j'ai envie de faire
 
@@ -12,14 +13,16 @@ obsidianUIMode: preview
 * J'ai envie de . . . trouver **ma place** au travers de tout cela, *contribuer* au monde
 
 Pour cela :
-* Je vais continuer à publier **vidéos** et des **articles** sur les sujets qui m'intéressent
+* Je vais continuer à publier **vidéos** et des **articles** sur les sujets qui m'intéressent, et faire des conférences
 * Je vais regarder pour un projet concret de type **lieu physique** pour *accueillir, coacher, former*
 * Je vais regarder pour créer un projet de **ventes de mes connaissance** à la manière de Nick Milo                           : **[[1 - Zoimmeisdess Project]]** 
+* Peut être proposer dans un temps aussi, des séminaires, ou des points de rencontre, où je parlerai de ma vision du monde.
 
 # Qui je suis
-* Ennéagramme envolutif : 7       2                 Mineur 4
+* Ennéagramme Involutif : 7       2                 Mineur 4
 * MBTI : ESFJ : Consul 
 * Valeurs : Profondeur, Simplicité (efficacité), Créativité, Autonomie, Apprentissage
+* Besoins à nourrir : Connexion, Contribution, faire grandir, Réalisation, Authenticité, Profondeur
 * Top Talents : Idéation, Intellectualisme, Studieux, Individualisation, Input, Activateur, Stratégique, Positivité, Connexion, Arrangeur
 
 
@@ -41,7 +44,8 @@ Pour cela :
 > [!Calendar]- # Calendar
 > > *What's on your mind?* 
 > 
-> Let see My Thoughts : [[Thoughts logs]]
+> Let see My Thoughts :
+> [[Thoughts logs]]
 > [[Psy Log]]
 > [[Keto Log]]
 > [[Change Log]]

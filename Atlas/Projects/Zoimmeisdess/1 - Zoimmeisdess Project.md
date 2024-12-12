@@ -46,8 +46,12 @@ Le but est de mettre à disposition des connaissances pour faire grandir ou se f
 		* comprendre ses motivations, projections....
 	* Accompagnement
 	* Coaching / Auto coaching : template (ikigai, valeurs, quadri cercle,...)
+	* [[202412112042 zoimmeisdess - résilience|Résilience]]
 * Transformation
 	* spirale dynamique
+* Travail sur les addictions
+	* Le pouvoir des habitudes
+	* Les blessures de l'âme
 * développement personnel
 	* [[202408302046 posture méta, desidentification, retour au choix]]
 	* [[Zoimmeisdess Vivre avec ses émotions|Vivre avec ses émotions]]

@@ -4,6 +4,8 @@ tags:
   - spiraledynamique
   - causalite
   - complexité
+  - cnv
+  - AT
 ---
 ### **Présentation : Quitter la causalité simpliste pour embrasser la complexité dans les transformations d’entreprise**  
 

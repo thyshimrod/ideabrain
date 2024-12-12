@@ -3,6 +3,61 @@ tags:
   - pascal
   - log
 ---
+# 11/12/2024
+
+Bon voilà encore un jeu qui m'a plutôt impacté ma relation avec Olga.
+En vrai, c'est usant. Intéressant d'avoir creusé malgré elle avec Mathilde.
+Voir que finalement, elle n'a jamais été dans la relation réellement, et qu'elle ne sait peut être pas y aller. L'authenticité est un risque trop important pour elle.
+En tout cas, c'est elle qui choisit de rompre, elle ne fait même pas mine d'essayer. J'ai bien aimé ce 3 -> 9, se réfugier dans son intériorité, plutôt que d'essayer et peut être aller vers un mal être.
+Quelque part tant mieux, car c'était usant ces jeux, où elle est centrée que sur elle, et pas du tout en écoute. Avec ses vérités.
+JE sens que j'ai de la colère en moi, et pas que, surement de la tristesse. Ma part de vert qui aspire au bien être de tous, et à l'harmonie.
+Ca fait partie de mon travail, de me détacher de tout cela. Tout le monde n'a pas à être mon ami. et c'est ok. J'ai d'autres choses dans la vie.
+En vrai, j'ai une communauté de gens autour de moi hyper importante. C'est juste incroyable en fait. Alors peut être qu'ils ne sont pas là pour mon quotidien, mais je les ai partout, et à chaque conf, je les retrouve. Le réseau est fort et assez complet.
+
+A discuter avec Emilie, cette histoire de retro, je vais laisser de côté. En fait, trop de gens s'en mêlent, et veulent contrôler. Dans ce cas, qu'ils fassent. Je n'ai pas de valeur, si c'est juste pour exécuter. Peut être que je peux révéler quelque chose dans l'histoire. Mais je n'en suis même pas sûr.
+
+Je vois qu'il y a une part de moi qui angoisse à intervenir ponctuellement côté Airbus. Beaucoup d'inconnus, et aussi je vais devoir avoir de l'impact vite et fort. Peut être qu'il faut que je regarde au cadre, et aux choses qui vont me permettre d'avoir un cadre de sécurité pour bien faire.
+Contrat de coaching probablement. D'autant que Lionel a vu ma conf sur le flou.
+
+C'est intéressant aussi comme expérience, d'imaginer pouvoir intervenir ponctuellement sur des sujets, et attraper plus de choses connexes dans les accompagnements. Je reste convaincu que ma valeur n'est psa de faire de la mission long terme, mais de venir taper avec impact sur des sujets spécifiques.
+
+Il y a quelque chose à creuser là dessus.
+
+Je vois qu'il y a une certaine appréhension, de rencontrer la mère d'Aydan aussi, surement la barrière de la langue.
+
+Je vois que la liste de cadeaux me renseigne sur les centres d'intérêt des enfants. Cela me fait plaisir de savoir à quoi ils aspirent jouer, leur centre d'intérêt, les livres qu'ils lisent, les mangas en commun.
+
+Beaucoup de pensées aussi vis à vis du tribunal, et de ce que j'aimerai dire. Je vois que cela m'habite plus que je ne le voudrai. D'autant que je ne peux rien faire.  il faut que je ressorte de l'anticipation, et lâcher prise.
+
+Sacrée journée.
+
+# 08/12/2024
+
+Conférence importante pour moi. Voir l'impact que j'ai auprès des gens. Ma capacité à parler de sujet complexe en les mettant à la portée des autres. Avoir de l'amour et des retours incroyables. Voir que je suis capable d'impactger les autres.
+Savoir que je suis bien au dessus des autres.  Je vois que j'ai vraiment envie de murmurer aux gens les possibilités de mouvement. J'ai envie qu'on m'appelle pour des sujets pointus, et ne pas être utilisé comme un simple main d'oeuvre. Faire bouger les lignes, avec des gens qui le souhaitent.
+Il y a une vraie inspiration là dessus. Il y a quelque chose de cet ordre qui se dégage.
+Il faut que je creuse cela plus. Mais je vois que ce qui se dégage de manière générale, c'est la contribution en public. Formation, conférence, etc.
+Je ne sais pas comment réellement encore comment je peux traduire cela. En tous les cas, j'ai le sentiment que je dois me donner plus, et plus fort.
+Je vois que mon besoin de profondeur a besoin d'être nourri fortement. 
+
+Il y a aussi encore une tristesse (caché par une forme de colère) sur l'abandon de l'appartenance avec des gens classiques. Je vois que mes relations avec les gens comme Olga ou Oana me font souffrir. Alors je pense qu'il y a aussi surement des blessures encore ouvertes qu'il faut que j'aille regarder. Mais néanmoins je sens une exaspération flagrante sur cela.
+J'aimerai retourner à plus de douceur. Je ne suis pas sûr de ce qui se passe avec Oana, mais il y a un jeu permanent assez désagréable. Je vois qu'il n'y a pas d'accueil, d'acceptation, ou de reconnaissance de qui je suis. Il y a une compétition peut être, ou un mal être vis à vis de moi.
+Qu'est ce que je joue dans la relation? Difficile à dire. Peut être ai je envie de plus de profondeur. DAns la voiture, quand on a parlé de Wilber, c'était cool.
+En tout cas bien vert, et bien dans son 7. 
+Je vois qu'il y a une tristesse aussi que personne n'ait participé à ma conf. Besoin de validation? Jalousie? En même temps, cela démontre des choses. ou juste un moutonisme? hahaha
+Concernant Olga, type 3, c'est sur. Elle utilise les gens, et c'est fatiguant. Elle a tellement peur du regard des gens, incroyable. Je pense que je vais rompre la relation. Je pense qu'elle n'a rien à m'apporter, la relation n'est pas authentique, elle joue trop tout le temps. Il faudrait qu'elle intègre ce qu'elle apprend, et non pas être souteneur de vérité.
+Effectivement acquérir des compétences, c'est bien, mais s'en servir c'est mieux, et avoir de la profondeur c'est encore mieux, c'est à dire se l'appliquer à soi même avant tout. Beaucoup de colère, déception vers elle et toutes ses remarques.
+
+Il y a quelque chose autour d'Aydan aussi, je le sens, et cela me rend triste. Je vois qu'elle n'est pas assez "forte". Je me sens utilisé aussi, et pas réellement soutenu. Elle a tout un tas de problème je le sais, mais j'ai l'impression qu'elle n'évolue plus. Cela me frustre.
+Je passe ailleurs pour ma part. Je vais plus vite plus fort. Je suis capable de faire. Confère régime Keto.
+Je prends du temps pour me faire grandir. J'y consacre du temps et des moyens. J'ai peur qu'on arrive à un moment de déphasage. Je ne sais pas comment partager mes peurs.
+Du coup, c'est surement pour cela que j'ai peur qu'elle me trompe, car elle ne s'y retrouve pas avec moi, et qu'elle ne ressent plus cette protection, soutien, attention.
+En même temps, c'est sa vie ses choix. Je vois qu'elle vit beaucoup dans la honte. Elle a eu honte de me dire qu'elle avait bu un gin tonic. Intéressant, de voir que cette honte est venue réveiller mon parent normatif.
+Aspiration à la douceur. Je vois qu'il y a beaucoup de choses qui me chatouillent, et je n'arrive pas à me "détacher", à m'en foutre. J'aimerai pouvoir me réinscrire dans une forme de détachement.
+MA part de sauveur qui est encore très présente en fait. Enfin je pense. Qu'est ce que cela serait de ne plus prendre de recul, et de laisser les gens souffrir, et répéter leur schéma continuellement.
+Il y a quelque chose de l'ordre de se rendre responsable de quelque chose car on a la capacité de la voir, et de d'agir. Une sorte de non assistance à personne en danger :(
+
+
 
 # 06/10/2024
 J'ai réussi à ne pas aller regarder mes mails ce week end c'est quand même une souffrance pour moi.

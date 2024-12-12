@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08d4acafd955a6bf",
+        "id": "823bb31dd0e95fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "f8c9925741933e3a",
+            "id": "d82294caf9b64361",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,75 +18,105 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Explorer SD Friction entre les différentes zones",
+                  "title": "Thoughts logs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Explorer SD Friction entre les différentes zones.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Explorer SD Friction entre les différentes zones\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":5}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":12.341796875}"
                 },
                 {
-                  "title": "202408142329 SD Friction entre zones",
+                  "title": "1 - Zoimmeisdess Project",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202408142329 SD Friction entre zones.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202408142329 SD Friction entre zones\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":66},\"to\":{\"line\":45,\"ch\":66}},\"scroll\":10.333333333333334}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":25},\"to\":{\"line\":52,\"ch\":25}},\"scroll\":50.920616113744074}"
                 },
                 {
-                  "title": "Explorer SD Friction entre les différentes zones",
+                  "title": "La bioélectronique de Vincent (BEV) - Médecine Intégrée",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Explorer SD Friction entre les différentes zones.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Explorer SD Friction entre les différentes zones\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":27},\"to\":{\"line\":7,\"ch\":27}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/La bioélectronique de Vincent (BEV) - Médecine Intégrée.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"La bioélectronique de Vincent (BEV) - Médecine Intégrée\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
                 },
                 {
-                  "title": "peur de m'isoler, me séparer",
+                  "title": "je souffre donc je suis -pascal bruckner",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/peur de m'isoler, me séparer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"peur de m'isoler, me séparer\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/je souffre donc je suis -pascal bruckner.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"je souffre donc je suis -pascal bruckner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":38.666666666666664}"
                 },
                 {
-                  "title": "Etat Parent vis à vis d'Aydan",
+                  "title": "La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/Etat Parent vis à vis d'Aydan.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Etat Parent vis à vis d'Aydan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":9.270833333333334}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
-                  "title": "peur de m'isoler, me séparer",
+                  "title": "1 - Zoimmeisdess Project",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/ZDone/peur de m'isoler, me séparer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"peur de m'isoler, me séparer\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":83},\"to\":{\"line\":8,\"ch\":83}},\"scroll\":6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":68},\"to\":{\"line\":54,\"ch\":68}},\"scroll\":43.326704261183075}"
                 },
                 {
-                  "title": "202408072246 protocole de desidentification",
+                  "title": "Zoimmeisdess Vivre avec ses émotions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202408072246 protocole de desidentification.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202408072246 protocole de desidentification\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":31.67578125}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zoimmeisdess Vivre avec ses émotions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
                 },
                 {
-                  "title": "202408302046 posture méta, desidentification, retour au choix",
+                  "title": "Thoughts logs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202408302046 posture méta, desidentification, retour au choix.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202408302046 posture méta, desidentification, retour au choix\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":45},\"to\":{\"line\":23,\"ch\":45}},\"scroll\":12.791666666666666}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":22.208333333333332}"
                 },
                 {
-                  "title": "Développement personnel",
+                  "title": "Faire une désidentification au sauveur",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Développement personnel.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Développement personnel\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":46},\"to\":{\"line\":13,\"ch\":46}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Faire une désidentification au sauveur.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Faire une désidentification au sauveur\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":152},\"to\":{\"line\":6,\"ch\":152}},\"scroll\":5}"
+                },
+                {
+                  "title": "Thoughts logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":20.17230902777778}"
+                },
+                {
+                  "title": "nmn nad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/nmn nad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"nmn nad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":268},\"to\":{\"line\":21,\"ch\":268}},\"scroll\":8}"
+                },
+                {
+                  "title": "La bioélectronique de Vincent (BEV) - Médecine Intégrée",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/La bioélectronique de Vincent (BEV) - Médecine Intégrée.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"La bioélectronique de Vincent (BEV) - Médecine Intégrée\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
+                },
+                {
+                  "title": "Thoughts logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":196},\"to\":{\"line\":27,\"ch\":196}},\"scroll\":20.17230902777778}"
+                },
+                {
+                  "title": "Change Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Change Log\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efforts/Ongoing/Ne pas changer les gens dans une orga SD.md",
+                "file": "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ne pas changer les gens dans une orga SD"
+              "title": "1 - Zoimmeisdess Project"
             }
           },
           {
-            "id": "440328d80470969d",
+            "id": "a2a0ba74704905f2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -96,28 +126,52 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Release autour de mes enfants comme avant",
+                  "title": "Aller vers plus de détachement",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Release autour de mes enfants comme avant.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Release autour de mes enfants comme avant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":192},\"to\":{\"line\":6,\"ch\":192}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Aller vers plus de détachement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aller vers plus de détachement\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "Culpabilité envers Aydan",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Culpabilité envers Aydan.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Culpabilité envers Aydan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":123},\"to\":{\"line\":18,\"ch\":123}},\"scroll\":3.8435114503816794}"
+                },
+                {
+                  "title": "202412112042 zoimmeisdess - résilience",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412112042 zoimmeisdess - résilience\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ideaverse Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideaverse Map.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ideaverse Map\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Exploration",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Exploration.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Exploration\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "Explorer SD quantité individu donne quantité map orgha",
+                  "title": "Développement personnel",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/Explorer SD quantité individu donne quantité map orgha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Explorer SD quantité individu donne quantité map orgha\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Formation émotions sur teachable 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/On/Formation émotions sur teachable 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Formation émotions sur teachable 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Développement personnel.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Développement personnel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "Formation émotions sur teachable",
@@ -126,27 +180,57 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
-                  "title": "202408151403 SD ne pas essayer de faire évoluer les groupes",
+                  "title": "Peur que Aydan me trompe",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202408151403 SD ne pas essayer de faire évoluer les groupes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202408151403 SD ne pas essayer de faire évoluer les groupes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Peur que Aydan me trompe.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Peur que Aydan me trompe\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "202412112042 zoimmeisdess - résilience",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412112042 zoimmeisdess - résilience\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efforts/Explorations personnelles/Release autour d arreter de vivre en attendant le retour de mes enfants.md",
+                "file": "Calendar/Logs/Change Log.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Release autour d arreter de vivre en attendant le retour de mes enfants"
+              "title": "Change Log"
+            }
+          },
+          {
+            "id": "684506e9b574f275",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Notes/Ideas/202412121024 Terre plate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202412121024 Terre plate"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,7 +334,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cnv",
+                "query": "flou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -329,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efforts/Evideos/Vidéo - conf outils.md",
+                "file": "Atlas/Notes/Ideas/202412121024 Terre plate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +423,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vidéo - conf outils"
+              "title": "Backlinks for 202412121024 Terre plate"
             }
           },
           {
@@ -369,8 +453,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,35 +474,36 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "440328d80470969d",
+  "active": "684506e9b574f275",
   "lastOpenFiles": [
-    "Efforts/Explorations personnelles/Release autour de mes enfants comme avant.md",
-    "Efforts/Explorations personnelles/Release autour d arreter de vivre en attendant le retour de mes enfants.md",
-    "Efforts/Explorations personnelles/Culpabilité envers Aydan.md",
-    "Efforts/Explorations/Explorer SD quantité individu donne quantité map orgha.md",
-    "Efforts/On/Formation émotions sur teachable 1.md",
-    "Efforts/Ongoing/Formation émotions sur teachable.md",
-    "Atlas/Notes/Ideas/202408151403 SD ne pas essayer de faire évoluer les groupes.md",
-    "Efforts/Ongoing/Ne pas changer les gens dans une orga SD.md",
-    "Efforts/ZDone/Explorer SD Friction entre les différentes zones.md",
-    "Atlas/Notes/Ideas/202408142329 SD Friction entre zones.md",
-    "Atlas/Utilities/Images/Pasted image 20241124220205.png",
-    "Efforts/ZDone/peur de m'isoler, me séparer.md",
-    "Efforts/ZDone/Etat Parent vis à vis d'Aydan.md",
-    "Atlas/Notes/Ideas/202408072246 protocole de desidentification.md",
-    "Atlas/Notes/Ideas/202408302046 posture méta, desidentification, retour au choix.md",
-    "Atlas/Maps/Développement personnel.md",
-    "+/conf causalité simple v2.md",
-    "Efforts/ZDone/Culpabilité etre un mauvais pere  peur du rejet.md",
-    "Atlas/Maps/Zoimmeisdess.md",
-    "Efforts/Ongoing/Liste des explorations à faire.md",
-    "Efforts/Ongoing/Liste de vidéos à faire.md",
-    "Efforts/On/rendez vous prise de sang.md",
+    "Atlas/Notes/Ideas/202412121024 Terre plate.md",
     "Calendar/Logs/Change Log.md",
-    "+/conf causalité simple.md",
-    "Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md",
+    "Efforts/Explorations personnelles/Aller vers plus de détachement.md",
+    "Efforts/Explorations personnelles/Culpabilité envers Aydan.md",
+    "Home.md",
+    "Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md",
     "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
-    "Atlas/Projects/Zoimmeisdess/202411112137 instagram.md",
+    "Ideaverse Map.md",
+    "Atlas/Maps/Exploration.md",
+    "Atlas/Maps/Développement personnel.md",
+    "Efforts/Ongoing/Formation émotions sur teachable.md",
+    "Efforts/Explorations personnelles/Peur que Aydan me trompe.md",
+    "Calendar/Logs/Thoughts logs.md",
+    "Atlas/Notes/luc/La bioélectronique de Vincent (BEV) - Médecine Intégrée.md",
+    "Atlas/Notes/luc/je souffre donc je suis -pascal bruckner.md",
+    "Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md",
+    "Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md",
+    "Efforts/Explorations personnelles/Faire une désidentification au sauveur.md",
+    "Atlas/Notes/luc/nmn nad.md",
+    "Efforts/Ongoing/Ne pas changer les gens dans une orga SD.md",
+    "Atlas/Maps/Enneagramme.md",
+    "Atlas/Notes/Ideas/flou AT.md",
+    "Atlas/Notes/Ideas/202405271407 Spirale dynamique vue synthetique.md",
+    "Atlas/Notes/Ideas/flou et securité.md",
+    "Atlas/Notes/Ideas/202412050930 conférence flou.md",
+    "+/202412031622 attention, affection, amour.md",
+    "Atlas/Notes/luc",
+    "Atlas/Utilities/Images/Pasted image 20241124220205.png",
     "Atlas/Utilities/Images/involution evolution.jpg",
     "Atlas/Projects/Zoimmeisdess/vidéos/intro vivre ses émotions .mp4",
     "Atlas/Projects/Zoimmeisdess/vidéos",
@@ -433,7 +517,6 @@
     "Efforts/Explorations personnelles",
     "Atlas/Utilities/Images/dragon.png",
     "Atlas/Utilities/Images/8-QLQb43WG3YvxPkP.png",
-    "Efforts/Actions Recurrentes",
     "Atlas/Utilities/Images/scale of action.jpeg",
     "Atlas/Utilities/Images/energy scale emotions.jpeg",
     "Atlas/Utilities/Images/fredom.jpeg",

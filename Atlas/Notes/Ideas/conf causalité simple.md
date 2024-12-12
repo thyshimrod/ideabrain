@@ -5,6 +5,9 @@ tags:
   - changement
   - complexité
   - spiraledynamique
+  - cnv
+  - AT
+  - chatgpt
 ---
 ### **Présentation : Quitter la causalité simpliste pour embrasser la complexité dans les transformations d’entreprise**  
 
