@@ -5,6 +5,11 @@ tags:
   - changement
   - pascal
 ---
+
+# 18/12/2024
+Vu en release : C'est intéressant de voir que j'ai créé une routine de sabotage (exploration à faire) pour me maintenir le plus possible dans la honte (regrossir, masturbation, ne poas faire des choses, se disperser, dépenser trop d'argent).
+Vivre la honte et être un victime. Continuer à rechercher un parent pour me sauver, ou attirer l'amour?
+
 # 11/12/2024
 Beaucoup de fatigue.
 JE vois que je suis moins dans l'exigence, et c'est déjà pas si mal.

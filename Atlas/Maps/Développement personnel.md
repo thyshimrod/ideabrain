@@ -17,6 +17,7 @@ tags:
 # Protocole
 [[202408072246 protocole de desidentification]]
 [[202411112235 template pardon veritable]]
+[[202412182106 priere acceptation]]
 
 # Relation aux autres
 [[202408182207 dev perso, exigence à la perfection]]

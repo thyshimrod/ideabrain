@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "823bb31dd0e95fd0",
+        "id": "38feb90c7d7244dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d82294caf9b64361",
+            "id": "cf1c72bfd5c3915d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,88 +18,112 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Thoughts logs",
+                  "title": "Vidéo - injustice effort",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":12.341796875}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Evideos/Vidéo - injustice effort.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - injustice effort\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":15},\"to\":{\"line\":14,\"ch\":15}}}"
+                },
+                {
+                  "title": "Vivre avec les autres",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vivre avec les autres\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "1 - Zoimmeisdess Project",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":25},\"to\":{\"line\":52,\"ch\":25}},\"scroll\":50.920616113744074}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":18},\"to\":{\"line\":60,\"ch\":18}},\"scroll\":40.254149971379505}"
                 },
                 {
-                  "title": "La bioélectronique de Vincent (BEV) - Médecine Intégrée",
+                  "title": "202412112042 zoimmeisdess - résilience",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/La bioélectronique de Vincent (BEV) - Médecine Intégrée.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"La bioélectronique de Vincent (BEV) - Médecine Intégrée\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
-                },
-                {
-                  "title": "je souffre donc je suis -pascal bruckner",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/je souffre donc je suis -pascal bruckner.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"je souffre donc je suis -pascal bruckner\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":38.666666666666664}"
-                },
-                {
-                  "title": "La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412112042 zoimmeisdess - résilience\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":10}"
                 },
                 {
                   "title": "1 - Zoimmeisdess Project",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":68},\"to\":{\"line\":54,\"ch\":68}},\"scroll\":43.326704261183075}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":24},\"to\":{\"line\":60,\"ch\":24}},\"scroll\":37.893319342427425}"
                 },
                 {
-                  "title": "Zoimmeisdess Vivre avec ses émotions",
+                  "title": "20241226118 Pratique de vie intégrale - Module Ombre",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zoimmeisdess Vivre avec ses émotions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"20241226118 Pratique de vie intégrale - Module Ombre\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
-                  "title": "Thoughts logs",
+                  "title": "202412251738 Pratique de vie integrale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":22.208333333333332}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":63},\"to\":{\"line\":7,\"ch\":63}},\"scroll\":7}"
                 },
                 {
-                  "title": "Faire une désidentification au sauveur",
+                  "title": "20241226118 Pratique de vie intégrale - Module Ombre",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Faire une désidentification au sauveur.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Faire une désidentification au sauveur\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":152},\"to\":{\"line\":6,\"ch\":152}},\"scroll\":5}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"20241226118 Pratique de vie intégrale - Module Ombre\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":116,\"ch\":0},\"to\":{\"line\":116,\"ch\":0}},\"scroll\":140.47907158690833}"
                 },
                 {
-                  "title": "Thoughts logs",
+                  "title": "202412251738 Pratique de vie integrale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":20.17230902777778}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":62},\"to\":{\"line\":7,\"ch\":62}},\"scroll\":7}"
                 },
                 {
-                  "title": "nmn nad",
+                  "title": "202501021409 pratique de vie intégrale - module mentale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/nmn nad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"nmn nad\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":268},\"to\":{\"line\":21,\"ch\":268}},\"scroll\":8}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":25.069905213270143}"
                 },
                 {
-                  "title": "La bioélectronique de Vincent (BEV) - Médecine Intégrée",
+                  "title": "Enneagramme",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/luc/La bioélectronique de Vincent (BEV) - Médecine Intégrée.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"La bioélectronique de Vincent (BEV) - Médecine Intégrée\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":41},\"to\":{\"line\":41,\"ch\":41}},\"scroll\":16.075520833333332}"
                 },
                 {
-                  "title": "Thoughts logs",
+                  "title": "202501021409 pratique de vie intégrale - module mentale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":196},\"to\":{\"line\":27,\"ch\":196}},\"scroll\":20.17230902777778}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":220},\"to\":{\"line\":33,\"ch\":220}},\"scroll\":17.373222748815166}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vivre avec les autres"
+            }
+          },
+          {
+            "id": "009022a1115658b1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "Change Log",
+                  "title": "zoimmeisdess AT jeux",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Change Log\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/zoimmeisdess AT jeux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"zoimmeisdess AT jeux\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":0},\"to\":{\"line\":53,\"ch\":0}},\"scroll\":8}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":21},\"to\":{\"line\":61,\"ch\":21}},\"scroll\":40.254149971379505}"
                 }
               ]
             },
@@ -116,7 +140,7 @@
             }
           },
           {
-            "id": "a2a0ba74704905f2",
+            "id": "3ddacf7b6328b308",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -126,87 +150,69 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Aller vers plus de détachement",
+                  "title": "Pratique intégrale - module mental - module minute 1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Aller vers plus de détachement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aller vers plus de détachement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Culpabilité envers Aydan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Culpabilité envers Aydan.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Culpabilité envers Aydan\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module mental - module minute 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute 1\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
                 },
                 {
-                  "title": "Home",
+                  "title": "202501021409 pratique de vie intégrale - module mentale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":123},\"to\":{\"line\":18,\"ch\":123}},\"scroll\":3.8435114503816794}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":45},\"to\":{\"line\":58,\"ch\":45}},\"scroll\":47.52132701421801}"
                 },
                 {
-                  "title": "202412112042 zoimmeisdess - résilience",
+                  "title": "202412251738 Pratique de vie integrale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412112042 zoimmeisdess - résilience\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
-                  "title": "Ideaverse Map",
+                  "title": "20241226118 Pratique de vie intégrale - Module Ombre",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideaverse Map.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ideaverse Map\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"20241226118 Pratique de vie intégrale - Module Ombre\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Comment désarmorcer le jeu",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Comment désarmorcer le jeu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Comment désarmorcer le jeu\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "zoimmeisdess AT jeux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/zoimmeisdess AT jeux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"zoimmeisdess AT jeux\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
-                  "title": "Home",
+                  "title": "202412031622 attention, affection, amour",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412031622 attention, affection, amour.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412031622 attention, affection, amour\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "Exploration",
+                  "title": "Comment désarmorcer le jeu",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Exploration.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Exploration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Développement personnel",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Développement personnel.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Développement personnel\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Formation émotions sur teachable",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Formation émotions sur teachable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Formation émotions sur teachable\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Peur que Aydan me trompe",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Peur que Aydan me trompe.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Peur que Aydan me trompe\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "202412112042 zoimmeisdess - résilience",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412112042 zoimmeisdess - résilience\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Comment désarmorcer le jeu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Comment désarmorcer le jeu\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Change Log.md",
+                "file": "+/Pratique intégrale - module mental - module minute 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change Log"
+              "title": "Pratique intégrale - module mental - module minute 2"
             }
           },
           {
-            "id": "684506e9b574f275",
+            "id": "6762ec89a1aafa6c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -214,23 +220,119 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Alccol - drogue - perte de contrôle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Alccol - drogue - perte de contrôle.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alccol - drogue - perte de contrôle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Thoughts logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":36},\"to\":{\"line\":15,\"ch\":36}}}"
+                },
+                {
+                  "title": "202411112137 instagram",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202411112137 instagram.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202411112137 instagram\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "202412112042 zoimmeisdess - résilience",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412112042 zoimmeisdess - résilience\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":10}"
+                },
+                {
+                  "title": "202501052135 pratique de vie intégrale - module corps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501052135 pratique de vie intégrale - module corps.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501052135 pratique de vie intégrale - module corps\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":0},\"to\":{\"line\":41,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "202412251738 Pratique de vie integrale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":65},\"to\":{\"line\":12,\"ch\":65}},\"scroll\":7}"
+                },
+                {
+                  "title": "202501021409 pratique de vie intégrale - module mentale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":869},\"to\":{\"line\":84,\"ch\":869}},\"scroll\":82.78734974241557}"
+                },
+                {
+                  "title": "202412251738 Pratique de vie integrale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pratique intégrale - module ombre - module minute",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module ombre - module minute.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module ombre - module minute\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pratique intégrale - module mental - module minute 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module mental - module minute 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pratique intégrale - module mental - module minute 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module mental - module minute 2.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "20241226118 Pratique de vie intégrale - Module Ombre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"20241226118 Pratique de vie intégrale - Module Ombre\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":52.00619128949616}"
+                },
+                {
+                  "title": "202412251738 Pratique de vie integrale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":61},\"to\":{\"line\":7,\"ch\":61}},\"scroll\":7}"
+                },
+                {
+                  "title": "202501021409 pratique de vie intégrale - module mentale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":56.755208333333336}"
+                },
+                {
+                  "title": "Pratique intégrale - module mental - module minute 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module mental - module minute 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":14.590277777777779}"
+                },
+                {
+                  "title": "Pratique intégrale - module ombre - module minute",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module ombre - module minute.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module ombre - module minute\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":193},\"to\":{\"line\":9,\"ch\":193}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Notes/Ideas/202412121024 Terre plate.md",
+                "file": "Calendar/Logs/Thoughts logs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202412121024 Terre plate"
+              "title": "Thoughts logs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,10 +415,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efforts/Evideos/Vidéo - conf outils.md"
+                "file": "Efforts/Explorations/4E Cognition.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vidéo - conf outils"
+              "title": "Outline of 4E Cognition"
             }
           },
           {
@@ -334,7 +436,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flou",
+                "query": "tag:#honte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -413,7 +515,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Notes/Ideas/202412121024 Terre plate.md",
+                "file": "Calendar/Logs/Thoughts logs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +525,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202412121024 Terre plate"
+              "title": "Backlinks for Thoughts logs"
             }
           },
           {
@@ -453,7 +555,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -474,34 +577,35 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "684506e9b574f275",
+  "active": "6762ec89a1aafa6c",
   "lastOpenFiles": [
-    "Atlas/Notes/Ideas/202412121024 Terre plate.md",
-    "Calendar/Logs/Change Log.md",
-    "Efforts/Explorations personnelles/Aller vers plus de détachement.md",
-    "Efforts/Explorations personnelles/Culpabilité envers Aydan.md",
-    "Home.md",
-    "Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md",
-    "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
-    "Ideaverse Map.md",
-    "Atlas/Maps/Exploration.md",
-    "Atlas/Maps/Développement personnel.md",
-    "Efforts/Ongoing/Formation émotions sur teachable.md",
-    "Efforts/Explorations personnelles/Peur que Aydan me trompe.md",
+    "Efforts/Explorations personnelles/Alccol - drogue - perte de contrôle.md",
     "Calendar/Logs/Thoughts logs.md",
-    "Atlas/Notes/luc/La bioélectronique de Vincent (BEV) - Médecine Intégrée.md",
-    "Atlas/Notes/luc/je souffre donc je suis -pascal bruckner.md",
-    "Atlas/Projects/Zoimmeisdess/La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre.md",
-    "Atlas/Projects/Zoimmeisdess/Zoimmeisdess Vivre avec ses émotions.md",
-    "Efforts/Explorations personnelles/Faire une désidentification au sauveur.md",
-    "Atlas/Notes/luc/nmn nad.md",
-    "Efforts/Ongoing/Ne pas changer les gens dans une orga SD.md",
-    "Atlas/Maps/Enneagramme.md",
-    "Atlas/Notes/Ideas/flou AT.md",
-    "Atlas/Notes/Ideas/202405271407 Spirale dynamique vue synthetique.md",
-    "Atlas/Notes/Ideas/flou et securité.md",
-    "Atlas/Notes/Ideas/202412050930 conférence flou.md",
+    "Atlas/Projects/Zoimmeisdess/202411112137 instagram.md",
+    "Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md",
+    "Atlas/Notes/BooksNotes/202501052135 pratique de vie intégrale - module corps.md",
+    "+/202412251738 Pratique de vie integrale.md",
+    "+/202501021409 pratique de vie intégrale - module mentale.md",
+    "+/Pratique intégrale - module ombre - module minute.md",
+    "+/Pratique intégrale - module mental - module minute 1.md",
+    "+/Pratique intégrale - module mental - module minute 2.md",
+    "Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md",
+    "Atlas/Projects/Zoimmeisdess/Comment désarmorcer le jeu.md",
+    "Atlas/Projects/Zoimmeisdess/zoimmeisdess AT jeux.md",
     "+/202412031622 attention, affection, amour.md",
+    "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
+    "Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md",
+    "Efforts/Evideos/Vidéo - injustice effort.md",
+    "Efforts/On/rendez vous prise de sang.md",
+    "Atlas/Maps/Enneagramme.md",
+    "Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md",
+    "Atlas/Notes/BooksNotes/202407031002 enneagramme tableaux - type 2.md",
+    "Home.md",
+    "Atlas/Notes/BooksNotes/202407122207 enneagramme tableaux - type 6.md",
+    "Atlas/Notes/Ideas/202412301013 profilage origine.md",
+    "Efforts/Explorations/4E Cognition.md",
+    "Atlas/Notes/Ideas/202412231557 Culture de la honte - émission tv.md",
+    "Atlas/Utilities/Images/4Ecognition.png",
     "Atlas/Notes/luc",
     "Atlas/Utilities/Images/Pasted image 20241124220205.png",
     "Atlas/Utilities/Images/involution evolution.jpg",
@@ -521,7 +625,6 @@
     "Atlas/Utilities/Images/energy scale emotions.jpeg",
     "Atlas/Utilities/Images/fredom.jpeg",
     "Atlas/Utilities/Images/want-to_freedom.jpg",
-    "Atlas/Utilities/Images/resistance.jpg",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

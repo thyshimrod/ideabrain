@@ -67,7 +67,7 @@ commerage                       codependant
                      *centré sur soi*
 
 *6. Level of overcompassion*
-**autoritaire**                    **suffisant**                   d'etre reconnu                de chasser les autres
+**autoritaire**                    **suffisant**                     d'etre reconnu                de chasser les autres
 condescendant              auto satisfait             d'avoir leur vertue
 autoritaire                      vaniteux                    et leur bonté reconnue
 non sincere                    moralisateur             
@@ -78,7 +78,7 @@ plainte/martyr                hypocondriaque
 
 *Unhealthy*
 *7. Level of Violation*
-**Manipulateur**              **Se justifiant**              maintenir la croyance        qu'ils ont définitivement   
+**Manipulateur**              **Se justifiant**              maintenir la croyance        qu'ils sont définitivement   
 Blamant                        auto trompeur           qu'ils n'ont rien fait de       séparés leurs proches
 Instillant la culpabilité   rationnalisant            egoiste ou mauvais
 etouffant                       theatral                      (s'accrochant aux gens

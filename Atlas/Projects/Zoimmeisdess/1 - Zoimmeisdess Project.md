@@ -58,7 +58,10 @@ Le but est de mettre à disposition des connaissances pour faire grandir ou se f
 		* La compréhension des émotions
 		* [[La CNV pour se réapproprier ses émotions, et sortir du pouvoir qu'on donne à l'autre]]
 		* La compréhension des blessures
-		* 
+	* [[Vivre avec les autres]]
+		* [[zoimmeisdess AT jeux]]
+		* [[Comment désarmorcer le jeu]]
+
 
 # Explorations
 

@@ -65,6 +65,11 @@ Je dois conserver/maintenir cet EBDR parce que...
 (answer spontaneously from the mind while feeling the body)(3x)
 
 
+• Inviter le système : à l'aide d'un scénario hypothétique
+• Ressentir le corps et clarifier l'expérience du lâcher prise
+• S'interroger profondément et laisser parler l'inconscient
+• Ressentir et clarifier la retenue
+
 
 
 ![[Art_and_Science_of_Letting_Go (1).pdf]]

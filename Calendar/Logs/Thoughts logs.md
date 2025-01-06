@@ -3,6 +3,61 @@ tags:
   - pascal
   - log
 ---
+# 06/01/2025
+
+En recherche d'une aide par IA pour avancer. Des solutions magiques pour déverrouiller ma procrastination?
+Le tarot aussi.
+Le besoin de créer des accomplissement, la honte de ne pas avancer. La honte est toujours là.
+Je vois que j'ai des trucs sur le fait que des gens consomment des choses. Aydan qui me parle d'avoir fumé de l'herbe, ça m'a fait mal.
+Il faut que j'aille voir cela.
+Toujours la peur de faire des vidéos, vu que je ne fais pas.
+Je me pose beaucoup de question sur les formats à créer, et sur comment les diffuser efficacement. Durée, capacité à attirer.
+Il y a quelque chose chez moi qui me retiens.
+Il faut que j'aille voir cela aussi.
+Toujours la peur de me réaliser.
+En tous les cas je lis des choses passionnantes sur les libres de Ken Wilber, qui m'inspirent et me tirent vers le haut. J'ai envie d'aller plus loin.
+Je vois que je deviens spécialiste sur des sujets.
+J'aimerai améliorer ma connaissance de certains sujets, et d'aller plus profond encore.
+En vrai j'ai des milliards de chose à faire.
+Il faudrait que je mette de l'ordre et que je me donne des objectifs probablement.
+
+Me structurer me parait une idée importante et utile.
+J'ai un peu de mal à le faire, et je n'ai pas de modèle pour cela.
+# 02/01/2025
+Je sens une tension en moi. La situation d'Aydan avec ses parents, et moi au milieu de cela.
+Je vois que cela vient réveiller une blessure chez moi, surement je vois que Maman a joué à cela avec moi aussi, du chantage affectif.
+Cela me touche beaucoup.
+Je ne sais pas quoi en faire. Cela me perturbe beaucoup. Je suis triste aussi pour elle, et j'aimerai qu'elle vive des moments plus apaisés. Mais en vrai, je vois que c'est le miroir de quelque chose que j'ai vécu.
+Gratitude qu'elle me parle ouvertement de tout cela. Gratitude aussi pour son écoute.
+Gratitude d'avoir réussi à rester ouvert à son problème et rester à ma place.
+
+
+# 18/12/2024
+
+Il y a des choses qui ne sont pas ok en ce moment, j'ai du mal à avoir la clarté sur cela.
+Je vois que les enfants sont surement au coeur. Je suis curieux de savoir ce que me dit ma gorge en somme. 
+Il y a quelque chose qui éructe, probablement.
+
+Je vois que je suis encore coincé dans une forme de stase. La honte m'empêche de m'accomplir.
+J'ai honte de la situation avec les enfants. J'ai honte de les contacter.
+Il y a une peur présente toujours de mal faire, de ne pas faire, et de ce que leur raconte Camille à ce sujet. J'imagine que la non acceptation de son accord a été divulguée.
+Vraiment, je ne sais pas trop quoi faire. J'ai de l'impuissance. Je vois que cela m'impacte, en écrivant cela, il y a quelque chose qui est en train de monter de manière très désagréable.
+JE touche probablement juste.
+Je suis bien perdu. J'avais atteint à un moment une forme de résultat, en allant toucher tout ce que cela créait chez moi, de désagréable, de dur, d'impuissant, mais également, de freeze quelque part.
+JE vois que j'avais réussi à toucher du doigt le lâcher prise. Me dire que c'est trop impactant d'essayer de contrôler, de faire bien, alors que je ne peux mesurer aucune conséquence, et du coup, de me dire, j'arrête d'essayer de faire, à la place, je me concentre sur l'ici et maintenant.
+Je pense que ce n'est pas intégré, j'essaye de nouveau de faire bien, alors qu'en fait, rien ne sera bien, quoique je fasse, cela sera toujours à côté.
+Mon but devrait de travailler sur ce que j'ai moi, et cesser ce que je n'ai pas pouvoir.
+Commencer à construire ma vie future.
+
+MA capacité de concentration actuellement est assedz limitée, et je vois que toute mon énergie est bouffée par ces pensées, de noel, de bien faire, les enfants, etc.
+Je suis dans une phase d'énergie critique. Raison pour laquelle je tombe malade.
+
+Sur les célébrations, je vois que je suis moins dépendant de la présence d'Aydan, que je me trouve des ressources. Il y a quand même un agacement, qu'elle se mette en dépendance de moi de nouveau, et qu'elle ne me laisse pas de place. Mais je suis responsable de cela. Il vaudrait mieux que je prenne ma place, et que je sois moins dans le soin.
+
+Autre part, en célébration aussi, je vois que l'approche intégrale me parle. J'ai quand même de la résistance, cela ressemble à un secte. Mais j'y vois un fond de vérité. En tous les cas, une nécessite de prendre soin de manière plus intégrale, et de monter tous les niveaux et non pas de demeurer sur un seul niveau. Cela me permet de mieux justifier encore le sport que je pratique donc en soi c'est bénéfique.
+Je vois que j'ai dit à Luc notamment, qu'il fallait que je m'ancre plus dans le présent. La méditation peut être un outil puissant pour cela.
+Cette affiche de l'Aikido me parle beaucoup aussi. Je pense qu'il faut que j'arrête de me trouver des excuses et que j'essaye.
+
 # 11/12/2024
 
 Bon voilà encore un jeu qui m'a plutôt impacté ma relation avec Olga.
