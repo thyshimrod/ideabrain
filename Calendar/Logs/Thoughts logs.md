@@ -3,6 +3,20 @@ tags:
   - pascal
   - log
 ---
+# 07/01/2025
+Stucked ... toujours stucked.
+Je vois que j'ai du mal à me lancer ou à écrire des choses.
+Est ce qu'il ya quelque chose de l'ordre du sabotage. OU je suis vraiment incapable d'aller sur ma vision et de la construire.
+Je vois que je me cache derrière une souris. Une structure parfaite.
+Je vois que je reviens sur le sujet jardinier vs architecte.
+Il faut surement que je crée un cadre large, et en même temps un cadre suffisant. Mais que cela ne m'empêche pas d'avancer.
+Il y a quelque chose de l'ordre de la rigueur et de la discipline. POurquoi cela me coûte autant et qu'est ce que cela m'apporte de ne pas faire.
+Victimisation et déresponsabilisation, surement.
+
+J'ai toujours du mal à m'assumer moi même et mettre en application toutes ces choses que je vois et j'apprends. Je suis soumis toujours, et cela me permet de me plaindre, ou tout du moins de me complaire dans un état.
+
+
+
 # 06/01/2025
 
 En recherche d'une aide par IA pour avancer. Des solutions magiques pour déverrouiller ma procrastination?
@@ -23,6 +37,12 @@ Il faudrait que je mette de l'ordre et que je me donne des objectifs probablemen
 
 Me structurer me parait une idée importante et utile.
 J'ai un peu de mal à le faire, et je n'ai pas de modèle pour cela.
+
+Je vois que je cherche du soutien, ou à me rassurer. Il faut plutôt que je crée un cadre structuré qui me permette de savoir ce que je fais. Trop dans la ma tête surement besoin d'écrire.
+
+J'ai plein d'envie. J'ai de la honte qui est présent chez moi. Je me sabote pour vivre cette honte. Putain c'est chiant.
+
+
 # 02/01/2025
 Je sens une tension en moi. La situation d'Aydan avec ses parents, et moi au milieu de cela.
 Je vois que cela vient réveiller une blessure chez moi, surement je vois que Maman a joué à cela avec moi aussi, du chantage affectif.

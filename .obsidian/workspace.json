@@ -104,114 +104,6 @@
             }
           },
           {
-            "id": "009022a1115658b1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "zoimmeisdess AT jeux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/zoimmeisdess AT jeux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"zoimmeisdess AT jeux\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":0},\"to\":{\"line\":53,\"ch\":0}},\"scroll\":8}"
-                },
-                {
-                  "title": "1 - Zoimmeisdess Project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":21},\"to\":{\"line\":61,\"ch\":21}},\"scroll\":40.254149971379505}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Zoimmeisdess Project"
-            }
-          },
-          {
-            "id": "3ddacf7b6328b308",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pratique intégrale - module mental - module minute 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module mental - module minute 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
-                },
-                {
-                  "title": "202501021409 pratique de vie intégrale - module mentale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":45},\"to\":{\"line\":58,\"ch\":45}},\"scroll\":47.52132701421801}"
-                },
-                {
-                  "title": "202412251738 Pratique de vie integrale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "20241226118 Pratique de vie intégrale - Module Ombre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"20241226118 Pratique de vie intégrale - Module Ombre\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Comment désarmorcer le jeu",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Comment désarmorcer le jeu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Comment désarmorcer le jeu\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "zoimmeisdess AT jeux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/zoimmeisdess AT jeux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"zoimmeisdess AT jeux\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "202412031622 attention, affection, amour",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412031622 attention, affection, amour.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412031622 attention, affection, amour\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "Comment désarmorcer le jeu",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Comment désarmorcer le jeu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Comment désarmorcer le jeu\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Pratique intégrale - module mental - module minute 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pratique intégrale - module mental - module minute 2"
-            }
-          },
-          {
             "id": "6762ec89a1aafa6c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -220,6 +112,126 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "202501112127 pratique de vie intégrale - module esprit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202501112127 pratique de vie intégrale - module esprit.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501112127 pratique de vie intégrale - module esprit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":689},\"to\":{\"line\":42,\"ch\":689}},\"scroll\":29.620265151515152}"
+                },
+                {
+                  "title": "202412251738 Pratique de vie integrale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":62},\"to\":{\"line\":13,\"ch\":62}}}"
+                },
+                {
+                  "title": "Pratique intégrale - module mental - module minute 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Pratique intégrale - module mental - module minute 2.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "SD vert toxique comment en sortir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/SD vert toxique comment en sortir.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"SD vert toxique comment en sortir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "SD orange toxique comment en sortir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/SD orange toxique comment en sortir.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"SD orange toxique comment en sortir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "SD renforcer un niveau pour l'aider à passer au suivant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/SD renforcer un niveau pour l'aider à passer au suivant.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"SD renforcer un niveau pour l'aider à passer au suivant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Video - feedback & intention",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Evideos/Video - feedback & intention.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Video - feedback & intention\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":22.14599609375}"
+                },
+                {
+                  "title": "liste des sujets.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/liste des sujets.excalidraw.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"liste des sujets.excalidraw\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":68},\"to\":{\"line\":55,\"ch\":3}},\"scroll\":37.893319342427425}"
+                },
+                {
+                  "title": "liste des sujets.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/liste des sujets.excalidraw.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"liste des sujets.excalidraw\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":34},\"to\":{\"line\":54,\"ch\":0}},\"scroll\":37.893319342427425}"
+                },
+                {
+                  "title": "liste des sujets.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/liste des sujets.excalidraw.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"liste des sujets.excalidraw\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "zoimmeisdess Mindmap Enneagramme",
+                  "icon": "blocks",
+                  "state": "{\"type\":\"mindmapView\",\"state\":{\"file\":\"+/zoimmeisdess Mindmap Enneagramme.md\"},\"icon\":\"blocks\",\"title\":\"zoimmeisdess Mindmap Enneagramme\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "liste des sujets.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/liste des sujets.excalidraw.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"liste des sujets.excalidraw\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":4},\"to\":{\"line\":42,\"ch\":0}},\"scroll\":37.893319342427425}"
+                },
+                {
+                  "title": "liste des sujets.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/liste des sujets.excalidraw.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"2025_01_07.excalidraw\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":37.61350122420427}"
+                },
+                {
+                  "title": "zoimmeisdess AT jeux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/zoimmeisdess AT jeux.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"zoimmeisdess AT jeux\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "test mindmap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/zoimmeisdess Mindmap Enneagramme.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"test mindmap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Thoughts logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":5}"
                 },
                 {
                   "title": "Alccol - drogue - perte de contrôle",
@@ -322,17 +334,71 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "Atlas/Maps/Videos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thoughts logs"
+              "title": "Videos"
+            }
+          },
+          {
+            "id": "945e80820e26398e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "202412301013 profilage origine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202412301013 profilage origine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412301013 profilage origine\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202412301013 profilage origine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202412301013 profilage origine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412301013 profilage origine\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "zoimmeisdess Mindmap Enneagramme",
+                  "icon": "blocks",
+                  "state": "{\"type\":\"mindmapView\",\"state\":{\"file\":\"+/zoimmeisdess Mindmap Enneagramme.md\"},\"icon\":\"blocks\",\"title\":\"zoimmeisdess Mindmap Enneagramme\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Faire mon product vision board dans ExcelDraw sur obsidian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/On/Faire mon product vision board dans ExcelDraw sur obsidian.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Faire mon product vision board dans ExcelDraw sur obsidian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025_01_06.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/vision board.excalidraw.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"2025_01_06.excalidraw\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Etat vie test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Etat vie test"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -515,7 +581,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "Atlas/Maps/Videos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -525,7 +591,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thoughts logs"
+              "title": "Backlinks for Videos"
             }
           },
           {
@@ -579,32 +645,40 @@
   },
   "active": "6762ec89a1aafa6c",
   "lastOpenFiles": [
-    "Efforts/Explorations personnelles/Alccol - drogue - perte de contrôle.md",
+    "+/202501112127 pratique de vie intégrale - module esprit.md",
+    "+/202412251738 Pratique de vie integrale.md",
+    "+/Pratique intégrale - module mental - module minute 2.md",
+    "Efforts/Explorations/SD vert toxique comment en sortir.md",
+    "Efforts/Explorations/SD orange toxique comment en sortir.md",
+    "Efforts/Explorations/SD renforcer un niveau pour l'aider à passer au suivant.md",
+    "Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md",
+    "Calendar/2025-01-11.md",
+    "Efforts/Evideos/Video - feedback & intention.md",
+    "Atlas/Projects/Zoimmeisdess/liste des sujets.excalidraw.md",
+    "Efforts/ZDone/202201022000 dev perso, exigence a la perfection.md",
+    "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
+    "+/zoimmeisdess Mindmap Enneagramme.md",
+    "Efforts/ZDone/contacter mon avocate.md",
+    "Efforts/ZDone/contacter le centre de rencontre.md",
+    "Efforts/On/cadeau lyssandre.md",
+    "Efforts/On/Faire mon product vision board dans ExcelDraw sur obsidian.md",
+    "Efforts/ZDone/rendez vous prise de sang.md",
     "Calendar/Logs/Thoughts logs.md",
+    "Atlas/Projects/Zoimmeisdess/vision board.excalidraw.md",
     "Atlas/Projects/Zoimmeisdess/202411112137 instagram.md",
     "Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md",
-    "Atlas/Notes/BooksNotes/202501052135 pratique de vie intégrale - module corps.md",
-    "+/202412251738 Pratique de vie integrale.md",
-    "+/202501021409 pratique de vie intégrale - module mentale.md",
-    "+/Pratique intégrale - module ombre - module minute.md",
-    "+/Pratique intégrale - module mental - module minute 1.md",
-    "+/Pratique intégrale - module mental - module minute 2.md",
-    "Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md",
-    "Atlas/Projects/Zoimmeisdess/Comment désarmorcer le jeu.md",
-    "Atlas/Projects/Zoimmeisdess/zoimmeisdess AT jeux.md",
-    "+/202412031622 attention, affection, amour.md",
-    "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
-    "Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md",
-    "Efforts/Evideos/Vidéo - injustice effort.md",
-    "Efforts/On/rendez vous prise de sang.md",
-    "Atlas/Maps/Enneagramme.md",
-    "Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md",
-    "Atlas/Notes/BooksNotes/202407031002 enneagramme tableaux - type 2.md",
-    "Home.md",
-    "Atlas/Notes/BooksNotes/202407122207 enneagramme tableaux - type 6.md",
-    "Atlas/Notes/Ideas/202412301013 profilage origine.md",
-    "Efforts/Explorations/4E Cognition.md",
-    "Atlas/Notes/Ideas/202412231557 Culture de la honte - émission tv.md",
+    "Calendar/Logs/Psy Log.md",
+    "Atlas/Utilities/Images/Pasted Image 20250106223816_599.png",
+    "+/Etat vie test.md",
+    "Atlas/Special/Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "Atlas/Special/Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Atlas/Special/Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Atlas/Special/Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Atlas/Special/Excalidraw/Scripts/Downloaded",
+    "Atlas/Special/Excalidraw/Scripts",
+    "Atlas/Special/Excalidraw",
+    "Atlas/Special",
+    "Atlas/Utilities/Images/Pasted Image 20250106214658_883.png",
     "Atlas/Utilities/Images/4Ecognition.png",
     "Atlas/Notes/luc",
     "Atlas/Utilities/Images/Pasted image 20241124220205.png",
@@ -614,17 +688,9 @@
     "Atlas/Projects/Zoimmeisdess/Nouveau dossier",
     "Atlas/Utilities/sources/DragonDreaming_eBook_francais_V02.09.pdf",
     "Atlas/Utilities/sources",
-    "Atlas/Utilities/Nouveau dossier",
-    "Atlas/Projects/Zoimmeisdess",
-    "Atlas/Projects",
     "Atlas/Utilities/Images/dragonmiddle.png",
-    "Efforts/Explorations personnelles",
     "Atlas/Utilities/Images/dragon.png",
     "Atlas/Utilities/Images/8-QLQb43WG3YvxPkP.png",
-    "Atlas/Utilities/Images/scale of action.jpeg",
-    "Atlas/Utilities/Images/energy scale emotions.jpeg",
-    "Atlas/Utilities/Images/fredom.jpeg",
-    "Atlas/Utilities/Images/want-to_freedom.jpg",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

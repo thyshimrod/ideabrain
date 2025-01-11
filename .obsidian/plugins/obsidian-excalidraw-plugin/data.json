@@ -44298,7 +44298,7 @@
             "containerId": null,
             "originalText": "Happy Clients",
             "lineHeight": 1.25,
-            "baseline": 24
+            "baseline": 25
           },
           {
             "type": "text",
@@ -44372,7 +44372,7 @@
             "containerId": null,
             "originalText": "Social Engagement",
             "lineHeight": 1.25,
-            "baseline": 24
+            "baseline": 25
           },
           {
             "type": "text",
@@ -44446,7 +44446,7 @@
             "containerId": null,
             "originalText": "Projects completed",
             "lineHeight": 1.25,
-            "baseline": 24
+            "baseline": 25
           }
         ],
         "id": "WPbV0sLRqPnbHli7cmJ8V",
@@ -44700,7 +44700,7 @@
             "containerId": null,
             "originalText": "My name is XYZ. I love prototyping, \ndesigning & developing stuff. ",
             "lineHeight": 1.2237741873236883,
-            "baseline": 47
+            "baseline": 48
           },
           {
             "type": "rectangle",
@@ -45402,7 +45402,7 @@
             "containerId": null,
             "originalText": "Pro",
             "lineHeight": 1.25,
-            "baseline": 24
+            "baseline": 25
           },
           {
             "type": "text",
@@ -45561,7 +45561,7 @@
             "containerId": null,
             "originalText": "Premium",
             "lineHeight": 1.25,
-            "baseline": 24
+            "baseline": 25
           },
           {
             "type": "text",
@@ -45720,7 +45720,7 @@
             "containerId": null,
             "originalText": "Basic",
             "lineHeight": 1.25,
-            "baseline": 24
+            "baseline": 25
           },
           {
             "type": "text",
@@ -45757,7 +45757,7 @@
             "containerId": null,
             "originalText": "✔️ vitae nunc sed velit dignissim",
             "lineHeight": 1.4336187812268755,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "text",
@@ -45794,7 +45794,7 @@
             "containerId": null,
             "originalText": "✔️ vitae nunc sed velit dignissim",
             "lineHeight": 1.4336187812268755,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "text",
@@ -45831,7 +45831,7 @@
             "containerId": null,
             "originalText": "✔️ vitae nunc sed velit dignissim",
             "lineHeight": 1.4336187812268755,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "text",
@@ -45868,7 +45868,7 @@
             "containerId": null,
             "originalText": "eget nunc lobortis mattis",
             "lineHeight": 1.2970124414118753,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "text",
@@ -45905,7 +45905,7 @@
             "containerId": null,
             "originalText": "eget nunc lobortis mattis",
             "lineHeight": 1.2970124414118753,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "text",
@@ -45942,7 +45942,7 @@
             "containerId": null,
             "originalText": "eget nunc lobortis mattis",
             "lineHeight": 1.2970124414118753,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "text",
@@ -56584,6 +56584,24 @@
         "height": "450px",
         "value": "{\n  \"breadcrumbs\": {\n    \"down\": [\"child\", \"children\", \"offshoot\", \"tomorrow\", \"next\", \"influenced\"],\n    \"up\": [\"parent\", \"parents\", \"up\", \"MOC\", \"top\", \"LYT\", \"proto\", \"prev\", \"this week\"],\n    \"jump\": [\"jumps\", \"jump\", \"people\", \"relevant\", \"influences\", \"artifact\"]\n  },\n  \"tags\": {\n    \"#excalidraw\": {\n      \"nodeColor\": \"hsl(59, 80%, 77%)\",\n\t  \"gateColor\": \"#fd7e14\",\n\t  \"borderColor\": \"black\",\n\t  \"backgroundColor\": \"#2d3039\",\n\t  \"prefix\": \"🎨 \"\n    },\n    \"#people\": {\n      \"prefix\": \"👤 \"\n    },\n    \"#MOC\": {\n      \"prefix\": \"🗺 \"\n    },\n    \"#MOC/scope\": {\n      \"prefix\": \"🔬 \"\n    },\n    \"#concept\": {\n      \"prefix\": \"💡 \"\n    },\n    \"#dnp\": {\n      \"prefix\": \"🗓 \"\n    }\n  }\n}",
         "description": "This may contain two elements:\n\t<ol>\n\t  <li>A specification of your breadcrumbs hierarchy. Note, that if you have the Breadcrumbs plugin installed and enabled then <code>TheBrain-navigation</code> script will take your hierarchy settings from Breadcrumbs. If Breadcrumbs is disabled, this specification will be used.</li>\n\t  <li>Formatting of nodes based on page tags. You can specify special formatting rules for tags. If multiple tags are present on the page the first matching a specification will be used. You may provide partial specifications as well. e.g. if you only specify <code>prefix</code>, the other attributes will follow your default settings.</li>\n    </ol>\n\t<div style=\"user-select: text;background: #202020; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;\"><pre style=\"margin: 0; line-height: 125%\"><span style=\"color: #d0d0d0\">{</span>\n  <span style=\"color: #6ab825; font-weight: bold\">&quot;breadcrumbs&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #d0d0d0\">{</span>\n    <span style=\"color: #6ab825; font-weight: bold\">&quot;down&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #d0d0d0\">[</span><span style=\"color: #ed9d13\">&quot;children&quot;</span><span style=\"color: #d0d0d0\">,</span> <span style=\"color: #ed9d13\">&quot;child&quot;</span><span style=\"color: #d0d0d0\">],</span>\n    <span style=\"color: #6ab825; font-weight: bold\">&quot;up&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #d0d0d0\">[</span><span style=\"color: #ed9d13\">&quot;parents&quot;</span><span style=\"color: #d0d0d0\">,</span> <span style=\"color: #ed9d13\">&quot;parent&quot;</span><span style=\"color: #d0d0d0\">],</span>\n    <span style=\"color: #6ab825; font-weight: bold\">&quot;jump&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #d0d0d0\">[</span><span style=\"color: #ed9d13\">&quot;jump&quot;</span><span style=\"color: #d0d0d0\">,</span> <span style=\"color: #ed9d13\">&quot;jumps&quot;</span><span style=\"color: #d0d0d0\">]</span>\n  <span style=\"color: #d0d0d0\">},</span>\n  <span style=\"color: #6ab825; font-weight: bold\">&quot;tags&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #d0d0d0\">{</span>\n    <span style=\"color: #6ab825; font-weight: bold\">&quot;#excalidraw&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #d0d0d0\">{</span>\n      <span style=\"color: #6ab825; font-weight: bold\">&quot;nodeColor&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #ed9d13\">&quot;hsl(59, 80%, 77%)&quot;</span><span style=\"color: #d0d0d0\">,</span>\n      <span style=\"color: #6ab825; font-weight: bold\">&quot;gateColor&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #ed9d13\">&quot;#fd7e14&quot;</span><span style=\"color: #d0d0d0\">,</span>\n      <span style=\"color: #6ab825; font-weight: bold\">&quot;borderColor&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #ed9d13\">&quot;black&quot;</span><span style=\"color: #d0d0d0\">,</span>\n      <span style=\"color: #6ab825; font-weight: bold\">&quot;backgroundColor&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #ed9d13\">&quot;rgba(50,50,50,0.5)&quot;</span><span style=\"color: #d0d0d0\">,</span>\n      <span style=\"color: #6ab825; font-weight: bold\">&quot;prefix&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #ed9d13\">&quot;🎨 &quot;</span>\n    <span style=\"color: #d0d0d0\">},</span>\n    <span style=\"color: #6ab825; font-weight: bold\">&quot;#dnp&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #d0d0d0\">{</span>\n      <span style=\"color: #6ab825; font-weight: bold\">&quot;prefix&quot;</span><span style=\"color: #d0d0d0\">:</span> <span style=\"color: #ed9d13\">&quot;🗓 &quot;</span>\n    <span style=\"color: #d0d0d0\">}</span>\n  <span style=\"color: #d0d0d0\">}</span>\n<span style=\"color: #d0d0d0\">}</span>\n</pre></div>"
+      }
+    },
+    "Downloaded/Mindmap format": {
+      "MindMap Format": {
+        "value": "Excalidraw/MindMap Format",
+        "description": "This is prepared for the namespace of MindMap Format and does not need to be modified"
+      },
+      "default gap": {
+        "value": 10,
+        "description": "Interval size of element"
+      },
+      "curve length": {
+        "value": 40,
+        "description": "The length of the curve part in the mind map line"
+      },
+      "length between element and line": {
+        "value": 50,
+        "description": "The distance between the tail of the connection and the connecting elements of the mind map"
       }
     }
   },

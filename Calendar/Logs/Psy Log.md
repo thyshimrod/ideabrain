@@ -4,6 +4,19 @@ tags:
   - log
   - psy
 ---
+
+# 07/01/2025
+
+Exploration. Travail de nouveau sur la honte. 
+Il y a dessous d'autres choses. Existence vu avec Aydan de ce paradoxe, entre j'aimerai la reconnaissance de mes enfants sur mes efforts, mon envie de rester connecté avec eux, d'avoir une relation avec eux, et le fait qu'ils ne peuvent pas le recevoir aujourd'hui.
+Une forme d'injustice. Intéressant de voir que cela vient rebondir sur le sujet effort / récompense.
+J'ai l'impression d'être là dedans effectivement. Je fais des efforts, mais eprsonne pour les valider.
+En tout cas, pas les bonnes personnes, car en vrai, il y a des personnes qui me les valident (avocat, psy, centre, Aydan, Juliette).
+
+Ce que cela vient toucher plus profondément, c'est un problème d'acceptation, et de peur de l'acceptation. En gros, si j'accepte la situation, j'ai peur d'arrêter les efforts. Accepter c'est renoncer.
+Surement lié à l'injonction externe sociale.
+Idéalement, il faut que j'accepte que c'est comme cela, que je suis impuissant, que les choses vont se passer d'une certain manière sans possibilité d'intervenir, et qu'en même temps, je me donne la douceur que je fais énormément, et que contrairement à plein de père je n'ai pas abandonné, je suis toujours là, toujours sur le pied de guerre, à continuer à essayer de rester en contact.
+
 # 05/11/2024
 
 Voir ma tristesse au sujet de reacteev. Voir la reproduction de choses préexistantes depuis l'enfance. L'incompréhension de mes propres envies versus le fait que je n'arrive pas à fédérer sur ces sujets avec moi. du coup, abandon de mes propres envies / désirs / rêves pour adaptation au monde.

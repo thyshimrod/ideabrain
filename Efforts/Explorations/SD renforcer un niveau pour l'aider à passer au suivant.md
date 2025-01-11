@@ -1,6 +1,7 @@
 ---
 up:
   - "[[Efforts]]"
-type: "[[Ideaverse]]"
+type: "[[Exploration]]"
 rank: "3"
 ---
+

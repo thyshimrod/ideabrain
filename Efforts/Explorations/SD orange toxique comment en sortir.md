@@ -1,6 +1,7 @@
 ---
 up:
   - "[[Efforts]]"
-type: "[[Exploration Personnelle]]"
+type: "[[Exploration]]"
 rank: "3"
 ---
+

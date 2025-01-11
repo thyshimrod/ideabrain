@@ -61,6 +61,9 @@ Le but est de mettre à disposition des connaissances pour faire grandir ou se f
 	* [[Vivre avec les autres]]
 		* [[zoimmeisdess AT jeux]]
 		* [[Comment désarmorcer le jeu]]
+	* Enneagramme
+		* [[zoimmeisdess Mindmap Enneagramme]]
+		* 
 
 
 # Explorations
