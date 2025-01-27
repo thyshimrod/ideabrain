@@ -3,6 +3,104 @@ tags:
   - pascal
   - log
 ---
+
+# 27/01/2025
+Quel mois cela va être.
+Je vois que j'appréhende énormément le passage au tribunal. J'appréhende déjà de recevoir les horreurs de l'autre, qui va venir appuyer sur mes blessures. Ne pas être assez bien, ne pas être un bon père, blablabla.
+J'ai besoin de plus d'apaisement. De vivre quelque chose de doux.  Du coup, je mange mes émotions, plutôt que de les explorer.
+Congruence CNV. Je fatigue à force de vivre tout cela, plutôt que de faire ce que je devrai faire. C'est fou. 
+
+Je me sens un peu anéanti. Le mot est fort mais il est vrai. Je souffre beaucoup de ce manque d'harmonie, de ce sentiment d'injustice. Et du coup, tout est compliqué, même demandé de reporter l'appel des enfants. 
+
+Je vois que cela ne me permet pas de vivre des choses douces. j'en ai marre d'être dans ce manque, ce sentiment en creux, c'est peut être cela dont j'ai besoin, de me remettre en plein, plutôt que de rester en creux. C'est l'un des apprentissages que j'ai fait hier pourtant.
+
+Voilà j'ai arrêté de faire mes célébrations je me sens comme une nouille, un nul.
+Putain c'est dur. Dès que je lâche ces trucs, paf dans la tête.
+Il faut que je me rappelle qui je suis et pourquoi je le fais. Ce qui est important pour moi, combien je suis bon.
+
+Dur de voir que j'ai lâché la plupart des pratiques. Il faut que je me recentre sur ce qui est important pour moi.
+
+
+# 22/01/2025
+
+Demain déjà mon anniversaire. Je vois que j'y ai mis une certaine importance. Besoin d'avoir de l'attention, des gens qui m'aiment, qui pensent à moi.
+En vrai, cela ne peut arriver, mais j'aimerai tellement que mes enfants me le souhaitent. Mais je ne leur ai pas dit, et leur mère ne leur dira rien.
+C'est insupportable.
+
+Je suis content d'avoir trouvé le livre de pesquet pour Lyssandre. J'espère qu'il ne l'a pas. Sinon, tant pis. J'ai envie de lui faire la surprise et de montrer que je pense à lui.
+
+
+# 15/01/2025
+
+Fatigue, colère.
+
+C'est étrange de vivre cette colère que je ne vis pas habituellement, là ça bouillonne, trop d'injustice. Je sais que c'est de la surface.
+Intéressant de voir que Aydan commence à décrypter et à "dénoncer le jeu".
+Effectivement j'étais dans le parent prescripteur, à savoir normatif ++. Et elle a joué le jeu de la petite fille soumise.
+Je vois que ce soir elle a utilisé des mots qui résonnent comme inacceptable, je ne veux pas vivre cela... Ce qui induit, que je n'ai pas le droit de faire ce que j'ai fait, c'est inacceptable. Elle rejette la responsabilité sur moi.
+Elle ne prend pas sa part, et ne fait reposer que sur elle. Alors que quelque part elle est venue déclencher un stimulus. Elle m'a emmené dans un jeu, en appuyant là où elle connaît le bouton.
+Alors ce qui utile, c'est de voir que j'ai un bouton, du coup, il faut que j'aille regarder cela. Pour éviter qu'elle ne rappuie dessus continuellement. Cela me servira peut être aussi à mieux vivre mon projet perso.
+
+En fait, quand je regarde notre repas, et j'aurai du m'en apercevoir, elle avait besoin de parler. Comme à son habitude, elle a commencé par me donner la parole pour se donner l'autorisation ensuite de prendre sa place. Malheureusement j'ai pris toute la place, car surement que cela fait longtemps que je n'avais pas eu de place. (jugement, opinion). J'essaye de décrypter.
+Je vois qu'à 2 occasions, elle avait essayé de m'entraîner dans des jeux.
+La première, j'ai senti que je devais me justifier de mon choix de faire le parcours de certif. Plutôt que de me soutenir, elle est venue apporter autre chose. Quand elle a vu que j'avais vu qu'elle tentait de jouer, et que c'était désagréable, elle a changé de posture. Et est revenu en soutien, en excitation. J'ai ressenti (opinion/jugement) que c'était fake, je n'étais pas touché, et je n'ai pas ressenti le partage, et l'élan.
+La 2e fois c'est quand elle m'a parlé de Reda. C'était bizarre. C'est ma vision (opinion/jugement) mais de nouveau, elle sait que je suis en insécurité en ce moment, sur ce sujet. Elle est venue toucher quelque chose qui me fait mal. Qu'est ce qu'elle attendait comme réaction? Difficile à dire, je suis resté plutôt sidéré, et je n'ai pas su quoi faire. Je suis revenu à moi et mon rêve. Du coup, des pensées (peur/insécurité) sont venues se bousculer, elle s'est habillé sexy pour qui? Un grand dos nu/dentelle, avec un large décolleté, cela ne lui ressemble pas, elle, qui est tellement dans la pudeur. C'est étrange. Mais là je sais que c'est mon insécurité qui me parle, en rebond de ces événements du passé.
+Tout cela est très étrange.
+
+Elle n'a pas voulu s'apesantir, ni sur Arthur, si sur Yvener. Mais je sais que ce n'est pas ok.
+
+En tous les cas, j'ai esquivé 2 fois des jeux. Je le vois bien là.
+
+Ce sont aussi des pensées, mais je vois qu'il y a peut être quelque chose de l'ordre de l'envie, me voir faire tout cela et elle, rien. Ou de la déloyauté, car elle aurait faire avec moi, je le sais. Et en même temps, c'est tellement compliqué, j'ai besoin de faire ces trucs. Finalement, sous son initiative, et je connais l'histoire de notre vie, rien ne se fait, sans mon impulsion. 
+
+Elle agit aussi parfois par impulsion déraisonnée, contre phobique. Confère l'opéra.
+
+Putain la colère est toujours là. Je trouve aussi cela injuste, qu'elle ne veuille pas faire le pas de son côté, et voir que moi aussi j'en souffre. Il n'y a pas d'empathie envers moi. Elle reste focus sur elle.
+De nouveau cela vient toucher l'injustice. Je suis celui qui doit sauver la relation? Oui parce que j'en suis capable, mais j'aimerai qu'elle fasse montre d'un effort malgré tout.
+Je vois que je suis toujours dans le souhait qu'elle change, et qu'elle porte la responsabilité, le chacal est très vivant, cette fois. C'est sûrement le cumul
+
+En vrai, tout cela est une demande de contact maladroite. Je ressens l'influence des parents. Je vois de nouveau, qu'elle me renvoie à ses peurs. Comme son père lui fait. Comme il y a quelques années, avec cette historie d'hotel un vendredi soir, où j'espérais son soutien, où elle este venue jouer sur ses peurs. Là de nouveau, elle ne partage pas mon excitation, mon désir d'avancer, elle projette ses peurs. Mon besoin est le partage, pas le frein.
+Je vois aussi qu'elle joue comme sa mère également. il y a vraiment ces 2 tendances. Je n'ai aucune idée de comment je peux lui montrer.
+
+Je ne sais pas si elle est capable d'entendre tout cela. Cela revient à lui dire qu'elle est coupable. 
+
+Je veux bien prendre ma part, et en même temps, j'aimerai être vu dans mon effort. Besoin de considération. Mais bien entendu c'est la colère qui parle toujours. Rhaaaaa... comment descendre?
+
+Pourquoi je lui ai demandé de liker mes posts? En vrai, je m'en fous. Peut être j'avais besoin d'être vu. Quelle est ma part dans tout cela.
+
+Je vois qu'il y a surement un tristesse dans tout cela, de ne pas être supporté, et qu'elle ne soit tournée que vers elle. 
+
+C'est quand même plus doux, mais il y a quand même une énergie forte qui est présente. J'ai peur de ne pas être en ETE, pour lui dire tout cela.
+
+Je reste convaincu qu'il y avait une demande de connexion maladroite et qu'elle avait besoin d'être vue. Je retourne sur sa colline.
+
+inquiétude pour l'après midi, sa mère malade, elle a vu son ex, Arthur, colère contre son père.
+Ai je manqué d'empathie? ou d'écoute?
+CNV <-> déloyauté? Quelque chose à me faire payer? 
+En tout cas, elle a utilisé une panoplie de boutons pour me faire réagir. J'en ai vraiment conscience. Mais qu'est ce qui se jouait? Est ce qu'elle avait besoin d'être vu dans sa souffrance? Sa Confusion, sa peur? A-t-elle peur de quelque chose dans la relation? avait elle besoin d'empathie/d'écoute? Avait elle peur que j'aille trop loin? A-t-elle peur de l'éloignement?
+
+Je pense que j'ai désormais les moyens de naviguer dans tout cela.
+
+Il y a quelque chose qui n'est toujours pas ok chez moi. Je n'arrive pas à voir de quoi cela parle. J'ai du mal à prendre ma part de responsabilité. Je suis toujours à vouloir que cela soit d'elle que cela part, même si manifestement c'est le cas.
+
+En tous les cas, je vois que mon parent normatif est haut en ce moment, ainsi que mon enfant rebelle. CEla crée des jeux, et des situations désagréables. J'aimerai nourri plus mon Adulte.
+Ou tout simplement revenir à plus d'authenticité si possible. J'ai une double aspiration, qui va vers la puissance je pense, et donc qu'on arrête de m'emmerder. Du coup, plutôt qu'être dans la puissance adulte, je viens nourrir une puissance rebelle, ou normatif.
+En même temps, on ne cesse de me demander d'entrer dans cette case de normatif. Je l'avais perçu avec Patricia et je lui en ai fait part. Elle n'a pas forcément compris et vu. Pour autant c'est un bon indicateur pour moi.
+
+
+
+# 12/01/2025
+
+ Que dire? Est ce qu'on peut changer sans rupture? Question de Audan. Effectivement, question intéressante. Je vois que je suis quelque part là dedans, où j'ai envie de changer de vie, et en même temps, je suis coincé quelque 
+ part. Confort et sécurité. Peur de tout lâcher et de construire autre chose? Intéressant car au final je pourrai faire une 2nde activité, sans lâcher mon activité principale.
+ Je pense qu'il s'agit d'autre chose à mon sens. J'ai du mal à savoir quoi et comment. J'essaye de creuser ce sabotage. Peur de mal faire, de ne pas faire assez. Question de l'anglais pour toucher plus de monde?
+ Question d'écrire un livre aussi.
+Comment sortir de cette torpeur? Je n'arrive pas à me donner d'échéance non plus. C'est étrange.
+Je reste dans la dispersion et du mal à me focus.
+J'ai quand même créé uen vidéo aujourd'hui sur l'intention du feedback.
+Je m'éclaircis les idées je perçois.
+
+
 # 07/01/2025
 Stucked ... toujours stucked.
 Je vois que j'ai du mal à me lancer ou à écrire des choses.
