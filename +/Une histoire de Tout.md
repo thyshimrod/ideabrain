@@ -27,13 +27,58 @@ Ce cocktail bizarre des mèmes postconventionnels élevés et de même préconve
 
 **VERT** par conséquent révèle non pas une uniformitarisme rationnel tendant à ignorer et à marginaliser tout ce qui ne lui ressemble pas, mais une belle tapisserie aux contextes multiples, riche de différentes textures culturelles, de perceptions pluralistes et de différences individuelles, et il devient sensible (le sois sensible!) aux nombreuses voix ignorées.
 
-En résumé puisque **VERT** est l'aboutissement de la pensée de premier pallier, il prépare également le saut vers le second palier. Mais pour pouvoir passer aux constructions de second palier, il faut que la fixation, l'attachement au relativisme pluraliste et au même **VERT** en général se relâche. Ses accomplissements seront totalement pris en compte et intégrés dans la suite du développement. Mais sa contration autour de sa position propre doit être détendue, un lâcher prise que la boomérite (ou l'attachement narcissique à l'intense subjectivisme de la position pluraliste) rend extrêmement difficile. En mettant en lumière notre fixation au mème **VERT**, je crois que nous pouvons plus facilement commencer à transcender et à inclure ses fantastiques contributions dans une perspective encore plus généreuse.
+En résumé puisque **VERT** est l'aboutissement de la pensée de premier pallier, il prépare également le saut vers le second palier. Mais pour pouvoir passer aux constructions de second palier, il faut que la fixation, l'attachement au relativisme pluraliste et au même **VERT** en général se relâche. Ses accomplissements seront totalement pris en compte et intégrés dans la suite du développement. Mais sa contraction autour de sa position propre doit être détendue, un lâcher prise que la boomérite (ou l'attachement narcissique à l'intense subjectivisme de la position pluraliste) rend extrêmement difficile. En mettant en lumière notre fixation au mème **VERT**, je crois que nous pouvons plus facilement commencer à transcender et à inclure ses fantastiques contributions dans une perspective encore plus généreuse.
 
 C'est d'après Clare Graves, la fonction principale du mème **VERT** : rendre l'ensemble de la spirale *sensible* (le soi sensible) et par conséquent la préparer à une transformation de second palier.
-Mais pour que cela puisse avoir lieu, la conscience doit transcender le mème vert. Pour paraphraser Graves *le mème VERT doit s'effronder afin de libérer l'énergie qui permettra le saut vers le second palier. Telle est la position actuelle de l'avanta garde*.
+Mais pour que cela puisse avoir lieu, la conscience doit transcender le mème vert. Pour paraphraser Graves *le mème VERT doit s'effondrer afin de libérer l'énergie qui permettra le saut vers le second palier. Telle est la position actuelle de l'avant garde*.
 
 Il y a 4 facteurs qui je pense, sont particulièrement importants:
 * L'accomplissement : Une personne qui a encore faim pour une nourriture particulière d'un niveau donné n'ira tout simplement pas voir ailleurs.
 * la dissonance : la nouvelle vague tente d'émerger, la vague ancienne lutte pour se maintenir, et l'individu se sent tiraillé.
-* la compréhension
-* l'ouverture
+* la compréhension : nous désidentifier du niveau actuel ou nous en lasser, blaser, fatiguer. C'est alors qu'une sorte de compréhension a lieu quant à la situation dans laquelle nous nous trouvons (une compréhension qui nous aide à voir ce que l'on veut vraiment, et ce que la réalité a à nous offrir). qui nous aide à aller de l'avant. L'affirmation, la volonté, l'intention d'accueillir le changement peuvent être des aspects importants de cette perception de la situation, permettant le développement de la conscience.
+* l'ouverture : quand tous ces facteurs sont résunis, une ouverture sur la prochaine vague de conscience, plus profonde, plus élevée, plus vaste, plus inclusive devient possible. 
+# Le relativisme pluraliste : le VERT
+toute vérité est relative à une culture (excepté la sienne qui est vraie pour toutes les cultures); il n'y a pas de vérité transcendantale (excepté ses déclarations qui transcendent les contextes spécifiques) ; toutes les hiérarchies et tous les classements de valeur sont oppressants et marginalisant (sauf les leurs qui sont supérieurs aux alternatives) ; il n'y a pas de vérité universelle (hormis son propre pluralisme qui est universellement vrai pour tous les peuples).
+
+On trouve également plusieurs formes de hiérarchies chez les féministes (les sociétés de partenariats sont meilleures que les sociétés de pouvoir ; le lien est plus important que le statut ; la libération vaut mieux que l'oppression).
+
+# Une grandeur mieux évaluée
+
+Les êtres humains naissent et initient leur évolution à travers la grande spirale de la conscience, en traversant les vagues archaïque, magique, mythique, rationnelle, et potentiellement, les vagues intégrales et les domaines authentiquement transpersonnels. Mais pour chaque personne qui atteint les vagues intégrales ou transpersonnelles, des dizaines d'âmes s'incarnent au niveau archaïque. La spirale de l'existence est une grande rivière sans fin, défilant à travers le corps, le mental, l'âme et l'Esprit, entrainant des millions et des millions d'âmes dans son courant, depuis la sources jusqu'à l'océan. Aucune civilisation ne sera jamais uniquement à un niveau intégral, car le flot est incessant (même si le centre de gravité d'une culture peut tout à fait voguer dans une ascension le long de la spirale, tel que cela a été le cas tout au long de l'histoire). Mais une question centrale demeure, qui n'est pas de savoir comment nous pouvons amener toute l'humanité vers les vagues intégrales et subséquentes mais comment nous pouvons favoriser la santé globale de la spirale, alors que des millions d'humains continuent de la traverser, d'un bout à l'autre, jour après jour?
+
+Autrement dit, une grande partie de la tâche à accomplir consiste à permettre aux vagues initiales(et fondatrices) de s'établir dans la santé selon leurs propres critères. Les réformes majeures ne chercheront pas à pousser une poignée de baby boomer vers le second palier mais à trouver des façons de permettre aux masses affamées des vagues fondatrices de se nourrir, à aider les millions de sans abri à se loger, à procurer des soins de santé à tous ceux qui n'y ont pas accès. Une vision intégrale est par conséquent l'un des enjeux les moins urgents d'un point de vue planétaire.
+
+# La vision intégrale dans le monde
+
+La vision intégrale est l'un des enjeux les moins pressants de notre temps. La santé de la spirale entière et particulièrement des vagues initiales nous ordonne d'en faire le premier impératif moral.
+
+Néanmoins l'avantage d'une conscience intégrale de second palier est qu'elle permet de trouver des solutions créatives à ces problèmes pressants. En saisissant la vue d'ensemble, elle est en mesure de suggérer des solutions plus adaptées. Ce sont par conséquent nos gouvernements qui ont désespérément besoin d'une approche plus intégrale
+
+LA directive première d'une authentique politique intégrale doit être non pas de pousser tout le monde vers un niveau de conscience particulier mais d'assurer la santé globale de la spirale de développement à chacun de ses niveaux et chacune de ses vagues. Les 2 conditions vers une politique intégrale sont donc :
+* inclure les intérieurs et les extérieurs
+* comprendre les stades de développement intérieur afin d'accéder à la directive première.
+
+# La terreur de demain
+LA croissance technologique des quadrants droits a toujours devancé le développement intérieur (car une fois que des objets matériels ont été produits, ils peuvent être utilisés par n'importe quel niveau intérieur : ainsi, un génie opérant à un haut niveau cognitif peut concevoir et produire une technologie qui peut ensuite être utilisé par des individus à n'importe quel niveau de développement).
+Jusqu'à l'époque moderne, ce problème était limité car les technologies en jeu étaient elles-mêmes relativement limitées. Les dégâts écologiques et humains qu'un arc et des flèches peuvent occasionner restent assez circonscrits... Mais avec l'émergence de la modernité et d'un mème ORANGE aux immenses capacités scientifiques, l'humanité commença à produire des technologies orange alros que la majeure partie de l'humanité était encore à des niveaux de conscience morale bleus ou rouges. Le développement extérieur désormais incroyablement puissant, n'étant pas contrebalancée par un développement intérieur équivalent, et l'écart entre les technologies des quadrants droits et la sagesse des quadrants gauches se creusant toujours plus, des catastrophes planétaires devinrent pour la première fois de l'histoire, non seulement possibles, mais inévitables. Dde l'holocauste atomique au suicide écologique, l'humanité se trouva confrontée à son problème fondamental : son manque de développement intégral.
+
+Lorsque le Dalaï Lama parle d'amour et de compassion, il invoque bien entendu des qualités d'amour et  de compassion universelles, postconventionnelles et monde centrique. Mais c'est là un niveau de développement atteint par moins de 30% de la population mondiale, alors que potentiellement 100% de la population mondiale aura bientôt accès à des technologies capables de détruire la planète...
+
+# centre de gravité
+
+10% population en violet, 20% en rouge, 40% bleu
+ cela donne 70% de la population mondiale a un centre de gravité ethnocentré ou inférieur.
+
+# non respect des niveaux inférieurs
+
+Lorsque l'aparteid fut aboli - de façon abrupte et peut être sans assez de réflexion quant à ce qui allait le remplacer - l'Afrique du Sud fut jeté dans la tourmente. L4apartheid, bien sur, devait être aboli, mais les sud africains auraient eu besoin d'un peu plus de temps afin d'élaborer leur propre structure bleue capable de remplacer la version européenne. BEck, qui est resté proche des dirigeants, affirme que la situation continue à se développer de façon hésitante et par à coups difficiles. (Elle n'a pas été aidée par l'attitude libérale verte qui, avec son habituel manque de croyance dans les niveaux intérieurs, a simplement insisté pour que toutes les structures bleues soient démantelées, ce qui a eu pour effet de paralyser la spirale dans son ensemble).
+
+Les nations bleues perçoivent intuitivement que les droits de l'homme verts ont un effet profondément corrosif sur les structures bleues, ce qui a des conséquences tout à fait préjudiciables pour la Chine. Ce n'est que lorsque les infrastructures orange - grossissement de la classe moyenne, technologie, respect des droits humains objectifs et libéralisation de l'initiative individuelle - s'enracinent dans une culture, que les droits de l'homme verts commencent à devenir pertinents, sans encore parler de devenir réellement attractifs. Même si elle le voulait, une nation bleue ne peut structurellement aller vers un pluralisme vert sans transiter par orange, c'est pourquoi vouloir ce développement a généralement pour conséquence d'exciter les réponses réactionnaires et paranoiaques.
+
+Pour que le reste du monde accède au niveau vert, il est nécessaire que chaque individu se développe à travers les attitudes violettes, rouge, bleue, orange et enfin verte. Beck et Cowan insistent constamment sir le fait que le mème bleu est un maillon, une composante absolument cruciale, indispensable, et inévitable des niveaux supérieurs. Pourtant le mème Vert faut à peu près tout ce qui est en son pouvoir pour détruire le mème bleu partout où il le rencontre.
+Comme le formule la Spirale Dynamique "vert cherche à dissoudre bleu", et en faisant cela, selon les mots de Beck lui même : "Vert a causé plus de tort, durant ces tente dernières années, que n'importe quel autre mème".
+
+Tant qu'il n'y aura pas plus de 10% de la population mondiale en Vert, le centre de gravité culturel demeurera solidement ancré dans les altitudes précédentes, et une culture qui se donne comme objectif d'imposer le pluralisme et le multiculturalisme sur toutes les autres cultures est condamné à se désagréger en moins de temps qu'il ne faut pour dire "déconstruction". C'est en cela que Beck affirme que le tort causé par le mème Vert surpasse ses mérites.
+Lorsque Vert dissout Bleu c'est toute la spirale qui en pâtit. Violet et rouge ne peuvent plus continuer leur développement car ils sont privés du palier bleu qui leur est indispensable. Vert endommage donc de façon catastrophique l'ensemble de la spirale.
+
+

@@ -4,6 +4,22 @@ tags:
   - log
 ---
 
+# 03/02/2025
+La mort de SP, reste un événement difficile, mais j'encaisse. J'essaye de soutenir Aydan là dessus.
+Je sais que ce n'est pas simple. En même temps, je vis cela sereinement. C'est arrivé, et c'est tout.
+
+Je suis inquiet pour les enfants aussi. D'ailleurs je n'ai pas fait encore les papiers cadeaux. Il faut que j'achete aussi une carte d'annive pour lyssandre et lui mettre de l'argent.
+
+Bizarre, l'histoire de l'avocat. Ne pas répondre à notre dossier. Elle mise tout sur la plaidoirie? Je ne puis penser qu'elle abandonne ou laisse couler. En même temps, tout est contre elle. Mais je ne crois pas un instant. Elle ne s'est pas battu pendant tant de temps pour laisser couler maintenant. Je n'y crois pas.
+Encore une stratégie de couverture. Elle m'use psychologiquement. Il faut que je regarde pour acheter des billets de train d'ailleurs pour le 25.
+
+Ce week end m'a plutôt fait du bien. Sexe & rock & roll. Je sais que le boulot me prend la tête quand même. Les jeux de Ludovic sont épuisants.
+
+Je vois que l'intégration de Olga est un cailloux dans ma chaussure. Je ne sais pas trop comment gérer cela. Je n'ai pas trop envie de l'avoir dans le paysage. En même temps c'est la vie. C'est aussi un apprentissage pour moi de vivre. J'ai tellement de chacal envers elle. Cela me fatigue. J'ai rajouté une exploration personnelle sur ce sujet. let see. J'aimerai bien guérir ce trigger. Ces jeux pertinents.
+
+je vois que je suis capable de remettre de l'équilibre dans mon désordre. Apporter de la puissance.
+Je reviens sur pour être puissant il faut vivre de la puissance.
+
 # 27/01/2025
 Quel mois cela va être.
 Je vois que j'appréhende énormément le passage au tribunal. J'appréhende déjà de recevoir les horreurs de l'autre, qui va venir appuyer sur mes blessures. Ne pas être assez bien, ne pas être un bon père, blablabla.
@@ -18,7 +34,8 @@ Voilà j'ai arrêté de faire mes célébrations je me sens comme une nouille, u
 Putain c'est dur. Dès que je lâche ces trucs, paf dans la tête.
 Il faut que je me rappelle qui je suis et pourquoi je le fais. Ce qui est important pour moi, combien je suis bon.
 
-Dur de voir que j'ai lâché la plupart des pratiques. Il faut que je me recentre sur ce qui est important pour moi.
+Dur de voir que j'ai lâché la plupart des pratiques. Il faut que je me recentre sur ce qui est important pour moi. Il y a un besoin de reconnaissance qui est important pour moi. Je vois que je n'intègre pas assez la reconnaissance. 
+Je n'avance pas suffisamment sur mes sujets non plus. Je passe beaucoup de temps à autre chose. Finalement à quoi?
 
 
 # 22/01/2025

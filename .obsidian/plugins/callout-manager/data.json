@@ -3,7 +3,8 @@
     "custom": [
       "iconref-a",
       "icon-ref-b",
-      "context"
+      "context",
+      "bikee"
     ],
     "settings": {
       "note": [
@@ -75,7 +76,6 @@
     }
   },
   "calloutDetection": {
-    "obsidianFallbackForced": false,
     "obsidian": true,
     "theme": true,
     "snippet": true

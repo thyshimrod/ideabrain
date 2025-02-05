@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf1c72bfd5c3915d",
+            "id": "a6049aa67d4c1a0b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,195 +18,154 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Ne pas être assez bien , ne pas faire suffisamment",
+                  "title": "1 - Zoimmeisdess Project",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations personnelles/Ne pas être assez bien , ne pas faire suffisamment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ne pas être assez bien , ne pas faire suffisamment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":126},\"to\":{\"line\":6,\"ch\":126}},\"scroll\":6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":15},\"to\":{\"line\":26,\"ch\":15}},\"scroll\":8}"
                 },
                 {
-                  "title": "Thoughts logs",
+                  "title": "Home",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":29.18359375}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":152},\"to\":{\"line\":17,\"ch\":152}},\"scroll\":5.041666666666667}"
                 },
                 {
-                  "title": "Change Log",
+                  "title": "Video - feedback & intention",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Change Log\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":12.593406526611389}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Video - feedback & intention.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Video - feedback & intention\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":11.938151041666666}"
                 },
                 {
-                  "title": "Explorer SD comment créer une map & assessment",
+                  "title": "Vidéo - boucle de renforcement",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/Explorer SD comment créer une map & assessment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Explorer SD comment créer une map & assessment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - boucle de renforcement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - boucle de renforcement\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "2025-01-11",
+                  "title": "Vidéo - jouer c'est à deux, chacun doit pouvoir aller voir sa part de responsabilité",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-01-11.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-01-11\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - jouer c'est à deux, chacun doit pouvoir aller voir sa part de responsabilité.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - jouer c'est à deux, chacun doit pouvoir aller voir sa part de responsabilité\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":64},\"to\":{\"line\":8,\"ch\":64}}}"
                 },
                 {
-                  "title": "2024-09-21",
+                  "title": "Vidéo - ouvrir la porte que l'autre ne soupçonne pas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2024-09-21.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2024-09-21\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - ouvrir la porte que l'autre ne soupçonne pas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - ouvrir la porte que l'autre ne soupçonne pas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":74},\"to\":{\"line\":8,\"ch\":74}}}"
                 },
                 {
-                  "title": "Faire du Sport",
+                  "title": "Vidéo - etre impliqué dans la relation complique les choses",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Actions Recurrentes/Faire du Sport.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Faire du Sport\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - etre impliqué dans la relation complique les choses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - etre impliqué dans la relation complique les choses\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "Pratique intégrale - module ombre - module minute",
+                  "title": "Vidéo - CNV ne pas oublier le mouvement de retour",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/Pratique intégrale - module ombre - module minute.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module ombre - module minute\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":417},\"to\":{\"line\":7,\"ch\":417}}}"
-                },
-                {
-                  "title": "Pratique intégrale - module mental - module minute 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/Pratique intégrale - module mental - module minute 2.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":202},\"to\":{\"line\":9,\"ch\":202}}}"
-                },
-                {
-                  "title": "Pratique intégrale - module mental - module minute 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/Pratique intégrale - module mental - module minute 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pratique intégrale - module mental - module minute 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "202501131723 pratique de vie intégrale - paradoxe",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501131723 pratique de vie intégrale - paradoxe.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501131723 pratique de vie intégrale - paradoxe\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "202501131703 pratique de vie intégrale - resister a la resistance",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501131703 pratique de vie intégrale - resister a la resistance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501131703 pratique de vie intégrale - resister a la resistance\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "202501121619 pratique de vie intégrale - module ethique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501121619 pratique de vie intégrale - module ethique.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501121619 pratique de vie intégrale - module ethique\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "202501112127 pratique de vie intégrale - module esprit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501112127 pratique de vie intégrale - module esprit.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501112127 pratique de vie intégrale - module esprit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - CNV ne pas oublier le mouvement de retour.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - CNV ne pas oublier le mouvement de retour\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
-                  "title": "202501021409 pratique de vie intégrale - module mentale",
+                  "title": "Vidéo - changer l'autre signifie que qq chose est ko chez soi",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - changer l'autre signifie que qq chose est ko chez soi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - changer l'autre signifie que qq chose est ko chez soi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":93},\"to\":{\"line\":8,\"ch\":93}}}"
                 },
                 {
-                  "title": "202412251738 Pratique de vie integrale",
+                  "title": "Vidéo - changer malgré les injonctions sociales",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - changer malgré les injonctions sociales.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - changer malgré les injonctions sociales\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":59},\"to\":{\"line\":8,\"ch\":59}}}"
                 },
                 {
-                  "title": "Vivre avec les autres",
+                  "title": "Vidéo - avoir raison - domination",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vivre avec les autres\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - avoir raison - domination.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - avoir raison - domination\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "Vidéo - injustice effort",
+                  "title": "Videos",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Evideos/Vidéo - injustice effort.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - injustice effort\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":15},\"to\":{\"line\":14,\"ch\":15}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Videos.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Videos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Vivre avec les autres",
+                  "title": "Vidéo - avoir raison - domination",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vivre avec les autres\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - avoir raison - domination.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - conf outils 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
-                  "title": "1 - Zoimmeisdess Project",
+                  "title": "instaVideo",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":18},\"to\":{\"line\":60,\"ch\":18}},\"scroll\":40.254149971379505}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/instaVideo.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"instaVideo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "202412112042 zoimmeisdess - résilience",
+                  "title": "Vidéo - avoir raison - domination",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/202412112042 zoimmeisdess - résilience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412112042 zoimmeisdess - résilience\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":10}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/instavideos/Vidéo - avoir raison - domination.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vidéo - conf outils 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
-                  "title": "1 - Zoimmeisdess Project",
+                  "title": "202501272230 colere, une des sources avoir raison",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":24},\"to\":{\"line\":60,\"ch\":24}},\"scroll\":37.893319342427425}"
-                },
-                {
-                  "title": "20241226118 Pratique de vie intégrale - Module Ombre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"20241226118 Pratique de vie intégrale - Module Ombre\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "202412251738 Pratique de vie integrale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":63},\"to\":{\"line\":7,\"ch\":63}},\"scroll\":7}"
-                },
-                {
-                  "title": "20241226118 Pratique de vie intégrale - Module Ombre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/20241226118 Pratique de vie intégrale - Module Ombre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"20241226118 Pratique de vie intégrale - Module Ombre\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":116,\"ch\":0},\"to\":{\"line\":116,\"ch\":0}},\"scroll\":140.47907158690833}"
-                },
-                {
-                  "title": "202412251738 Pratique de vie integrale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202412251738 Pratique de vie integrale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202412251738 Pratique de vie integrale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":62},\"to\":{\"line\":7,\"ch\":62}},\"scroll\":7}"
-                },
-                {
-                  "title": "202501021409 pratique de vie intégrale - module mentale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":25.069905213270143}"
-                },
-                {
-                  "title": "Enneagramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":41},\"to\":{\"line\":41,\"ch\":41}},\"scroll\":16.075520833333332}"
-                },
-                {
-                  "title": "202501021409 pratique de vie intégrale - module mentale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202501021409 pratique de vie intégrale - module mentale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501021409 pratique de vie intégrale - module mentale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":220},\"to\":{\"line\":33,\"ch\":220}},\"scroll\":17.373222748815166}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202501272230 colere, une des sources avoir raison.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501272230 colere, une des sources\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":94},\"to\":{\"line\":18,\"ch\":94}}}"
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Thoughts logs"
+              "title": "Home"
             }
           },
           {
-            "id": "6f8a6b78f5ca123a",
+            "id": "11134c962e2ad93b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1 - Zoimmeisdess Project"
+            }
+          },
+          {
+            "id": "1286acc59eed4c88",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -216,75 +175,282 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "202407121101 enneagramme tableaux - type 5",
+                  "title": "1 - Zoimmeisdess Project",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202407121101 enneagramme tableaux - type 5.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202407121101 enneagramme tableaux - type 5\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":29.922135710716248}"
                 },
                 {
-                  "title": "202406191408 enneagramme tableaux types healthy",
+                  "title": "La grande Chaîne de l'Etre",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202406191408 enneagramme tableaux types healthy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":49},\"to\":{\"line\":19,\"ch\":49}},\"scroll\":11.44374974568685}"
-                },
-                {
-                  "title": "Enneagramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":43},\"to\":{\"line\":41,\"ch\":43}},\"scroll\":23.133333047231037}"
-                },
-                {
-                  "title": "Ennea-HolyIdeas3",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Atlas/Utilities/Images/Ennea-HolyIdeas3.png\"},\"icon\":\"lucide-image\",\"title\":\"Ennea-HolyIdeas3\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202407121101 enneagramme tableaux - type 5",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202407121101 enneagramme tableaux - type 5.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202407121101 enneagramme tableaux - type 5\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":83.5}"
-                },
-                {
-                  "title": "202406191408 enneagramme tableaux types healthy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202406191408 enneagramme tableaux types healthy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":50},\"to\":{\"line\":19,\"ch\":50}},\"scroll\":12.875}"
-                },
-                {
-                  "title": "Enneagramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":42},\"to\":{\"line\":41,\"ch\":42}},\"scroll\":18.98534786020295}"
-                },
-                {
-                  "title": "Thoughts logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":5}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Explorations/La grande Chaîne de l'Etre.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"La grande Chaîne de l'Etre\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6}"
                 },
                 {
                   "title": "Une histoire de Tout",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Une histoire de Tout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Une histoire de Tout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":127},\"to\":{\"line\":36,\"ch\":127}},\"scroll\":19.333333333333332}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":0},\"to\":{\"line\":66,\"ch\":0}},\"scroll\":61.80499900182088}"
+                },
+                {
+                  "title": "202501272230 colere, une des sources avoir raison",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202501272230 colere, une des sources avoir raison.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"202501272230 colere, une des sources avoir raison\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":212},\"to\":{\"line\":10,\"ch\":213}}}"
+                },
+                {
+                  "title": "2025012742215 injustice protocole et def",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/2025012742215 injustice protocole et def.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025012742215 injustice protocole et def\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":46},\"to\":{\"line\":12,\"ch\":46}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "+/Une histoire de Tout.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Thoughts logs"
+              "title": "Une histoire de Tout"
+            }
+          },
+          {
+            "id": "b2ff7927b1a4923f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Logs/ZoimmeisdessProject Log.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ZoimmeisdessProject Log"
+            }
+          },
+          {
+            "id": "9eb01f271fb7f525",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Logs/Psy Log.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Psy Log"
+            }
+          },
+          {
+            "id": "4e9e6f06ab38adb1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202502042044 Honte - déni de sentiments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202502042044 Honte - déni de sentiments.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202502042044 Honte - déni de sentiments\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Développement personnel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Développement personnel.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Développement personnel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":43},\"to\":{\"line\":35,\"ch\":43}},\"scroll\":14.68359375}"
+                },
+                {
+                  "title": "Exploration Personnelle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Exploration Personnelle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Exploration Personnelle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Colere",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Colere.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Colere\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Exploration Personnelle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Exploration Personnelle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Exploration Personnelle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Développement personnel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Développement personnel.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Développement personnel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":10.516927083333334}"
+                },
+                {
+                  "title": "202502042044 Honte - déni de sentiments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202502042044 Honte - déni de sentiments.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202502042044 Honte - déni de sentiments\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Notes/Ideas/202502301600 one pager.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202502301600 one pager"
+            }
+          },
+          {
+            "id": "0153a5608ce2d0db",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202502031136 Side Hustle Checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202502031136 Side Hustle Checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202502031136 Side Hustle Checklist\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "structured endeavor-checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/structured endeavor-checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"structured endeavor-checklist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202502031136 Side Hustle Checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202502031136 Side Hustle Checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202502031136 Side Hustle Checklist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "structured endeavor-checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/structured endeavor-checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"structured endeavor-checklist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202502031136 Side Hustle Checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202502031136 Side Hustle Checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202502031136 Side Hustle Checklist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "structured endeavor-checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/structured endeavor-checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"structured endeavor-checklist\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "202502031136 Side Hustle Checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202502031136 Side Hustle Checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202502031136 Side Hustle Checklist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":6}}}"
+                },
+                {
+                  "title": "structured endeavor-checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/structured endeavor-checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"structured endeavor-checklist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":8},\"to\":{\"line\":2,\"ch\":8}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/structured endeavor-checklist.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "structured endeavor-checklist"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -312,7 +478,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -341,7 +508,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 380,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -467,7 +635,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Logs/Thoughts logs.md",
+                "file": "+/structured endeavor-checklist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -477,7 +645,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thoughts logs"
+              "title": "Backlinks for structured endeavor-checklist"
             }
           },
           {
@@ -524,40 +692,43 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "cmdr:Toggle stacked tabs": false,
       "obsidian42-brat:BRAT": false,
-      "soundscapes:Soundscapes: My Music": false
+      "soundscapes:Soundscapes: My Music": false,
+      "cmdr:Toggle stacked tabs": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "6f8a6b78f5ca123a",
+  "active": "0153a5608ce2d0db",
   "lastOpenFiles": [
-    "Atlas/Notes/BooksNotes/202407121101 enneagramme tableaux - type 5.md",
-    "Atlas/Notes/BooksNotes/202406191408 enneagramme tableaux types healthy.md",
-    "Atlas/Maps/Enneagramme.md",
-    "Atlas/Utilities/Images/Ennea-HolyIdeas3.png",
-    "Calendar/Logs/Thoughts logs.md",
+    "+/202502031136 Side Hustle Checklist.md",
+    "+/structured endeavor-checklist.md",
+    "Atlas/Notes/Ideas/202502301600 one pager.md",
+    "Atlas/Notes/Ideas/202502042044 Honte - déni de sentiments.md",
+    "Atlas/Maps/Développement personnel.md",
+    "Atlas/Maps/Exploration Personnelle.md",
+    "Atlas/Maps/Colere.md",
+    "Calendar/Logs/Psy Log.md",
+    "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
+    "Calendar/Logs/ZoimmeisdessProject Log.md",
+    "Efforts/instavideos/Vidéo - Pourquoi l'enneagramme.md",
+    "Efforts/instavideos/Vidéo - A quoi sert un outil de profilage.md",
+    "Efforts/instavideos/Vidéo - avoir raison - domination.md",
     "+/Une histoire de Tout.md",
-    "Efforts/Explorations personnelles/Ne pas être assez bien , ne pas faire suffisamment.md",
-    "Calendar/Logs/Change Log.md",
-    "Efforts/Explorations/Explorer SD comment créer une map & assessment.md",
-    "Calendar/2025-01-11.md",
-    "Calendar/2024-09-21.md",
-    "Efforts/Actions Recurrentes/Faire du Sport.md",
-    "Atlas/Notes/BooksNotes/Pratique intégrale - module ombre - module minute.md",
-    "Atlas/Notes/BooksNotes/Pratique intégrale - module mental - module minute 2.md",
-    "Atlas/Notes/BooksNotes/Pratique intégrale - module mental - module minute 1.md",
-    "Atlas/Notes/BooksNotes/202501131723 pratique de vie intégrale - paradoxe.md",
-    "Atlas/Notes/BooksNotes/202501131703 pratique de vie intégrale - resister a la resistance.md",
-    "Atlas/Notes/BooksNotes/202501121619 pratique de vie intégrale - module ethique.md",
-    "Atlas/Notes/BooksNotes/202501112127 pratique de vie intégrale - module esprit.md",
-    "Atlas/Notes/BooksNotes/202501021409 pratique de vie intégrale - module mentale.md",
-    "Atlas/Notes/BooksNotes/202412251738 Pratique de vie integrale.md",
-    "Atlas/Projects/Zoimmeisdess/Vivre avec les autres.md",
-    "Atlas/Projects/Zoimmeisdess/vision board.excalidraw.md",
-    "Efforts/ZDone/Video - feedback & intention.md",
-    "Atlas/Projects/Zoimmeisdess/liste des sujets.excalidraw.md",
+    "Efforts/On/Formation CNV 1.md",
+    "Calendar/Logs/Thoughts logs.md",
+    "Efforts/Explorations personnelles/Chacal envers Olga.md",
+    "Atlas/Notes/Ideas/202502032202 solitude.md",
+    "Efforts/Explorations/La grande Chaîne de l'Etre.md",
+    "Atlas/Notes/Ideas/202501272230 colere, une des sources avoir raison.md",
+    "Atlas/Notes/Ideas/2025012742215 injustice protocole et def.md",
+    "Home.md",
+    "Efforts/instavideos/Vidéo - etre impliqué dans la relation complique les choses.md",
+    "Atlas/Notes/Ideas/202501272212 justifier la colère.md",
+    "Atlas/Notes/Ideas/Video - feedback & intention.md",
+    "Efforts/instavideos/Vidéo - boucle de renforcement.md",
+    "Efforts/instavideos",
+    "Atlas/Utilities/Images/Ennea-HolyIdeas3.png",
     "Atlas/Utilities/Images/Pasted Image 20250111223151_872.png",
-    "Atlas/Projects/Zoimmeisdess/202411112137 instagram.md",
     "Atlas/Utilities/Images/Pasted Image 20250106223816_599.png",
     "Atlas/Special/Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Atlas/Special/Excalidraw/Scripts/Downloaded/Mindmap format.svg",
@@ -574,7 +745,6 @@
     "Atlas/Projects/Zoimmeisdess/vidéos",
     "Atlas/Projects/Zoimmeisdess/Nouveau dossier",
     "Atlas/Utilities/sources/DragonDreaming_eBook_francais_V02.09.pdf",
-    "Atlas/Utilities/sources",
     "Atlas/Utilities/Images/dragonmiddle.png",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",

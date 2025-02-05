@@ -1,0 +1,22 @@
+
+- [x] is ir clear that it is an iterative learning process ?
+    - [x] do you expect success at first trial ? *No*
+    - [x] do you expect to learn at each iteration ? what ? *Yes, affiner la target client, le type de contenu, le matériel* 
+    - [ ] which outcomes would means success ? *Nombre d'inscrits, nombres de DM, argent*
+- [x] which skills are needed for this endeavor ? *Vidéo, coaching, ecrire des exercices*
+    - [x] have them listed ? which one do you have , at which level of mastery ?
+- [ ] are you building something people want ? *I hope so*
+    - [ ] how do you know that ? *I dont know really*
+    - [ ] how do you validate this ? *Suite à la première itération, même si cela va dépendre de ma capacité à diffuser*
+- [x] how to you distribute / diffuse / promote the offering ? *Instagram, Linkedin*
+- [x] is it physical products, digital products, or services, or a mix ? *For the moment, digital products, maybe services next*
+    - [ ] wardley map it **HOW**
+- [ ] how do you identify market gaps ?
+- [x] repackaging existing solutions ? *No*
+- [x] creating a service / a product : which skills are needed ? got the skills ? build or buy ?
+- [ ] how would it scale ? *No idea, and it is not the purpose for the moment*
+- [x] organic or paid marketing ? *Organic*
+- [x] is sustainable ? woul dgrowth be sustainable ?*Maybe at a time, it will take me a lot of time*
+- [ ] which are the target customers ? which problems do they have ? do they know it ? do we solve it ?
+- [ ] Ideas : did you had this challenge yourself already ? *Yes indeed*
+    - [ ] validated it via customer feedabck ?

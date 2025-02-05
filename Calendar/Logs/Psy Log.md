@@ -4,6 +4,19 @@ tags:
   - log
   - psy
 ---
+# 04/02/2025
+
+Travail sur les rêves. Voir que mes rêves d'être nu, dans des situations, révèle la honte que j'ai besoin d'avoir, mais également, le besoin d'être vu. Peut être de la vulnérabilité.
+En tous les cas, creuser la honte était pertinent, car je vois que ma stratégie préférée de vivre la honte, est une manière pour moi de souffrir avec autorisation.
+Je vois que je n'ai pas eu le droit de vivre des émotions difficiles comme la tristesse ou la colère. Je me suis réfugié dans la honte, pour avoir de l'attention, être vu (stroke négatif).
+Comme je ne savais pas quoi faire de mon émotion négative (tristesse, colère) car je n'avais pas le droit de la vivre, de la communiquer, j'ai choisi une autre émotion qui était ok d'être vécu. Mon choix s'est porté sur la honte. Du coup, j'ai entretenu un jeu avec ma mère sur la honte/humiliation.
+Etre vu, recevoir de l'attention. Sabotage pour vivre la honte. Probablement, dans les moments où je ressentais quelque chose de difficile, c'est à ce moment que je me suis mis à me saboter, pour être vu (maladresse énorme). 
+Jusqu'à aujourd'hui, je ne me permet pas de vivre la tristesse et la colère, je préfère m'enfoncer dans la honte.
+Quels sont les pistes pour mieux vivre tout cela? Surement me permettre plus de vulnérabilité. 
+Ce suppose surement une mise en relation avec autrui qui soit différente. Que je ne sois plus le roc de tout le monde, mais que je puisse aussi "m'effrondrer" et avoir des émotions. Pas juste être atone.
+C'est un reset relationnel compliqué. Je ne suis pas vraiment sur de savoir comment m'y prendre pour changer cela.
+Je vois également que cela fait partie de mes pistes d'intégration du 7, d'arrêter de penser que je suis seul et que je dois ml'auto suffir, car les autres ne sont pas assez pour moi.
+Cela prend tout son sens ici, de voir qu'il faut que j'adresse la vulnérabilité pour grandir, et suivre un autre chemin.
 
 # 07/01/2025
 

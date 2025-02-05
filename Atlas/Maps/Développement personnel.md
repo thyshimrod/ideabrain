@@ -32,3 +32,5 @@ tags:
 [[202408072242 resistance worksheet]]
 [[202408072245 ce qui nous empeche d'acceder a la liberte]]
 
+# Honte
+[[202502042044 Honte - déni de sentiments]]
