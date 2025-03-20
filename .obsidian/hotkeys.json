@@ -155,15 +155,6 @@
       "key": "C"
     }
   ],
-  "quickadd:runQuickAdd": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "B"
-    }
-  ],
   "hotkeysplus-obsidian:better-toggle-todo": [],
   "app:toggle-default-new-pane-mode": [],
   "nldates-obsidian:nlp-today": [],
@@ -775,6 +766,16 @@
         "Mod"
       ],
       "key": "-"
+    }
+  ],
+  "quickadd:choice:cae11d4f-d57a-4023-9d77-983f4dff6c47": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
     }
   ]
 }

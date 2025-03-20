@@ -12,6 +12,8 @@ tags:
 [[202007312139 Jeux de pouvoir et authenticité]]
 [[202108261521 Jeu et énergie]]
 
+[[202502132029 Manuel pratique du karpman process model]]
+
 # Appliquer à la CNV
 [[202320062149 trouver ses besoins]]
 

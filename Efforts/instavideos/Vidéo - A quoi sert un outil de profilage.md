@@ -8,3 +8,6 @@ rank: "5"
 ---
 
 Comprendre, prendre conscience, ne pas se laisser enfermer, ne pas en faire un excuse.
+
+[[A quoi sert un outil de profilage]]
+

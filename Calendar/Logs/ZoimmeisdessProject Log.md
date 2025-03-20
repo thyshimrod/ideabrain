@@ -1,3 +1,10 @@
+# 12/03/2025
+
+En promptant, je recherche les niches vers lesquelles aller.
+Aujourd'hui, Grok me donne des pistes, mais restent très générales.
+Ca reste des idées un peu floues.
+
+Il faut que j'essaye de trouver 
 
 # 03/02/2025
 One pager envoyé à Cyrille. J'ai toujorus las possibilité de passer en anonyme et ne pas gérer cette partie là.

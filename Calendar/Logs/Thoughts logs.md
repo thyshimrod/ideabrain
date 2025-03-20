@@ -3,6 +3,40 @@ tags:
   - pascal
   - log
 ---
+# 16/02/2025
+
+Logs irrégulières. Peut être en ressens je moins le besoin? Il y a évidemment des choses qui ne tournent pas rond. Mais globalement, reprise en main, de pas mal de choses.
+Je commence à vivre mon corps. CEla me fait drôle d'être aussi fit.
+
+Je vois qu'il y a une tension sur bien faire avec les enfants. Je suis heureux de ces appels avec Ancelin, plus interactif. C'est marrant de partager du contenu ensemble. Ca rend les choses plus vivantes. Interactives.
+Le sujet Tribunal est là sans être là. Il n'y a pas grand chose à faire, pour l'instant, et le jour J, je serai moi même. Que dire de plus? Bien entendu j'ai des regrets... Mais en même temps j'aimerai que cela se finisse.
+J'ai une petite angoisse sur l'après et la conséquence sur ma vie. C'est bien de demander à voir ses enfants, mais cela va créer pas mal d'impact sur ma vie. Financièrement, temporellement, dans ma relation avec Aydan.
+
+Il y a quelque chose d'étrange dans cette relation. J'ai toujorus du mal à voir. De temps en temps, elle ressent quelque chose de très fort, vers moi. Comme tout d'un coup, une prise de conscience très forte. C'est assez perturbant. Cela ne me rend pas à l'aise. Cela me fait rire car elle n'a que le quart de ma pensée. Oui elle aurait pu vivre autrement les choses cet hiver, si elle avait fait le pas de me présenter à Arthur. Je sens qu'il y a un glissement qui s'effectue. C'est assez étrange, la manière dont il se fait. Il y a quelque chose qui devient insupportable pour elle. 
+
+De mon côté, beaucoup d'évitement, et de sabotage aussi. J'ai du mal à "contrôler". Je connais les mécanismes, et en même temps, j'ai du mal à m'empêcher. Il y a quelque chose de l'ordre de la perfection qui est à l'oeuvre, et aussi ne pas oser. Mon architecte prend beaucoup de place. J'ai du mal à jardiner. Il faut que je trouve de l'énergie.
+Mon corps se fatigue pas mal notamment à cause du sport.
+Néanmoins le sport me donne pas mal d'achievement, incroyable de courir à 5:01 par exemple. Je ne cours plus 10 km, mais je cours vite.
+
+Je suis content de voir mon ostéo aussi, je vois que j'ai une douleur qui m'embête pas mal.
+
+Il y a de la tristesse bien sûr sur les enfants, je n'ai pas de leur nouvelle. Rien de nouveau, ceci étant dit.
+
+Pas mal d'achievement aussi sur elden ring. cela me fait du bien, exploration, difficulté, découverte.
+Prendre soin de ma maison aussi.
+
+Finalement, je fais énormément de choses. Je suis heureux aussi car mes colis arrivent.
+
+# 09/02/2025
+
+Journée étrange aujourd'hui. Je connais mieux mes mécanismes désormais, donc voilà. Je sais que quand il y a sabotage, c'est lié à un besoin de ressentir la honte. Parce que j'ai du mal à vivre une émotion chargée désagréablement. Je pense que je vis de la tristesse et que je n'arrive pas à l'accuillir. Tristesse envers mes enfants bien entendu. C'est dur toujours. Je n'ai pas de retours de leur part. Tout cela me parait vain. Je vois que je vis de la colère là, lié à l'injustice de la situation.
+Je viens juste de fuir cette émotion d'ailleurs. Je suis très fort. J'ai les yeux qui brulent.
+Mes enfants. Avec le tribunal qui se rapporche bientôt.
+Ca fait pas mal de tensions. Semaine prochaine je passe une semaine sans soutien physique, ma belle s'en va au ski. Je pense qu'il va falloir que je trouve mes stratégies de soutien.
+Aller plus sur site, par exemple et utiliser Luc.
+
+
+
 
 # 03/02/2025
 La mort de SP, reste un événement difficile, mais j'encaisse. J'essaye de soutenir Aydan là dessus.
