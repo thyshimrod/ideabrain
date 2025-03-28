@@ -6,13 +6,11 @@
   "periodic-notes",
   "tag-wrangler",
   "obsidian-text-format",
-  "obsidian-wikipedia",
   "nldates-obsidian",
   "obsidian-hover-editor",
   "obsidian-auto-link-title",
   "obsidian-list-callouts",
   "table-editor-obsidian",
-  "obsidian-zoom",
   "pane-relief",
   "url-into-selection",
   "obsidian-advanced-uri",
@@ -33,10 +31,8 @@
   "obsidian42-brat",
   "obsidian-snippet-downloader",
   "obsidian-icon-folder",
-  "soundscapes",
   "insta-toc",
   "obsidian-enhancing-mindmap",
   "obsidian-plugin-toc",
-  "quickadd",
-  "whisper"
+  "quickadd"
 ]

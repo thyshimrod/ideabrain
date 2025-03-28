@@ -3,6 +3,22 @@ tags:
   - pascal
   - log
 ---
+# 24/03/2025
+
+Journée de compulsions intenses. Je vois qu'Aydan étant partie, je n'ai plus personne à m'occuper, donc je dois m'occuper de moi. Je me retrouve seul avec moi même et c'est désagréable. Du coup évitement, et compulsion.
+
+DEs choses ne tournent pas rond. Mode dépressif. Probablement, des choses qui changent chez moi de manière un peu radicale.
+Release à faire.
+
+Un sujet sur Arthur aussi. Il m'aime déjà beaucoup. Trsè fort, et très rapidement. Il est tellement en manque d'une figure paternelle aussi. Il y a quelque chose de difficile chez moi, sur trouver la juste place. L'acceptation, trouver la bonne place, affirmation, respect, ne pas tout accepter.
+CEla em renvoie surement à mes enfants. Comment cela va se passer?
+
+J'ai perdu toutes mes routines. Je vois que quand Aydan est présente, je me sacrifie à elle. Plutôt que de penser à moi, et à mes routines. Un sujet de honte à travailler?
+
+JE vois que je construis une nouvelle identité, et que j'ai des niveaux de conscience, et de connaissance largement supérieur à la normale et que je ne serai jamais reconnu pour cela. Je retourne dans ce système où je n'ai pas de pairs, et où mes intérêts sont disjoints.
+
+
+
 # 16/02/2025
 
 Logs irrégulières. Peut être en ressens je moins le besoin? Il y a évidemment des choses qui ne tournent pas rond. Mais globalement, reprise en main, de pas mal de choses.
