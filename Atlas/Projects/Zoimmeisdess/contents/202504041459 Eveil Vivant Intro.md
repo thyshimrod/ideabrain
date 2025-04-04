@@ -1,0 +1,10 @@
+
+**Qu’est-ce que l’éveil vivant ?**
+
+Tu ressens quelque chose là, maintenant – une colère qui gratte, une tristesse qui traîne, ou même une joie qui passe en coup de vent. Tu pourrais te dire : « C’est juste moi, c’est juste ça. » Erreur. C’est une toile, un système, une spirale qui relie tes émotions à tes relations, à tes besoins, à des silences que tu n’as pas encore vus. L’éveil vivant, c’est arrêter de roupiller dans cette simplicité bidon et ouvrir les yeux sur le bazar magnifique qui vit en toi.
+
+Imagine une frustration. Pas juste un nœud dans le ventre, non – c’est un réseau. Un collègue qui te coupe la parole, un besoin de clarté qui cogne, un vieux réflexe de te taire. Et tes relations ? Ce ne sont pas des cartes postales figées, mais des miroirs tordus, des boucles qui reflètent ce que tu portes – un ami qui s’éloigne, une attente qui s’effrite, une blague que tu n’as pas osé faire. Tout est connecté, comme une BD absurde où le chien discute avec le facteur pendant que la maison brûle. Drôle, non ? Et pourtant, c’est ta vie.
+
+Alors, voilà le deal : l’éveil vivant, ce n’est pas une pilule magique ou un sprint vers la perfection. C’est une pause – pas pour fuir, mais pour regarder. Étape 1 : une émotion n’est pas seule. Prends ta colère – derrière, il y a un besoin (être entendu), une relation (ce collègue), un contexte (trois réunions sans pause). Étape 2 : les relations bouclent. Ce silence avec ton ami ? Besoin de lien, habitude de distance, peur de parler. Étape 3 : agis, mais léger – un mot, une question, un pas. Pas tout. Juste assez.
+
+Commence maintenant, si tu veux. Chope une émotion qui traîne – disons, une petite tristesse. Relie-la à une relation. Quels trois fils vois-tu ? Un besoin ? Une attente ? Un truc non-dit ? Note-les, ou pas. C’est pas une corvée, c’est un levier. L’éveil vivant, c’est ça : voir la spirale, rire de son absurdité, et poser un geste dans le chaos. Tu ne répares pas tout. Tu te réveilles, un bout à la fois. Alors, qu’est-ce que tu vois ?

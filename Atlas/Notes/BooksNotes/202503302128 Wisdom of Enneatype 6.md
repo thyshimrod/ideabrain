@@ -1,0 +1,131 @@
+---
+tags:
+  - enneagramme
+  - peur
+  - evolution
+  - integration
+  - desir
+  - healthy
+  - desintegration
+  - type6
+---
+Le Type de personnalité SIX : Le loyaliste
+
+         _Le type engagé, soucieux de sécurité:_              __Engageant, responsable, anxieux, et suspicieux__
+
+**En général, les Six sont** fiables, travailleurs, organisés, vigilants, évaluateurs, persévérants, prudents, anxieux, croyants et sujets au doute, conservateurs et libéraux.
+
+**Les Six entrent en conflit en  étant** pessimistes, défensifs, évasifs, négatifs, soucieux, en proie au doute, réactifs, soupçonneux, et en blâmant.
+
+**À leur meilleur, les Six sont** courageux, coopératifs, disciplinés, solides, sûrs, fidèles, expressifs, drôles et affectueux.
+
+**_Comment reconnaître les Six ?_**
+
+Le type Six illustre notre désir de créer un environnement sûr et stable, de coopérer et de créer avec les autres, et d’être préparés correctement aux diverses difficultés que la vie nous offre. Les Six sont méticuleux, disciplinés et persévérants. Ils sont à l’aise avec les détails, et ont le talent de découvrir les problèmes potentiels et de les résoudre avant qu’ils ne deviennent impossibles à maîtriser. Ils organisent les ressources, définissent les priorités des actions, et veillent à l’avancement des projets. Les Six ne sont pas nécessairement grégaires, mais ils aiment se sentir appartenir à quelque chose, être une partie de quelque chose de plus grand qu’eux. Ils aiment servir et veulent véritablement contribuer au monde. Ils apportent la fiabilité, la responsabilité, le travail obstiné, et un sens de l’honneur dans toutes leurs affaires. Ils approchent les autres comme pour leur dire « : Je suis ici pour vous servir, et vous pouvez compter sur moi ».
+
+ Les Six font de leur mieux pour être solides et responsables, mais ils sont souvent perturbés par un sentiment souterrain de doute et d’anxiété. De fait, les Six ont souvent l’air d’avoir peur de quelque chose et l’air mal à l’aise. Ils vivent dans un état de tracas – _et ensuite trouvent quelque chose qui les tracasse_. Ils scrutent souvent leur environnement à la recherche de problèmes, s’attendant à chaque instant à ce que quelque chose de négatif se produise. En conséquence, ils sont souvent prudents dans la gestion de leurs affaires, et tout aussi prudents quand il s’agit de celles des autres. Dans le même temps, ils sont toujours à la recherche de quelqu’un de confiance, sur qui ils puissent s’appuyer, et comme il leur faut du temps pour sentit que quelqu’un est véritablement de leur côté, ils vont parfois tester les autres pour les provoquer d’une manière ou d’une autre et voir comment ils réagissent. Une fois qu’ils ont décidé qu’une personne a réussi le test, il n’y a pratiquement plus de limite à la loyauté ou aux sacrifices que les Six sont prêts à consentir pour le compte de cette personne.
+
+Les Six savent que lorsqu’ils s’engagent, ils le font à 110%. Ils trouvent difficile de quitter une relation une fois qu’ils ont commencé à avoir confiance en quelqu’un et à se reposer sur cette personne. Donc, ils veulent être sûrs qu’ils dépensent leur énergie pour quelqu’un qui sera là pour eux de façon constante. Une fois qu’ils ont établi une relation solide, ils montrent leur confiance et leur affection en soutenant l’autre personne par tous les moyens qu’ils peuvent, en particulier en étant fiables et dignes de confiance.
+
+Un signe des difficultés qu’ont les Six avec la confiance est la manière sincère mais _prudente_ dont ils approchent les autres. Quand ils sont détendus, les Six ont un talent naturel pour attirer les autres et se trouver avec eux des intérêts communs. Ils se font aimer des autres en plaisantant et en raillant, et à l’aide d’autres formes de liens physiques et sociaux. Ils veulent trouver chez les autres des choses qui leurs sont familières et qui leur parlent, cherchant des intérêts et des expériences communs qui pourraient servir de base à la confiance. Ils ont tendance à être mal à l’aise dans les situations où ils connaissent peu de choses des autres, où il y a trop d’inconnues, trop d’éléments qui ne sont pas familiers.
+
+Foncièrement, les Six cherchent quelqu’un en qui avoir confiance parce qu’ils n’ont pas confiance en eux-mêmes. Ils n’ont pas beaucoup foi en eux-mêmes et en leurs capacités, alors ils cherchent en dehors d’eux-mêmes une personne, un job, une figure qui fera autorité, ou une sorte de système de croyances qui leur donnera la direction et leur apportera la sécurité. Cependant, ceci ne résout pas leur insécurité sur le long terme, parce que plus les Six se reposent sur les autres pour la confiance, plus ils doutent d’eux-mêmes et manquent de sûreté. Ils vont alors osciller sans cesse entre la dépendance des autres, et la tentative de montrer qu’ils sont durs et indépendants.
+
+Certains Six tendent à sombrer plus souvent dans l’anxiété, se sentant peureux, anxieux, dépendants, et recherchant ouvertement le soutien des autres : on les appelle les « Six phobiques ». Les autres Six sont plus susceptibles de se lancer impulsivement dans des activités connectées à leurs peurs, comme une personne qui aurait peur de l’altitude et qui déciderait de se lancer dans l’escalade, ou quelqu’un qui aurait peur des figures d’autorité, et qui déciderait de devenir le porte parole d’un groupe opposé à l’establishment : on les appelle les « Six contre-phobiques ». En vérité, tous les Six ont à la fois des aspects phobiques et contre-phobiques, et ils manifestent différentes réponses dans différents domaines de leurs vies. Par exemple, une Six peut être phobique avec son patron, et contre-phobique avec son époux.
+
+**En bref, les Six veulent** se sentir en sécurité, se sentir soutenus pas d’autres, avoir des certitudes et de l’assurance, tester les attitudes des autres envers eux, se battre contre l’anxiété et l’insécurité, et que tout soit prévisible pour défendre leur moi contre les menaces de l’environnement. **Les Six ne veulent pas** se sentir abandonnés, être dans l’incertitude, être soumis à des demandes contradictoires, se sentir sous pression, avoir à accepter rapidement des idées nouvelles, travailler avec des gens dont ils pensent qu’ils ne portent pas leur part du fardeau, ou voir leur système de sécurité ou leurs croyances mis en doute, surtout par quelqu’un qu’ils considèrent comme un étranger.
+
+**_Leur face cachée_**
+
+Les Six ont l’air très organisés et responsables et on peut souvent les prendre pour des Un. Mais leur problème caché, c’est qu’ils essaient de calmer leur anxiété intérieure en tentant de rendre leur monde extérieur prévisible et sans soucis. Bien sûr, c’est une tâche impossible, mais les Six persévèrent en général dans leur effort pour rendre leur monde sans dangers et sans accrocs.
+
+La véritable source d’anxiété des Six est intérieure et elle est alimentée par leur réflexion incessante. En bref, les Six ne peuvent s’empêcher de « se deviner eux-mêmes »,  doutant de ce qu’ils savent et consultant ce qui ressemble à un « comité de pilotage intérieur » de voix contradictoires. (« Est-ce que j’ai envoyé la facture de l’électricité ce matin ? Oui. Je pense. Bon. Mais qu’est-ce que j’ai oublié ? Ah oui ! J’étais censé appeler Marie pour le déjeuner de demain. Elle va m’en vouloir. Est-ce que je l’appelle maintenant ou est-ce qu’il est trop tard ? ») Avec leur esprit en état d’hypervigilance permanente, il est pratiquement impossible aux Six de se relaxer et de percevoir la manière de s’y prendre avec les véritables difficultés qu’ils ont à traiter à un moment quelconque. Ce dont les Six ont réellement besoin, c’est de plus de tranquillité intérieure. Ils ont besoin de cultiver un sens de la paix et de la tranquillité intérieure qui leur permettrait de voir la réalité et d’y réagir avec plus de clairvoyance.
+
+**_Leurs relations_**
+
+Les Six peuvent être ambigus pour les autres (et pour eux-mêmes) dans leurs relations car ils semblent imprévisibles et changeants. À un moment, ils se sentent mal à l’aise et veulent que leur partenaire les assure qu’il est bien de leur côté, et savoir que l’autre est proche et disponible ; le moment suivant, ils peuvent se sentir étouffés et débordés par ce même partenaire et veulent mettre un peu de distance dans le relation. Un peu plus tard, ils cherchent à se rassurer et ont peur d’être allés trop loin dans la recherche d’indépendance. En résumé, les Six recherchent ce que les psychologues appellent la « distance optimale », ils veulent que leurs proches soient suffisamment proches pour ne pas avoir le sentiment d’être abandonnés, mais pas trop proches pour ne pas se sentir envahis par l’autre. Parmi les problèmes relationnels des Six, on compte :
+
+- Le fait de tester l’autre pour savoir s’il ou elle va rester.
+- Prendre trop d’engagements, ce qui amène les Six à se sentir sous pression et exploités.
+- Ou bien se fermer comme une huître et ne pas exprimer leurs sentiments, ou bien évacuer un flot d’anxiété.
+- Alterner entre la dépendance et le besoin de l’autre d’un côté, et de l’autre une attitude de défiance et de rébellion – souffler le froid et le chaud.
+- Devenir facilement soupçonneux, doutant de la bonne volonté des autres à leur égard.
+- Blâmer les autres pour leurs propres angoisses et projeter sur les autres leurs propres motivations négatives.
+
+**_Compatibilité du type_**
+
+Pour en savoir davantage sur les questions de compatibilité du type Six et ses interactions avec les autres types, veuillez vous référer à la section sur les relations et les compatibilités dans les pages « Members Only » du site [www.EnneagramInstitute.com](http://www.enneagraminstitute.com/) (en anglais) qui sont accessibles gratuitement.
+
+**_Leur passion : l’anxiété (la « peur »)_**
+
+La passion des Six est souvent décrite comme de la peur, mais la peur est une réponse organique à un danger réel dans notre environnement. L’anxiété, par contre, est une _anticipation_ du danger ou d’un problème. C’est le sens de l’épouvantable et la capacité à conjurer en permanence les scénarios les plus défavorables de notre imagination. Et donc les Six gardent habituellement leurs esprits agités de façon constante à traquer les désastres potentiels. Au bout du compte, ils risquent d’être moins bien préparés aux problèmes réels parce qu’ils se sont fait peur à _imaginer_ ce qui pourrait aller mal. Plus les Six deviennent anxieux, plus leurs esprits sont agités, moins ils sont capables d’accéder à une connaissance intérieure, tranquille, qui leur montrerait avec clarté ce qu’ils doivent faire.
+
+On pourrait aussi dire que la passion des Six est le _doute_. Les Six font rarement confiance à leur propre jugement ou à leur capacité à savoir quand ils sont saisis par le doute. Ils se remettent en question, revérifient des calculs qu’ils ont sûrement faits correctement, retournent à la maison pour s’assurer qu’ils ont bien fermé la porte à clé alors qu’ils se souviennent de l’avoir fait, etc. Comme on l’a vu, les Six ressentent le besoin de sources fiables de soutien et de conseil, que ce soit des livres, des amis, des conseillers, des philosophies, des emplois, ou toute autre chose. Mais lorsque le doute s’installe, les Six doutent que ces systèmes de soutien seront bien là pour eux. Ils questionnent jusqu’à leurs supporters les plus ardents lorsque leurs doutes cèdent aux soupçons ou même à la paranoïa.
+
+**_À leur meilleur_**
+
+Les Six épanouis sont capables de faire la différence entre les réponses émotionnelles fortes et les autres : il sont engageants, aimables, taquins et ce sont vraiment des gens attachants et fiables. Ils apportent un sentiment de confiance et de camaraderie à leurs relations et traitent chacun –eux-mêmes y compris – sur un pied d’égalité. Ils sont très dévoués et loyaux envers les personnes de leur vie, et travaillent dur à développer la stabilité, la sécurité et la prospérité dans leurs maisons, leurs emplois ou leurs communautés. Les Six épanouis sont les fondations de toute société. Ils croient à la coopération et aux objectifs partagés, aident à organiser les individus et à traiter les problèmes. Ils ont dans leur manière de faire une approche démocratique des autres, et se battront volontiers pour les défavorisés et ceux qui n’ont pas de pouvoir comme ils le feraient pour eux-mêmes.
+
+Les Six à leur meilleur sont confiants et affirmés : il ont confiance en eux-mêmes et ont appris à se suffire à eux-mêmes et à être indépendants parce qu’ils savent qu’ils sont solidement ancrés dans le soutien sans limites de l’existence. La foi en ce soutien et ce guidage de l’intérieur, l’affirmation face à la vie se manifestent souvent sous la forme d’un courage hors du commun et de leadership. Les Six épanouis combinent l’engagement à se laisser guider par leur propre savoir intérieur avec celui de se laisser conduire là où la vérité les mènera. Le résultat, c’est qu’ils peuvent avoir une influence considérable sur le bien de tous.
+
+**_Dynamique de la personnalité et variations_**
+
+![[type6.jpg]]
+
+On trouvera une explication des directions d’intégration (développement) et de désintégration (stress) en [cliquant ici](http://www.promouvoir-enneagramme.com/index.php?rubrique=3033).
+
+**_Sous stress (Le Six va vers le Trois de niveau moyen)_**
+
+Les Six présentent souvent des signes apparents de nervosité, réagissent aux situations en doutant d’eux-mêmes, et se font prendre dans la sur-analyse des problèmes. Pourtant, quand le stress monte au-delà du niveau normal, ils se lancent dans l’action, et y restent, tentant de se débarrasser de leur anxiété en travaillant plus dur. Si, par exemple, ils se sentent sous pression au travail, ils pourront passer leur week-end à travailler frénétiquement dans leur jardin ou à réorganiser les placards de façon obsessionnelle, afin de se libérer ou d’éviter leur sentiment d’inaptitude. Ils ont également peur de montrer aux autres à quel point ils sont submergés, et ils peuvent alors simuler la compétence et l’efficacité, comme des Trois de niveaux moyens. (« Ne te fais pas de souci, je contrôle la situation ». Ils se focalisent de plus en plus sur des activités et sur l’efficacité, tout en se coupant de leurs sentiments pour pouvoir continuer à fonctionner, mais ceci peut amener des difficultés émotionnelles majeures, pour eux comme pour leur entourage.
+
+**_En sécurité (Le Six va vers le Neuf de niveau moyen)_**
+
+Dans les situations où ils se sentent en sécurité, les Six se mettent à gérer leur stress en se renfermant et en devenant indifférents à leur entourage, comme les Neuf de niveaux moyens. Ils ne veulent pas être perturbés ou ennuyés par leurs proches : ils pensent qu’ils ont travaillé dur, et ils ressentent pratiquement toute forme d’interaction comme une nouvelle source de pression. Ils seront agréables un instant, mais pourront tout à coup être d’une résistance bornée, et se fermer l’instant d’après s’ils ont le sentiment que les autres exigent quelque chose d’eux. Dans ces moments-là, les Six sont indisponibles, passifs-agressifs, et ne veulent pas répondre aux autres ni sortir d’une routine confortable mais qui les anesthésie.
+
+**_Intégration (Le Six va vers le Neuf de niveau épanoui)_**
+
+Quand les Six apprennent à avoir davantage confiance en eux-mêmes, ils sont aussi plus ouverts à la vie et aux autres. Ils apprennent progressivement à relâcher leur hypervigilance, et à être tout simplement présents avec eux-mêmes ou avec ce qui se présente sur le moment. Ils y gagnent une meilleure acceptation des hauts et des bas de la vie, et de ce fait ne sont plus perturbés par la terreur et l’anxiété. Ils acceptent les autres et les soutiennent, et sont beaucoup plus paisibles. Les Six sur la voie de l’intégration sont capables de laisser leurs esprits se reposer dans leur état naturel de tranquillité intérieure calme et limpide. Ils cessent d’essayer de tout remettre en question et laissent s’exprimer leur propre sagesse intérieure. Le résultat, c’est qu’ils sont plus sereins, plus solides, plus joyeux, légers et stables.
+
+**_Les instincts en bref_**
+
+Pour une explication des trois variantes instinctuelles, [cliquez ici](http://www.promouvoir-enneagramme.com/index.php?rubrique=3034)
+
+**_Les Six à instinct de conservation : responsabilité (« L’affection » d’Ichazo)_**
+
+Les Six à instinct de conservation trouvent leur sécurité par l’intermédiaire de ressources qui les protègent–  l’argent, la nourriture, des biens, un abri, etc. – dont ils ont tendance à se soucier de manière chronique. (« On a payé les factures ? Est-ce qu’on a vérifié les freins de la voiture récemment ? Notre assurance est-elle suffisante ? ») Ils se soucient beaucoup de sécurité et d’épargne. En fait, les Six à instinct de conservation se sentent le plus en sécurité quand ils sont en charge des questions financières, et pensent que la gestion efficace de ces questions est dans leurs cordes. Pourtant, quand ils se sentent moins en sécurité, ils ne font pas confiance aux autres, et s’ils ont l’impression que le contrôle leur échappe ils ont besoin d’être constamment informés, sinon complètement aux commandes, des questions pratiques qui les concernent. Les Six à instinct de conservation peuvent être drôles et amicaux et veulent être impliqués et s’engager, mais ils ont du mal à se détendre, surtout en présence de personnes qui ne leur sont pas familières. Ce sont les plus introvertis des Six, ceux qui ont le plus tendance à être des solitaires. Quand ils sont plus stressés, ils peuvent s’imposer de rester dans des situations épuisantes plus longtemps qu’ils ne devraient (mauvais emploi, mauvais mariage) ou s’appliquer à prendre le contrôle, comme des Huit moins épanouis.
+
+**_Les Six à instinct sexuel : vulnérabilité fringante (La « force et la beauté » d’Ichazo)_**
+
+Les Six à instinct sexuel trouvent leur sens de la sécurité essentiellement à partir d’un lien émotionnel avec quelqu’un qui compte pour eux. Mais ils ont aussi des doutes, à la fois sur leur propre capacité à avoir un partenaire adéquat, et sur la capacité ou la volonté de ce partenaire à être réellement là pour eux. Les Six sexuels montrent souvent une tension entre les rôles associés à leur genre : ils sont à la fois masculins et féminins, « macho » et coquets. De plus, les Six sexuelles ont un côté dur, garçon manqué, tout en donnant une impression de féminité. De même, les hommes de cette catégorie font preuve de sensibilité et de vulnérabilité, tout en étant essentiellement masculins. Les Six sexuels ont aussi tendance à vivre leurs émotions intensément, comme des Huit ou des Quatre : ceci vient en partie de leur anxiété face à leur capacité à retenir un partenaire fort et capable. Et donc, les Six sexuels essaient de cultiver leurs attributs masculins et féminins afin de trouver un bon partenaire, et de rester attirants pour cette personne. Souvent, ils se sentent plus à l’aise avec des personnes du sexe opposé, et peuvent se sentir en concurrence avec des personnes du même sexe. Ils ont aussi tendance à tester leur partenaire pour voir s’il est assez fort et assez engagé dans la relation. Quand ils sont plus stressés, les Six sexuels peuvent être émotionnellement instables, et leurs sentiments à l’égard d’une personne peuvent changer brutalement et fortement. Ils tombent dans la suspicion et peuvent devenir franchement jaloux de leur partenaire, tout en éprouvant un fort besoin de prouver qu’ils sont désirables.
+
+**_Les Six à instinct social : engendrer le soutien (Le « devoir » d’Ichazo)_**
+
+Les Six à instinct social recherchent la sécurité dans le domaine social, c’est-à-dire à travers leurs affiliations avec différentes personnes et organisations. Ils sont chaleureux, engageants, pleins d’humour, et essaient de faire passer le message qu’ils sont d’un abord agréable et sûr. Ils aiment enrôler les autres, les impliquant dans les projets ou activités qu’ils considèrent comme valables : les Six sociaux se portent souvent volontaires dans des associations ou des comités. Ils n’y trouvent pas forcément du plaisir, mais y voient une nécessité et sont donc disposés à y consacrer du temps et de l’énergie. Ils veulent être considérés comme des hommes et des femmes ordinaires et peuvent avoir du mal à prendre des positions qui seraient impopulaires dans leurs groupes. Ils recherchent le consensus avant d’avancer, et veulent sentir que les autres sont avec eux et les supportent. Bien que les Six sexuels aiment s’impliquer, ils sont souvent réticents à prendre des postes à responsabilités par peur de prendre des décisions que les autres n’aimeront pas, et de perdre leur soutien. Quand ils se sentent moins en sécurité, leur côté soupçonneux peut les amener à créer deux catégories : ceux qui sont acceptés et ceux qui ne le sont pas, au travail, dans la vie sociale ou sociétale.
+
+_Les niveaux de développement_
+
+Pour une explication des niveaux de développement, [cliquez ici](http://www.promouvoir-enneagramme.com/index.php?rubrique=3032).
+
+Vous trouverez ci-après une description complète du diagramme des niveaux de développement pour le type Six. Ces niveaux vont du niveau 1, le plus épanoui, au niveau 9, le plus pathologique. Pour comprendre ces diagrammes, il faut partir de la peur fondamentale, en haut à droite du schéma. Cette peur donne naissance à un désir fondamental de deuxième niveau, qui est celui du désir d'aptitude psychologique.
+
+Le désir de chaque niveau donne naissance à des Attitudes internes (les termes A), qui à leur tour engendrent les comportements internes (les termes C). Au fil du temps, du fait des conflits internes, ces attitudes et comportements engendrent une autre peur à ce niveau.
+
+Chaque nouvelle peur engendre à son tour un autre désir au niveau du dessous, qui donne lieu à un nouvel ensemble d’attitudes et de comportements, créant ainsi une spirale dans laquelle la personne est de plus en plus prisonnière de réactions autodestructrices et de peurs de plus en plus terrifiantes. Le processus de développement consiste devenir plus conscient de chacun des groupes d’attitudes et de comportements lorsqu’ils se produisent. Ce faisant, les peurs sous-jacentes et les désirs correspondants commencent aussi à émerger dans la conscience, et la personne commence à remonter les niveaux.
+
+Pour en savoir plus sur ce processus, voyez _[Wisdom of the Enneagram](http://www.enneagraminstitute.com/books/Books_Wisdom.asp)_ _et_ _[Personality Types](http://www.enneagraminstitute.com/books/Books_PT.asp)._
+
+LE TYPE DE PERSONALITY SIX : Le loyal  
+
+Orientation parentale : Attachement à la figure protectrice
+
+![[type6_health.png]]
+
+_Recommandations pour le développement personnel du type Six_
+
+**Les Six se développent en reconnaissant** que la seule vraie sécurité vient de l’intérieur. Alors que nous sommes capables de travailler dur pour améliorer nos finances, trouver les bons amis et le bon partenaire, et prévoir toutes les anicroches possibles, au bout du compte aucun des moyens externes que nous utilisons pour nous donner confiance en nous-mêmes ne marche dans tous les cas. Les choses peuvent, et en fait tournent mal, et les soutiens sur lesquels nous comptons changent invariablement. Par conséquent, le développement pour les Six passe par la découverte du soutien de leur propre connaissance intérieure ; il leur faut trouver en eux-mêmes l’endroit qui est calme, fort et compétent. Mais cela ne se produit pas tout seul : découvrir des ressources intérieures nécessite du temps et des efforts et, fort heureusement, les Six comprennent l’utilité de la persévérance et de l’investissement de soi. Les Six reconnaîtront d’emblée la valeur de la découverte de leurs ressources intérieures quand ils prendront le temps de relâcher leur vigilance incessante, et de trouver la foi en eux-mêmes.
+
+- Souvenez-vous qu’il n’y a rien d’inhabituel au fait d’être anxieux : tout le monde l’est, et plus souvent que vous ne croyez. Apprenez à être plus présent face à votre anxiété, à l’explorer, et à l’accepter. Travaillez de façon créative sur vos tensions sans avoir recours à un  excès d’alcool (ou de médicaments). En fait, si vous êtes présent et si vous respirez à fond, l’anxiété peut être énergétique, comme une sorte de tonic qui peut vous rendre plus productif et plus conscient de ce que vous faites.
+- Vous avez tendance à être nerveux et irritable quand vous êtes bouleversé ou en colère, et vous pouvez même vous retourner contre les autres et les blâmer pour des choses que vous avez faites ou qui vous sont arrivées par votre faute. Méfiez-vous de votre pessimisme : il vous met d’une humeur sombre et vous donne des pensées négatives que vous avez tendance à projeter sur la réalité. Quand vous vous mettez à douter de vous-même, vous pouvez devenir votre pire ennemi et vous faire plus de mal que personne ne vous en fera.
+- Les Six ont tendance à régir exagérément quand ils sont stressés ou qu’ils se sentent anxieux. Apprenez à identifier ce qui vous fait réagir de manière excessive. Vous devez aussi réaliser que pratiquement  rien de ce que vous avez redouté ne s’est réalisé, et même si les chsoes sont aussi mauvaises que vous le pensez, vos pensées craintives vous affaiblissent et réduisent votre capacité à améliorer les choses. Vous ne pouvez pas toujours gérer les événements externes, mais vous pouvez gérer vos propres pensées.
+- Apprenez à faire davantage confiance. Il n’y a aucun doute qu’il existe dans votre vie plusieurs personnes vers qui vous pouvez vous tourner qui vous aiment et qui sont de confiance. Sinon, sortez de votre routine pour trouver une telle personne, et autorisez vous à être proche d’elle. Cela signifie que vous allez risquer d’être rejeté et cela va agiter certaines de vos peurs les plus profondes, mais le risque en vaut la peine. Vous avez le talent de vous faire aimer, mais vous n’êtes pas sûr de vous, et pouvez avoir peur de vous engager auprès de quelqu’un. Alors, adoptez une position claire dans vos relations, faites savoir aux autres ce que vous pensez d’eux.
+- Les autres vous estiment probablement plus que vous ne pensez, et il n’y a pas grand monde qui vous en veut. En fait, vos comportements en disent plus long sur vos attitudes envers les autres que sur leurs attitudes envers vous.

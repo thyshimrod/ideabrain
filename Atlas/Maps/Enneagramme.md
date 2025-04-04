@@ -47,22 +47,29 @@ tags:
 [[202007312213 Type 1 le perfectionniste]]
 [[202008141806 enneagramme exemple type 1]]
 [[202407132202 enneagramme tableaux - type 1]]
+[[202503302128 Wisdom of Enneatype 1]]
 # Type 2
 [[202007312212 Type 2 L'aidant]]
 [[202008141814 Enneagramme exemple type 2]]
 [[202407031002 enneagramme tableaux - type 2]]
+[[202503302212 Wisdom of Enneatype 2]]
+
 # Type 3
 [[202007312212 Type 3 le compétiteur]]
 [[202407032141 enneagramme tableaux - type 3]]
+[[202503302213 Wisdom of Enneatype 3]]
 # Type 4
 [[202007312211 type 4 l'artiste]]
 [[202407112239 enneagramme tableaux - type 4]]
+[[202503302128 Wisdom of Enneatype 4]]
 # Type 5
 [[202007312215 Type 5 le Penseur]]
 [[202407121101 enneagramme tableaux - type 5]]
+[[202503302128 Wisdom of Enneatype 5]]
 # Type 6
 [[202007312215 Type 6 le Loyaliste]]
 [[202407122207 enneagramme tableaux - type 6]]
+[[202503302128 Wisdom of Enneatype 6]]
 # Type 7
 [[202007312214 Type 7 Le généraliste]]
 [[202312152149 tips for type 7]]
@@ -70,9 +77,12 @@ tags:
 [[202404222047 contrôle, compulsion, type7]]
 [[202404300934 evolution type 7]]
 [[202406191007 enneagramme tableaux - type 7]]
+[[202503302128 Wisdom of Enneatype 7]]
 # Type 8
 [[202007312214 Type 8 Le Leader]]
 [[202407122257 enneagramme tableaux - type 8]]
+[[202503302128 Wisdom of Enneatype 8]]
 # Type 9
 [[202007312213 Type 9 Le médiateur]]
 [[202407132116 enneagramme tableaux - type 9]]
+[[202503302128 Wisdom of Enneatype 9]]

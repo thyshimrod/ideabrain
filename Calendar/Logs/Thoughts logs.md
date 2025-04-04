@@ -3,6 +3,53 @@ tags:
   - pascal
   - log
 ---
+# 01/04/2025
+
+PLus de douceur chez moi. En même temps, encore tourner en rond beaucoup de choses en tête.
+2j que je manque de sommeil. Aucune idée de la raison. Trop de choses non faites probablement.
+Célébration 10km PACE 4:55. Truc incroyable.
+Développement de mon corps également. Aydan a été admirative. Je vois des changements effectivement. Je fais des pompes souvent, élastique. Mon corps change.
+Je continue à manger trop par contre.
+Je ne peux pas tout faire.
+Je vois que l'aspect créatif est nourri par Grok.
+Pas mal d'expérimentations pour m'aider.
+Je commence à creuser du concret. JE touche du doigt mes sabotages et pourquoi je n'avance pas.
+
+
+# 30/03/2025
+
+Dur de se mettre sur son journal, et de reprendre des habitudes.
+JE vois que je compulse pas mal en ce moment, nourriture et masturbation, plutôt que de faire des choses qui me nourrissent (par exemple peinture). Pour la peinture, je vois que je suis stuck, j'ose pas démarrer une figurine. Alors que j'en ai peint des dizaines. Comme si j'avais une exigence de quelque chose, qu'elle soit merveilleuse, que je surpasse mon niveau?
+J'ai du mal à faire des célébrations aussi par ailleurs.
+
+J'ai aussi beaucoup de fatigue. Je suis dans une forme d'état dépressionnaire je trouve. Je suis vraiment fatigué, je n'arrive pas à me ressourcer. Peut être est ce une expression de ma cocote minute.
+
+Pourtant j'ai fait plein de choses passionnantes. J'ai étayé ma relation avec Luc, on a fait plein de choses palpitantes. J'ai avancé dans ma relation avec Arthur. Je me sens plus ancré.
+J'ai écrit des articles.
+
+Je vois que je suis remis dans l'auto humiliation. Sabotage. Probablement, que des émotions sont là, que je veux cacher. J'ai encore du mal à identifier. Colère, peur, tristesse.
+
+Je vois qu'il y a pas mal d'angoisses dans tout ce que je vis.
+La peur du résultat du tribunal, de ne pas voir mes enfants, de comment rétablir la relation. Mffff c'est lourd.  Je vois que finalement c'est très présent. LE 22 avril s'approche très vite. JE vais être avec Aydan. Enfin si le résultat tombe dans cette semaine. J'aurai besoin de soutien.
+
+Je vois qu'il y a de l'angoisse sur la fin de mon contrat aussi, je ne sais pas quand il aura lieu, mais cela m'angoisse. J'ai une angoisse évidente de l'avenir. Beaucoup de choses sont chamboulées. 
+Je vois la différenciation entre mon aspiration, mes super pouvoirs, et ce que j'en fais.
+Et en même temps, je ne m'investis pas réellement pour faire.
+Peur de faire, ou honte? 
+Il y a quelque chose autour de la peur de ne pas être aimé, de me sentir rejeté si je ne récupère pas des gens qui aiment mes contenus.
+
+En vrai, je vais faire tout un tas de contenu avec une appréciation limitée, car mon choix n'est pas de faire dans la banalité. J'aime ce qu'écrit brené Brwon, sur le fait, de ne pas être un auteur qui va faire des how to, mais plutôt parler de ce que je connais, c'est à dire tous les empêcheurs de tourner en rond. J'aime cette perspective.
+Finalement, l'expert reste, l'influenceur part. J4ai tellement de choses à dire (cf mes todo).
+Je perçois aussi que je me suis remis dans une forme de dépendance de l'approbation d'autrui. J'aimerai que Aydan me soutienne plus, ou s'intéresse à ce que je fais. Je manque de partage, et en même temps je ne partage pas au monde.
+Ca en fait des paradoxes. Il y a peut être qq chose qui a besoin de se sentir rassuré sur l'amour porté. C'est un peu confus tout cela. Je vais encore faire porter quelque chose sur Aydan. Pourquoi ne puis je pas le faire par moi même, et me donner ce propre amour?
+
+J'aimerai demander à Luc de m'aider à me connecter à la présence. JE vois que je n'ose pas réellement. Je ne mérite pas, je n'ose pas?
+C'est difficile pour moi de demander de l'aide. C'est le syndrome du 7. Auto suffisance, les autres ne sont pas assez. Il faut que je fasse par moi même. C'est un peu chiant.
+
+
+
+
+
 # 24/03/2025
 
 Journée de compulsions intenses. Je vois qu'Aydan étant partie, je n'ai plus personne à m'occuper, donc je dois m'occuper de moi. Je me retrouve seul avec moi même et c'est désagréable. Du coup évitement, et compulsion.

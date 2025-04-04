@@ -59,4 +59,5 @@ tags:
 
 [[202503281149 confiance en soi vs domination style  damon centola]]
 
+[[202503282159 confiance en soi vs domination style godain brown schwaber]]
 
