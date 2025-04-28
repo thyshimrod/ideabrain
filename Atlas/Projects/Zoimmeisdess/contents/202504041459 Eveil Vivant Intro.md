@@ -1,4 +1,4 @@
-
+	 
 **Qu’est-ce que l’éveil vivant ?**
 
 Tu ressens quelque chose là, maintenant – une colère qui gratte, une tristesse qui traîne, ou même une joie qui passe en coup de vent. Tu pourrais te dire : « C’est juste moi, c’est juste ça. » Erreur. C’est une toile, un système, une spirale qui relie tes émotions à tes relations, à tes besoins, à des silences que tu n’as pas encore vus. L’éveil vivant, c’est arrêter de roupiller dans cette simplicité bidon et ouvrir les yeux sur le bazar magnifique qui vit en toi.

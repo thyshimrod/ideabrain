@@ -12,4 +12,6 @@ rank: "5"
 ---
 Vidéo sur ceux qui font du développement personnel, et qui ont l'impression de toujours faire l'effort.
 
+[[MOA Injustice effort]]
+
 [[Vivre avec les autres]]

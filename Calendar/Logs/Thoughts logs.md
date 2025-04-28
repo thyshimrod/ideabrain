@@ -3,6 +3,27 @@ tags:
   - pascal
   - log
 ---
+# 25/04/2025
+Je viens d'avoir le résultat du jugement.
+Intéressnt de voir ce que cela crée en moi. J'ai du mal à bondir de joie. Pour autant, ça y est je suis divorcé. Peu de charges retenues. Je récupère un droit de visite et d'hébergement étendu. Enormément étendu. A voir si jke suis capable d'assumer cela. A voir, comment les enfants vont réagir à cela.
+Je dois payer par ailleurs 38000€ pfffff... des mensualités de 396€. PLus la prise en charge des enfants.... Je vais avoir des mois un peu dur j'ai l'impression.
+En tous les cas, vu avec Luc, j'étais dans une identification à la victime, car cela fait longtemps que je subis la situatiojn, et là, cette identité fait booooo que vais je devenir? ll y aussi bien sur de l'angoisse, car peur de l'inconnu. Je ne sais pas par où commencer, mes prochains steps.
+Peur du rejet de nouveau peut e^tre, l'acceptation de n'avoir que ce que j'aurai n'est pas totalement faite.
+
+
+# 08/04/2025
+
+En fait, je vois que la charge mentale liée aux enfants est énorme. Je vais voir cela avec Regina Demain. Père parfait, je me cherche, je me demande comment recréer du lien, qui n'existe pas. Quoique je ferai cela sera mal quelque part. J'ai honte de ne pas leur envoyer un message, en même temps, en envoyer est vain, et me crée de la tristesse. J'ai surement besoin de guidance sur ce sujet. Du coup, je suis en mode stuck, car cela revient chez moi en mode serveur.
+
+Je travaille beaucoup pour me trouver des plans, en même temps, je sais que j'ai des release à faire, des articles à écrire. Je em disperse en jouant avec Grok, alors que je sais ce que j'ai à faire.
+
+Où sont mes célébrations. J'ai besoin de m'humilier plutôt que de célébrer. Rhaaaa...
+Célébrations ici alors : courir 10km. Courir en moins de 5min par km. Le faire avec un effort modéré.
+Faire un parcours d'abdo difficile. Faire des pompes. Aller jouer au basket. Mon corps profite du soleil, mais aussi de l'effort.
+Continuer à travailler sur mes contenus. Ecrire des choses pertinentes
+Soutenir Luc, avoir des discussions passionnantes. Faire de la recherche. Approfondir les sujets.
+Porter du L voire du M. Super moment de shopping avec Aydan. Haleine Cetonique. Peindre figu pour Nico. Se faire plaisir. Nouvelles basket de course.
+
 # 01/04/2025
 
 PLus de douceur chez moi. En même temps, encore tourner en rond beaucoup de choses en tête.

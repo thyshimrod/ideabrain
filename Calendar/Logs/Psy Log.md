@@ -4,6 +4,22 @@ tags:
   - log
   - psy
 ---
+
+# 22/04/2025
+
+Célébration du jour. J'ai parlé avec mon père de ce sujet perte ds enfants. Cela a été soutenant, et avec beaucoup de compréhension sur ma situation. Cela m'a fait tellement du bien.
+Travail du jour sur ma peur de ne pas y arriver, de ne pas savoir travailler.
+On m'a appris à m'intersser à tout, et à ne pas rester focus sur un seul sujet. Et ausi la facilité de mon hpi m'a poussé à faire les choses sans effort. Du coup, j'ai le sentiment de ne pas savoir travailler, faire des efforts.
+Plan d'action 
+
+
+# 09/04/2025
+Vu aujourd'hui, travail sur l'impuissance, la peur, et le fait de ne pas être un bon père.
+Cela me prend beaucoup d'énergie, et je n'arrive pas à me concentrer et à faire mon projet et à avancer.
+Au final, il s'avère que je suis dans un cycle de deuil, où je suis dans la phasé déni. Je ne veux pas reconnaître (honte) que j'ai perdu la plupart de mes enfants, et que quelque soit la décision du juge. voyant cela, je dois passer dans l'acceptation, pour pouvoir bouger.
+IL y a une part de honte qui dirait que je n'ai pas fait assez, et que je n'ai pas assez combattu, et que je perds face à mon ex.
+Je vois que j'ai besoin d'en parler à mes proches, pour sortir de cette croyance que je vais me faire juger. Notamment en parler à Aydan, et à mon père par exemple.
+
 # 04/02/2025
 
 Travail sur les rêves. Voir que mes rêves d'être nu, dans des situations, révèle la honte que j'ai besoin d'avoir, mais également, le besoin d'être vu. Peut être de la vulnérabilité.
