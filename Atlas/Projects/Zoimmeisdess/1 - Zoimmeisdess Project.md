@@ -28,6 +28,10 @@ Créer des contenus vendables sur le thème du coaching, la transformation, le c
 
 Le but est de mettre à disposition des connaissances pour faire grandir ou se faire grandir. Les contenus sont aussi bien à disposition des personnes qui veulent faire du développement personnel, et essayer de se changer, ou de se lancer sur un projet, que pour des accompagnants qui cherchent des outils, de la compréhension pour s'aider dans leur pratique.
 
+# Produits
+
+[[Eveil Vivant - Mieux vivre avec ses émotions]]
+
 # Les sujets
 
 * Coaching

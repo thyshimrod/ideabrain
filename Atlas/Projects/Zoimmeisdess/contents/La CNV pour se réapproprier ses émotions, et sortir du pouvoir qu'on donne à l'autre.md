@@ -5,6 +5,8 @@ tags:
 top:
   - "[[1 - Zoimmeisdess Project]]"
 ---
+
+[[202505061451 Mieux vivre avec ses emotions - intro]]
 Plan
 * Intro à la CNV, objectif
 	* Communication non violente créée dans l'intention de trouver une manière de faire communiquer des gens sur la base de leurs besoins, et de les rapprocher dans cela.

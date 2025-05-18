@@ -1,0 +1,29 @@
+- [ ] Peur de vivre la contrainte par perte de pouvoir d'achat
+- [ ] Peur du rejet de mes enfants
+- [ ] Acceptation de la perte de relation
+	- [ ] Laisser aller la croyance que rien n'a changé depuis 2021
+- [ ] Ne pas avoir de valeur
+	- [ ] Ce que je produis n'a pas de valeur
+	- [ ] Je ne fais pas assez d'effort pour avoir de la valeur
+	- [ ] Vendre c'est créer une relation 
+		- [ ] où j'ai une responsablité sur la qualité du contenu
+		- [ ] où on peut venir me critiquer
+- [ ] Avoir besoin d'être un sauveur
+- [ ] Honte de mon physique
+	- [ ] Avoir un gros ventre
+	- [ ] Compulsion à manger
+	- [ ] auto humiliation par le manque de discipline
+- [ ] Avori besoin de vivre des choses fortes : Mélancolie ou excitation
+- [ ] Désidentification de mon 7
+	- [ ] Besoin d'avoir plus pour fuir l'anxiété et me procurer de la joie
+	- [ ] BEsoin de me remplir et notamment par la nourriture pour échapper à l'anxiété
+- [ ] Peur de louper une occasion, un objet, de ne pas avoir assez
+- [ ] Que des choses externes me créent du bonheur
+- [ ] BEsoin de me sentir victime pour obtenir de l'attention
+	- [ ] peut être de valoriser aussi ce que je fais
+- [ ] La soumission à mon ex
+	- [ ] Peur de son jugment
+	- [ ] Peur du conflit
+	- [ ] Peur de la culpabilisation
+- [ ] lacher le controle ou l'umpuissance
+	- [ ] vivre le moment présent

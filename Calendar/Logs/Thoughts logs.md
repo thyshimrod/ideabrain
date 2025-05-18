@@ -3,6 +3,32 @@ tags:
   - pascal
   - log
 ---
+# 16/05/2025
+
+Gratitude faite. Je vois que j'ai du mal à écrire ici.
+Beaucoup de fatigues. Peut être dois je trouver un autre moment pour le faire.
+Les pensées qui m'habitent. Je vois que je pas à l'aise en ce moment.
+Je sens que l'humiliation est revenue. Besoin de voir mon corps se déformer de nouveau. 
+Pour autant, j'aime faire du sport, et j'en ai fait beaucoup aujourd'hui. Rhaaa.
+A chercher le sous jacent.
+Heureux de pouvoir être là pour mon père. Je vois qu'il y a un truc qui est je n'ai pas été là la dernière fois, alors qu'il a failli mourir je veux motnrer que je serai là.
+J'ai l'impression, mais c'est ma tête, ue cela impacte Aydan que j'ai fait ce choix. Se faire abandonner etc.
+J'ai l'impression qu'elle me cherche à le faire payer.
+Moins d'interactions, j'ai l'impression qu'elle me cache des choses, ou qu'elle a peur de mon jugement. INteractions non fluides. Jeu de culpabilisation. Elle m'éloigne.
+Il y a qq chose de pas cool dans la relation. En même temps, je sais qu'elle n'est pas bien, mais je n'ai pas envie de supporter non plus, ses mauvais côtés, et ce qu'elle me fait porter.
+Ouch cela m'impacte. Je sens que cela vient jouer sur la peur de l'abandon, du rejet.
+Il y a quelque chose d'injuste aussi. Je sais que ce soir j'ai dit Sorry, car je sais que c'est important pour elle que je le dise, et en même temps, je ne vois pas pourquoi, et je trouve cela injuste. Elle était dure, et notamment avec moi.
+Bon je fais quoi de cela? Je continue à jouer avec elle. Parce que là, c'est partie pour jouer à fond.
+J'ai envie de lui faire payer, et de faire le mec qui se détache.
+En même temps, c'est vrai que j'ai une incompréhension. Elle sait qu'on ne va pas se voir, elle n'a rien fait pour qu'on se voit. Je serai tenté de dire, comme d'hab elle ne réalise pas. Même si je lui ai dit. J'ai l'impression malgré tout, que ...
+
+
+
+# 28/04/2025
+
+Bazinga comme dirait Sheldon. Ca tombe dans ma tête.
+Je vois que tout cela va impacter ma vie, et va me créer de la perturbation
+
 # 25/04/2025
 Je viens d'avoir le résultat du jugement.
 Intéressnt de voir ce que cela crée en moi. J'ai du mal à bondir de joie. Pour autant, ça y est je suis divorcé. Peu de charges retenues. Je récupère un droit de visite et d'hébergement étendu. Enormément étendu. A voir si jke suis capable d'assumer cela. A voir, comment les enfants vont réagir à cela.

@@ -18,4 +18,7 @@
 * [ ] confiance en soi,  et si l'autre n'a pas confiance en soi, nous pourrions l'intimider, etre en domination, en jugement
 * [ ] Livres sur la procrastination, ou la capacité à se mettre en mouvement sont fait par des 3 pour des 3... rigueur, achievement... comment on met en route un autre type?
 - [ ] Authenticité par l'exemplarité : incapacité à éduquer les autres à l'AT, pour autant, en étant en adulte, on contre le jeu. Par ailleurs, s'ils obtiennent ce qu'ils souhaitent par une action d'authenticité, ils n'auront plus le besoin de jouer. Ils pourront le demander en direct. [[202504082219 MOA authenticité par l'exemplarité]]
-- [ ] 
+- [ ] etre stuck ... vivre dans le paradoxe de 2 injonctions contradictoires. possiblement un Parent et un enfant (peut être rebelle)
+- [ ] template pour guider un solo preneur dans ce qu'il a à faire
+- [ ] Liste des blessures à aller guérir pour être solo preneur
+se donner du temps et sortir de la servitude (notamment de ses croyances, de son sens du devoir, du regard des autres)
