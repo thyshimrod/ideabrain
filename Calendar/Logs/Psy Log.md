@@ -4,6 +4,14 @@ tags:
   - log
   - psy
 ---
+# 19/05/2025
+Vu ce jour, struggling about kids.
+En fait, je m'étais remis dans une posture de faire parfait, et de tout faire pour les enfants.
+Je me suis de nouveau mis dans une situation où je m'emprisonne pour pouvoir accueillir les enfants. Je n'ai pas le droit de changer de boulot. Je n'ai pas le droit de faire des choses pour moi. Je dois tout préparer pour que cela soit parfait.
+Je veux faire bonne figure. En vrai, je vois que je veux être parfait pour ne pas avoir mon ex sur le dos, et ne pas avoir ses récriminations. 
+MAis cela sera toujours le cas. Je fais différemment donc cela sera toujours sous critique.
+Regina m'a apporté le fait que je dois plutôt être modélisant. Etre un papa qui vit qui s'éclate. Qui montre qu'on peut vivre sans être sacrificiel. 
+Let's go.
 
 # 22/04/2025
 

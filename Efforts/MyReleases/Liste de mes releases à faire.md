@@ -1,7 +1,12 @@
 - [ ] Peur de vivre la contrainte par perte de pouvoir d'achat
-- [ ] Peur du rejet de mes enfants
+- [ ] Peur du rejet de mes enfants : 8
+- [ ] Avoir des attentes de la part de Camille
+	- [ ] Reconnaissance : 7
+	- [ ] Compréhension : 6
+	- [ ] Me voir en tant que victime : 8
+- [ ] Sortir de la victimisation dans ce qui se passe avec mes enfants : 9
 - [ ] Acceptation de la perte de relation
-	- [ ] Laisser aller la croyance que rien n'a changé depuis 2021
+	- [ ] Laisser aller la croyance que rien n'a changé depuis 2021 : 7 
 - [ ] Ne pas avoir de valeur
 	- [ ] Ce que je produis n'a pas de valeur
 	- [ ] Je ne fais pas assez d'effort pour avoir de la valeur
@@ -22,8 +27,8 @@
 - [ ] BEsoin de me sentir victime pour obtenir de l'attention
 	- [ ] peut être de valoriser aussi ce que je fais
 - [ ] La soumission à mon ex
-	- [ ] Peur de son jugment
-	- [ ] Peur du conflit
-	- [ ] Peur de la culpabilisation
+	- [ ] Peur de son jugment : 8
+	- [ ] Peur du conflit : 7
+	- [ ] Peur de la culpabilisation : 8
 - [ ] lacher le controle ou l'umpuissance
 	- [ ] vivre le moment présent

@@ -3,6 +3,65 @@ tags:
   - pascal
   - log
 ---
+# 29/05/2025
+Intéressant de voir que je n'ai pas encore relâché la relation avec Camille.
+J'ai beaucoup aimé les discussions avec Juliette sur ce sujet.
+Le passé est dépassé, le présent est un cadeau.
+Essayer d'ancrer que je suis désormais dans une relation contractuelle avec elle.
+Comme si je louais les enfants pour un week end ou pour les vacances. Je négocie les conditions, et je viens les chercher. Son avis, ses opinions ne m'intéressent pas.
+
+Je viens d'aller voir de la documentation sur internet sur le droit de visite et d'hébergement. En fait, je dois récupérer l'intégralité de la tribu. Les enfants n'ont pas le droit de décider s'ils veulent venir ou non. Ouah, c'est intéressant. 
+
+PLusieurs choses chez moi à travailler:
+- Toujours soumission à Camille, peur de son regard, peur de ses jugements, peur de ce qu'elle va raconter aux enfants.
+- J'ai l'envie, le besoin d'être compris, reconnu, vu. De la part d'une personne, qui ne me donnera pas cela.
+- Il y a de l'injustice, car c'est de sa faute, si les enfants en sont là.
+- Je viens de voir, que cela fait très longtemps que je n'ai pas eu les 4, et je me sens plus à l'aise avec Ancelin et Hyacinthe. Il y a surement de la peur de gérer les 4.
+- J'ai peur de voir le refus de Lyssandre, et de devoir le forcer.
+- J'ai une certaine appréhension du conflit, et en même temps, je vois que c'est plus la peur du jugement.
+
+En même temps, j'ai du soutien unilatéral de tous mes proches. Juliette, Aydan, et même Luc, qui est très positionné sur ce sujet, à ma grande surprise. J'avais la croyance qu'il avait abandonné ses enfants, alors que pas du tout.
+
+Je dois m'ancrer là dessus. Ma légitimité, le fait que je suis leur père, qu'il n'y a pas de raison, que je ne puisse pas avoir mes enfants.
+
+De toute manière après tout  ce qui s'est passé, il est évident que cela va être compliqué. Il faut que je sois dans cette considération. Mes enfants ont été retournés contre moi. Je dois m'affirmer et faire en sorte de passer du temps de qualité avec eux. Je dois m'appuyer sur des personnes qui puissent me soutenir. Juliette a raison de me conseiller de faire cela sur un territoire neutre, avec d'autres personnes. Je vais essayer de suivre ses recommandations.
+
+Vivre le conflit de loyauté va être compliqué. 
+Je dois relire le jugement du tribunal. Pour voir les conditions évoquées. Je dois contacter mon avocate pour vérifier les conditions pour porter plainte, et pour récupérer les enfants.
+Je répondrai à Camille Lundi je pense. Dans un environnement SAFE. JE n'ai pas envie d'avoir cela à gérer ici, avec mon père. En même temps, cela me soutiendrait surement.
+
+Ne pas oublier le soutien de Luc également.
+Peut être arrêté de penser à tout cela. Je sais que demain j'ai l'appel. En vrai, si Ancelin y est présent, il ne me parlera pas de tout cela. Si l'autre folle est là, elle n'osera pas m'en parler en direct. Si elle aborde le sujet, je lui dirai, j'ai vu, je lui répondrai semaine prochaine.
+
+C'est intéressant de voir que j'ai toujorus des attentes. Et du coup, cela engendre chez moi de la frustration, et donc de la colère, et du mal être.
+Essayons de laisser aller les attentes.
+
+Voilà demande envoyé à Luc pour m'aider à releaser. JE pense qu'il faut que j'affronte cela. Déjà cela m'adoucit.
+
+C'est intéressant, qu'il y a peut être quelque chose qui cherche la simplicité. Abandonner mon droit de visite, ça m'évite le conflit, le dur, la rencontre, etcetc. C'est une préférence à la simplicité. Mais est ce que c'est cela dont j'ai envie. Fuir? 
+JE vois que mon 7, me dit cela. Je n'avais pas pris conscience, de l'importance de fuir l'inconfort. Là cela me saute aux yeux. Il faut que je puise en moi, le courage, la force, le besoin de vivre l'inconfort.
+
+Intéressant de voir tout cela. Merci PAscal pour cette introspection.
+
+# 26/05/2025
+
+Harassement de voir la maison si pleine, et si dure à vider. Pour autant, je trouve que j'ai pas mal bouger de choses. J'ai les idées claires, sur  ce qu'il y a ranger, et faire.
+FAut que je passe du temps dans le garage aussi, pour arranger correctement.
+C'est le foutoir car c'est amoncelé. Si c'était rangé, cela serait mieux. Eliminer une partie des cagettes aussi, en bas et dans le garage. On commence à y voir plus clair.
+Tout ce jardin à s'occuper aussi... pffff.
+
+Inquiétude pour Papa. JE vois qu'il y a une part de moi qui veut bien faire. Qui a du mal à s'écouter. Fatigue et autres. Effectivement, si à un moment ça tourne au vinaigre, cela signifie beaucoup de changement, et de tristesse.
+
+Mail de Camille, je vois que je l'évite. Comment on en est arrivé là? C'est terrible.
+C'est horrible ce qu'elle raconte. Comment je vais faire? Je vois que j'ai le soutien des uns et des autres, sur le fait d'y aller à fond. Chacun y va de son expérience. Sujet difficile au demeurant.
+En vrai, il faut que j'arrête de toujours vouloir bien faire. Il y a quelque chose de l'ordre du Vert comme dit Luc. Je veux éviter le conflit à fond. 
+J'espère aussi surement quelque chose. Une compréhension, une reconnaissance. Avoir des attentes vis à vis de Camille. Alors qu'en fait, la séparation est rompue. Je dois me détacher d'elle complétement. Il ne doit plus y avoir de discussion. 
+Je sais que c'est dur pour les enfants qui ont été aliénés. Mais en même temps, ne pas les voir m'empêche toute forme de relation. En relisant le mail, je vois qu'elle se projette sur un long terme en plus, quand la saison de hand va reprendre. Et cet été, on l'oblitère?
+Elle s'en fout de la décision du juge. Elle est au dessus de tout cela. Elle croit toujours au fait qu'elle est la sachante, qu'elle sait ce qu'il y a de mieux pour les enfants.
+En vrai, on peut regarder tout cela a mené à une catastrophe. Elle fait fi complétement de l'expertise psychologique qui montre bien son rôle dans la séparation avec les enfants.
+
+
+
 # 16/05/2025
 
 Gratitude faite. Je vois que j'ai du mal à écrire ici.

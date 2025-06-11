@@ -1,0 +1,18 @@
+
+- [ ] L'argent ne fait pas le bonheur 
+- [x] Avoir de l'argent mène à la peur de le perdre
+- [ ] La valeur ne se trouve que dans l'effort ou la rareté
+- [ ] La richesse est réservée aux autres
+- [x] Un gain d'argent pour moi est une perte pour quelqu'un d'autre
+- [x] Il est illégitime de gagner de l'argent si d'autres en manquent
+- [x] S'offrir du luxe crée du déséquilibre social et écologique
+- [x] L'abondance financière à grande échelle détruit le vivant
+- [ ] Se déployer en générant de l'argent est égoiste
+- [ ] Il faut vendre à bas prix pour toucher des clients
+- [ ] L'abondance financière est incompatible avec l'alignement vocationnel
+- [x] Mes aspirations profondes sont sans intérêt pour autrui
+- [ ] Ce que je fais n'a pas de valeur ou insuffisante qualité (non parfait) pour être vendu
+- [ ] Les connaissances sont gratuites (en France, l'éducation est majoritairement gratuite), on ne peut pas vendre, on doit faire des vidéos gratuites
+- [ ] On doit être au service des autres (notamment moi qui suis coach), car notre culture judéo chrétienne nous injoncte de donner aux autres.
+- [ ] Peur du regard des autres, ne plus être aimé, car je deviens "vénal"
+- [ ] Publier pour vendre, en utilisant des trucs, c'est sale

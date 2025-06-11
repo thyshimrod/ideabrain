@@ -1,0 +1,46 @@
+---
+
+- [ ] as tu quelquun a qui parler de cela ? ( ne garde pas cela pour toi ) -D6
+    - [ ] un beneficiaire
+    - [x] un client
+    - [x] une VOC
+    - [ ] un coach
+    - [ ] un ami a la machine a cafe
+    - [ ] regulierement ?
+        - [ ] structure ? ( forcing function)
+    - [ ] qui ecoute ? pose des questions ? donne du feedback ? des opinions ?
+	    - Luc, Aydan. 
+- [ ] Utilise tu un journal ?
+    - [ ] pour noter tes idees, ?
+    - [ ] tes actions, ?
+    - [ ] tes emergences ?
+    - [ ] tes questions ?
+    - [ ] tes reponses ?
+    - [ ] tes problemes ?
+    - [ ] tes solutions ?
+- [ ] Si tu creais cela, ca permettrais quoi ?- (D1)
+    - [ ] a ton client ?  De vivre mieux son quotidien, d'avoir des capacités à s'auto coacher
+        - [ ] comment il saurait qu il a ca / qu il atteint ca ?
+    - [ ]  Si tu creais cela, ca te permettrais quoi ?a toi meme (D1)
+        - [ ] tu te sentirais comment ? Heureux de savoir que je contribue au bien être, à l'amélioration de la qualité de la vie. CEla rebondit sur mon aspiration de vivre un monde qui me ressemble plus, et meilleur
+    - [x] as tu decompose ton objectif sur les zones de wardley ? (D5)
+        - [x]  dans quelle zone de wardley tu sauras qui est interesse par ton idee / produit ?
+        - [x] dans quelle zone de wardley ca va devenir actionable ?
+        - [x] dans quelle zone de wardley ca va generer reelement du cash ?
+        - [x] comment celebre t on les avancees ? les changement de nature de cet Effort ?
+    - [ ] Comment vas tu faire pour faire que cet effort soit soutenable ? (D3-D4)
+        - [x] as tu cree des reunions recurentes avec tes VOC ?
+        - [ ] qu est ce qui te motiverait a avancer ? Le partage entre nous, mon mur de célébrations, mon tableau d'actions, mon assistant python
+        - [x] qu est ce qui te motiverait a depasser la peur ?
+            - [ ] l incertitude ?
+            - [ ] le perfectionismes ?
+        - [ ]  qu est ce qui t empecherati de procastiner ? relâcher mon besoin de me saboter, et mon besoin de honte.
+    - [ ] Utilise tu une MOC ? un [MOA](https://publish.obsidian.md/luctaesch/MOA) ? (D2) A affiner, j'ai des tableaux de contenu, mais cela reste un fourre tout. Comment rendre construit toute cette matière?
+    - [x] [journalise tu tes decisions et leurs Q/R/A](https://publish.obsidian.md/luctaesch/Atlas/Notes/Statements/decider+c+est+douter) ?
+    - [x] Y a til une structure sur cet Effort ? (D3)(D4)
+        - [x] les roles sont ils definis ? ecrit ?
+        - [x] la variabilite est elle claire sur les roles et engagement ?
+        - [x] L evolutivite de la structure est elle acceuilie ? definie ? variable ?
+            - [x] re pensee a chaque pivot / zone de wardley ?
+    - [x] quels sont les antagonismes a cette reussite ?
+        - [x] [as tu investigué et releasé les croyances limitantes ?](https://publish.obsidian.md/luctaesch/Atlas/Notes/Statements/Release+before+acting-D4)
