@@ -4,6 +4,19 @@ tags:
   - log
   - psy
 ---
+# 16/06/2025
+Session intéressante
+JE suis venu avec du mal être par rapport aux enfants.
+Au lieu de gérer cela par moi même, j'ai attendu Regina.
+J'aime le fait qu'on se parle franchement.
+Effectivement pourquoi je l'ai attendu pour gérer ce sujet. J'attendais encore une fois une maman, j'avais besoin d'être soutenu, et qu'on croit en moi. J'avais surtout besoin d'être en victime, et que quelqu'un prenne la responsabilité de ce qui se passe. Trop d'impuissance pour moi.
+Je vois que je me suis encore construit une prison d'impossibilité. ME sacrifier.
+INtéressant à voir, que je n'ai jamais vraiment construit un avenir pour moi. J'ai toujours fait au mieux pour plaire aux autres, le mieux que j'ai pu faire, est de prendre les opportunités quand elles se présentaient. Cela ne créait pas un changement trop important.
+A date, est ce que je saurai dire ce qui me motive, et ce que je voudrai faire, sans répéter ce que je sais faire, et continue à faire au service des autres. Suis je prêt à assumer ma potentialité, et y aller à fond? Est ce que je suis prêt à m'écouter, et à me délier de ce que pense les autres, sur ce qui est bien ou mal, et ce que je devrai faire.
+Est ce que cela serait ok, de vivre en m'acceptant moi uniquement, sans vivre ce que les autres attendent de moi.
+Finalement, mes anciennes croyances, peurs, restent accessibles, tant que je n'aurai pas assumé le fait que je veuille changer d'identité, lâcher ce que je suis, pour aller vers quelque chose que je veux, et aussi que je ne veux pas.
+Ca concide avec les propos de luc acutellement sur le renew, c'est une opportnité donc.
+
 # 19/05/2025
 Vu ce jour, struggling about kids.
 En fait, je m'étais remis dans une posture de faire parfait, et de tout faire pour les enfants.

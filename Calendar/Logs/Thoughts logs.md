@@ -3,6 +3,24 @@ tags:
   - pascal
   - log
 ---
+
+# 11/06/2025
+
+Tension chez moi. Beaucoup de compulsion, masturbation, manger.
+Voir que je fais peu de choses réellement profitable pour moi. Surtout de la disperson.
+Aujourd'hui j'ai repris sport, et peinture. Ce qui est pas mal.
+Le besoin d'humiliation et d'avoir honte est présent de nouveau. Surement un moyen d'attirer l'attention, ou le corps cherche l'attention. 
+Qu'est ce que cela me fait de voir  cela? Cela me rend triste assurément.
+PLusieurs tristesses, la première est de voir que je n'arrive pas ç me c onnecer à moi pour vivre ce que j'ai  à vivre. La seconde, de me dire que mes anciens comportements arrivent... après je me dois de me donner cette douceur, car effectivement c'erst identitaire, comment on s'en sort réellement?
+Je vois que le sujet Daveo, me chiffonne aussi. Je vois que cela m'intéresse beaucoup, et que cela va dans le sens plutôt de l'histoire. Je me dis qu'il faudrait que je me remette à niveau, pour pouvoir vraiment être pertinent. Je vais probablement demander à Grok de me faire un plan d'apprentissage pour cela. 
+Du coup, est ce qu'il n'y a pas de la peur autour de tout cela.
+
+J'ai fait mon atelier SD, donc cléébration, car cela me prenait pas mal de charge mentale.
+Je me sens plutôt en sécurité désormais.
+Je vais pouvoir retravailler mon side hustle
+
+
+
 # 29/05/2025
 Intéressant de voir que je n'ai pas encore relâché la relation avec Camille.
 J'ai beaucoup aimé les discussions avec Juliette sur ce sujet.
