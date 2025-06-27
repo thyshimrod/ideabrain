@@ -21,4 +21,4 @@
 - [ ] etre stuck ... vivre dans le paradoxe de 2 injonctions contradictoires. possiblement un Parent et un enfant (peut être rebelle)
 - [ ] template pour guider un solo preneur dans ce qu'il a à faire
 - [ ] Liste des blessures à aller guérir pour être solo preneur
-se donner du temps et sortir de la servitude (notamment de ses croyances, de son sens du devoir, du regard des autres)
+- [ ] se donner du temps et sortir de la servitude (notamment de ses croyances, de son sens du devoir, du regard des autres)

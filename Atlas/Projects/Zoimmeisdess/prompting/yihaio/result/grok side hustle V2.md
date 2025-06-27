@@ -4,7 +4,7 @@
 
 ### Contexte
 
-- **Auteur** : Pascal Ogil, coach agile chez Sopra Steria/Reacteev, basé à Paris, France.
+- **Auteur** : Pascal Ogil, coach agile chez Reacteev, basé à Paris, France.
 - **Profil** :
     - **Identité** : HPI (QI 144, top 2 %), Énéagramme 7-Aventurier (aile 2-Altruiste, mineur 4-Individualiste), MBTI ESFJ-Consul.
     - **Valeurs** : Simplicité, créativité, autonomie, apprentissage (profondeur initialement prioritaire, mais recentrée sur simplicité pour rentabilité).
