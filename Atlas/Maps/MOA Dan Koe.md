@@ -1,4 +1,9 @@
 
+[[DAN koe prompt etude des pains et ciblage marche]]
+[[Dan koe prompt story and belief extractor]]
+
+[[dan koe resume day 1-9]]
+
 [[day 1 dan koe]]
 [[day 2 dan koe]]
 [[day 3 dan koe]]

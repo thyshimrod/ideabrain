@@ -3,6 +3,13 @@ tags:
   - pascal
   - log
 ---
+# 30/06/2025
+
+Du stress et de l'inquiétude aujourd'hui.
+J'imagine que c'est l'appel avec l'avocat. Il y a quelque chose qui est dans l'impuissance, le non contrôle. J'ai énormément de choses en tête aussi, j'ai vu que j'ai mis mon brain content, et la liste est longue. J'ai plein de choses à faire. 
+J'essaye aujourd'hui de ne pas trop éviter. Même si la masturbation reste qq chose qui m'attire beaucoup. J'y vais avec beaucoup de conscience, car finalement ce qui m'habite est très désagréable.
+J'ai du mal à poser tout cela. Le champ... Je suis le champ qui voit l'émotion aller et venir.
+Release à faire. Ca se tente... Laquelle?
 
 # 11/06/2025
 

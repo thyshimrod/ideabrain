@@ -28,9 +28,12 @@ tags:
 [[202309271311 blessure de l'ame]]
 [[202410161446 culpabilité, honte, actions]]
 [[202408072246 protocole de desidentification]]
+[[202506292139 Arissiel Questions]]
+
 # Resistance
 [[202408072242 resistance worksheet]]
 [[202408072245 ce qui nous empeche d'acceder a la liberte]]
+[[202507062029 peurs peurs]]
 
 # Honte & culpabilité
 [[202502042044 Honte - déni de sentiments]]

@@ -75,7 +75,7 @@ Il est difficile de réfléchir à son histoire si l'on ne sait pas quelles part
 
 Et réfléchir à ses « croyances fondamentales » est souvent abstrait et difficile à cerner lorsqu'on est dans sa tête.
 
-J'ai donc créé ce module d'extraction d'histoires et de croyances fondamentales que vous pouvez utiliser avec l'IA.
+J'ai donc créé ce module d'extraction d'histoires et de croyances fondamentales que vous pouvez utiliser avec l'IA. [Kortex](https://app.kortex.co/public/document/9d77482b-0dd9-4dbc-829d-77f2d0364132)
 
 Il vous posera plusieurs questions sur votre vie et vos croyances, puis vous dressera une liste organisée de tout ce dont vous avez besoin et que vous pourrez conserver en lieu sûr.
 
@@ -144,7 +144,7 @@ Dans cet exemple, il s'agit d'une difficulté assez générale à laquelle beauc
 
 Cultiver la curiosité et le désir en mettant l'accent sur les difficultés, les désirs et les avantages dans votre contenu est la façon d'inciter les gens à s'intéresser à vos centres d'intérêt.
 
-Pour vous faciliter la tâche, voici une autre invite qui vous interviewe sur vos sujets et expose vos difficultés, vos désirs et des idées de contenu potentielles pour ces sujets.
+Pour vous faciliter la tâche, voici une autre invite qui vous interviewe sur vos sujets et expose vos difficultés, vos désirs et des idées de contenu potentielles pour ces sujets. [Kortex](https://app.kortex.co/public/document/c71080e8-4d2a-4a5a-9e19-25eb931622c2)
 
 Construire son autorité revient généralement à cibler les difficultés et à proposer une solution. Ainsi, les gens commencent à vous percevoir comme la personne capable de les aider à atteindre leurs objectifs.
 

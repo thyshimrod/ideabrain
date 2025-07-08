@@ -1,0 +1,29 @@
+
+- [ ] Prendre soin de moi
+	- [x] celebrations à reprendre
+	- [ ] lire polyvagal
+	- [ ] release à faire
+	- [ ] lise bourbeau questions
+	- [ ] sport
+- [ ] Enfants
+	- [ ] Preparer les vacances
+	- [ ] avocat 
+		- [ ] payer avocat
+		- [ ] commencer les paiements de la pc
+		- [ ] possibiltié de participer aux activités, de venir les voir aux activités, matchs, fête d'école?
+- [ ] Admin
+	- [ ] Commander un cable de chargement
+	- [ ] Papiers à refaire
+- [ ] Side hustle
+	- [ ] What to do vision
+		- [ ] Changement de paradigme relationnel. Comment vivre des relations sans la peur de l'abandon, du rejet, de la honte, de l'humiliation?
+			- [ ] Etude spirale, à quel niveau est rattaché chacune des croyances?
+	- [ ] Créer compte english insta
+	- [ ] Dan Koe work
+		- [ ] Créer du contenu
+	- [ ] Vendre du teachable
+- [ ] Boulot
+	- [ ] Shift left
+	- [ ] Devops
+	- [ ] certif LPM
+	- [ ] chercher un boulot
