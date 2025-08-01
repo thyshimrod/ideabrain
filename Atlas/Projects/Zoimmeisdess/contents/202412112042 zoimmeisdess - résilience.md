@@ -6,7 +6,7 @@ tags:
   - depression
   - acceptation
 up:
-  - "[[1 - Zoimmeisdess Project]]"
+  - "[[991 - Zoimmeisdess Project]]"
 ---
 
 Lister les pratiques permettant la résilience

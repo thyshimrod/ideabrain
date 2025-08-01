@@ -26,6 +26,10 @@ tags:
 [[202008141835 Enneatype constitution definition]]
 [[202007312211 Exemple de différence de motivation entre les types]]
 [[202008112238 enneagramme essence]]
+[[202507290840 enneatype convergence]]
+
+# recherche
+[[202507310837 peur de l'echec enneagramme]]
 
 # 3 centres
 [[202008141757 enneagramme resume types]]

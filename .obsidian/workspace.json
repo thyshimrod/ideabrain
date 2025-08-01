@@ -4,265 +4,334 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e3153a5bd6ff1a",
+        "id": "097d9d2b93c9689b",
         "type": "tabs",
         "children": [
           {
-            "id": "a147fbafb73c7881",
+            "id": "d236a053c6f1f5a2",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "202503142057 prompt dragon 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/prompt dragon/202503142057 prompt dragon 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202503142057 prompt dragon 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Exploration Personnelle",
+                  "title": "202507302207 RAC - contents",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Exploration Personnelle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Exploration Personnelle\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302207 RAC - contents.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507302207 RAC - contents\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":23},\"to\":{\"line\":26,\"ch\":23}},\"scroll\":24.847748815165875}"
                 },
                 {
-                  "title": "Liste de mes releases à faire",
+                  "title": "202507112258 NL 24",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/MyReleases/Liste de mes releases à faire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Liste de mes releases à faire\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":30},\"to\":{\"line\":33,\"ch\":30}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202507112258 NL 24.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507112258 NL 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Thoughts logs",
+                  "title": "202507112258 NL 23",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":12.788368066151937}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202507112258 NL 23.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507112258 NL 23\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Celebration & Victories",
+                  "title": "202507112258 NL 8",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Celebration & Victories.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Celebration & Victories\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0.19047619047619047}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202507112258 NL 8.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507112258 NL 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Thoughts logs",
+                  "title": "Integral",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Integral.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Integral\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":16},\"to\":{\"line\":10,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "202507112258 NL 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202507112258 NL 24.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507112258 NL 24\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":4},\"to\":{\"line\":34,\"ch\":4}},\"scroll\":22.715625445048016}"
+                },
+                {
+                  "title": "Integral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Integral.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Integral\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":16},\"to\":{\"line\":26,\"ch\":16}},\"scroll\":16.198437531789143}"
+                },
+                {
+                  "title": "202507112258 NL 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202507112258 NL 23.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507112258 NL 23\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.343055301242405}"
+                },
+                {
+                  "title": "202507302245 RAC - V2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302245 RAC - V2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507302245 RAC - V2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":111},\"to\":{\"line\":112,\"ch\":111}},\"scroll\":102.52678159602388}"
+                },
+                {
+                  "title": "MOA RAC - Revenir en accord avec son corps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/MOA RAC - Revenir en accord avec son corps.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA RAC - Revenir en accord avec son corps\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":16},\"to\":{\"line\":11,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "202507302208 RAC - Coach solopreneur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302208 RAC - Coach solopreneur.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507302208 RAC - Coach solopreneur\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":91,\"ch\":37},\"to\":{\"line\":91,\"ch\":37}},\"scroll\":61.444661458333336}"
+                },
+                {
+                  "title": "MOA RAC - Revenir en accord avec son corps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/MOA RAC - Revenir en accord avec son corps.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA RAC - Revenir en accord avec son corps\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}},\"scroll\":0}"
+                },
+                {
+                  "title": "202507302207 RAC - contents",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302207 RAC - contents.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507302207 RAC - contents\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":71},\"to\":{\"line\":11,\"ch\":71}},\"scroll\":21.928317535545023}"
+                },
+                {
+                  "title": "202507302208 RAC - Coach solopreneur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302208 RAC - Coach solopreneur.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507302208 RAC - Coach solopreneur\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":15.461538461538462}"
+                },
+                {
+                  "title": "202507302207 RAC - contents",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302207 RAC - contents.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507302207 RAC - contents\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "202505222102 todolist solopreneur",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202505222102 todolist solopreneur.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505222102 todolist solopreneur\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "SoloPreneur MAP",
+                  "title": "202507302210 Justin welsh retro",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":29},\"to\":{\"line\":9,\"ch\":29}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/202507302210 Justin welsh retro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507302210 Justin welsh retro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":162,\"ch\":0},\"to\":{\"line\":162,\"ch\":0}},\"scroll\":139.82486979166666}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/MOA RAC - Revenir en accord avec son corps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOA RAC - Revenir en accord avec son corps"
+            }
+          },
+          {
+            "id": "c4244528f45d518f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "MOA authors",
+                  "title": "20250801226 pensee plate - V1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/MOA authors.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA authors\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":36},\"to\":{\"line\":13,\"ch\":36}},\"scroll\":54.0249989827474}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/20250801226 pensee plate - V1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250801226 pensee plate - V1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.787760416666666}"
                 },
                 {
-                  "title": "SoloPreneur MAP",
+                  "title": "202508011755 contenu - pensee plate",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":28},\"to\":{\"line\":37,\"ch\":28}},\"scroll\":18.01994117759146}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":19}},\"scroll\":0}"
                 },
                 {
-                  "title": "Learn Copywriting In 27 Minutes With AI",
+                  "title": "202508012230 koe metrics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Learn Copywriting In 27 Minutes With AI.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Learn Copywriting In 27 Minutes With AI\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/202508012230 koe metrics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508012230 koe metrics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":231},\"to\":{\"line\":25,\"ch\":231}},\"scroll\":17.102864583333332}"
                 },
                 {
-                  "title": "SoloPreneur MAP",
+                  "title": "202508011755 contenu - pensee plate",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":6.530612244897959}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":24},\"to\":{\"line\":5,\"ch\":24}}}"
                 },
                 {
-                  "title": "I Trained AI To Write 30 Viral Tweets (Build An Audience Faster)",
+                  "title": "KOe metrics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/I Trained AI To Write 30 Viral Tweets (Build An Audience Faster).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"I Trained AI To Write 30 Viral Tweets (Build An Audience Faster)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/luc/KOe metrics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"KOe metrics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":76},\"to\":{\"line\":18,\"ch\":76}}}"
                 },
                 {
-                  "title": "SoloPreneur MAP",
+                  "title": "202508011755 contenu - pensee plate",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":37},\"to\":{\"line\":12,\"ch\":37}},\"scroll\":6.530612244897959}"
-                },
-                {
-                  "title": "202505201949 solo preneur croyances limitantes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202505201949 solo preneur croyances limitantes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505201949 solo preneur croyances limitantes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":61},\"to\":{\"line\":17,\"ch\":61}},\"scroll\":3.325757378170091}"
-                },
-                {
-                  "title": "SoloPreneur MAP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":34},\"to\":{\"line\":16,\"ch\":34}}}"
-                },
-                {
-                  "title": "Psy Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Psy Log.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Psy Log\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":9},\"to\":{\"line\":13,\"ch\":9}}}"
-                },
-                {
-                  "title": "2025052020242 pistes de travail",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/2025052020242 pistes de travail.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025052020242 pistes de travail\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "title": "SoloPreneur MAP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":24},\"to\":{\"line\":23,\"ch\":24}},\"scroll\":6.530612244897959}"
-                },
-                {
-                  "title": "202505201949 solo preneur croyances limitantes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202505201949 solo preneur croyances limitantes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505201949 solo preneur croyances limitantes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":6},\"to\":{\"line\":17,\"ch\":6}}}"
-                },
-                {
-                  "title": "SoloPreneur MAP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":24},\"to\":{\"line\":16,\"ch\":24}}}"
-                },
-                {
-                  "title": "202505201957 Mantra",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202505201957 Mantra.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505201957 Mantra\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "SoloPreneur MAP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":8},\"to\":{\"line\":17,\"ch\":8}}}"
-                },
-                {
-                  "title": "202505201949 solo preneur croyances limitantes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202505201949 solo preneur croyances limitantes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505201949 solo preneur croyances limitantes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":6},\"to\":{\"line\":5,\"ch\":6}}}"
-                },
-                {
-                  "title": "SoloPreneur MAP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":24},\"to\":{\"line\":16,\"ch\":24}}}"
-                },
-                {
-                  "title": "structured endeavor-checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/structured endeavor-checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"structured endeavor-checklist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "SoloPreneur MAP",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":25},\"to\":{\"line\":20,\"ch\":25}}}"
-                },
-                {
-                  "title": "structured endeavor-checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/structured endeavor-checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"structured endeavor-checklist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Etat vie test",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Etat vie test.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Etat vie test\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "202503232314 reformulation",
+                  "title": "20250801229 analysis",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/prompt dragon/resultat prompt/202503232314 reformulation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202503232314 reformulation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.12666666507720947}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/20250801229 analysis.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250801229 analysis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":114,\"ch\":103},\"to\":{\"line\":114,\"ch\":103}},\"scroll\":103.28660049627791}"
                 },
                 {
-                  "title": "202504021416 aidev4",
+                  "title": "202508011755 contenu - pensee plate",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/prompt dragon/resultat prompt/202504021416 aidev4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504021416 aidev4\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "20250801226 pensee plate - V1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/20250801226 pensee plate - V1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250801226 pensee plate - V1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.72265625}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":18},\"to\":{\"line\":2,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "202508011755 pensee plate - v0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/202508011755 pensee plate - v0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 pensee plate - v0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":28},\"to\":{\"line\":2,\"ch\":28}},\"scroll\":103.20638020833333}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":26},\"to\":{\"line\":1,\"ch\":26}},\"scroll\":0}"
+                },
+                {
+                  "title": "floating context",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/luc/floating context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"floating context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":2},\"to\":{\"line\":136,\"ch\":268}},\"scroll\":149.3781017369727}"
+                },
+                {
+                  "title": "202508011755 pensee plate - v0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/202508011755 pensee plate - v0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202501081755 pensee plate - v0\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "202504012116 Demarrage",
+                  "title": "202508011755 contenu - pensee plate",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/prompt dragon/202504012116 Demarrage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504012116 Demarrage\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":31},\"to\":{\"line\":1,\"ch\":31}},\"scroll\":0}"
                 },
                 {
-                  "title": "202504021416 aidev4",
+                  "title": "20250801226 pensee plate - V1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/prompt dragon/resultat prompt/202504021416 aidev4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504021416 aidev4\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":120.31001993305459}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/20250801226 pensee plate - V1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250108226 pensee plate - V1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":419},\"to\":{\"line\":17,\"ch\":419}},\"scroll\":9.192522321428571}"
                 },
                 {
-                  "title": "202505182302 oraganisrtout revue générique",
+                  "title": "202508011755 contenu - pensee plate",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/prompt perso/versions/202505182302 oraganisrtout revue générique.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505182302 oraganisrtout revue générique\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":19}},\"scroll\":0}"
                 },
                 {
-                  "title": "202504081423 creer mon changement v0",
+                  "title": "202508011755 pensee plate - v0",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/202504081423 creer mon changement v0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504081423 creer mon changement v0\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":101.29910468906509}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/202508011755 pensee plate - v0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202501081755 pensee plate - v0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":103.20638020833333}"
                 },
                 {
-                  "title": "202505150850 what's luc want from me",
+                  "title": "floating context",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202505150850 what's luc want from me.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505150850 what's luc want from me\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/luc/floating context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"floating context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":243,\"ch\":137},\"to\":{\"line\":243,\"ch\":137}},\"scroll\":95.07001607717042}"
                 },
                 {
-                  "title": "contre coeur contre courant",
+                  "title": "JARA logos",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/contre coeur contre courant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"contre coeur contre courant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/luc/JARA logos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JARA logos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":429},\"to\":{\"line\":73,\"ch\":429}}}"
                 },
                 {
-                  "title": "Vivre avec les autres version Ken Wilber",
+                  "title": "KOe metrics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/Vivre avec les autres version Ken Wilber.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vivre avec les autres version Ken Wilber\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/luc/KOe metrics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"KOe metrics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":76},\"to\":{\"line\":18,\"ch\":76}}}"
                 },
                 {
-                  "title": "SoloPreneur MAP",
+                  "title": "202508011755 pensee plate - v0",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/SoloPreneur MAP.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SoloPreneur MAP\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/202508011755 pensee plate - v0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202501081755 pensee plate - v0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":203},\"to\":{\"line\":113,\"ch\":203}},\"scroll\":0}"
                 },
                 {
-                  "title": "202505201949 Engagement solo preneur",
+                  "title": "202508011755 contenu - pensee plate",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202505201949 Engagement solo preneur.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505201949 Engagement solo preneur\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":13},\"to\":{\"line\":1,\"ch\":13}}}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":32},\"to\":{\"line\":29,\"ch\":32}},\"scroll\":14.825331971399388}"
+                },
+                {
+                  "title": "202508011548 exemples de contenus 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202508011548 exemples de contenus 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011548 exemples de contenus 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":95,\"ch\":154},\"to\":{\"line\":95,\"ch\":154}},\"scroll\":85.64993646759848}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":32},\"to\":{\"line\":28,\"ch\":32}},\"scroll\":14.825331971399388}"
+                },
+                {
+                  "title": "202508011544 exemples de contenus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202508011544 exemples de contenus.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011544 exemples de contenus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":96,\"ch\":146},\"to\":{\"line\":96,\"ch\":146}},\"scroll\":83.796875}"
+                },
+                {
+                  "title": "1 - Zoimmeisdess Project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1 - Zoimmeisdess Project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":28},\"to\":{\"line\":27,\"ch\":28}},\"scroll\":14.008171603677221}"
+                },
+                {
+                  "title": "202508011425 polydeme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202508011425 polydeme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011425 polydeme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":375,\"ch\":130},\"to\":{\"line\":375,\"ch\":130}},\"scroll\":248.91788401947764}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Maps/SoloPreneur MAP.md",
+                "file": "Atlas/Projects/Zoimmeisdess/prompting/luc/floating context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -277,863 +346,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SoloPreneur MAP"
-            }
-          },
-          {
-            "id": "bb68adcea006ddd7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/202505271510 devops for bnp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202505271510 devops for bnp"
-            }
-          },
-          {
-            "id": "0cf83a10127d5aea",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/202505271745 okr for bnp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202505271745 okr for bnp"
-            }
-          },
-          {
-            "id": "0e556de4592af64c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "lsite question SD Chatgpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/lsite question SD Chatgpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lsite question SD Chatgpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":210,\"ch\":80},\"to\":{\"line\":210,\"ch\":80}}}"
-                },
-                {
-                  "title": "202506101153 MOA conf SD",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":15},\"to\":{\"line\":3,\"ch\":15}},\"scroll\":0}"
-                },
-                {
-                  "title": "liste questions SD Grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/conf sd/result/liste questions SD Grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"liste questions SD Grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":184,\"ch\":24},\"to\":{\"line\":184,\"ch\":24}},\"scroll\":173.37946230632653}"
-                },
-                {
-                  "title": "202506101153 MOA conf SD",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}},\"scroll\":0}"
-                },
-                {
-                  "title": "202504052238 au dela du ressenti v2 pogi structure",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/versions/202504052238 au dela du ressenti v2 pogi structure.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504052238 au dela du ressenti v2 pogi structure\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":23.769687302907307}"
-                },
-                {
-                  "title": "202504052143 audela du ressenti",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202504052143 audela du ressenti.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504052143 audela du ressenti\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":31},\"to\":{\"line\":9,\"ch\":31}},\"scroll\":0}"
-                },
-                {
-                  "title": "depasser la vue socialiste chretienne sur la creation de valeur",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/depasser la vue socialiste chretienne sur la creation de valeur.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"depasser la vue socialiste chretienne sur la creation de valeur\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":35},\"to\":{\"line\":88,\"ch\":35}},\"scroll\":39.010416666666664}"
-                },
-                {
-                  "title": "resultat cw grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/resultat cw grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"resultat cw grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":608},\"to\":{\"line\":4,\"ch\":608}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":16},\"to\":{\"line\":5,\"ch\":16}},\"scroll\":0}"
-                },
-                {
-                  "title": "resultat cw gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/resultat cw gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"resultat cw gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":51.950520833333336}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":13},\"to\":{\"line\":3,\"ch\":13}},\"scroll\":0}"
-                },
-                {
-                  "title": "resultat cw grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/resultat cw grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"resultat cw grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.97189670138889}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":13},\"to\":{\"line\":5,\"ch\":13}},\"scroll\":0}"
-                },
-                {
-                  "title": "resultat cw gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/resultat cw gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"resultat cw gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":47.033854166666664}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":12},\"to\":{\"line\":3,\"ch\":12}}}"
-                },
-                {
-                  "title": "resultat cw grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/resultat cw grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"resultat cw grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":356},\"to\":{\"line\":20,\"ch\":356}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":15},\"to\":{\"line\":5,\"ch\":15}},\"scroll\":0}"
-                },
-                {
-                  "title": "resultat cw gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/resultat cw gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"resultat cw\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":40},\"to\":{\"line\":68,\"ch\":40}},\"scroll\":51.92578125}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}},\"scroll\":0}"
-                },
-                {
-                  "title": "grok compare avec gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok compare avec gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok compare avec gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":185,\"ch\":178},\"to\":{\"line\":185,\"ch\":178}},\"scroll\":175.50248138957815}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":16},\"to\":{\"line\":31,\"ch\":16}},\"scroll\":13.291666666666666}"
-                },
-                {
-                  "title": "grok prend le style de gpt plz",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok prend le style de gpt plz.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok prend le style de gpt plz\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":26},\"to\":{\"line\":31,\"ch\":26}},\"scroll\":19.770833333333332}"
-                },
-                {
-                  "title": "grok revoit le premier article et compare avec ons article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok revoit le premier article et compare avec ons article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok revoit le premier article et compare avec ons article\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":144,\"ch\":145},\"to\":{\"line\":144,\"ch\":145}},\"scroll\":132.28504962779155}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":43},\"to\":{\"line\":29,\"ch\":43}},\"scroll\":17.458333333333332}"
-                },
-                {
-                  "title": "grok regarde la v2 de gpt et adapte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok regarde la v2 de gpt et adapte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok regarde la v2 de gpt et adapte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":91.09348739495799}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":13},\"to\":{\"line\":17,\"ch\":13}},\"scroll\":0}"
-                },
-                {
-                  "title": "gpt revoit le premier article et compare avec ons article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/gpt revoit le premier article et compare avec ons article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gpt revoit le premier article et compare avec ons article\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":167,\"ch\":110},\"to\":{\"line\":167,\"ch\":110}},\"scroll\":145.36458333333334}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":52},\"to\":{\"line\":27,\"ch\":52}},\"scroll\":19.770833333333332}"
-                },
-                {
-                  "title": "grok regarde la v2 de gpt et adapte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok regarde la v2 de gpt et adapte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok regarde la v2 de gpt et adapte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":91.09348739495799}"
-                },
-                {
-                  "title": "gpt regarde la v2 de grok et adapte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/gpt regarde la v2 de grok et adapte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gpt regarde la v2 de grok et adapte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "grok revoit le premier article et compare avec ons article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok revoit le premier article et compare avec ons article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok revoit le premier article et compare avec ons article\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}},\"scroll\":9.125}"
-                },
-                {
-                  "title": "gpt revoit le premier article et compare avec ons article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/gpt revoit le premier article et compare avec ons article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gpt revoit le premier article et compare avec ons article\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":47},\"to\":{\"line\":27,\"ch\":47}},\"scroll\":9.125}"
-                },
-                {
-                  "title": "grok regarde la v2 de gpt et adapte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok regarde la v2 de gpt et adapte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok regarde la v2 de gpt et adapte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":147},\"to\":{\"line\":99,\"ch\":147}},\"scroll\":89.64474789915967}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":28},\"to\":{\"line\":17,\"ch\":28}},\"scroll\":0}"
-                },
-                {
-                  "title": "gpt regarde la v2 de grok et adapte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/gpt regarde la v2 de grok et adapte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gpt regarde la v2 de grok et adapte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":134,\"ch\":111},\"to\":{\"line\":134,\"ch\":111}},\"scroll\":120.85308056872037}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":21},\"to\":{\"line\":15,\"ch\":21}},\"scroll\":0}"
-                },
-                {
-                  "title": "gpt regarde ce qu a fait grok et regenere l article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/gpt regarde ce qu a fait grok et regenere l article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gpt regarde ce qu a fait grok et regenere l article\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":108,\"ch\":86}},\"scroll\":96.21809895833333}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":39},\"to\":{\"line\":11,\"ch\":39}}}"
-                },
-                {
-                  "title": "grok regarde la v2 de gpt et adapte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok regarde la v2 de gpt et adapte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok regarde la v2 de gpt et adapte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":33},\"to\":{\"line\":17,\"ch\":33}}}"
-                },
-                {
-                  "title": "gpt regarde la v2 de grok et adapte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/gpt regarde la v2 de grok et adapte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gpt regarde la v2 de grok et adapte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}},\"scroll\":0}"
-                },
-                {
-                  "title": "grok regarde ce qu a fait gpt et regenere l article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/grok regarde ce qu a fait gpt et regenere l article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok regarde ce qu a fait gpt et regenere l article\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":120,\"ch\":149},\"to\":{\"line\":120,\"ch\":149}},\"scroll\":111.78132754342431}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":45},\"to\":{\"line\":13,\"ch\":45}},\"scroll\":0}"
-                },
-                {
-                  "title": "prompt extract argument cw result gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw result gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw result gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":93,\"ch\":0},\"to\":{\"line\":123,\"ch\":82}},\"scroll\":103.80305989583333}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":32},\"to\":{\"line\":7,\"ch\":32}},\"scroll\":0}"
-                },
-                {
-                  "title": "prompt extract argument cw result gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw result gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw result gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":112.04752604166667}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":32},\"to\":{\"line\":7,\"ch\":32}},\"scroll\":0}"
-                },
-                {
-                  "title": "gpt regarde ce qu a fait grok et regenere l article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/gpt regarde ce qu a fait grok et regenere l article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gpt regarde ce qu a fait grok et regenere l article\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":140},\"to\":{\"line\":112,\"ch\":140}},\"scroll\":96.21028645833333}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":38},\"to\":{\"line\":11,\"ch\":38}},\"scroll\":0}"
-                },
-                {
-                  "title": "prompt extract argument cw result grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw result grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw result grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":106,\"ch\":430},\"to\":{\"line\":78,\"ch\":0}},\"scroll\":180.89640198511165}"
-                },
-                {
-                  "title": "prompt extract argument cw result gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw result gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw result gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "prompt extract argument cw",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "proposition lead magnet gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/proposition lead magnet gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"proposition lead magnet gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":4},\"to\":{\"line\":9,\"ch\":4}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":22},\"to\":{\"line\":9,\"ch\":22}},\"scroll\":0}"
-                },
-                {
-                  "title": "prompt extract argument cw result gpt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw result gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw result gpt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":128,\"ch\":73},\"to\":{\"line\":128,\"ch\":73}},\"scroll\":107.29361979166667}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":31},\"to\":{\"line\":7,\"ch\":31}},\"scroll\":0}"
-                },
-                {
-                  "title": "prompt extract argument cw result grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw result grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw result grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":189,\"ch\":155},\"to\":{\"line\":189,\"ch\":155}},\"scroll\":178.6451612903226}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":28},\"to\":{\"line\":5,\"ch\":28}}}"
-                },
-                {
-                  "title": "prompt extract argument cw",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":122},\"to\":{\"line\":2,\"ch\":122}}}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":17},\"to\":{\"line\":3,\"ch\":17}},\"scroll\":0}"
-                },
-                {
-                  "title": "prompt extract argument cw result grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw result grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw result\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":134,\"ch\":204},\"to\":{\"line\":134,\"ch\":204}},\"scroll\":123.22142857142858}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":23},\"to\":{\"line\":5,\"ch\":23}}}"
-                },
-                {
-                  "title": "prompt extract argument cw",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway/prompt extract argument cw.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument cw\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":225},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
-                },
-                {
-                  "title": "prompt extract argument",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/luc/prompt extract argument.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt extract argument\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA test copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA test copywriting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":18},\"to\":{\"line\":3,\"ch\":18}}}"
-                },
-                {
-                  "title": "depasser la vue socialiste chretienne sur la creation de valeur",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/depasser la vue socialiste chretienne sur la creation de valeur.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"depasser la vue socialiste chretienne sur la creation de valeur\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "record test",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/record test.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"record test\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOA test copywriting"
-            }
-          },
-          {
-            "id": "0d16d999d4536b16",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Développement personnel",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Développement personnel.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Développement personnel\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":18},\"to\":{\"line\":35,\"ch\":18}},\"scroll\":18.889322916666668}"
-                },
-                {
-                  "title": "202507062029 peurs peurs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202507062029 peurs peurs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507062029 peurs peurs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Notes/Ideas/202507062029 peurs peurs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507062029 peurs peurs"
-            }
-          },
-          {
-            "id": "0d4cb70607546eb6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "camps de base pour chaque type",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/camps de base pour chaque type.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"camps de base pour chaque type\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":129,\"ch\":66},\"to\":{\"line\":129,\"ch\":66}},\"scroll\":119.6029776674938}"
-                },
-                {
-                  "title": "202507041616 release par niveau spirale et ennegramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507041616 release par niveau spirale et ennegramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":164,\"ch\":245},\"to\":{\"line\":164,\"ch\":245}},\"scroll\":151.94805709754164}"
-                },
-                {
-                  "title": "association enneatype image stellaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/association enneatype image stellaire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"association enneatype image stellaire\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":105,\"ch\":258},\"to\":{\"line\":105,\"ch\":258}},\"scroll\":98.07161458333333}"
-                },
-                {
-                  "title": "202507041616 release par niveau spirale et ennegramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507041616 release par niveau spirale et ennegramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":157,\"ch\":130},\"to\":{\"line\":157,\"ch\":130}},\"scroll\":148.25325520833334}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":37},\"to\":{\"line\":8,\"ch\":37}},\"scroll\":0}"
-                },
-                {
-                  "title": "202507062034 self agency",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202507062034 self agency.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507062034 self agency\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":4},\"to\":{\"line\":1,\"ch\":4}},\"scroll\":181.30450236966826}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507041616 release par niveau spirale et ennegramme"
-            }
-          },
-          {
-            "id": "9c18169f08e3861f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":26},\"to\":{\"line\":12,\"ch\":26}},\"scroll\":0}"
-                },
-                {
-                  "title": "202507072207 société secrete, construction d un reseau d influence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072207 société secrete, construction d un reseau d influence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507072207 société secrete, construction d un reseau d influence\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":207,\"ch\":227},\"to\":{\"line\":207,\"ch\":227}},\"scroll\":199.7468762309463}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":25},\"to\":{\"line\":11,\"ch\":25}},\"scroll\":0}"
-                },
-                {
-                  "title": "202507072157 post vision pragmatique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072157 post vision pragmatique.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507072157 post vision pragmatique\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":9},\"to\":{\"line\":0,\"ch\":9}},\"scroll\":5.299609382947286}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":28},\"to\":{\"line\":12,\"ch\":28}},\"scroll\":0}"
-                },
-                {
-                  "title": "202507072140 recentrage 2 du dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072140 recentrage 2 du dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507072140 recentrage 2 du dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":120,\"ch\":207},\"to\":{\"line\":120,\"ch\":207}},\"scroll\":112.96940070390701}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":37},\"to\":{\"line\":10,\"ch\":37}},\"scroll\":0}"
-                },
-                {
-                  "title": "202507072129 recentrage du dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072129 recentrage du dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507072129 recentrage du dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":33},\"to\":{\"line\":45,\"ch\":150}},\"scroll\":189.82098157065255}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":34},\"to\":{\"line\":9,\"ch\":34}},\"scroll\":0}"
-                },
-                {
-                  "title": "202506302318 prompt 5 renew, chemin identitaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202506302318 prompt 5 renew, chemin identitaire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506302318 prompt 5 renew, chemin identitaire\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":189.97406318982442}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":45},\"to\":{\"line\":5,\"ch\":45}},\"scroll\":0}"
-                },
-                {
-                  "title": "recit ou les types forment une constellation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/recit ou les types forment une constellation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"recit ou les types forment une constellation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":94,\"ch\":231}},\"scroll\":89.92499113082886}"
-                },
-                {
-                  "title": "inspirer les différents types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/inspirer les différents types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"inspirer les différents types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":169,\"ch\":95},\"to\":{\"line\":169,\"ch\":95}},\"scroll\":160.0390756302521}"
-                },
-                {
-                  "title": "202507041616 release par niveau spirale et ennegramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507041616 release par niveau spirale et ennegramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":168,\"ch\":229},\"to\":{\"line\":168,\"ch\":229}},\"scroll\":160.8674369747899}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":29},\"to\":{\"line\":8,\"ch\":29}},\"scroll\":0}"
-                },
-                {
-                  "title": "202506302356 prompt 6 vision personnelle, constellation et inspiration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202506302356 prompt 6 vision personnelle, constellation et inspiration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506302356 prompt 6 vision personnelle, constellation et inspiration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":163.67643229166666}"
-                },
-                {
-                  "title": "202506292235 dragon 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506292235 dragon 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":37},\"to\":{\"line\":6,\"ch\":37}},\"scroll\":0}"
-                },
-                {
-                  "title": "202507041616 release par niveau spirale et ennegramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507041616 release par niveau spirale et ennegramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":173,\"ch\":195},\"to\":{\"line\":173,\"ch\":195}},\"scroll\":161.83622828784118}"
-                },
-                {
-                  "title": "expliration pour des camps de base physiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/expliration pour des camps de base physiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"expliration pour des camps de base physiques\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":134,\"ch\":121},\"to\":{\"line\":134,\"ch\":121}},\"scroll\":218.32403273809524}"
-                },
-                {
-                  "title": "202507041616 release par niveau spirale et ennegramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507041616 release par niveau spirale et ennegramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":172,\"ch\":298},\"to\":{\"line\":172,\"ch\":298}},\"scroll\":164.1985294117647}"
-                },
-                {
-                  "title": "inspirer les différents types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/inspirer les différents types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"inspirer les différents types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":176.52938988095238}"
-                },
-                {
-                  "title": "recit ou les types forment une constellation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/recit ou les types forment une constellation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"recit ou les types forment une constellation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":0},\"to\":{\"line\":97,\"ch\":0}},\"scroll\":140.38107638888889}"
-                },
-                {
-                  "title": "inspirer les différents types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/inspirer les différents types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"inspirer les différents types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":169,\"ch\":121},\"to\":{\"line\":169,\"ch\":121}},\"scroll\":158.6718009478673}"
-                },
-                {
-                  "title": "pratique unifiée pour un camp de base commun",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/pratique unifiée pour un camp de base commun.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"pratique unifiée pour un camp de base commun\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":190,\"ch\":273},\"to\":{\"line\":190,\"ch\":273}},\"scroll\":177.16536458333334}"
-                },
-                {
-                  "title": "inspirer les différents types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/inspirer les différents types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"inspirer les différents types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":160,\"ch\":210},\"to\":{\"line\":160,\"ch\":210}},\"scroll\":148.79557291666666}"
-                },
-                {
-                  "title": "visualisation guidée pour rejoindre une constellation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/visualisation guidée pour rejoindre une constellation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"visualisation guidée pour rejoindre une constellation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":159,\"ch\":244},\"to\":{\"line\":159,\"ch\":244}},\"scroll\":150.54340277777777}"
-                },
-                {
-                  "title": "inspirer les différents types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/inspirer les différents types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"inspirer les différents types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":292},\"to\":{\"line\":156,\"ch\":292}},\"scroll\":146.46946867565424}"
-                },
-                {
-                  "title": "202507041616 release par niveau spirale et ennegramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507041616 release par niveau spirale et ennegramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":168,\"ch\":233},\"to\":{\"line\":168,\"ch\":233}},\"scroll\":156.68634453781513}"
-                },
-                {
-                  "title": "inspirer les différents types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/inspirer les différents types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"inspirer les différents types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":184,\"ch\":236},\"to\":{\"line\":184,\"ch\":236}},\"scroll\":175.60993303571428}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072157 post vision pragmatique.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507072157 post vision pragmatique"
+              "title": "floating context"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1317,7 +534,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072157 post vision pragmatique.md",
+                "file": "Atlas/Projects/Zoimmeisdess/prompting/contexte zoimmeisdess/202505182215 contexte du jour.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1327,7 +544,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202507072157 post vision pragmatique"
+              "title": "Backlinks for 202505182215 contexte du jour"
             }
           },
           {
@@ -1381,46 +598,47 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9c18169f08e3861f",
+  "active": "c4244528f45d518f",
   "lastOpenFiles": [
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md",
+    "Atlas/Projects/Zoimmeisdess/contents/versions/20250801226 pensee plate - V1.md",
+    "Atlas/Projects/Zoimmeisdess/contents/202508011755 contenu - pensee plate.md",
+    "Atlas/Projects/Zoimmeisdess/contents/versions/202508012230 koe metrics.md",
+    "Atlas/Projects/Zoimmeisdess/prompting/luc/KOe metrics.md",
+    "Atlas/Projects/Zoimmeisdess/contents/versions/20250801229 analysis.md",
+    "Atlas/Projects/Zoimmeisdess/contents/versions/202508011755 pensee plate - v0.md",
+    "Atlas/Projects/Zoimmeisdess/prompting/luc/floating context.md",
+    "Atlas/Projects/Zoimmeisdess/prompting/luc/JARA logos.md",
+    "Atlas/Projects/Zoimmeisdess/1 - Zoimmeisdess Project.md",
+    "+/202508011548 exemples de contenus 2.md",
+    "+/202508011544 exemples de contenus.md",
+    "+/202508011425 polydeme.md",
+    "Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/MOA RAC - Revenir en accord avec son corps.md",
+    "Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302207 RAC - contents.md",
+    "Atlas/Notes/Ideas/202507310837 peur de l'echec enneagramme.md",
+    "Atlas/Maps/Enneagramme.md",
+    "+/202507311051 RAC - concurrence.md",
+    "+/202507311038 RAC - V3.md",
+    "Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302245 RAC - V2.md",
+    "Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps/202507302208 RAC - Coach solopreneur.md",
     "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072207 société secrete, construction d un reseau d influence.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072157 post vision pragmatique.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072140 recentrage 2 du dragon 2.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507072129 recentrage du dragon 2.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202506302318 prompt 5 renew, chemin identitaire.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/recit ou les types forment une constellation.md",
-    "+/inspirer les différents types.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202507041616 release par niveau spirale et ennegramme.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202506302356 prompt 6 vision personnelle, constellation et inspiration.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/exemples concrets pour ancrer le quadrant corps dans chaque type.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/un guide numérique pour ces camps.md",
-    "Atlas/Notes/Ideas/Ostrom.md",
-    "Atlas/Notes/Ideas/Bauwens.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/expliration pour des camps de base physiques.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/pratique unifiée pour un camp de base commun.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/visualisation guidée pour rejoindre une constellation.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/camps de base pour chaque type.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/association enneatype image stellaire.md",
-    "+/202507062034 self agency.md",
-    "Atlas/Notes/Ideas/202507062029 peurs peurs.md",
-    "Atlas/Maps/Développement personnel.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/MOA test copywriting.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202506302258 prompt 4 affinage SD et enneagramme.md",
-    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results/202506292254 prompt3 affinage societe.md",
-    "Atlas/Notes/BooksNotes/202412251738 Pratique de vie integrale.md",
+    "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/202506292235 dragon 2.md",
+    "Atlas/Notes/BooksNotes/202507112258 NL 24.md",
+    "Atlas/Notes/BooksNotes/202507112258 NL 23.md",
+    "Atlas/Notes/BooksNotes/202507112258 NL 8.md",
+    "Atlas/Maps/Integral.md",
+    "Atlas/Utilities/Images/integral24_1.png",
+    "Atlas/Utilities/Images/integral23_1.png",
+    "Atlas/Utilities/Images/enenatype_convergence_1-6.png",
+    "Atlas/Utilities/Images/enenatype_convergence_2-9.png",
+    "Atlas/Utilities/Images/enenatype_convergence_4-5.png",
+    "Atlas/Utilities/Images/enenatype_convergence_3-7.png",
+    "Atlas/Utilities/Images/enenatype_convergence_3-8.png",
+    "Atlas/Utilities/Images/integral22_1.png",
+    "Atlas/Utilities/Images/integral22_2.jpg",
+    "Atlas/Utilities/Images/integral21_1.png",
+    "Atlas/Projects/Zoimmeisdess/produits/RAC - Revenir en accord avec son corps",
     "Atlas/Projects/Zoimmeisdess/prompting/dragon 2/results",
     "Atlas/Projects/Zoimmeisdess/prompting/dragon 2",
-    "Atlas/Utilities/Images/koe_9_3.png",
-    "Atlas/Utilities/Images/koe_9_2.png",
-    "Atlas/Utilities/Images/koe_9_1.png",
-    "Atlas/Utilities/Images/koe_9_4.png",
-    "Atlas/Utilities/Images/koe_6_2.png",
-    "Atlas/Utilities/Images/koe_6_1.png",
-    "Atlas/Utilities/Images/koe_6_3.png",
-    "Atlas/Utilities/Images/koe_5_2.jpg",
-    "Atlas/Utilities/Images/koe_5_3.jpg",
-    "Atlas/Utilities/Images/koe5_1.jpg",
     "Atlas/Projects/Zoimmeisdess/prompting/yihaio/result",
     "Atlas/Projects/Zoimmeisdess/prompting/yihaio",
     "Atlas/Utilities/sources/Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6.pdf",
@@ -1428,7 +646,6 @@
     "Atlas/Projects/Zoimmeisdess/prompting/conf sd",
     "Atlas/Projects/Zoimmeisdess/prompting/copywritingluc/runaway",
     "Atlas/Projects/Zoimmeisdess/prompting/copywritingluc",
-    "Atlas/Utilities/Images/Recording 20250606104150.m4a",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

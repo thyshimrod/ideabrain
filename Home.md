@@ -15,7 +15,7 @@ obsidianUIMode: preview
 Pour cela :
 * Je vais continuer à publier **vidéos** et des **articles** sur les sujets qui m'intéressent, et faire des conférences
 * Je vais regarder pour un projet concret de type **lieu physique** pour *accueillir, coacher, former*
-* Je vais regarder pour créer un projet de **ventes de mes connaissance** à la manière de Nick Milo                           : **[[1 - Zoimmeisdess Project]]** 
+* Je vais regarder pour créer un projet de **ventes de mes connaissance** à la manière de Nick Milo                           : **[[991 - Zoimmeisdess Project]]** 
 * Peut être proposer dans un temps aussi, des séminaires, ou des points de rencontre, où je parlerai de ma vision du monde.
 
 # Qui je suis

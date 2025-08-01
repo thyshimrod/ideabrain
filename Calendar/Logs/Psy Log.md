@@ -4,6 +4,14 @@ tags:
   - log
   - psy
 ---
+# 08/07/2025
+
+Beaucoup de choses positives aujourd'hui, pas grand chose à ramener.
+Je vois que j'étais focus enfant, et elle m'a ramené à penser au reste de ma vie, vérifier que je n'étais pas prisonnier. 
+Par  contre, je vois qu'il y a une résistance interne qui me parle de faire attention aux regards des autres, et de rester intégré à la société qui m'entoure. Du coup, qui empêche mon renew.
+J'ai passé toute mon adolescence à apprendre à me suradapter, que j'en oublie qui je suis, ce que je veux, mon but principal était de faire partie de ....
+
+
 # 16/06/2025
 Session intéressante
 JE suis venu avec du mal être par rapport aux enfants.

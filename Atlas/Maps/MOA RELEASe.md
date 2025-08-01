@@ -9,3 +9,8 @@
 [[202507022129 Release type 7]]
 [[202507022129 Release type 8]]
 [[202507022129 Release type 9]]
+
+# Release solo preneur
+
+[[202505201949 solo preneur croyances limitantes]]
+

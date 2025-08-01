@@ -9,7 +9,7 @@ tags:
   - relation
   - Qualitédelarelation
 up:
-  - "[[1 - Zoimmeisdess Project]]"
+  - "[[991 - Zoimmeisdess Project]]"
 ---
 Une des problématiques liés au développement personnel est le fait de se différencier, et de vivre autrement.
 

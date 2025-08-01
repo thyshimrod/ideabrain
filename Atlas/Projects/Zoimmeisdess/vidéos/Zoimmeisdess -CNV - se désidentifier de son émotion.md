@@ -4,7 +4,7 @@ tags:
   - emotions
   - zoimmesidess
 up:
-  - "[[1 - Zoimmeisdess Project]]"
+  - "[[991 - Zoimmeisdess Project]]"
 ---
 Si vous vous rappelez les vidéos précédentes, je tente d'expliquer, que les émotions sont des indicateurs de quelque chose. Qu'elles apparaissent suite à un stimulus qui vous fait vivre quelque chose. L'autre ou l'événement n'est pas responsable de votre état.
 Néanmoins, vous pouvez vivre une émotion avec une forte intensité, et une vraie difficulté à la vivre, et à venir vous donner de l'auto empathie pour examiner ce qui se passe en vous. 

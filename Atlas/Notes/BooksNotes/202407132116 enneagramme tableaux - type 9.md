@@ -91,7 +91,7 @@ Indifférent            Impuissant
  
 *8. Level Of delusion & compulsion*
 **Désorienté**         **Dissocié**                    De bloquer la conscience de       Que ce qui a été fait ne peut 
-"shut down"        Déni complet            tout ce qui pourrait les affecter   pas être défaut -
+"shut down"        Déni complet            tout ce qui pourrait les affecter   pas être défait -
 Sans espoir          Sans affect                                                                    peur de la réalité elle même
 Dépersonnalisé    Délaissé, engourdi
 Amnésique           "perdu"

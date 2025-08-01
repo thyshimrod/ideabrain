@@ -15,6 +15,8 @@ tags:
 
 [[202503241141 v2 confiance en soi vs domination]]
 
+[[202507122050 revue confiance en soi EPL - SD - Framework]]
+
 [[202503261934 confiance en soi vs domination extraction argumentation]]
 
 [[202503261938 confiance en soi vs domination style godin rogerian]]

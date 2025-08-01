@@ -17,5 +17,8 @@
 [[day 11 dan koe]]
 [[day 12 dan koe]]
 [[day 13 dan koe]]
-[[day 14 dan koe]]
+[[day 14-15 dan koe]]
+[[day 16 dan koe]]
 
+
+[[dan koe Ces 3 décisions détermineront si vous devenez riche]]
