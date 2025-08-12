@@ -1,3 +1,4 @@
+
 # Questionnaire : Identifier les Couleurs Majeures d’une Entreprise
 
 **Objectif** : Évaluer les valeurs et pratiques dominantes dans une entreprise à travers les 8 niveaux de la Spirale Dynamique (Beige à Turquoise).  

@@ -44,6 +44,12 @@ tags:
 [[202008042302 enneagramme integration types]]
 [[202008042306 enegramme integration signification]]
 [[202406191408 enneagramme tableaux types healthy]]
+
+[[202508121039 vision metier 6 -- 9]]
+[[202508121039 vision metier 7 -- 5]]
+[[202508121042 vision metier 3 -- 6]]
+[[202508121043 vision metier 9 -- 3]]
+
 # Ailes
 [[202008102239 enneagramme  ailes]]
 [[202008141806 enneagramme exemple type 1]]
