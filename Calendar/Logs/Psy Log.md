@@ -4,6 +4,26 @@ tags:
   - log
   - psy
 ---
+
+# 01/09/2025
+
+Vu aujourd'hui : [[202509012127 profondeur du 7]]
+
+Ca renforce le fait qu'il faut me créer un chemin qui m'attire et me correspond. M'y accrocher, avec discipline.
+Je pense qu'il faut que je passe plus de temps à équilibrer mes quadrants. notamment le quadrant Esprit, pour vivre plus dans le temps présent, et sortir de l'anticipation.
+
+Je vois que je vis des choses pas agréables. J'ai du mal à m'y installer et à être moi. J'ai du mal à penser à moi. Je n'ose pas me retourner pour mettre à jour ce quadrant.
+
+Je vois que je suis retombé dans mon sauveur, j'ai de nouveau un release à faire. J'ai surement passé trop de temps à jouer avec mon ex, et du coup, je me retrouve dans ces jeux avec mon ancien moi, j'ai du mal à vivre qui je suis à mon niveau. Surement cela qui explique ma redescente.
+Etre un bon père... etcetc. Regina a raison de dire que tant que je ne sors pas de cette relation mère enfant avec Camille, je vais sans cesse regresser.
+En même temps, que faire? je ne suis pas prêt à abandonner les enfants qui veulent de moi, comme Ancelin. Je vois que Camille rejoue son drame familiale avec moi. C'est terrible de voir cela.
+
+En tous les cas, je dois remettre mon énergie chez moi, dans les choses qui comptent, et arrêter de me faire drainer sans cesse par ces histoires d'enfant, et dans la facilité de vivre en victime. Putain j'attire l'attention de nouveau. Je vaux mieux que cela, je peux être qui je veux. Je peux me reprogrammer.
+
+Il faut que je fasse une liste des décisions à prendre, et en faire uen checklist. Je dois prendre mes décisions pour moi. Arrêter de laisser en arrière plan, et laisser la chance me guider. Pas que je ne crois pas en l'Univers et au fait que cela se passera bien, mais plutôt j'ai envie d'orienter ma vie là où j'ai envie, et arrêter de vivre en victime, et apprendre à vivre pour moi.
+
+Beaucoup de tristesse m'habite ainsi que de la honte. Putain ce que j'aime cela vivre la honte. En tout cas, je la vois en fleur de peau. j'ai créé tellement d'occasion de la vivre, c'est incroyable. Comme quoi il y a un vrai phénomène de sabotage pour attirer la victimisation. Allez reprends toi, et vis ce que tu as envie de vivre.
+
 # 08/07/2025
 
 Beaucoup de choses positives aujourd'hui, pas grand chose à ramener.

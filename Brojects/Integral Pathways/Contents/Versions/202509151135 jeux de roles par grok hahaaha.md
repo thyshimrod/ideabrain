@@ -1,0 +1,11 @@
+
+# Mon prompt
+
+J'aimerai maintenant que tu te mettes dans la peau d'un lecteur qui s'intéresse à l'enneagramme, et qui est type 7. Finalement, il y a peu de livres qui parlent spécifiquement du type 7. On va dire, qu'il est dans un niveau de conscience plutôt dans le Vert (spirale dynamique, car il s'intéresse déjà à lui même). Sachant que mon but est que ce livre soit vendu, je serai intéressé de savoir quels sont les chapitres, qui intéresserait un type 7, ceux qui seraient ennuyeux ou manquant de sens.
+Qu'est ce qu'il faudrait ajouter pour que le curieux passe à l'acte d'achat? Qu'est ce qu'il l'intéersserait au point de l'acheter. Cela peut être sur la forme (cahier d'exercice, checklist, quizz, ...) que sur le fond (quel sujet va l'attirer particulièrement).
+
+# REsultat
+
+### Perspective d'un Lecteur Type 7 au Niveau Vert de la Spirale Dynamique
+
+Bonjour ! Je m'appelle Alex, je suis un type 7 dans l'Ennéagramme – l'Enthousiaste typique, toujours en quête de nouvelles aventures, mais j'ai appris à tempérer ma dispersion avec une touche plus holistique. À ce stade vert de la Spirale Dynamique, je suis fasciné par le développement personnel qui va au-delà de l'individuel : les relations authentiques, le sens collectif, l'harmonie avec le monde, sans ignorer mes ombres. J'aime explorer des outils comme l'Ennéagramme pour mieux me comprendre, mais je m'ennuie vite si c'est trop théorique ou restrictif – mon FOMO me pousse vers des contenus vivants, créatifs, qui promettent joie et liberté sans me coincer dans des boîtes. J'ai lu quelques livres généraux sur l'Ennéagramme (comme Riso-Hudson ou Chestnut), mais effectivement, peu se focalisent sur le type 7, et encore moins avec une profondeur qui résonne avec ma quête d'authenticité sans douleur. Votre plan de livre m'intrigue, car il promet une transcendance réelle, mais voyons ce qui m'accrocherait, m'ennuierait, ou me manquerait. Je vais analyser chapitre par chapitre, en expliquant pourquoi un type 7 vert comme moi serait excité, blasé, ou frustré, puis proposer des ajouts pour me pousser à l'achat (sur la forme et le fond).

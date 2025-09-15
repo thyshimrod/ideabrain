@@ -68,7 +68,7 @@ A chronic lymphatic edema like the one you describe could be explained by **Sple
 - Gentle but regular activity (as you are already doing with walking and swimming)  
 
 #### 3. Activate Qi and Fluid Circulation  
-- Self-massage or moxibustion on key points: [ST36 (ZuSanLi), KI3 (TaiXi), SP6 (SanYinJiao)](<[[https://www.chrysalide-eveil.fr/bien-etre/medecine-chinoise/point-acupuncture-digiponcture-meridien-estomac-e36/|E36 ZuSanLi]] ou [[https://www.acupression.fr/point-acupression-trois-lieues/|E36 ZuSanLi]], [[https://tuinasimo.com/meridiens-points-acupuncture/meridien-rein/taixi-3rn/|R3 TaiXi]], [[https://www.mastertungacupuncture.org/acupuncture/traditional/points/sp6|SP6 SanYinJiao]]>)  
+- Self-massage or moxibustion on key points: [[https://www.chrysalide-eveil.fr/bien-etre/medecine-chinoise/point-acupuncture-digiponcture-meridien-estomac-e36/|E36 ZuSanLi]] ou [[https://www.acupression.fr/point-acupression-trois-lieues/|E36 ZuSanLi]], [[https://tuinasimo.com/meridiens-points-acupuncture/meridien-rein/taixi-3rn/|R3 TaiXi]], [[https://www.mastertungacupuncture.org/acupuncture/traditional/points/sp6|SP6 SanYinJiao]]>)  
 - Gentle daily stretches  
 - Energy practices (Qi Gong or Tai Chi)  
 

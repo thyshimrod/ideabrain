@@ -22,3 +22,4 @@ tags:
 [[202406101152 Elements_de_transition_culture]]
 [[202406121224 SDDifference_entreprise_niveau_orange_et_vert]]
 [[202408161749 SD émergence et direction]]
+

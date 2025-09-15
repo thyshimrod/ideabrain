@@ -38,3 +38,10 @@ tags:
 # Honte & culpabilité
 [[202502042044 Honte - déni de sentiments]]
 [[202502162130 chercher la culpabilité pour trouver sa culpabilité]]
+[[202508251541 Honte - Humiliation - manifestation physique]]
+[[Le pouvoir de la vulnérabilité]]
+
+# FOcus
+
+[[202508302210 enneagramme plus focus]]
+

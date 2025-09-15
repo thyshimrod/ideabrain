@@ -1,3 +1,7 @@
+---
+tags:
+  - spiraledynamique
+---
 
 # Questionnaire : Identifier les Couleurs Majeures d’une Entreprise
 

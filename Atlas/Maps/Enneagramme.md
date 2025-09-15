@@ -49,6 +49,12 @@ tags:
 [[202508121039 vision metier 7 -- 5]]
 [[202508121042 vision metier 3 -- 6]]
 [[202508121043 vision metier 9 -- 3]]
+[[202508271043 vision metier 1 -- 7]]
+
+[[202508302258 focus et liberation d'energie]]
+[[202508302210 enneagramme plus focus]]
+[[202508302338 focus et intégration cnv, at, sd]]
+
 
 # Ailes
 [[202008102239 enneagramme  ailes]]
@@ -87,6 +93,8 @@ tags:
 [[202407122207 enneagramme tableaux - type 6]]
 [[202503302128 Wisdom of Enneatype 6]]
 [[202507022129 Release type 6]]
+
+[[202509131149 Directives pour un Type 6 au Niveau Jaune avec Actions Concrètes]]
 # Type 7
 [[202007312214 Type 7 Le généraliste]]
 [[202312152149 tips for type 7]]
@@ -96,6 +104,14 @@ tags:
 [[202406191007 enneagramme tableaux - type 7]]
 [[202503302128 Wisdom of Enneatype 7]]
 [[202507022129 Release type 7]]
+
+[[202509012127 profondeur du 7]]
+[[202509102149 The Enneagram Guide to Waking Up -- Beatrice Chestnut __ type7 extract]]
+[[202509111740 type 7 awakening proposition]]
+[[202509110946 personal notes on type 7]]
+[[202509132235 sabotage du choix du 7]]
+
+
 
 # Type 8
 [[202007312214 Type 8 Le Leader]]
