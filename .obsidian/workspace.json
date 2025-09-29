@@ -4,56 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abb0a00103986f6d",
+        "id": "245464a04a505e20",
         "type": "tabs",
         "children": [
           {
-            "id": "d23225b52bc3eb35",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "202509102149 The Enneagram Guide to Waking Up -- Beatrice Chestnut __ type7 extract",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202509102149 The Enneagram Guide to Waking Up -- Beatrice Chestnut __ type7 extract.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509102149 The Enneagram Guide to Waking Up -- Beatrice Chestnut __ type7 extract\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":125,\"ch\":140},\"to\":{\"line\":116,\"ch\":1}},\"scroll\":98.8257555993871}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "type 9 blabalbal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/type 9 blabalbal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"type 9 blabalbal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":16,\"ch\":214}},\"scroll\":12.158602162666687}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Enneagramme.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Enneagramme"
-            }
-          },
-          {
-            "id": "15b7782b46e2a7c3",
+            "id": "d5c2fa500a821508",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -66,25 +21,253 @@
                   "title": "MOA Vivre pleinement son 7",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":36},\"to\":{\"line\":21,\"ch\":36}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":22},\"to\":{\"line\":32,\"ch\":22}},\"scroll\":8.52500025431315}"
                 },
                 {
-                  "title": "202509111740 type 7 awakening proposition",
+                  "title": "202509291120  cahpitre 11 sections",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509111740 type 7 awakening proposition.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509111740 type 7 awakening proposition\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509291120  cahpitre 11 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509291120  cahpitre 11 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":78},\"to\":{\"line\":48,\"ch\":78}},\"scroll\":38.55259677683116}"
                 },
                 {
-                  "title": "Enneagramme",
+                  "title": "MOA Vivre pleinement son 7",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":109,\"ch\":36},\"to\":{\"line\":109,\"ch\":36}},\"scroll\":83.24544270833333}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":18},\"to\":{\"line\":31,\"ch\":18}},\"scroll\":15.758333841959635}"
+                },
+                {
+                  "title": "202509272127 chapitre 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509272127 chapitre 10.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509272127 chapitre 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":60},\"to\":{\"line\":83,\"ch\":60}},\"scroll\":76.91093799471855}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":32.88845518562529}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":24},\"to\":{\"line\":60,\"ch\":24}},\"scroll\":37.625}"
+                },
+                {
+                  "title": "202509272127 chapitre 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509272127 chapitre 10.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509272127 chapitre 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":60},\"to\":{\"line\":22,\"ch\":60}},\"scroll\":17.52149991353353}"
+                },
+                {
+                  "title": "202509222104 chapitre 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222104 chapitre 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222104 chapitre 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":60},\"to\":{\"line\":12,\"ch\":17}},\"scroll\":10.766276071468988}"
+                },
+                {
+                  "title": "202509272127 chapitre 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509272127 chapitre 10.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509272127 chapitre 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":20},\"to\":{\"line\":30,\"ch\":20}},\"scroll\":9.958333333333334}"
+                },
+                {
+                  "title": "202509272119 chaptire 10 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509272119 chaptire 10 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509272119 chaptire 10 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":9},\"to\":{\"line\":39,\"ch\":9}},\"scroll\":35.052084843317665}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":30},\"to\":{\"line\":29,\"ch\":30}},\"scroll\":10.791666666666666}"
+                },
+                {
+                  "title": "202509261555 cahpitre 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509261555 cahpitre 9.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509261555 cahpitre 9\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":0},\"to\":{\"line\":83,\"ch\":0}},\"scroll\":75.59208385679457}"
+                },
+                {
+                  "title": "202502031136 Side Hustle Checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202502031136 Side Hustle Checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202502031136 Side Hustle Checklist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202509261555 cahpitre 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509261555 cahpitre 9.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509261555 cahpitre 9\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":17},\"to\":{\"line\":35,\"ch\":17}},\"scroll\":28.46940090258916}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":18},\"to\":{\"line\":28,\"ch\":18}},\"scroll\":22.125}"
+                },
+                {
+                  "title": "202509261114 chapitre 9 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509261114 chapitre 9 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509261114 chapitre 9 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":38.581441439736125}"
+                },
+                {
+                  "title": "202509222104 chapitre 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222104 chapitre 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222104 chapitre 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":49},\"to\":{\"line\":8,\"ch\":17}},\"scroll\":4.785817305246989}"
+                },
+                {
+                  "title": "202509222110 chapitre 1 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222110 chapitre 1 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222110 chapitre 1 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":31},\"to\":{\"line\":10,\"ch\":31}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222104 chapitre 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222104 chapitre 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222104 chapitre 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":65.45643915489138}"
+                },
+                {
+                  "title": "202509261114 chapitre 9 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509261114 chapitre 9 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509261114 chapitre 9 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":76},\"to\":{\"line\":47,\"ch\":76}},\"scroll\":31.69146615917066}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":21},\"to\":{\"line\":27,\"ch\":21}},\"scroll\":17.958333333333332}"
+                },
+                {
+                  "title": "202509251406 chapitre 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251406 chapitre 8.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251406 chapitre 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":59},\"to\":{\"line\":85,\"ch\":59}},\"scroll\":78.95768227179845}"
+                },
+                {
+                  "title": "202509251130 chapitre 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251130 chapitre 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251130 chapitre 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":48.93426013875891}"
+                },
+                {
+                  "title": "202509251406 chapitre 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251406 chapitre 8.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251406 chapitre 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":21},\"to\":{\"line\":26,\"ch\":21}},\"scroll\":5.047887237978653}"
+                },
+                {
+                  "title": "202509251205 chapitre 8 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251205 chapitre 8 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251205 chapitre 8 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":76},\"to\":{\"line\":47,\"ch\":76}},\"scroll\":39.35515935518902}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":28},\"to\":{\"line\":25,\"ch\":28}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509251130 chapitre 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251130 chapitre 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251130 chapitre 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":59},\"to\":{\"line\":97,\"ch\":59}},\"scroll\":90.96127473606782}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":19},\"to\":{\"line\":24,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509251125 chapitre 7 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251125 chapitre 7 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251125 chapitre 7 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":39.42063594483161}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":19},\"to\":{\"line\":23,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509251130 chapitre 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251130 chapitre 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251130 chapitre 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":31.72271814800444}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":18},\"to\":{\"line\":24,\"ch\":18}},\"scroll\":0.02253521160340645}"
+                },
+                {
+                  "title": "202509251125 chapitre 7 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509251125 chapitre 7 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509251125 chapitre 7 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":76},\"to\":{\"line\":47,\"ch\":76}},\"scroll\":38.10227022896782}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":30},\"to\":{\"line\":23,\"ch\":30}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509152150 analyse discussion luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509152150 analyse discussion luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152150 analyse discussion luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":59},\"to\":{\"line\":69,\"ch\":59}},\"scroll\":64.56718715031941}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":25},\"to\":{\"line\":48,\"ch\":25}},\"scroll\":26.725001017252605}"
+                },
+                {
+                  "title": "Psy Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Psy Log.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Psy Log\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":143},\"to\":{\"line\":11,\"ch\":143}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509241244 chapitre 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241244 chapitre 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241244 chapitre 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":59},\"to\":{\"line\":37,\"ch\":59}},\"scroll\":32.343034052848814}"
                 },
                 {
                   "title": "202509031148 premices de la korenote",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/202509031148 premices de la korenote.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509031148 premices de la korenote\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":693},\"to\":{\"line\":33,\"ch\":693}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.609375}"
                 },
                 {
                   "title": "MOA Vivre pleinement son 7",
@@ -93,200 +276,449 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":33},\"to\":{\"line\":6,\"ch\":33}},\"scroll\":0}"
                 },
                 {
-                  "title": "202509111740 type 7 awakening proposition",
+                  "title": "202509241053 chapitre 5",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509111740 type 7 awakening proposition.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509111740 type 7 awakening proposition\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":30.681051506131748}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509241053 chapitre 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241053 chapitre 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":973},\"to\":{\"line\":4,\"ch\":973}},\"scroll\":0}"
                 },
                 {
-                  "title": "Enneagramme",
+                  "title": "202509241043 cahpitre 5 sections",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":107,\"ch\":35},\"to\":{\"line\":107,\"ch\":35}},\"scroll\":85.94116003312539}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241043 cahpitre 5 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241043 cahpitre 5 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":521},\"to\":{\"line\":87,\"ch\":521}},\"scroll\":84.9721201642533}"
                 },
                 {
-                  "title": "202509111740 type 7 awakening proposition",
+                  "title": "202509241244 chapitre 6",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509111740 type 7 awakening proposition.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509111740 type 7 awakening proposition\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":203},\"to\":{\"line\":12,\"ch\":203}},\"scroll\":3.2863849765258215}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/20250913229 recherche sur les ombres part 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250913229 recherche sur les ombres part 1"
-            }
-          },
-          {
-            "id": "29c8c12113a34abb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241244 chapitre 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241244 chapitre 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":59},\"to\":{\"line\":37,\"ch\":59}},\"scroll\":30.287181712962962}"
                 },
                 {
-                  "title": "Prompt Message2spiral-rogers",
+                  "title": "202509222223 chapitre 2",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/luc/Prompt Message2spiral-rogers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Prompt Message2spiral-rogers\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222223 chapitre 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222223 chapitre 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":139,\"ch\":0},\"to\":{\"line\":139,\"ch\":0}},\"scroll\":129.53984375}"
+                },
+                {
+                  "title": "202509241053 chapitre 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509241053 chapitre 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241053 chapitre 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":59},\"to\":{\"line\":66,\"ch\":59}},\"scroll\":50.50461647727273}"
+                },
+                {
+                  "title": "202509241244 chapitre 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241244 chapitre 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241244 chapitre 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":17.31189903846154}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":22},\"to\":{\"line\":22,\"ch\":22}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1309},\"to\":{\"line\":2,\"ch\":1309}},\"scroll\":35.83163496376812}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":36},\"to\":{\"line\":48,\"ch\":36}},\"scroll\":34.583333333333336}"
+                },
+                {
+                  "title": "202507122145 MOA Honte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Projects/Zoimmeisdess/contents/202507122145 MOA Honte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202507122145 MOA Honte\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "202509151120 proposition plan après ombres",
+                  "title": "202509241244 chapitre 6",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509151120 proposition plan après ombres.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509151120 proposition plan après ombres\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":253},\"to\":{\"line\":43,\"ch\":253}},\"scroll\":35.87276756195795}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241244 chapitre 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241244 chapitre 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":15.278645833333334}"
                 },
                 {
                   "title": "MOA Vivre pleinement son 7",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}},\"scroll\":2.9746478443414395}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":5},\"to\":{\"line\":22,\"ch\":5}},\"scroll\":0}"
                 },
                 {
-                  "title": "202509151046 recherche sur les ombres profondes part 4 regroupement",
+                  "title": "202509241239 chapitre 6 sections",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509151046 recherche sur les ombres profondes part 4 regroupement.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509151046 recherche sur les ombres profondes part 4 regroupement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":781},\"to\":{\"line\":2,\"ch\":781}},\"scroll\":0}"
-                },
-                {
-                  "title": "MOA Vivre pleinement son 7",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":49},\"to\":{\"line\":24,\"ch\":49}},\"scroll\":9.625}"
-                },
-                {
-                  "title": "202509132235 sabotage du choix du 7",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202509132235 sabotage du choix du 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509132235 sabotage du choix du 7\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Enneagramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":29},\"to\":{\"line\":111,\"ch\":29}},\"scroll\":89.7109375}"
-                },
-                {
-                  "title": "202509132235 sabotage du choix du 7",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202509132235 sabotage du choix du 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509132235 sabotage du choix du 7\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":993},\"to\":{\"line\":10,\"ch\":993}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/prompting/luc/202509092244 prompt lecteur.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202509092244 prompt lecteur"
-            }
-          },
-          {
-            "id": "446517b4eacc0104",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "202509151120 proposition plan après ombres",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509151120 proposition plan après ombres.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509151120 proposition plan après ombres\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.721726462954564}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202509151135 jeux de roles par grok hahaaha",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509151135 jeux de roles par grok hahaaha.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509151135 jeux de roles par grok hahaaha\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":1249},\"to\":{\"line\":10,\"ch\":1249}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOA Vivre pleinement son 7"
-            }
-          },
-          {
-            "id": "b9b7d69d7934394e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241239 chapitre 6 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241239 chapitre 6 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":76},\"to\":{\"line\":47,\"ch\":76}},\"scroll\":37.62893890675241}"
                 },
                 {
                   "title": "MOA Vivre pleinement son 7",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":41},\"to\":{\"line\":31,\"ch\":41}},\"scroll\":13.791666666666666}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":23},\"to\":{\"line\":21,\"ch\":23}},\"scroll\":0}"
                 },
                 {
-                  "title": "202509151428 progression du 7 Spirale",
+                  "title": "202509241053 chapitre 5",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509151428 progression du 7 Spirale.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509151428 progression du 7 Spirale\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509241053 chapitre 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241053 chapitre 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":59},\"to\":{\"line\":66,\"ch\":59}},\"scroll\":61.269386574074076}"
+                },
+                {
+                  "title": "202509241043 cahpitre 5 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241043 cahpitre 5 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241043 cahpitre 5 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":49.889467592592595}"
+                },
+                {
+                  "title": "202509241053 chapitre 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202509241053 chapitre 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241053 chapitre 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":45},\"to\":{\"line\":55,\"ch\":45}},\"scroll\":35.74624693627451}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":16},\"to\":{\"line\":20,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509241043 cahpitre 5 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509241043 cahpitre 5 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509241043 cahpitre 5 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":228},\"to\":{\"line\":94,\"ch\":228}},\"scroll\":88.76612594017674}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":27},\"to\":{\"line\":19,\"ch\":27}},\"scroll\":5.633802816901408}"
+                },
+                {
+                  "title": "202509231357 cahpitre 4 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509231357 cahpitre 4 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509231357 cahpitre 4 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":140.37698430479188}"
+                },
+                {
+                  "title": "202509222228 cahpitre 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222228 cahpitre 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222228 cahpitre 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":384.38888782504586}"
+                },
+                {
+                  "title": "202509132258 recherche sur les ombres profonde part 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509132258 recherche sur les ombres profonde part 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509132258 recherche sur les ombres profonde part 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":57},\"to\":{\"line\":18,\"ch\":4}},\"scroll\":16.915445678535548}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":29},\"to\":{\"line\":43,\"ch\":29}},\"scroll\":16.791666666666668}"
+                },
+                {
+                  "title": "202509231357 chapitre 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509231357 chapitre 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509231357 chapitre 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509231357 cahpitre 4 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509231357 cahpitre 4 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509231357 cahpitre 4 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":149,\"ch\":146},\"to\":{\"line\":149,\"ch\":146}},\"scroll\":110.37121289240538}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":81},\"to\":{\"line\":15,\"ch\":4}},\"scroll\":13.758657360076905}"
+                },
+                {
+                  "title": "202509222228 cahpitre 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222228 cahpitre 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222228 cahpitre 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":412,\"ch\":242},\"to\":{\"line\":412,\"ch\":242}},\"scroll\":406.22082991070215}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":19},\"to\":{\"line\":16,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509231426 chapitre 3 section grok + gpt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509231426 chapitre 3 section grok + gpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509231426 chapitre 3 section grok + gpt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":108},\"to\":{\"line\":118,\"ch\":108}},\"scroll\":106.9499963124593}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":37},\"to\":{\"line\":15,\"ch\":37}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222227 cahpitre 3 sections grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222227 cahpitre 3 sections grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222227 cahpitre 3 sections grok\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":5},\"to\":{\"line\":12,\"ch\":5}},\"scroll\":38.00378883251694}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":76},\"to\":{\"line\":12,\"ch\":4}},\"scroll\":10.7135889674678}"
+                },
+                {
+                  "title": "202509222223 chapitre 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222223 chapitre 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222223 chapitre 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.89166662428114}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.642644515653856}"
+                },
+                {
+                  "title": "202509222223 chapitre 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222223 chapitre 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222223 chapitre 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202509222222 cahpitre 2 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222222 cahpitre 2 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222222 cahpitre 2 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202509231357 cahpitre 4 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509231357 cahpitre 4 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509231357 cahpitre 4 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202509222228 cahpitre 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222228 cahpitre 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222228 cahpitre 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222227 cahpitre 3 sections grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222227 cahpitre 3 sections grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222227 cahpitre 3 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":85.85605745396552}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.90298290686174}"
+                },
+                {
+                  "title": "202509231357 chapitre 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509231357 chapitre 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509231357 chapitre 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":327,\"ch\":0},\"to\":{\"line\":327,\"ch\":0}},\"scroll\":319.8807327747345}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":18},\"to\":{\"line\":17,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509231357 cahpitre 4 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509231357 cahpitre 4 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509231357 cahpitre 4 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":155,\"ch\":181},\"to\":{\"line\":155,\"ch\":181}},\"scroll\":143.23484721667617}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":12},\"to\":{\"line\":16,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222228 cahpitre 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222228 cahpitre 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222228 cahpitre 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":96},\"to\":{\"line\":5,\"ch\":96}},\"scroll\":188.829998143514}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":19},\"to\":{\"line\":15,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222227 cahpitre 3 sections grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222227 cahpitre 3 sections grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222227 cahpitre 3 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":150},\"to\":{\"line\":119,\"ch\":150}},\"scroll\":103.87796208530806}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222223 chapitre 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222223 chapitre 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222223 chapitre 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":139,\"ch\":0},\"to\":{\"line\":139,\"ch\":0}},\"scroll\":129.57317708333332}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.75775462962963}"
+                },
+                {
+                  "title": "202509222223 chapitre 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222223 chapitre 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222223 chapitre 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":120,\"ch\":0},\"to\":{\"line\":120,\"ch\":0}},\"scroll\":111.13645833333334}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":22},\"to\":{\"line\":13,\"ch\":22}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222222 cahpitre 2 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222222 cahpitre 2 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222222 cahpitre 2 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":110,\"ch\":194},\"to\":{\"line\":110,\"ch\":194}},\"scroll\":95.81141439205955}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":27},\"to\":{\"line\":12,\"ch\":27}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222110 chapitre 1 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222110 chapitre 1 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222110 chapitre 1 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":69.69030428055699}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.049775094696969}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":40},\"to\":{\"line\":33,\"ch\":40}},\"scroll\":26.25}"
+                },
+                {
+                  "title": "202509222104 chapitre 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222104 chapitre 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222104 chapitre 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":303},\"to\":{\"line\":73,\"ch\":303}},\"scroll\":54.01777251184834}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.418372844827587}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":35},\"to\":{\"line\":33,\"ch\":35}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222110 chapitre 1 sections",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222110 chapitre 1 sections.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222110 chapitre 1 sections\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":195},\"to\":{\"line\":76,\"ch\":195}},\"scroll\":69.69365652398143}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":30},\"to\":{\"line\":10,\"ch\":30}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.49457465277778}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":35},\"to\":{\"line\":33,\"ch\":35}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509222104 chapitre 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509222104 chapitre 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509222104 chapitre 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":18.111284722222223}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":17},\"to\":{\"line\":11,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "202509152155 plan apres discussion avec luc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202509152155 plan apres discussion avec luc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509152155 plan apres discussion avec luc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":67},\"to\":{\"line\":4,\"ch\":18}},\"scroll\":41.49468315972222}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":25},\"to\":{\"line\":32,\"ch\":25}},\"scroll\":0}"
+                },
+                {
+                  "title": "20250913229 recherche sur les ombres part 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/20250913229 recherche sur les ombres part 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250913229 recherche sur les ombres part 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":42.240694789081886}"
+                },
+                {
+                  "title": "202405271407 Spirale dynamique vue synthetique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202405271407 Spirale dynamique vue synthetique.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202405271407 Spirale dynamique vue synthetique\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":8},\"to\":{\"line\":6,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "202309271311 blessure de l'ame",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/BooksNotes/202309271311 blessure de l'ame.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202309271311 blessure de l'ame\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":119},\"to\":{\"line\":51,\"ch\":119}},\"scroll\":7.966804979253112}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brojects/Integral Pathways/Contents/Versions/202509151430 plan apres critique par un type 7.md",
+                "file": "+/202509291130 chapitre 11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -301,56 +733,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202509151430 plan apres critique par un type 7"
-            }
-          },
-          {
-            "id": "ab5e334fd4ab5634",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Enneagramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":109,\"ch\":36},\"to\":{\"line\":109,\"ch\":36}},\"scroll\":97.51030030634301}"
-                },
-                {
-                  "title": "202509131149 Directives pour un Type 6 au Niveau Jaune avec Actions Concrètes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202509131149 Directives pour un Type 6 au Niveau Jaune avec Actions Concrètes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509131149 Directives pour un Type 6 au Niveau Jaune avec Actions Concrètes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":309},\"to\":{\"line\":29,\"ch\":309}},\"scroll\":23.590700938981513}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/202509111740 type 7 awakening proposition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202509111740 type 7 awakening proposition"
+              "title": "202509291130 chapitre 11"
             }
           }
         ],
-        "currentTab": 4
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -455,7 +842,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brenee",
+                "query": "agora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -534,7 +921,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Notes/BooksNotes/Le pouvoir de la vulnérabilité.md",
+                "file": "Atlas/Projects/Zoimmeisdess/contents/202502031136 Side Hustle Checklist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -544,7 +931,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Le pouvoir de la vulnérabilité"
+              "title": "Backlinks for 202502031136 Side Hustle Checklist"
             }
           },
           {
@@ -598,34 +985,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b9b7d69d7934394e",
+  "active": "d5c2fa500a821508",
   "lastOpenFiles": [
     "Brojects/Integral Pathways/Contents/MOA Vivre pleinement son 7.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509151430 critique par un type 7.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509151430 plan apres critique par un type 7.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509151428 progression du 7 Spirale.md",
-    "+/202509151120 proposition plan après ombres.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509151135 jeux de roles par grok hahaaha.md",
-    "Atlas/prompting/luc/202509092244 prompt lecteur.md",
-    "Atlas/prompting/luc/Prompt Message2spiral-rogers.md",
-    "Atlas/prompting/luc/Simple Ex1_output.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509151102 exerciecs 2 sur ombres profondes 4.md",
-    "+/202509151054 exerciecs sur ombres profondes 4.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509151046 recherche sur les ombres profondes part 4 regroupement.md",
-    "+/202509132258 recherche sur les ombres profonde part 3.md",
-    "+/202509132254 recherche sur les ombres profonde part 2.md",
-    "Atlas/Notes/Ideas/202509132235 sabotage du choix du 7.md",
-    "Atlas/Maps/Enneagramme.md",
-    "+/20250913229 recherche sur les ombres part 1.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509132158 proposition autre plan.md",
-    "Atlas/prompting/202503122037 prompt reperer inconsistence.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509052204 references supplémentaires.md",
+    "+/202509291130 chapitre 11.md",
+    "+/202509291120  cahpitre 11 sections.md",
+    "+/202509272127 chapitre 10.md",
+    "+/202509152155 plan apres discussion avec luc.md",
+    "+/202509222104 chapitre 1.md",
+    "+/202509272119 chaptire 10 sections.md",
+    "+/202509261555 cahpitre 9.md",
+    "Atlas/Projects/Zoimmeisdess/contents/202502031136 Side Hustle Checklist.md",
+    "+/202509261114 chapitre 9 sections.md",
+    "+/202509222110 chapitre 1 sections.md",
+    "+/202509251406 chapitre 8.md",
+    "+/202509251130 chapitre 7.md",
+    "+/202509251205 chapitre 8 sections.md",
+    "+/202509251125 chapitre 7 sections.md",
+    "Brojects/Integral Pathways/Contents/Versions/202509152150 analyse discussion luc.md",
+    "Calendar/Logs/Psy Log.md",
+    "+/202509241244 chapitre 6.md",
     "Brojects/Integral Pathways/202509031148 premices de la korenote.md",
-    "+/202509031148 Korenote vivre son 7.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509052232 liste references.md",
-    "+/202509111740 type 7 awakening proposition.md",
-    "Atlas/Notes/Ideas/202509131149 Directives pour un Type 6 au Niveau Jaune avec Actions Concrètes.md",
-    "Atlas/Notes/Ideas/202312152149 tips for type 7.md",
+    "Brojects/Integral Pathways/Contents/Versions/202509241053 chapitre 5.md",
+    "+/202509241043 cahpitre 5 sections.md",
+    "+/202509222223 chapitre 2.md",
+    "Atlas/Projects/Zoimmeisdess/contents/202507122145 MOA Honte.md",
+    "+/202509241239 chapitre 6 sections.md",
+    "+/202509231357 cahpitre 4 sections.md",
+    "+/202509222228 cahpitre 3.md",
     "Brojects/Integral Pathways/Contents/published",
     "Atlas/Utilities/Images/causalite simple en.png",
     "Atlas/Utilities/Images/ChatGPT Image 17 août 2025, 22_15_04.png",

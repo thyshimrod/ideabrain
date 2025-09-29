@@ -4,6 +4,12 @@ tags:
   - log
   - psy
 ---
+# 24/09/2025
+
+Peur de la réussite : 
+* Peur du rejet par jalousie : les gens ne comprennent pas comment et pourquoi je réussis, notamment je ne suis pas expert, ou je n'ai pas travaillé autant que les autres. Donc, je ne mérite pas. Mais au final, cela a été une expérience de collège essentiellement, même si au niveau corporate, j'ai pu vivre aussi par morceau cela. Mais aujourd'hui moins présent, car je suis entouré de gens soutenants, et admirants.
+* Peur de m'accepter : entre dire que je m'accepte tel que je suis, et faire des actions qui prouvent cela, il y a une différence. En écrivant ce livre, et le publiant, j'agis en m'acceptant, par mes actes. C'est plus fort.
+* Peur de changer de vie : en réussissant à vendre, cela veut dire que je peux créer un biz autour de quelque chose. Je suis capable de vendre.
 
 # 01/09/2025
 

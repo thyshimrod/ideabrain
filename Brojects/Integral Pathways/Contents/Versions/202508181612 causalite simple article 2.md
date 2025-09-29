@@ -20,7 +20,7 @@ Pensez-y : Un prédateur approche ? Pas le temps pour une analyse complexe. Agir
 
 Mais en 2025, ce réflexe devient un handicap.  
 Il vous pousse à blâmer une seule cause : "Tu es malade, hier tu es sorti les cheveux mouillés"  
-Pourtant, la réalité est multifactorielle — virus, stress, immunité, déshydratation, manque de vitamines.  
+Pourtant, la réalité est multifactorielle — virus, stress, baisse d'immunité, déshydratation, manque de vitamines.  
 Ignorer cela ? C'est recycler des illusions rassurantes, héritées de niveaux archaïques comme le violet de la Spirale Dynamique, où la magie simplifie l'inconnu.  
 
 Regardez les maîtres : Kahneman expose le System 1, ce mode rapide et économe.  
@@ -29,11 +29,11 @@ Wilber, avec AQAL, cartographie les quadrants — intérieur, extérieur, indivi
 Ils ne fuient pas la complexité ; ils l'utilisent.  
 
 Et le paradoxe émotionnel ?  
-La simplicité réconforte, apaise la peur de l'inconnu. Et il faut savoir aussi cultivez la simplicité : Un rituel simple ancre avant de plonger dans la complexité.  
+La simplicité réconforte, apaise la peur de l'inconnu. Et pour autant, il faut savoir aussi cultivez la simplicité : Un rituel simple ancre avant de plonger dans la complexité.  
 On a aussi des cas de surcharge : L'IA et les données de 2025 submergent si vous embrassez tout sans filtre.  
 Sélectionnez. Priorisez. Ou restez noyé.  
 
-Mon éveil ? Une fatigue chronique et je blamais le manque de sommeil.  
+Mon éveil ? Une fatigue chronique et je blâmais le manque de sommeil.  
 En creusant, j'ai vu le réseau : Stress mental, exigences sociales, ombres émotionnelles.  
 Des exemples concrets, comme un jardin arrosé quotidiennement qui pourrit — sol, climat, insectes ignorés.  
 
@@ -43,7 +43,7 @@ Cette "pensée plate" coûte cher : Échecs répétés, regrets accumulés, une 
 
 # Desire : Transformez la complexité en votre superpouvoir
 
-Imaginez une vie où les échecs deviennent carburant.  
+Imaginez une vie où les échecs deviennent un carburant.  
 Où vous naviguez le chaos avec assurance, débloquant une résilience antifragile.  
 C'est possible. En transcendant la simplicité.  
 
@@ -52,8 +52,8 @@ Passez du violet magique à l'orange pragmatique, vers le jaune intégratif.
 Résultats ? Moins d'échecs, plus de croissance authentique.  
 
 Mon expérience : Une perte de poids ratée avec un régime simpliste.  
-Puis AQAL m'a aider à embrasser la complexité — mental, corporel, émotionnel.  
-Kilos perdus. Énergie explosive.  
+Puis AQAL m'a aider à embrasser la complexité j'ai adressé le mental et l'émotionnel en plus du corporel.  
+Résultat kilos perdus avec une stabilité acquise car le mental et l'émotionnel ont été adressé.  
 
 Croyez-le : Votre cerveau n'est pas votre ennemi.  
 C'est un outil. Canalisez sa simplicité sélectivement.  
