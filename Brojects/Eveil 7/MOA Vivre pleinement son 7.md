@@ -31,10 +31,20 @@ tags:
 [[202509272127 chapitre 10]]
 [[202509291120  cahpitre 11 sections]]
 [[202509291130 chapitre 11]]
+[[202509301015 chapitre 12 sections]]
+[[202509301024 chapitre 12]]
+[[full book]]
+[[202509302107 prompt 21 on book 7]]
+[[202509302107 prompt 21 on book 7 grok]]
+[[202509302130 critique livre]]
+[[202509302135 propositions d'amélioration]]
+[[202510011417 proposition grok]]
+[[202510011415 encadré dans chapitre]]
+[[202510011438 encadré plusplus]]
+[[202501101448 quizz dans chapitre]]
 
 
-
-
+[[202510011423 plan accompagnement 30j]]
 
 
 
@@ -61,6 +71,7 @@ tags:
 [[202509151430 plan apres critique par un type 7]]
 [[202509152150 analyse discussion luc]]
 [[202509152155 plan apres discussion avec luc]]
+[[202501101452 conseil mise en page]]
 
 
 

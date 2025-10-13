@@ -3,6 +3,16 @@ tags:
   - pascal
   - log
 ---
+# 30/09/2025
+
+Cela fait bien longtemps que je ne suis plus venu ici. 3 mois apparemment.
+POurtant je sais que le journaling a des bienfaits.
+Aujourd'hui beaucoup de compulsions (sexuelles, et nourriture), recherche de plaisir, et manger des émotions.
+Comme une rechute. 
+Vu que c'était notamment, le divorce qui reprend, le manque de soutien, que je ne vais pas chercher, le visage d'Alistair qui ressemble beaucoup à sa mère, et qui est trop sérieux, triste. Cela me fait mal au coeur.
+Je me demande encore comment gérer les vacances. Accepter la demande de Ancelin? ou contre proposer, et pourquoi? Ce n'est pas clair. En même temps, en revenant mercredi, j'aurai du temps pour moi, et cela serait cool. profiter de mes vacances.
+
+
 # 30/06/2025
 
 Du stress et de l'inquiétude aujourd'hui.
