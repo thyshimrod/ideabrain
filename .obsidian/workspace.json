@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "202506101153 MOA conf SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":18},\"to\":{\"line\":1,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "liste question grok v2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/result/liste question grok v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"liste question grok v2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":107.85545905707195}"
+                },
+                {
+                  "title": "202506101153 MOA conf SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":19},\"to\":{\"line\":1,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "liste question grok v2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/result/liste question grok v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"liste question grok v2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":107.77605459057072}"
+                },
+                {
+                  "title": "202506101153 MOA conf SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":20},\"to\":{\"line\":1,\"ch\":20}},\"scroll\":0}"
+                },
+                {
+                  "title": "carte mémo SD entreprise",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/carte mémo SD entreprise.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"carte mémo SD entreprise\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.1453495006581}"
+                },
+                {
+                  "title": "202509052244 critique du plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Eveil 7/works/202509052244 critique du plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509052244 critique du plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.991391026759945}"
+                },
+                {
                   "title": "202509052240 plan détaillé",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Eveil 7/works/202509052240 plan détaillé.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202509052240 plan détaillé\"}",
@@ -62,7 +104,7 @@
                 {
                   "title": "202510011438 encadré plusplus",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202510011438 encadré plusplus.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202510011438 encadré plusplus\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Eveil 7/works/202510011438 encadré plusplus.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202510011438 encadré plusplus\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.313750171661377}"
                 },
                 {
@@ -292,7 +334,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brojects/Eveil 7/works/202509052244 critique du plan.md",
+                "file": "Atlas/prompting/conf sd/result/liste question grok v2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -307,10 +349,110 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202509052244 critique du plan"
+              "title": "liste question grok v2"
+            }
+          },
+          {
+            "id": "39fddc8793b30ac3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MOA Vivre pleinement son 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Eveil 7/MOA Vivre pleinement son 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA Vivre pleinement son 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":9},\"to\":{\"line\":35,\"ch\":9}},\"scroll\":26.291666666666668}"
+                },
+                {
+                  "title": "conf sd quizz entreprise",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/conf sd quizz entreprise.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conf sd quizz entreprise\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":86.14204213318742}"
+                },
+                {
+                  "title": "202506101153 MOA conf SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":22},\"to\":{\"line\":1,\"ch\":22}},\"scroll\":0}"
+                },
+                {
+                  "title": "dessiner son entreprise",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/dessiner son entreprise.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"dessiner son entreprise\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":85.12594750615246}"
+                },
+                {
+                  "title": "202506101153 MOA conf SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":19},\"to\":{\"line\":14,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "lsite question SD Chatgpt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/lsite question SD Chatgpt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lsite question SD Chatgpt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":198.72221239113543}"
+                },
+                {
+                  "title": "carte mémo SD entreprise",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/carte mémo SD entreprise.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"carte mémo SD entreprise\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":49},\"to\":{\"line\":7,\"ch\":49}},\"scroll\":0}"
+                },
+                {
+                  "title": "202506101153 MOA conf SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":18},\"to\":{\"line\":12,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "conf sd quizz indiv grok 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/result/conf sd quizz indiv grok 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conf sd quizz indiv grok 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":183},\"to\":{\"line\":97,\"ch\":183}},\"scroll\":113.9210995833079}"
+                },
+                {
+                  "title": "202506101153 MOA conf SD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/202506101153 MOA conf SD.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202506101153 MOA conf SD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":14},\"to\":{\"line\":3,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "conf sd quizz indiv grok 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/conf sd/result/conf sd quizz indiv grok 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conf sd quizz indiv grok 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":121,\"ch\":142},\"to\":{\"line\":121,\"ch\":142}},\"scroll\":42.674317617866}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brojects/Eveil 7/works/full book.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "full book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -415,7 +557,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agora",
+                "query": "type 3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -494,7 +636,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brojects/Integral Pathways/Contents/Versions/202509302130 critique livre.md",
+                "file": "Brojects/Eveil 7/works/full book.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -504,7 +646,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202509302130 critique livre"
+              "title": "Backlinks for full book"
             }
           },
           {
@@ -534,8 +676,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -558,44 +699,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6b1edad29333409f",
+  "active": "39fddc8793b30ac3",
   "lastOpenFiles": [
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_53.sla",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_53.sla.81",
+    "Brojects/Eveil 7/MOA Vivre pleinement son 7.md",
+    "Brojects/Integral Pathways/Contents/Versions/202509052232 liste references.md",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture.sla.9872",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture.sla.9637",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_43.sla",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_43.sla.9482",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture.sla.9196",
+    "Brojects/Eveil 7/works/202510011415 encadré dans chapitre.md",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_33.sla",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_33.sla.8884",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_23.sla",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture_autosave_26_10_2025_21_23.sla.8286",
+    "Brojects/Eveil 7/works/202510011438 encadré plusplus.md",
+    "Atlas/Maps/Enneagramme.md",
+    "Atlas/Notes/BooksNotes/202503302128 Wisdom of Enneatype 4.md",
+    "Atlas/Notes/BooksNotes/202503302213 Wisdom of Enneatype 3.md",
+    "Atlas/Notes/Ideas/202405221057 enneagramme liste des types synthèses.md",
+    "Atlas/Notes/BooksNotes/202007312212 Type 3 le compétiteur.md",
+    "+/202510011417 proposition grok.md",
+    "Atlas/prompting/conf sd/conf sd quizz entreprise.md",
+    "Atlas/prompting/conf sd/202506101153 MOA conf SD.md",
+    "+/dessiner son entreprise.md",
+    "Atlas/prompting/conf sd/lsite question SD Chatgpt.md",
+    "Atlas/prompting/conf sd/carte mémo SD entreprise.md",
+    "Atlas/prompting/conf sd/result/conf sd quizz indiv grok 3.md",
+    "Atlas/prompting/conf sd/result/liste question grok v2.md",
+    "Brojects/Eveil 7/works/202509052244 critique du plan.md",
     "Brojects/Eveil 7/works/202509052240 plan détaillé.md",
     "+/202507222143 release ancien conditionnement.md",
     "+/202509031148 Korenote vivre son 7.md",
     "Brojects/Eveil 7/works/202501101452 conseil mise en page.md",
     "Brojects/Eveil 7/works/202501101448 quizz dans chapitre.md",
-    "Brojects/Eveil 7/MOA Vivre pleinement son 7.md",
-    "Brojects/Eveil 7/works",
     "Brojects/Eveil 7/notesgrok/202509301024 chapitre 12.md",
     "Brojects/Eveil 7/notesgrok/202509222104 chapitre 1.md",
-    "+/202510011415 encadré dans chapitre.md",
-    "+/202510011438 encadré plusplus.md",
-    "Brojects/Eveil 7/notesgrok",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - en relecture.sla",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - avant relecture.sla",
-    "Brojects/Eveil 7/manuscrit/mybook/enneatype 7 - en relecture.sla",
-    "Brojects/Eveil 7/manuscrit/mybook/enneatype 7 - avant relecture.sla",
-    "Brojects/Eveil 7/manuscrit/mybook",
-    "Brojects/Eveil 7/manuscrit",
-    "Brojects/Eveil 7/Nouveau dossier",
-    "Brojects/Eveil 7",
-    "Brojects/Eveil 7/notesgrok/202509301015 chapitre 12 sections.md",
-    "Brojects/Eveil 7/notesgrok/202509291130 chapitre 11.md",
-    "Brojects/Eveil 7/notesgrok/202509291120  cahpitre 11 sections.md",
-    "Brojects/Eveil 7/notesgrok/202509272127 chapitre 10.md",
-    "Brojects/Eveil 7/notesgrok/202509272119 chaptire 10 sections.md",
-    "Brojects/Eveil 7/notesgrok/202509261555 cahpitre 9.md",
-    "Brojects/Eveil 7/notesgrok/202509222228 cahpitre 3.md",
-    "Brojects/Eveil 7/notesgrok/202509222223 chapitre 2.md",
-    "+/202509152155 plan apres discussion avec luc.md",
-    "Brojects/Eveil 7/notesgrok/202509251406 chapitre 8.md",
-    "Brojects/Eveil 7/notesgrok/202509251130 chapitre 7.md",
-    "+/prompt coach anti pro.md",
-    "Brojects/Eveil 7/notesgrok/202509251125 chapitre 7 sections.md",
-    "Brojects/Eveil 7/notesgrok/202509241244 chapitre 6.md",
-    "Brojects/Integral Pathways/Contents/Versions/202509241053 chapitre 5.md",
-    "Brojects/Eveil 7/notesgrok/202509241043 cahpitre 5 sections.md",
     "Atlas/Utilities/Images/causalite simple en.png",
     "Atlas/Utilities/Images/ChatGPT Image 17 août 2025, 22_15_04.png",
     "Atlas/Utilities/Images/causalite simple.png",
