@@ -3,6 +3,19 @@ tags:
   - pascal
   - log
 ---
+# 01/11/2025
+
+gros problème de dispersion aujourdh'ui.
+Je sens de la honte présente.
+Plusieurs sujets, je n'aitoujours pas demandé à Aydan pour la voitrure pour le week end du 15.
+Imprécision sur le planning Aix et après Aix.
+Ne pas oublier l'appel ce soir avec Ancelin.
+Je me disperse énormément. J'ai aussi beaucoupde fatigue, recherche de dopamine à mort.
+J'aidu mal à me donner de la bienveillance.
+Peut être que ce me racontre Luc aussi m'a refroidi sur la capacité àme faire un public.En vrai je sais que c'est en partie son besoin de maîtriser la chose, et d'essayer de créer quelque chose de logique, contrôlable.
+
+
+
 # 30/09/2025
 
 Cela fait bien longtemps que je ne suis plus venu ici. 3 mois apparemment.

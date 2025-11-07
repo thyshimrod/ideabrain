@@ -1,3 +1,10 @@
+---
+tags:
+  - enneagramme
+  - type7
+  - ombre
+---
+
 ### Angles d'Ombre du Type 7 : Développement de la Partie Profonde de Chaque Thème
 
 Voici une exploration approfondie des parties profondes de chaque thème d'ombre pour le type 7, basée sur votre insight personnel et les références (Chestnut pour sous-types/systémique, Robins pour embodied/intrinsèque, Hudson pour releases/racine, Cron pour narration/trauma, McCord pour core weakness/spirituel, Egerton pour journaling/profondeur, Allender pour émotionnel/systémique, Hall pour romantique/conformisme, Wigglesworth pour intégration Spirale). Chaque paragraphe développe la peur racine et l'ego sabotant, en expliquant à quoi le 7 veut échapper, par quel sabotage, ce dont il a besoin, et pourquoi il a peur d'y accéder, avec une causalité claire. Le ton reste introspectif et personnel, aligné avec votre différenciation (émancipation profonde vs atténuation symptômes), et reflète votre expérience (trauma restriction mère, conformisme masqué, non-soin de soi).
