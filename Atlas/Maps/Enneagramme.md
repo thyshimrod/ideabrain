@@ -110,7 +110,7 @@ tags:
 [[202509111740 type 7 awakening proposition]]
 [[202509110946 personal notes on type 7]]
 [[202509132235 sabotage du choix du 7]]
-
+[[202511081738 type 7 diff 1 et 5]]
 
 
 # Type 8

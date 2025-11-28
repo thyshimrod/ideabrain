@@ -4,6 +4,15 @@ tags:
   - enneagramme
   - type7
 ---
+[[Trad english]]
+
+
+[[202511121602 retex livre]]
+[[202511281201 prez passcal ogil]]
+[[202511081650 avancement logs]]
+
+[[202511171454 4e de couverture]]
+
 [[202509031148 premices de la korenote]]
 [[202509052232 liste references]]
 [[202509151046 recherche sur les ombres profondes part 4 regroupement]]
@@ -45,6 +54,7 @@ tags:
 [[202510291518 chapitre 11 gpt]]
 [[202509301015 chapitre 12 sections]]
 [[202509301024 chapitre 12]]
+[[202511101549 chapitre 12 exxercices gpt]]
 [[202510291522 chapitre 12 gpt]]
 [[full book]]
 [[202509302107 prompt 21 on book 7]]
