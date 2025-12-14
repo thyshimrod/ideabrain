@@ -6,6 +6,8 @@ tags:
 ---
 [[Trad english]]
 
+[[202512120959 contenu reel]]
+
 
 [[202511121602 retex livre]]
 [[202511281201 prez passcal ogil]]

@@ -5,6 +5,8 @@ tags:
 # Thématiques
 
 - [ ] Vie apaisée : réduire l'impact des stimuli
+	- [ ] Qu'est ce qu'une blessure
+	- [ ] Rebellion - sabotage
 - [ ] Honte
 	- [ ] La honte ciment de nos relations
 		- [ ] Demander à l'autre de faire des excuses : instrument de la honte
