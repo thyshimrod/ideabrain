@@ -90,6 +90,9 @@
       "e",
       "East",
       "n"
+    ],
+    "hidden": [
+      ""
     ]
   },
   "inferAllLinksAsFriends": false,
@@ -112,6 +115,7 @@
   "showFullTagName": false,
   "maxItemCount": 30,
   "renderSiblings": true,
+  "applyPowerFilter": false,
   "baseNodeStyle": {
     "prefix": "",
     "backgroundColor": "#00000066",
@@ -175,6 +179,9 @@
   "tagStyleList": [
     ""
   ],
+  "primaryTagField": "Note type",
+  "primaryTagFieldLowerCase": "note-type",
+  "displayAllStylePrefixes": true,
   "baseLinkStyle": {
     "strokeColor": "#696969FF",
     "strokeWidth": 1,
@@ -240,7 +247,6 @@
     "u": {}
   },
   "navigationHistory": [
-    "Atlas/Maps/Views/Literary Industry 🏭.md",
     "Atlas/X.../Meta/My PKM Queries.md",
     "Endeavors/LYT Notes/LYT Kit/Cards/Defining a habit.md",
     "Endeavors/LYT/Notes/Creator's Guild Retreat 2023.md",
@@ -289,7 +295,8 @@
     "Atlas/Maps/Outbox.md",
     "Home.md",
     "Atlas/Maps/Add.md",
-    "Atlas/Maps/Communicate.md"
+    "Atlas/Maps/Communicate.md",
+    "Atlas/Special/Excalidraw/2025_12_22.excalidraw.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

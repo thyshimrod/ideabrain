@@ -8,6 +8,10 @@
 
 [[202508281645 quotes from argument tree]]
 
+# Articles
+
+[[202508122149 pensee plate v6 grok]]
+[[202601032142 Why Your Solutions Fail  The Trap of Flat Thinking and the Revolution It Sparks v1]]
 
 ----
 

@@ -28,8 +28,14 @@ tags:
 [[202008112238 enneagramme essence]]
 [[202507290840 enneatype convergence]]
 
+
 # recherche
 [[202507310837 peur de l'echec enneagramme]]
+[[Enneagramme integration - tous les types]]
+[[202601051136 son type facteur de sabotage pour reconnecter sa qualite essnetielle]]
+[[202501051625 armures selon almaas]]
+
+
 
 # 3 centres
 [[202008141757 enneagramme resume types]]

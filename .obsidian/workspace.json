@@ -4,31 +4,703 @@
     "type": "split",
     "children": [
       {
-        "id": "20254037d9b61802",
+        "id": "cd1914896f35f103",
         "type": "tabs",
         "children": [
           {
-            "id": "1e57106a821c89ef",
+            "id": "6b76d803850e2874",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Chapitre 11",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Eveil 7/works/Chapitre 11.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Chapitre 11\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":151,\"ch\":86},\"to\":{\"line\":151,\"ch\":86}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "202601091546 couple integral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202601091546 couple integral.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601091546 couple integral\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":32},\"to\":{\"line\":22,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "Le mythe de la compatibilité - pourquoi votre recherche de simplicité tue votre relation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/Le mythe de la compatibilité - pourquoi votre recherche de simplicité tue votre relation.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Le mythe de la compatibilité - pourquoi votre recherche de simplicité tue votre relation\"}",
+                  "eState": "{\"scroll\":102.98863636363636}"
+                },
+                {
+                  "title": "202508141600 causalite simple Korenote",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202508141600 causalite simple Korenote.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508141600 causalite simple Korenote\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202508141600 causalite simple why",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508141600 causalite simple why.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508141600 causalite simple why\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":26},\"to\":{\"line\":1,\"ch\":26}}}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202508141600 causalite simple why",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508141600 causalite simple why.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508141600 causalite simple why\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "20250817225 causalite simple us substack",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/20250817225 causalite simple us substack.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250817225 causalite simple us substack\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202508122149 pensee plate v6 grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202508122149 pensee plate v6 grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508122149 pensee plate v6 grok\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202601101514 live v3 pronlemeatique relation amis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202601101514 live v3 pronlemeatique relation amis.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601101514 live v3 pronlemeatique relation amis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":2},\"to\":{\"line\":28,\"ch\":2}},\"scroll\":24.386426347833964}"
+                },
+                {
+                  "title": "202601091546 couple integral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202601091546 couple integral.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601091546 couple integral\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":48},\"to\":{\"line\":20,\"ch\":48}},\"scroll\":9.833333333333334}"
+                },
+                {
+                  "title": "202601090947 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé gemini v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202601090947 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé gemini v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601090947 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé gemini v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":90.10872395833333}"
+                },
+                {
+                  "title": "202601081534 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601081534 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601081534 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":90},\"to\":{\"line\":1,\"ch\":90}},\"scroll\":0}"
+                },
+                {
+                  "title": "Hypnose 26 induction par focalisation visuelle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 26 induction par focalisation visuelle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 26 induction par focalisation visuelle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hypnose 25 techniques d induction par focalisation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 25 techniques d induction par focalisation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 25 techniques d induction par focalisation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hypnose 24 arc - ratification",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 24 arc - ratification.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 24 arc - ratification\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "hypnose 23 le modele arc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/hypnose 23 le modele arc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hypnose 23 le modele arc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "hypnose 22 preinduction hypnotique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/hypnose 22 preinduction hypnotique.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hypnose 22 preinduction hypnotique\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "hypnose 23 le modele arc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/hypnose 23 le modele arc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hypnose 23 le modele arc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "hypnose 22 preinduction hypnotique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/hypnose 22 preinduction hypnotique.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hypnose 22 preinduction hypnotique\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":7.518796992481203}"
+                },
+                {
+                  "title": "Hypnose 21 - types d induction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 21 - types d induction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 21 - types d induction\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Hypnose 14 - Main Molle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 14 - Main Molle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 14 - Main Molle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":22.375992239910694}"
+                },
+                {
+                  "title": "Hypnose 20 points a retenir sur la pratique de l eligibilite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 20 points a retenir sur la pratique de l eligibilite.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 20 points a retenir sur la pratique de l eligibilite\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":9.30232558139535}"
+                },
+                {
+                  "title": "Hypnose 18 Levitation de la main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 18 Levitation de la main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 18 Levitation de la main\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Hypnose 19 - chute du bras",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 19 - chute du bras.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 19 - chute du bras\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":39},\"to\":{\"line\":16,\"ch\":39}},\"scroll\":7.518796992481203}"
+                },
+                {
+                  "title": "Hypnose 18 Levitation de la main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 18 Levitation de la main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 18 Levitation de la main\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":131},\"to\":{\"line\":22,\"ch\":131}},\"scroll\":9.423558897243108}"
+                },
+                {
+                  "title": "Hypnose 17 rapprochement des doigts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 17 rapprochement des doigts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 17 rapprochement des doigts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":31},\"to\":{\"line\":16,\"ch\":31}},\"scroll\":7.518796992481203}"
+                },
+                {
+                  "title": "Hypnose 16 - doigts aimantes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 16 - doigts aimantes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 16 - doigts aimantes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hypnose 15 main lourde main legere",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 15 main lourde main legere.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 15 main lourde main legere\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hypnose 14 - Main Molle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 14 - Main Molle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 14 - Main Molle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hypnose 13 -POUR COMMENCER VOS SeANCES",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 13 -POUR COMMENCER VOS SeANCES.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 13 -POUR COMMENCER VOS SeANCES\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":30},\"to\":{\"line\":12,\"ch\":3}}}"
+                },
+                {
+                  "title": "Hypnose - EXERCICE - L’EXERCICE DU POINT DE VISION",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose - EXERCICE - L’EXERCICE DU POINT DE VISION.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose - EXERCICE - L’EXERCICE DU POINT DE VISION\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202601081534 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601081534 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601081534 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":285},\"to\":{\"line\":119,\"ch\":285}},\"scroll\":90.66024268998041}"
+                },
+                {
+                  "title": "202601081534 The Swarm Enigma - Why Our Revolutions Fail (gemini en)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601081534 The Swarm Enigma - Why Our Revolutions Fail (gemini en).md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601081534 The Swarm Enigma - Why Our Revolutions Fail (gemini en)\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202508011548 exemples de contenus 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/202508011548 exemples de contenus 2.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011548 exemples de contenus 2\"}",
+                  "eState": "{\"scroll\":49.5}"
+                },
+                {
+                  "title": "discipline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/discipline.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"discipline\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202512231623 produits revises v4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/work/202512231623 produits revises v4.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202512231623 produits revises v4\"}",
+                  "eState": "{\"scroll\":31.28082191780822}"
+                },
+                {
+                  "title": "202511302100 IP reflexion sur des produits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/202511302100 IP reflexion sur des produits.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202511302100 IP reflexion sur des produits\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202508011548 exemples de contenus 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/202508011548 exemples de contenus 2.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011548 exemples de contenus 2\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202601081534 The Swarm Enigma - Why Our Revolutions Fail (gemini en)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601081534 The Swarm Enigma - Why Our Revolutions Fail (gemini en).md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ombre collective gemini en\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "L'Ombre Collective - Comment Transformer les Crises Sociétales en Changement Bottom-Up",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/L'Ombre Collective - Comment Transformer les Crises Sociétales en Changement Bottom-Up.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"L'Ombre Collective - Comment Transformer les Crises Sociétales en Changement Bottom-Up\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202601081534 The Swarm Enigma - Why Our Revolutions Fail (gemini en)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601081534 The Swarm Enigma - Why Our Revolutions Fail (gemini en).md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ombre collective gemini en\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "L'Ombre Collective - Comment Transformer les Crises Sociétales en Changement Bottom-Up",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/L'Ombre Collective - Comment Transformer les Crises Sociétales en Changement Bottom-Up.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"L'Ombre Collective - Comment Transformer les Crises Sociétales en Changement Bottom-Up\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":21},\"to\":{\"line\":3,\"ch\":21}},\"scroll\":0}"
+                },
+                {
+                  "title": "202601062144 accompagner un 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601062144 accompagner un 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601062144 accompagner un 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":80.06818157352363}"
+                },
+                {
+                  "title": "Enneagramme type 6 - sabotage profond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Enneagramme type 6 - sabotage profond.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme type 6 - sabotage profond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":28},\"to\":{\"line\":20,\"ch\":28}},\"scroll\":12.173333231608073}"
+                },
+                {
+                  "title": "202601042238 integrations types - risque d'accompagnement meta d'un niveau trop eleve",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601042238 integrations types - risque d'accompagnement meta d'un niveau trop eleve.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601042238 integrations types - risque d'accompagnement meta d'un niveau trop eleve\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":367.81301895777386}"
+                },
+                {
+                  "title": "Enneagramme integration - tous les types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Enneagramme integration - tous les types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme integration - tous les types\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":56},\"to\":{\"line\":22,\"ch\":56}},\"scroll\":6.3236843912225025}"
+                },
+                {
+                  "title": "Enneagramme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":39},\"to\":{\"line\":33,\"ch\":39}},\"scroll\":13.178887804612273}"
+                },
+                {
+                  "title": "202601062044 sabotage profond du type 6 v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601062044 sabotage profond du type 6 v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601062044 sabotage profond du type 6 v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":315,\"ch\":78},\"to\":{\"line\":315,\"ch\":2}},\"scroll\":300.54999081293744}"
+                },
+                {
+                  "title": "Enneagramme type 6 - sabotage profond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Enneagramme type 6 - sabotage profond.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme type 6 - sabotage profond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":26},\"to\":{\"line\":15,\"ch\":26}},\"scroll\":0.026315789865820033}"
+                },
+                {
+                  "title": "enneatype 7 - sans couv - forme revue - Anglais",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue - Anglais.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"enneatype 7 - sans couv - forme revue - Anglais\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202601062050 cartographie de la boucle systemique du 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601062050 cartographie de la boucle systemique du 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601062050 cartographie de la boucle systemique du 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":48.208333253860474}"
+                },
+                {
+                  "title": "Enneagramme type 6 - sabotage profond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Enneagramme type 6 - sabotage profond.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme type 6 - sabotage profond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":35},\"to\":{\"line\":16,\"ch\":35}},\"scroll\":0}"
+                },
+                {
+                  "title": "202601062024 embrasser le chaos english version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601062024 embrasser le chaos english version.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601062024 embrasser le chaos english version\"}",
+                  "eState": "{\"scroll\":60.370001220703124}"
+                },
+                {
+                  "title": "202601062050 cartographie de la boucle systemique du 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601062050 cartographie de la boucle systemique du 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601062050 cartographie de la boucle systemique du 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Enneagramme type 6 - sabotage profond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Enneagramme type 6 - sabotage profond.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme type 6 - sabotage profond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":11},\"to\":{\"line\":16,\"ch\":11}},\"scroll\":7.657894837228875}"
+                },
+                {
+                  "title": "202601062024 embrasser le chaos english version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601062024 embrasser le chaos english version.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601062024 embrasser le chaos english version\"}",
+                  "eState": "{\"scroll\":61.95572670300802}"
+                },
+                {
+                  "title": "Embrasser le Chaos - Comment la Pensée Multidimensionnelle Transforme les Échecs en Croissance Antifragile",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Embrasser le Chaos - Comment la Pensée Multidimensionnelle Transforme les Échecs en Croissance Antifragile.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Embrasser le Chaos - Comment la Pensée Multidimensionnelle Transforme les Échecs en Croissance Antifragile\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":31},\"to\":{\"line\":1,\"ch\":31}},\"scroll\":0}"
+                },
+                {
+                  "title": "Enneagramme type 6 - sabotage profond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Enneagramme type 6 - sabotage profond.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme type 6 - sabotage profond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0.026315789865820033}"
+                },
+                {
+                  "title": "202601061925 embrasser le chaos v2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202601061925 embrasser le chaos v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601061925 embrasser le chaos v2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":464},\"to\":{\"line\":33,\"ch\":464}},\"scroll\":10.2747397157881}"
+                },
+                {
+                  "title": "Embrasser le Chaos - Comment la Pensée Multidimensionnelle Transforme les Échecs en Croissance Antifragile",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Embrasser le Chaos - Comment la Pensée Multidimensionnelle Transforme les Échecs en Croissance Antifragile.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Embrasser le Chaos - Comment la Pensée Multidimensionnelle Transforme les Échecs en Croissance Antifragile\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":29},\"to\":{\"line\":2,\"ch\":29}},\"scroll\":0}"
+                },
+                {
+                  "title": "Buns céto",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/recette/Buns céto.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Buns céto\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":39.260416666666664}"
+                },
+                {
+                  "title": "202601051555 armure du type 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601051555 armure du type 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601051555 armure du type 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":164.98332436879477}"
+                },
+                {
+                  "title": "202501051625 armures selon almaas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202501051625 armures selon almaas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202501051625 armures selon almaas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":28},\"to\":{\"line\":11,\"ch\":28}},\"scroll\":0}"
+                },
+                {
+                  "title": "Enneagramme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":30},\"to\":{\"line\":35,\"ch\":30}},\"scroll\":23.089062213897705}"
+                },
+                {
+                  "title": "202601042238 integrations types - risque d'accompagnement meta d'un niveau trop eleve",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601042238 integrations types - risque d'accompagnement meta d'un niveau trop eleve.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601042238 integrations types - risque d'accompagnement meta d'un niveau trop eleve\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":44.038021643956505}"
+                },
+                {
+                  "title": "Enneagramme integration - tous les types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Enneagramme integration - tous les types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme integration - tous les types\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":79},\"to\":{\"line\":22,\"ch\":79}},\"scroll\":6.1815790377165145}"
+                },
+                {
+                  "title": "Enneagramme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":35},\"to\":{\"line\":33,\"ch\":35}},\"scroll\":11.296353816986084}"
+                },
+                {
+                  "title": "202501051625 armures selon almaas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202501051625 armures selon almaas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202501051625 armures selon almaas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
+                  "title": "Enneagramme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":15},\"to\":{\"line\":35,\"ch\":15}},\"scroll\":23.022396564483643}"
+                },
+                {
+                  "title": "Enneagramme integration - tous les types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Enneagramme integration - tous les types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme integration - tous les types\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":47},\"to\":{\"line\":12,\"ch\":47}},\"scroll\":31.163021246592205}"
+                },
+                {
+                  "title": "202601042150 integrations types - kegan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202601042150 integrations types - kegan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601042150 integrations types - kegan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":265,\"ch\":4},\"to\":{\"line\":265,\"ch\":4}},\"scroll\":262.6575829383886}"
+                },
+                {
+                  "title": "Enneagramme integration - tous les types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Enneagramme integration - tous les types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme integration - tous les types\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":37},\"to\":{\"line\":18,\"ch\":37}}}"
+                },
+                {
+                  "title": "L'Ennéagramme - Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/L'Ennéagramme - Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"L'Ennéagramme - Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":27},\"to\":{\"line\":3,\"ch\":27}},\"scroll\":0}"
+                },
+                {
+                  "title": "202601041519 article en français v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202601041519 article en français v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601041519 article en français v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":243},\"to\":{\"line\":58,\"ch\":243}},\"scroll\":55.27127959413754}"
+                },
+                {
+                  "title": "L'Ennéagramme - Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/L'Ennéagramme - Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"L'Ennéagramme - Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":17},\"to\":{\"line\":1,\"ch\":17}}}"
+                },
+                {
+                  "title": "202601032153 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks v2 english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601032153 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks v2 english.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601032153 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks v2 english\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202601032142 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601032142 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601032142 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":20},\"to\":{\"line\":3,\"ch\":20}}}"
+                },
+                {
+                  "title": "Enneagramme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}}}"
+                },
+                {
+                  "title": "Enneagramme integration - tous les types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Enneagramme integration - tous les types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme integration - tous les types\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2026010414445 integrations types - ce qui remplace larmure et comment accompagner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/2026010414445 integrations types - ce qui remplace larmure et comment accompagner.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026010414445 integrations types - ce qui remplace larmure et comment accompagner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":271,\"ch\":65},\"to\":{\"line\":271,\"ch\":65}},\"scroll\":255.2734375}"
+                },
+                {
+                  "title": "Enneagramme integration - tous les types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Enneagramme integration - tous les types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme integration - tous les types\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":68},\"to\":{\"line\":17,\"ch\":68}},\"scroll\":4.7368421052631575}"
+                },
+                {
+                  "title": "Enneagramme type 6 - sabotage profond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Enneagramme type 6 - sabotage profond.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme type 6 - sabotage profond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Enneagramme integration - tous les types",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/Enneagramme integration - tous les types.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme integration - tous les types\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Liste des explorations à faire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Liste des explorations à faire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Liste des explorations à faire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":3.827751196172249}"
+                },
+                {
+                  "title": "202601032153 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks v2 english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601032153 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks v2 english.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601032153 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks v2 english\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202601032142 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601032142 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601032142 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":62},\"to\":{\"line\":3,\"ch\":62}}}"
+                },
+                {
+                  "title": "202601032142 Why Your Solutions Fail  The Trap of Flat Thinking and the Revolution It Sparks v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202601032142 Why Your Solutions Fail  The Trap of Flat Thinking and the Revolution It Sparks v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601032142 Why Your Solutions Fail  The Trap of Flat Thinking and the Revolution It Sparks v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":231},\"to\":{\"line\":54,\"ch\":231}},\"scroll\":0}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":11},\"to\":{\"line\":13,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "202508021119 penseee plate korenote",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202508021119 penseee plate korenote.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508021119 penseee plate korenote\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":71.79838709677419}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":32},\"to\":{\"line\":4,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "prompt context integral pathways",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/prompt context integral pathways.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt context integral pathways\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.7962239583333335}"
+                },
+                {
+                  "title": "JARA logos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/luc/JARA logos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JARA logos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "floating context",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/luc/floating context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"floating context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "prompt style",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/prompt style.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt style\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "prompt aide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/prompt aide.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt aide\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "grok side hustle V2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/yihaio/result/grok side hustle V2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"grok side hustle V2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MOA yiaho",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/yihaio/MOA yiaho.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOA yiaho\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "JARA logos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/luc/JARA logos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JARA logos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.1143583227446}"
+                },
+                {
+                  "title": "202505182255 organiser tout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/prompt dragon/202505182255 organiser tout.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202505182255 organiser tout\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202504251925 ZPTBT eveil vivant produit 1 mieux vivre ses émotions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/prompt dragon/202504251925 ZPTBT eveil vivant produit 1 mieux vivre ses émotions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504251925 ZPTBT eveil vivant produit 1 mieux vivre ses émotions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202504012116 Demarrage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/prompt dragon/202504012116 Demarrage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202504012116 Demarrage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202508141600 causalite simple why",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508141600 causalite simple why.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508141600 causalite simple why\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202508021119 penseee plate korenote",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202508021119 penseee plate korenote.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508021119 penseee plate korenote\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1185.6351563711617}"
+                },
+                {
+                  "title": "202508011755 contenu - pensee plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011755 contenu - pensee plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":24},\"to\":{\"line\":4,\"ch\":24}},\"scroll\":0}"
+                },
+                {
+                  "title": "floating context",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/luc/floating context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"floating context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202508141600 causalite simple Korenote",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202508141600 causalite simple Korenote.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508141600 causalite simple Korenote\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":93.26626018560982}"
+                },
+                {
+                  "title": "202508141600 causalite simple why",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202508141600 causalite simple why.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508141600 causalite simple why\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":34},\"to\":{\"line\":1,\"ch\":34}},\"scroll\":0}"
+                },
+                {
+                  "title": "20250817225 causalite simple us substack",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/20250817225 causalite simple us substack.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20250817225 causalite simple us substack\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":233.15937463442484}"
+                },
+                {
+                  "title": "202508011544 exemples de contenus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/202508011544 exemples de contenus.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202508011544 exemples de contenus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.330381870269775}"
+                },
+                {
+                  "title": "3 offres finales nommées",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/work/3 offres finales nommées.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"3 offres finales nommées\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brojects/Eveil 7/Trad english.md",
+                "file": "+/202601101607 exploration framework.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +715,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trad english"
+              "title": "202601101607 exploration framework"
             }
           }
         ]
@@ -123,8 +795,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506,
-    "collapsed": true
+    "width": 506
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -171,7 +842,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rebellion",
+                "query": "recette",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,44 +897,6 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "3fd9277d78ef40a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
-            "id": "63c2eac58f581bc0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "search",
-              "title": "Smart Lookup"
-            }
           }
         ],
         "currentTab": 1
@@ -288,7 +921,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brojects/Eveil 7/works/Chapitre 2.md",
+                "file": "+/202601101607 exploration framework.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +931,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapitre 2"
+              "title": "Backlinks for 202601101607 exploration framework"
             }
           },
           {
@@ -333,6 +966,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Toggle stacked tabs": false,
       "bases:Create new base": false,
       "quickadd:QuickAdd": false,
       "publish:Publish changes...": false,
@@ -350,59 +984,57 @@
       "callout-manager:Insert Callout": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "hi-note:HiNote": false
     }
   },
-  "active": "1e57106a821c89ef",
+  "active": "6b76d803850e2874",
   "lastOpenFiles": [
-    "Brojects/Eveil 7/works/Chapitre 11.md",
-    "+/202512120959 contenu reel.md",
-    "Brojects/Eveil 7/works/chapitre 11 publie.md",
-    "Brojects/Eveil 7/Trad english.md",
-    "Brojects/Eveil 7/works/Chapitre 10.md",
-    "Brojects/Eveil 7/works/chapitre 10 publie.md",
-    "Brojects/Eveil 7/works/Chapitre 8.md",
-    "Brojects/Eveil 7/works/chapitre 9 publie.md",
-    "Brojects/Eveil 7/works/Chapitre 9.md",
-    "Brojects/Eveil 7/works/Chapitre 7.md",
-    "Brojects/Eveil 7/works/chapitre 8 publie.md",
-    "Brojects/Eveil 7/works/chapitre 7 publie.md",
-    "Brojects/Eveil 7/works/Chapitre 6.md",
-    "Brojects/Eveil 7/works/chapitre 6 publie.md",
-    "Brojects/Eveil 7/works/Chapitre 5.md",
-    "Brojects/Eveil 7/works/chapitre 5 publie.md",
-    "Brojects/Eveil 7/works/chapitre 4 publie.md",
-    "Brojects/Eveil 7/works/Introduction.md",
-    "Brojects/Eveil 7/works/Chapitre 2.md",
-    "Brojects/Eveil 7/works/Chapitre 3.md",
-    "Brojects/Eveil 7/works/chapitre 4.md",
-    "Brojects/Eveil 7/MOA Vivre pleinement son 7.md",
-    "Atlas/Notes/Ideas/202512081132 perdre sa graisse abdominal en integral.md",
-    "Brojects/Agile/MOA AgileMe.md",
-    "Brojects/Eveil 7/works/chapitre 3 publie.md",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue.sla.6595",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue.sla.6391",
-    "Brojects/Eveil 7/works/chapitre 2 publie.md",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue.sla.5620",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue_autosave_14_12_2025_17_01.sla",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue_autosave_14_12_2025_17_01.sla.1717",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue_autosave_14_12_2025_14_35.sla",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue_autosave_14_12_2025_14_35.sla.2969",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue_autosave_14_12_2025_14_25.sla",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue_autosave_14_12_2025_14_25.sla.2371",
-    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue_autosave_14_12_2025_14_15.sla",
-    "Brojects/Eveil 7/manuscrit/couverture livre v3.png",
-    "Brojects/Eveil 7/manuscrit/couvbonnetaillefinie.png",
-    "Brojects/Eveil 7/manuscrit/aqal.png",
-    "Brojects/Eveil 7/manuscrit/couverture livre v2.png",
-    "Brojects/Eveil 7/manuscrit/couvvierge.png",
-    "Brojects/Eveil 7/manuscrit/couvbonnetaille.png",
-    "Brojects/Eveil 7/manuscrit/couvv4.png",
-    "Brojects/Eveil 7/manuscrit/ChatGPT Image 17 nov. 2025, 14_37_01.png",
-    "Brojects/Eveil 7/manuscrit/Design sans titre (15) (1).png",
-    "Brojects/Eveil 7/manuscrit/Design sans titre (16).png",
+    "Brojects/Integral Pathways/produits/Couple integral/202601091546 couple integral.md",
+    "+/202601101607 exploration framework.md",
+    "+/202601101559 mise en relation avec narm.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601091639 recherche couple integral.md",
+    "Brojects/Integral Pathways/Contents/published/Le mythe de la compatibilité - pourquoi votre recherche de simplicité tue votre relation.md",
+    "Atlas/Utilities/Images/Gemini_Generated_Image_fk39h5fk39h5fk39.png",
+    "Brojects/Integral Pathways/Contents/Versions/202508141600 causalite simple Korenote.md",
+    "Brojects/Integral Pathways/Contents/202508141600 causalite simple why.md",
+    "Brojects/Integral Pathways/Contents/202508011755 contenu - pensee plate.md",
+    "Brojects/Integral Pathways/Contents/published/20250817225 causalite simple us substack.md",
+    "Brojects/Integral Pathways/Contents/published/202508122149 pensee plate v6 grok.md",
+    "+/202601101514 live v3 pronlemeatique relation amis.md",
+    "+/202601101227 liste v2 de problematiques.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601101227 liste v1 de problematiques.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601101217 exemple dephasage mental.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601101217 exemple dephasage sexuel.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601101215 exemple concretorange - jaine.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601101159 exploration couple integral dev perso 3.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601101159 exploration couple integral dev perso 2.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601091739 exploration couple integral avec dev perso.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601091735 exploration couple integral.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601091731 korenote couple integral.md",
+    "+/202601091717 Workbook Déprogrammez Votre Ombre de Couple.md",
+    "Brojects/Integral Pathways/produits/Couple integral/202601091639 proposition ebook couple integral.md",
+    "Brojects/Integral Pathways/Contents/Versions/202601090947 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé gemini v1.md",
+    "Atlas/Utilities/Images/Pasted image 20260109155745.png",
+    "Brojects/Integral Pathways/produits/Couple integral/Integral Relationship Practice -A Manual for Singles, Couples - toc.md",
+    "Atlas/Utilities/Images/Pasted image 20260109155539.png",
+    "Atlas/Utilities/Images/Pasted image 20260109155518.png",
+    "Atlas/Utilities/Images/Pasted image 20260109155500.png",
+    "Brojects/Integral Pathways/produits/Couple integral",
+    "Atlas/Utilities/Images/Concept _ Une spirale ascendante dont les couleurs (bleu, orange, vert, jaune) s'estompent pour révéler des _ombres_ (des visages ou des formes floues derrière chaque strate)..jpg",
+    "Atlas/Utilities/Images/Concept _ Un diagramme en quatre parties, mais traité de manière artistique (style croquis de Léonard de Vinci ou aquarelle). Au lieu de simples titres, chaque quadrant est illustré ___Haut-Gauche _ Un œil ou une .jpg",
+    "Atlas/Utilities/Images/Gemini_Generated_Image_mbdhrjmbdhrjmbdh.png",
+    "Brojects/Integral Pathways/Contents/202601081534 Tisser un Réseau Vivant - La Révolution Cachée pour un Avenir Éveillé.md",
+    "Atlas/Utilities/Audio/0_ Pre-induction hypnotique.mp3",
+    "Atlas/Utilities/Audio/4- Mthode de la chute des bras.mp3",
+    "Atlas/Utilities/Audio/3- Exercice de la lvitation de la main.mp3",
+    "Atlas/Utilities/Audio/1- Exercice du rapprochement des doigts.mp3",
+    "Atlas/Utilities/Audio",
+    "Atlas/Utilities/Untitled",
+    "Atlas/formation/hypnose",
+    "Atlas/formation",
+    "Atlas/Utilities/Images/Gemini_Generated_Image_1zfulw1zfulw1zfu.png",
+    "Brojects/Eveil 7/manuscrit/enneatype 7 - sans couv - forme revue - Anglais.pdf",
+    "Atlas/Utilities/Images/Gemini_Generated_Image_pkpyoepkpyoepkpy.png",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
