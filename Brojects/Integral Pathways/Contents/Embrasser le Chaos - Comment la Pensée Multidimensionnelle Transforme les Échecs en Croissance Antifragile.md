@@ -1,5 +1,6 @@
 
 [[202601062024 embrasser le chaos english version]]
+[[202601190942 embrasser le chaos french]]
 
 v1 is the best
 
