@@ -14,7 +14,7 @@ tags:
 
 [[202512012259 protocole réintegration violet]]
 [[202512012250 protocole intégration rouge]]
-[[202512012300 protocole réintégration bleu]]
+[[202512012300 protocole réintégration bleu orienté 7]]
 [[202512012255 protocole intégration orange]]
 [[202512012256 protocole intégration vert]]
 [[202512012256 protocole intégration jaune]]

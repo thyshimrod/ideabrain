@@ -4,6 +4,14 @@ tags:
   - log
   - psy
 ---
+# 03/03/2026
+
+Peur de l'isolement, peur de la différence
+Autorisation à se odnner à tarvailler sur ce qu iest important pour moi.
+Le jeu et les compulsions ne m'apportent plus réellement de plaisir.
+J'ai vécu beaucoup pour les autres, et faire quelque chose d'important pour moi est différent, car il ne m'apporte pas l'amour des autres, et eput être vu comme de l'égoisme.
+
+
 # 24/09/2025
 
 Peur de la réussite : 

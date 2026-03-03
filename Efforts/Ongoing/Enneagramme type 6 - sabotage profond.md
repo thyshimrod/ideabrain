@@ -27,6 +27,7 @@ J'aimerai voir si le type 6 a aussi des comportements qui peuvent paraitre "isol
 [[202601062144 accompagner un 5]]
 [[202601062144 accompagner un 4]]
 
+[[202601281446 observation 6]]
 
 
 
