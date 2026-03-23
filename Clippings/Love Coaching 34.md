@@ -1,0 +1,112 @@
+---
+title: "Love Coaching"
+source: "https://www.spirivie-formations.org/formation/formation/70350/?idmodule=732377&idpage=4143018&suite"
+author:
+published:
+created: 2026-03-10
+description:
+tags:
+  - "clippings"
+---
+![image%20menu](https://da32ev14kd4yl.cloudfront.net/versioned/spirivie-formations/image%20menu.png "image%20menu")
+
+## À RETENIR
+
+- Les **premiers moments en couple** sont souvent idéalisés, décrits comme une « phase de lune de miel ».
+- Le «  **permis de relation**  » est un concept qui symbolise le capital de bonnes volontés et d’actions positives en début de relation.
+- Des «  **infractions mineures**  » érodent progressivement ce permis, entraînant une diminution de la qualité du dialogue et de la communication.
+- Les **cycles de communication destructeurs** renforcent la distance émotionnelle dans le couple.
+- **Réinventer la communication** est essentiel pour revitaliser une relation (« Stratégies de Rétablissement »).
+- La **vigilance constante en matière de communication saine** est nécessaire pour éviter l’érosion du « permis de relation ».
+- Le **dialogue conscient et empathique** facilite une communication efficace et résout les conflits.
+- La recherche montre que la **bonne communication** est liée à la satisfaction relationnelle et peut même améliorer la vie sexuelle.
+- **La communication** n’est pas juste une option dans une relation, c’est une nécessité.
+- Un **déficit en communication** peut créer un cycle destructeur et est souvent cité comme cause de rupture.
+- **Éviter les pièges de communication** comme l’agression verbale, le blocage émotionnel, la défensive et le mépris est crucial.
+- **La communication** est un investissement dans la relation et doit être entretenue pour éviter un « retrait de permis de relation ».
+- **Le « check-in » affectif** est une stratégie pour maintenir une communication ouverte et honnête.
+- La **communication efficace** est l’ossature d’une relation solide et saine, mais il faut aussi savoir comment éviter ses pièges.
+- Les postulats de John Gray suggèrent que **les hommes et les femmes** **communiquent différemment** en raison de leur genre.
+- Des études contestent les idées de Gray, insistant sur **le rôle de l’éducation et de la culture** dans la communication.
+- **La communication est un** **phénomène complexe** influencé par de multiples facteurs, y compris la situation économique.
+- Le **Dialogue Intentionnel Imago** (DII) est un outil pour améliorer la communication et l’empathie dans les relations.
+- **Le DII** propose une structure pour identifier et articuler des besoins et des peurs non exprimés.
+- **L’exercice du DII** se compose de plusieurs étapes, dont l’expression des émotions, la compréhension, la reconnaissance, et la conclusion.
+- **L’objectif du DII** est de transformer le conflit en opportunité de rapprochement entre les partenaires.
+- Le **Dialogue Intentionnel Imago** encourage une communication ouverte et guide vers un lieu d’empathie et de compréhension mutuelles.
+- **L’amour et le soutien mutuel** sont des piliers fondamentaux dans toute relation de couple.
+- «  ***Pour aimer quelqu’un, il faut d’abord s’aimer soi-même***  », une citation de Carl Rogers souligne l’importance de l’amour-propre.
+- **La Théorie de l’Attachement** de John Bowlby suggère que le besoin d’amour est fondamental et explique les différents types d’attachement en relation.
+- **La Triade de l’Amour de Sternberg** comprend trois éléments: passion, intimité et engagement.
+- **La validation émotionnelle** est cruciale pour se sentir aimé; son absence peut affecter l’estime de soi et la santé émotionnelle.
+- **Le soutien matériel** ne suffit pas; les besoins émotionnels doivent également être adressés dans une relation.
+- **L’importance de la validation émotionnelle** et psychologique est soulignée, au-delà des démonstrations physiques d’affection.
+- Une **répartition équitable des rôles et responsabilités** est nécessaire pour une relation équilibrée.
+- «  ***La qualité d’une relation dépend plus du niveau de soutien mutuel que du niveau d’amour***  », une citation du Dr John Gottman.
+- Avoir un **réseau de soutien diversifié** est bénéfique et évite l’épuisement émotionnel au sein du couple.
+- Des **conseils pratiques pour construire un réseau de soutien** comprennent l’identification des besoins individuels et communs, et l’extension du réseau au-delà du couple.
+- Une **communication ouverte et honnête** est le fondement de toute relation saine.
+- **Inclure des tiers** (amis, famille, professionnels) dans votre réseau de soutien peut apporter des bénéfices supplémentaires.
+- La recherche souligne **l’importance d’un réseau de soutien solide** pour la résilience et le bien-être relationnel.
+- **L’expression affective** augmente la satisfaction relationnelle selon des études en psychologie.
+- **L’engagement conscient d’exprimer de l’affection** régulièrement est crucial pour une relation saine.
+- **Utiliser des gestes tangibles**, comme le toucher, libère de l’ocytocine, renforçant ainsi l’affection.
+- **L’expression verbale de l’amour** valide et sécurise le partenaire; les compliments doivent être spécifiques et sincères.
+- Des **actes concrets d’a** mour témoignent d’un engagement fort dans la relation.
+- **La régularité et la variété dans les expressions d’amour** empêchent la routine et renforcent la connexion.
+- **L’exercice du soutien mutuel** souligne l’importance de comprendre les objectifs individuels du partenaire.
+- **Une écoute active et la reformulation** assurent une meilleure compréhension des besoins et des aspirations du partenaire.
+- **Offrir une aide concrète et des ressources** en lien avec les besoins identifiés renforce le soutien.
+- **Les** **encouragements continus et les affirmations positives** boostent la motivation et l’engagement du partenaire.
+- **Célébrer les progrès et les étapes franchies** renforce l’engagement et la motivation dans la relation.
+- **La patience et l’empathie** sont essentielles lorsque les choses ne se passent pas comme prévu.
+- Le soutien mutuel doit être un **engagement continu** pour maintenir une dynamique de relation positive.
+- **Les petits gestes au quotidien** sont cruciaux pour maintenir et approfondir les relations amoureuses.
+- **La compréhension émotionnelle** est la clé du succès dans l’amour, surtout dans les relations hétérosexuelles.
+- **La communication émotionnelle** est essentielle pour la santé et l’enrichissement de la relation, en particulier du point de vue féminin.
+- **La vulnérabilité partagée** peut renforcer une relation, et le conflit peut être une opportunité pour la croissance.
+- **Des compliments spécifiques et sincères**, ainsi que le toucher physique, sont des expressions tangibles de l’amour et de l’affection.
+- **L’équilibre entre soutien mutuel et indépendance individuelle** est important dans les relations, particulièrement pour les attentes masculines.
+- **Le soutien actif** peut inclure écoute active, reconnaissance des efforts, et aide pratique.
+- Importance de **l’indépendance** et de **l’espace personnel** pour la croissance individuelle et la santé de la relation.
+- Les hommes apprécient un **soutien émotionnel et pratique** dans leurs projets personnels et professionnels.
+- **L’équilibre** entre le temps passé ensemble et le temps passé séparément peut nourrir la relation.
+- La **valeur des cadeaux en amour** ne réside pas dans leur coût, mais dans l’intention et l’émotion qu’ils véhiculent.
+- Des **petites attentions quotidiennes**, comme des notes affectueuses, peuvent créer un lien affectif puissant.
+- **L’art de donner et de recevoir des cadeaux** en amour enrichit considérablement les relations.
+- La **magie d’une relation de couple** repose souvent sur de petits gestes.
+- **L’envoi d’une carte postale** est un moyen simple, mais significatif de renforcer le lien affectif.
+- **Une carte postale** est précieuse, car elle est tangible et demande du temps et de la réflexion.
+- **Le choix de la carte** doit rappeler un souvenir ou représenter un intérêt du partenaire.
+- Le moment idéal pour **envoyer la carte** est lorsque les partenaires sont séparés.
+- Le **message de la carte** doit être court, mais significatif et sincère.
+- La carte doit être **envoyée en secret** pour créer une surprise.
+- **Partager l’expérience** une fois la carte reçue enrichit la relation.
+- Dans un monde hyperconnecté, **la lettre d’amour** conserve son importance.
+- **Échanger les lettres en privé** favorise une discussion plus profonde et ouvre de nouvelles voies de communication.
+- **L’obstacle alimente le désir amoureux** et est crucial pour maintenir la passion dans une relation de couple, selon Esther Perel.
+- John Gottman souligne qu’une bonne relation amoureuse nécessite la création et le maintien d’une **dynamique de couple passionnée**.
+- **La routine** peut être un ennemi de la passion et a des conséquences importantes sur la qualité et la durabilité de la relation.
+- La **complémentarité des partenaires** est essentielle pour maintenir un équilibre entre confort et passion.
+- **Varier les activités en couple** peut aider à conserver la passion et à éviter la monotonie.
+- L’importance de **l’échange verbal positif** pour renforcer le bien-être émotionnel et la qualité de la relation du couple.
+- Les **petits gestes de gentillesse et de gratitude** ont un effet cumulatif sur le bien-être d’un couple.
+- Le **temps de qualité passé ensemble** nourrit la complicité et la compréhension mutuelle, des ingrédients essentiels pour une relation épanouissante.
+- **Planifier et acter des activités ensemble** augmente l’investissement émotionnel dans la relation.
+- Les couples qui programment des **rendez-vous réguliers** ont une meilleure santé relationnelle.
+- La **régularité des comportements** nourrit la sécurité affective et crée un environnement de confiance, fondamental pour toute relation réussie.
+- Élaborer une **stratégie de connexion** nécessite une planification détaillée, y compris le budget et la logistique.
+- **L’importance du calendrier et de l’engagement** pour tenir des rendez-vous réguliers en couple.
+- La **projection dans le futur** est essentielle pour la santé relationnelle, incluant des aspects financiers, émotionnels et de projets de vie communs.
+- **Discuter et s’accorder sur les projets futurs** est vital pour renforcer le lien amoureux.
+- La **projection dans l’avenir** n’est pas une simple fantaisie, mais un élément clé pour l’épanouissement au sein d’une relation.
+- Les **objectifs de projection** peuvent être *tangibles,* comme déménager; ou *intangibles,* comme la croissance personnelle.
+- Le **rôle du Love Coach** est d’aider à concilier les visions différentes et à trouver un terrain propice au compromis.
+- Le **compromis entre les visions différentes** peut enrichir la relation et renforcer le lien amoureux.
+- **Importance du Brainstorming**: Créer un espace pour discuter librement des désirs et objectifs de chaque partenaire pour les six prochains mois.
+- **Éléments d’un Plan d’Action**: Inclure l’objectif du projet, les étapes concrètes, un échéancier, les responsabilités, l’évaluation des risques et les mesures du succès.
+- **Objectif du «  *Vision Board*  »**: matérialiser les aspirations communes du couple pour renforcer l’engagement et la satisfaction.
+- **Méthodologie du *Vision Board***: récolte d’images, assemblage sur tableau, discussion pour clarifier désirs et attentes.
+- Importance de la communication: **La Boîte à Suggestions** favorise la communication constructive et répond aux besoins émotionnels, physiques, et relationnels.
+- Objectif du **Bilan des Aspects Positifs et Améliorations**: Inventaire détaillé des forces et faiblesses de la relation.
+- **Étapes du Bilan**: Préparation, évaluation individuelle, création d’atmosphère d’écoute, discussion ouverte, et plan d’action concret.
