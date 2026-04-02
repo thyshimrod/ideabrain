@@ -10,10 +10,13 @@
 [[202603112225 self development and couple article 1 notes substack]]
 
 [[202603111453 self development and couple article 2]]
+[[202603251046 self development and couple article 2 en]]
+
 
 [[202603121457 self development and couple notes pour article 2]]
 
 [[202603121515 self development and couple article 3]]
+[[202603301611 self development and couple article 3 en]]
 [[202603121526 self development and couple article 3 notes]]
 
 [[202603121544 self development andcouple article 4]]

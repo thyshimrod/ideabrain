@@ -18,10 +18,34 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "20260325 Luc weekly",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/luc/20260325 Luc weekly.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20260325 Luc weekly\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603232258 incarnation cross",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/work/202603232258 incarnation cross.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603232258 incarnation cross\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.399999618530273}"
+                },
+                {
+                  "title": "202603232257 mon human design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/202603232257 mon human design.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603232257 mon human design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603231836 analyse de moi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/work/202603231836 analyse de moi.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603231836 analyse de moi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":44},\"to\":{\"line\":72,\"ch\":5}},\"scroll\":65.82356770833333}"
+                },
+                {
                   "title": "202603231836 analyse de moi et actions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/202603231836 analyse de moi et actions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603231836 analyse de moi et actions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "202603231836 analyse de moi",
@@ -152,7 +176,7 @@
                 {
                   "title": "202603201550 couple integrale module 1 - jeux basiques - saynette 2 v2",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202603201550 couple integrale module 1 - jeux basiques - saynette 2 v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603201550 couple integrale module 1 - jeux basiques - saynette 2 v2\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603201550 couple integrale module 1 - jeux basiques - saynette 2 v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603201550 couple integrale module 1 - jeux basiques - saynette 2 v2\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":206,\"ch\":23},\"to\":{\"line\":206,\"ch\":23}}}"
                 },
                 {
@@ -1282,7 +1306,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Notes/bio/work/202603231836 analyse de moi.md",
+                "file": "Calendar/Logs/thoughts/202603250936 introspection procra et axe de développement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -1297,10 +1321,296 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202603231836 analyse de moi"
+              "title": "202603250936 introspection procra et axe de développement"
+            }
+          },
+          {
+            "id": "c19d97ed1707cd25",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":5.166666666666667}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202601141611 etude AQAL de la perte de desir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601141611 etude AQAL de la perte de desir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601141611 etude AQAL de la perte de desir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202601152149 when desire disappears 2 V1 en",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202601152149 when desire disappears 2 V1 en.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601152149 when desire disappears 2 V1 en\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202601152148 when desire disappears 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601152148 when desire disappears 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601152148 when desire disappears 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603312137 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603312137 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603312137 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":361,\"ch\":108},\"to\":{\"line\":361,\"ch\":108}},\"scroll\":11.421353499094645}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0.00800000011920929}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.00800000011920929}"
+                },
+                {
+                  "title": "Love Coaching 38",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 38.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 38\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":54.26983952840655}"
+                },
+                {
+                  "title": "202603121457 self development and couple notes pour article 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202603121457 self development and couple notes pour article 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121457 self development and couple notes pour article 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":7},\"to\":{\"line\":14,\"ch\":393}},\"scroll\":0.6746903168286491}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202603232258 incarnation cross",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/work/202603232258 incarnation cross.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603232258 incarnation cross\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202603232257 mon human design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/202603232257 mon human design.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603232257 mon human design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202603252147 couple integrale module 1 - jeux basiques - saynette 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603252147 couple integrale module 1 - jeux basiques - saynette 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603252147 couple integrale module 1 - jeux basiques - saynette 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":302,\"ch\":162},\"to\":{\"line\":302,\"ch\":162}}}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603121457 self development and couple notes pour article 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202603121457 self development and couple notes pour article 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121457 self development and couple notes pour article 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":7},\"to\":{\"line\":6,\"ch\":330}}}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202603151518 when desire disappears article 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/eveil vivant/content/published/202603151518 when desire disappears article 1.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603151518 when desire disappears article 1\"}",
+                  "eState": "{\"scroll\":106.5}"
+                },
+                {
+                  "title": "202601132239 When Desire Disappears, a Deeper Order Is at Work",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/202601132239 When Desire Disappears, a Deeper Order Is at Work.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601132239 When Desire Disappears, a Deeper Order Is at Work\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":215,\"ch\":8},\"to\":{\"line\":215,\"ch\":8}},\"scroll\":203.7833403746287}"
+                },
+                {
+                  "title": "202601111632 desir sens - fin de la trilogie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601111632 desir sens - fin de la trilogie.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601111632 desir sens - fin de la trilogie\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202601152148 when desire disappears 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601152148 when desire disappears 2.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601152148 when desire disappears 2\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202603250936 introspection procra et axe de développement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/thoughts/202603250936 introspection procra et axe de développement.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603250936 introspection procra et axe de développement\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "20260325 Luc weekly",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/luc/20260325 Luc weekly.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20260325 Luc weekly\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202603111453 self development and couple article 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202603111453 self development and couple article 2.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603111453 self development and couple article 2\"}",
+                  "eState": "{\"scroll\":52.31818181818182}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202603251046 self development and couple article 2 en",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202603251046 self development and couple article 2 en.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603251046 self development and couple article 2 en\"}",
+                  "eState": "{\"scroll\":124.44642857142857}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202601111702 trilogie que dit il de mon coaching gpt v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202601111702 trilogie que dit il de mon coaching gpt v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601111702 trilogie que dit il de mon coaching gpt v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":2},\"to\":{\"line\":185,\"ch\":72}},\"scroll\":171.3957345971564}"
+                },
+                {
+                  "title": "202601111702 trilogie - que dit il de mon coaching",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/202601111702 trilogie - que dit il de mon coaching.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601111702 trilogie - que dit il de mon coaching\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603242147 couple integrale module 1 - jeux basiques - saynette 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603242147 couple integrale module 1 - jeux basiques - saynette 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603242147 couple integrale module 1 - jeux basiques - saynette 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":259,\"ch\":136},\"to\":{\"line\":259,\"ch\":136}},\"scroll\":91.18587239583333}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603232258 incarnation cross",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/work/202603232258 incarnation cross.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603232258 incarnation cross\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.0818858560794045}"
+                },
+                {
+                  "title": "202603232257 mon human design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/bio/202603232257 mon human design.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603232257 mon human design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603112225 self development and couple article 1 notes substack",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202603112225 self development and couple article 1 notes substack.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603112225 self development and couple article 1 notes substack\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":7},\"to\":{\"line\":30,\"ch\":388}},\"scroll\":22.11187065972222}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.00800000011920929}"
+                },
+                {
+                  "title": "202603241151 couple integrale module 1 - jeux basiques - saynette 3 v2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603241151 couple integrale module 1 - jeux basiques - saynette 3 v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603241151 couple integrale module 1 - jeux basiques - saynette 3 v2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":255,\"ch\":3},\"to\":{\"line\":255,\"ch\":3}},\"scroll\":15.654688358306885}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603112225 self development and couple article 1 notes substack",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202603112225 self development and couple article 1 notes substack.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603112225 self development and couple article 1 notes substack\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.075002034505207}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "20260325 Luc weekly",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/luc/20260325 Luc weekly.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20260325 Luc weekly\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":2.8614946347766104}"
+                },
+                {
+                  "title": "2026030240945 bio reprise claude",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/2026030240945 bio reprise claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026030240945 bio reprise claude\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":14},\"to\":{\"line\":17,\"ch\":14}},\"scroll\":135.0101691197541}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/reprise 02042026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "reprise 02042026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1424,7 +1734,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "who am i",
+                "query": "keto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -1503,7 +1813,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Notes/bio/work/202603231836 analyse de moi.md",
+                "file": "+/reprise 02042026.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1513,7 +1823,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 202603231836 analyse de moi"
+              "title": "Rétrolien pour reprise 02042026"
             }
           },
           {
@@ -1543,7 +1853,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1568,8 +1879,34 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "6b76d803850e2874",
+  "active": "c19d97ed1707cd25",
   "lastOpenFiles": [
+    "Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md",
+    "+/reprise 02042026.md",
+    "+/V4 cnv.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604011736 couple integrale module 1 - jeux basiques - saynette 2 v3.md",
+    "Efforts/Ongoing/articles self development and couple.md",
+    "Brojects/Integral Pathways/Contents/Versions/202603121526 self development and couple article 3 notes.md",
+    "Brojects/Integral Pathways/Contents/202601141611 etude AQAL de la perte de desir.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603312137 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v5.md",
+    "Brojects/Integral Pathways/Contents/Versions/202601152149 when desire disappears 2 V1 en.md",
+    "Brojects/Integral Pathways/Contents/202601152148 when desire disappears 2.md",
+    "Brojects/Integral Pathways/Contents/Versions/202603112103 self development and couple article 1 v2.md",
+    "Brojects/eveil vivant/content/published/202603151518 when desire disappears article 1.md",
+    "+/202603121457 self development and couple notes pour article 2.md",
+    "Clippings/Love Coaching 39.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603311147 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v4.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603311115 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v3.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603162208 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v2.md",
+    "Brojects/Integral Pathways/Contents/published/202603301611 self development and couple article 3 en.md",
+    "Brojects/Integral Pathways/202603041500 prompt dfe reprise claude offre couple intégral.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603252112 couple integrale module 1 - jeux basiques - saynette 5 v2.md",
+    "Brojects/Integral Pathways/Contents/Versions/202603121515 self development and couple article 3.md",
+    "Atlas/Notes/recette/pain burger keto.md",
+    "Atlas/Notes/recette/Buns céto.md",
+    "Clippings/Love Coaching 38.md",
+    "Atlas/Notes/bio/work/202603232258 incarnation cross.md",
+    "Atlas/Notes/bio/202603232257 mon human design.md",
     "Atlas/Utilities/Images/A stylized illustration of a couple in a living room..jpg",
     "Atlas/Utilities/Images/_A stylized illustration of a couple in a living room..jpg",
     "Atlas/Utilities/Images/a couple sits face-to-face.jpg",
@@ -1580,37 +1917,11 @@
     "Atlas/UTILIT~1/Images/want-to_freedom.jpg",
     "Atlas/UTILIT~1/Images/walking side-by-side.jpg",
     "Atlas/UTILIT~1/Images/type7_health.png",
-    "Atlas/UTILIT~1/Images/type7.jpg",
     "Atlas/UTILIT~1/Images/Tableau-de-Fox.pdf",
     "Atlas/UTILIT~1/Images/composed.jfif",
     "Atlas/UTILIT~1/Images/Art_and_Science_of_Letting_Go (1).pdf",
     "Atlas/UTILIT~1/Images",
-    "Atlas/Notes/bio/202603231836 analyse de moi et actions.md",
-    "Atlas/Notes/bio/work/202603232000 ifs v2.md",
-    "Atlas/Notes/bio/work/202603231940 ifs.md",
-    "Atlas/Notes/bio/work/202603231909 sport et ifs.md",
-    "Atlas/Notes/bio/work/202603231911 sport et diltsv2 avec humiliation et sois fort.md",
-    "Atlas/Notes/bio/work/202603231910 sport et course.md",
-    "Atlas/Notes/bio/work/202603231911 sport et dilts.md",
-    "Efforts/Ongoing/articles self development and couple.md",
-    "+/202603112225 self development and couple article 1 notes substack.md",
-    "Atlas/Notes/bio/work/202603231836 analyse de moi.md",
     "Atlas/Notes/bio/work",
-    "Calendar/Logs/Psy Log.md",
-    "Brojects/Integral Pathways/prompt context integral pathways.md",
-    "Brojects/Integral Pathways/2601271415 substack prompt resume.md",
-    "Atlas/prompting/prompt dragon/resultat prompt/202503142148 who am I v6.md",
-    "Atlas/prompting/prompt dragon/202503142057 prompt dragon 1.md",
-    "Atlas/prompting/prompt dragon/resultat prompt/202504012124 who am I from logs.md",
-    "Home.md",
-    "Calendar/Logs/luc/20260325 Luc weekly.md",
-    "Atlas/Projects/Zoimmeisdess/991 - Zoimmeisdess Project.md",
-    "Atlas/prompting/prompt perso/202504081423 prompt changement.md",
-    "Atlas/prompting/dragon 2/202506292235 dragon 2.md",
-    "Atlas/prompting/authors/202504052235 pogi v1 structure.md",
-    "Atlas/prompting/authors/202504052235 pogi v1 narratif.md",
-    "Atlas/prompting/authors/20250328226 style pogi v0.md",
-    "+/202603201550 couple integrale module 1 - jeux basiques - saynette 2 v2.md",
     "Calendar/Logs/luc/work",
     "Brojects/Integral Pathways/produits/Couple integral/Module 1/work",
     "Brojects/Integral Pathways/produits/Couple integral/Module 1",
