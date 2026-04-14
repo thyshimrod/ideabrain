@@ -21,9 +21,13 @@
 
 [[202603121544 self development andcouple article 4]]
 [[202603121544 self development andcouple article 4 notes]]
+[[202604071424 slef developmentand couples article 4 en]]
+
 
 [[202603121610 self development and couple article 5]]
 [[202603121617 self development and couple article 5 notes]]
+[[202604140909 self development and couple article 5 en]]
+
 
 [[202603121641 self development and couple article 6]]
 [[202603121648 self development and couple article 6 notes]]

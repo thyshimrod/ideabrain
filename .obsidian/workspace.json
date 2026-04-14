@@ -1338,7 +1338,37 @@
                   "title": "Couple intégral - module 1 - jeux basiques",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":5.166666666666667}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":8.166666666666666}"
+                },
+                {
+                  "title": "202604022200 couple integrale module 1 - jeux basiques - saynette 2 v4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604022200 couple integrale module 1 - jeux basiques - saynette 2 v4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202604022200 couple integrale module 1 - jeux basiques - saynette 2 v4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":334,\"ch\":118},\"to\":{\"line\":334,\"ch\":118}},\"scroll\":325.6633666885747}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603121526 self development and couple article 3 notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202603121526 self development and couple article 3 notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121526 self development and couple article 3 notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":7},\"to\":{\"line\":22,\"ch\":487}},\"scroll\":14.810416539510092}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "articles self development and couple",
@@ -1591,7 +1621,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/reprise 02042026.md",
+                "file": "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604022228 couple integrale module 1 - jeux basiques - saynette 3 v3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -1606,11 +1636,473 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "reprise 02042026"
+              "title": "202604022228 couple integrale module 1 - jeux basiques - saynette 3 v3"
+            }
+          },
+          {
+            "id": "9eb4f31e68de5a37",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brojects/Integral Pathways/biz compte a suivre/202604022253 compte à suivre.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202604022253 compte à suivre"
+            }
+          },
+          {
+            "id": "e309c5de3fe762e8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 2,
+              "stack": [
+                {
+                  "title": "202604140909 self development and couple article 5 en",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202604140909 self development and couple article 5 en.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202604140909 self development and couple article 5 en\"}",
+                  "eState": "{\"scroll\":117.35624694824219}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":19}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":0},\"to\":{\"line\":41,\"ch\":0}},\"scroll\":21.833333333333332}"
+                },
+                {
+                  "title": "202603121610 self development and couple article 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202603121610 self development and couple article 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121610 self development and couple article 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":126,\"ch\":56}},\"scroll\":120.17083525657654}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.333333333333334}"
+                },
+                {
+                  "title": "202604121740 couple integrale module 1 - jeux basiques - saynette 6 v2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604121740 couple integrale module 1 - jeux basiques - saynette 6 v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202604121740 couple integrale module 1 - jeux basiques - saynette 6 v2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":390,\"ch\":43},\"to\":{\"line\":390,\"ch\":43}},\"scroll\":382.8659402529399}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":27}"
+                },
+                {
+                  "title": "202603252147 couple integrale module 1 - jeux basiques - saynette 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603252147 couple integrale module 1 - jeux basiques - saynette 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603252147 couple integrale module 1 - jeux basiques - saynette 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":49.663022677103676}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.133333841959637}"
+                },
+                {
+                  "title": "202603121544 self development andcouple article 4 notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202603121544 self development andcouple article 4 notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121544 self development andcouple article 4 notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":7},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":17.7380207379659}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.199999491373697}"
+                },
+                {
+                  "title": "202604101156 couple integrale module 1 - jeux basiques - saynette 5 v3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604101156 couple integrale module 1 - jeux basiques - saynette 5 v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202604101156 couple integrale module 1 - jeux basiques - saynette 5 v3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":344,\"ch\":186},\"to\":{\"line\":344,\"ch\":186}},\"scroll\":0}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":26}"
+                },
+                {
+                  "title": "202603121544 self development andcouple article 4 notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202603121544 self development andcouple article 4 notes.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121544 self development andcouple article 4 notes\"}",
+                  "eState": "{\"scroll\":4.705882352941177}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 12.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 12\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 11.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 11\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 10.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 10\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 29.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 29\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 28.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 28\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 27.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 27\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 26.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 26\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 25.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 25\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 24.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 24\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 22.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 22\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 23.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 23\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 21.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 21\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 20.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 20\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 19",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 19.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 19\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 18.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 18\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 17",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 17.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 17\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 16.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 16\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 15.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 15\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 14",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 14.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 14\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 13.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 13\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 28.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 28\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 27.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 27\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 26.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 26\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 25.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 25\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 24",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 24.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 24\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 23.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 23\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 22",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 22.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 22\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 21",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 21.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 21\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 28.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 28\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 29.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 29\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 30.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 30\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 34",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 34.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 34\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 33",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 33.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 33\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 39",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 39.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 39\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 38",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 38.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 38\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 37",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 37.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 37\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 36",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 36.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 36\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Love Coaching 35",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Love Coaching 35.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Love Coaching 35\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202603121544 self development andcouple article 4 notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202603121544 self development andcouple article 4 notes.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121544 self development andcouple article 4 notes\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "reprise 02042026",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/reprise 02042026.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"reprise 02042026\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "V4 cnv",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Module 1/work/V4 cnv.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"V4 cnv\"}",
+                  "eState": "{\"scroll\":56.22304832713755}"
+                },
+                {
+                  "title": "202603022207 contexte produit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202603022207 contexte produit.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603022207 contexte produit\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202604071424 slef developmentand couples article 4 en",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202604071424 slef developmentand couples article 4 en.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202604071424 slef developmentand couples article 4 en\"}",
+                  "eState": "{\"scroll\":103.92647058823529}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202603121544 self development andcouple article 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/202603121544 self development andcouple article 4.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603121544 self development andcouple article 4\"}",
+                  "eState": "{\"scroll\":105.28181596235795}"
+                },
+                {
+                  "title": "articles self development and couple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/articles self development and couple.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"articles self development and couple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.333333333333334}"
+                },
+                {
+                  "title": "Couple intégral - module 1 - jeux basiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Couple intégral - module 1 - jeux basiques\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "compte a suivre grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/biz compte a suivre/compte a suivre grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"compte a suivre grok\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":306},\"to\":{\"line\":54,\"ch\":306}},\"scroll\":3.9624999364217124}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604131054 booklet intégral.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202604131054 booklet intégral"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -1879,34 +2371,44 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "c19d97ed1707cd25",
+  "active": "e309c5de3fe762e8",
   "lastOpenFiles": [
-    "Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md",
-    "+/reprise 02042026.md",
-    "+/V4 cnv.md",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604011736 couple integrale module 1 - jeux basiques - saynette 2 v3.md",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1.pdf",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1.sla.915",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1.sla.458",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1.sla.203",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1_autosave_14_04_2026_20_42.sla",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1_autosave_14_04_2026_20_42.sla.9920",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1_autosave_14_04_2026_20_32.sla",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1_autosave_14_04_2026_20_32.sla.9322",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1.sla.8616",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1.sla.7844",
+    "Brojects/Integral Pathways/produits/Couple integral/doc fr couple integral module 1_autosave_14_04_2026_11_44.sla",
     "Efforts/Ongoing/articles self development and couple.md",
-    "Brojects/Integral Pathways/Contents/Versions/202603121526 self development and couple article 3 notes.md",
-    "Brojects/Integral Pathways/Contents/202601141611 etude AQAL de la perte de desir.md",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603312137 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v5.md",
-    "Brojects/Integral Pathways/Contents/Versions/202601152149 when desire disappears 2 V1 en.md",
-    "Brojects/Integral Pathways/Contents/202601152148 when desire disappears 2.md",
-    "Brojects/Integral Pathways/Contents/Versions/202603112103 self development and couple article 1 v2.md",
-    "Brojects/eveil vivant/content/published/202603151518 when desire disappears article 1.md",
-    "+/202603121457 self development and couple notes pour article 2.md",
-    "Clippings/Love Coaching 39.md",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603311147 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v4.md",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603311115 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v3.md",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603162208 couple integrale module 1 - jeux basiques - premiere saynette tache menagere v2.md",
-    "Brojects/Integral Pathways/Contents/published/202603301611 self development and couple article 3 en.md",
-    "Brojects/Integral Pathways/202603041500 prompt dfe reprise claude offre couple intégral.md",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603252112 couple integrale module 1 - jeux basiques - saynette 5 v2.md",
-    "Brojects/Integral Pathways/Contents/Versions/202603121515 self development and couple article 3.md",
-    "Atlas/Notes/recette/pain burger keto.md",
-    "Atlas/Notes/recette/Buns céto.md",
-    "Clippings/Love Coaching 38.md",
-    "Atlas/Notes/bio/work/202603232258 incarnation cross.md",
-    "Atlas/Notes/bio/202603232257 mon human design.md",
+    "Brojects/Integral Pathways/Contents/Versions/202604140909 self development and couple article 5 en.md",
+    "Brojects/Integral Pathways/Contents/Versions/202603121610 self development and couple article 5.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604131054 booklet intégral.md",
+    "Brojects/Integral Pathways/Contents/Versions/202603121544 self development andcouple article 4 notes.md",
+    "+/202603121617 self development and couple article 5 notes.md",
+    "Efforts/Ongoing/Couple intégral - module 1 - jeux basiques.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604121740 couple integrale module 1 - jeux basiques - saynette 6 v2.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202603252147 couple integrale module 1 - jeux basiques - saynette 6.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604101156 couple integrale module 1 - jeux basiques - saynette 5 v3.md",
+    "Clippings/Love Coaching 12.md",
+    "Clippings/Love Coaching 13.md",
+    "Clippings/Love Coaching 14.md",
+    "Clippings/Love Coaching 15.md",
+    "Clippings/Love Coaching 16.md",
+    "Clippings/Love Coaching 17.md",
+    "Clippings/Love Coaching 6.md",
+    "Clippings/Love Coaching 7.md",
+    "Clippings/Love Coaching 8.md",
+    "Clippings/Love Coaching 31.md",
+    "Clippings/Love Coaching 32.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work/202604081329  couple integrale module 1 - jeux basiques - saynette 4 v2.md",
+    "Clippings/Love Coaching 11.md",
+    "Clippings/Love Coaching 10.md",
+    "Clippings/Love Coaching 29.md",
     "Atlas/Utilities/Images/A stylized illustration of a couple in a living room..jpg",
     "Atlas/Utilities/Images/_A stylized illustration of a couple in a living room..jpg",
     "Atlas/Utilities/Images/a couple sits face-to-face.jpg",
@@ -1917,16 +2419,6 @@
     "Atlas/UTILIT~1/Images/want-to_freedom.jpg",
     "Atlas/UTILIT~1/Images/walking side-by-side.jpg",
     "Atlas/UTILIT~1/Images/type7_health.png",
-    "Atlas/UTILIT~1/Images/Tableau-de-Fox.pdf",
-    "Atlas/UTILIT~1/Images/composed.jfif",
-    "Atlas/UTILIT~1/Images/Art_and_Science_of_Letting_Go (1).pdf",
-    "Atlas/UTILIT~1/Images",
-    "Atlas/Notes/bio/work",
-    "Calendar/Logs/luc/work",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1/work",
-    "Brojects/Integral Pathways/produits/Couple integral/Module 1",
-    "Atlas/Utilities/sources/Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6.pdf",
-    "Atlas/Utilities/sources/cercle.pptx",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
