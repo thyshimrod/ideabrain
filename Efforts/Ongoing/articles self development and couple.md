@@ -31,4 +31,5 @@
 
 [[202603121641 self development and couple article 6]]
 [[202603121648 self development and couple article 6 notes]]
+[[202603121641 self development and couple article 6 en]]
 
