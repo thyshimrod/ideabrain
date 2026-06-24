@@ -1,3 +1,11 @@
+---
+tags:
+  - EveilVivant
+  - relation
+  - couple
+  - desir
+---
+
 ## Pourquoi une relation bien organisée peut quand même mourir
 
 Après avoir déconstruit le mythe de la compatibilité, puis celui de l'effort et de l'aide comme solutions à l'épuisement, un dernier refuge subsiste — particulièrement séduisant pour les couples « matures », conscients, éduqués, bien intentionnés.

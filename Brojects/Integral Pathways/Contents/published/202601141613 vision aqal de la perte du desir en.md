@@ -1,3 +1,10 @@
+---
+tags:
+  - AQAL
+  - desir
+  - relation
+  - integralpath
+---
 
 # AQAL Reading of the "After the Disappearance of Desire" Passage
 

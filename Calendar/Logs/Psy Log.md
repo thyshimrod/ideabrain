@@ -4,6 +4,30 @@ tags:
   - log
   - psy
 ---
+# 04/05/2026
+
+grosse seaence aujorud'hui, sur le thème de la honte.
+Une honte profonde, basée dans le ventre. L'arrondi de mon ventre est la cave, la grotte où j'ai installé cette honte depuis tant d'années.
+Souvenir d'enfance, où une maîtresse m'emmenait pendant la récréation (je pense) venir m'occuper de Christine. Jouer avec elle. incompréhension de ma part, où on me fait jouer un rôle protecteur, un habit trop grand pour un petit enfant. 
+Second habit, celui d'un garçon parfait en tout point. Réussite scolaire, bien éduquée...
+Du coup, je devais me conformer à un costume qui n'était pas le mien.
+J'avais honte de ce décalage entre ce que je faisais dans la réalité et ce qu'on disait/attendait de moi.
+Du coup, aujourd'hui encore, j'ai honte de qui je suis vrfaiment, avec mes faiblesses, et mes erreurs, ou mes errements. Je n'assume pas qui je suis. J'essaye tellement de me conformer à qui je dois être, pour être un "super Pascal", parfait en tout point, fort, résistant, doux, et calme, performant, efficace, résistant, présent....
+Même quand j'étais dans ma chambre, je faisais semblant de faire des devoirs ou de travailler, j'avais honte de ne pas travailler, alors que je n'en avais pas envie, et pas besoin, et du coup, cela ne se conformait pas à l'image que ma mère se faisait de moi. Et d'ailleurs quand elle a vu ce décalage, elle a commencé à être en colère contre moi, et à me traiter de tous les noms.
+Il y a eu de la tristesse de voir cela, et de voir tout ce poids porté par ce jeune pascal, ce conformisme à quelque chose qui ne devrait plus avoir besoin d'être. Une suradaptation pour répondre à une image de moi que les autres ont fabriqué de moi, et véhiculé de proche en proche et qui a permis de maintenir l'intégrité du costume à mon grand dam.
+une peur également, de voir ce chateau de cartes construit sur quelque chose de faux, et qui pourrait être remis en cause la suite de ma vie, ma manière d'appréhender le reste de ma vie, mon identité. potentiellement une crise existentielle, identaire, assez profonde.
+Je dois pouvoir embrasser le changement, et me laisser porter par le changement, et non pas y résister, et re  devenir moi même. Il y qu'à laisser les choses venir. 
+Je pense que les changements actuels sont de fond quelquechose qui déjà essayait de se réveiller et de lacher maladroitement quelque chose. Et en même temps, j'étais en train de durcir certains éléments, efficacité, valeurs, rigidité, ....
+
+Je vais traverser des turbulences.
+
+Vu aussi qu'au travers de tout cela, cela m'a permis de continuer à faire vivre ma relation avec maman. Comme si elle était toujours là, et que de changer me faisait peur, car j'aurai peur de lâcher le lien qui me retient à elle, et qu'elle disparaisse. L'esprit est incroyable.
+
+Il va me falloir pas mal présence à moi, de la douceur...
+
+en tout cas, cela faisait des semaines, que je faisais grandir mon ventre de la honte. J'ai enfin réussi à adresserce sujet, qui était vraiment très présent.
+
+
 # 03/03/2026
 
 Peur de l'isolement, peur de la différence
