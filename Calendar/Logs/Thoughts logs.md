@@ -3,6 +3,86 @@ tags:
   - pascal
   - log
 ---
+# 07/07/2026
+
+Grosse journée.
+
+Grosse discussion avec Aydan sur l'argent.
+Discussion aussi sur le fait qu'on n'ait pas de projet en commun, qu'on n'arrive pas à se projeter dans l'avenir, que je sios en galère financière. Voir ma honte sur le sujet. Effectivement, je suis dans ce truc compliqué, où je suis soumis à ce qu'on me demande, et tout ce que je fais d'un côté, je ne peux pas l'investir de l'autre.
+Je vois que j'ai toujours un attachement anxieux. J'ai eu peur qu'elle me dise, qu'elle en a marre de moi, et qu'on s'arrête.
+Je vois que sa demande initiale est qu'on puisse avoir des discussions plus saines et régulières surces sujets où on est mal à l'aise tous les deux, elle nevoit pas de progrès sur ce sujet.
+Je nepeux n'être que d'accord. En même temsp, j'ai beaucoup de mal à voir comment changer de braquet. Je fais leconstat que de manière générale, j'ai peu de contrôle sur ma vie, et que je subis ces problèmes financiers.Jenetrouve pas d'échappatoire.
+J'ai l'impression qu'il y a une dynamique systémique sur ce sujet (voir Luc qui m'a parlé de cela, la honte de posséder de l'argent).
+J'ai pleuré à plusieurs reprises de voir que j'étais dépossédé de ma vie, de voir aussi ma relation avec les enfants, le manque d'espoir, le manque de changement, l'inertie globale.
+J'ai du mal à être optimiste. 
+Je suis épuisé. Tout cela est extrèmement dur, et j'appréhende beaucoup ces prochains jours.
+
+Je vois aussi que j'ai été très pushy sur plein de choses. Je le sais, et c'est ce que je me suis dit, il faut que je laisse plus d'espace à Aydan, à suivre son chemin, à trouver sa voie.
+Je vois que je suis beaucoup dans le guru, et que je suis prescripteur beaucoup (et je dis sans cesse que je ne le suis pas, ...). Il faut que je lâche cette posture déséquilibrée.
+C'est surement une manière de m'occuper des autres, et de ne pas m'occuper de moi. Je vois qu'il y a plein de sujets surlesquels je doisfaire durelease, du deuil, de lacomppréhension.
+La partie ombre est complétement occulté chez moi depuis un certain moment, et j'ai été beaucoup dans larigidité, et l'achievement.
+Peu dans l'apprentissage, peu dans la guérison de moi à moi.
+Surement unrappel que je dosi continuer cela.
+
+Je me sens triste de tout cela. Cela me fait revenir 15 ans en arrière, fort de mon enthousiasme, et de mon envie de passion, d'entrainer, enfait je suis en domination/humiliation.
+Je sais que c'est surement que de mon côté, je ne vais pas bien. Problème de confiance en l'avenir, difficultés à gérer, à m'affirmer, à trouver des solutions. 
+J'aimerai reprendre toutes ces choses qui m'inspirent, me motivent, me changent, me transcendent.
+Booklet, 3e livre, articles de fond. Il y a des choses à faire, mais je ne faisrien.
+Cela demande de l'énergie et je voisque j'en manque, ou elle est utilisée à autrechose.
+
+Beaucoup de ruminations, car je ne supporte plus ma situation, je pense, j'ai l'impression d'être une poupée tiraillée de gauche à droite. Et je suis le seul à faire des efforts.
+
+Il y a un épuisement moral c'est sur, et un début de dépression qui s'installe.
+J'aimerai être plus vivant.
+
+
+
+# 06/07/2026
+
+Epuisement global. Difficulté à dormir le soir.
+Ajout de magnesium à mon régime.
+la tete pleine, pas mal de compulsion.
+Réussite aussi à refaire du sport. 10km couru réguliètement, même si difficile.
+Mon corps reperd ses 1,5l d'eau à chaque course. Alors que j'étais en mode rétention.
+J'essaye de faire mes 15 min de médit, au moins le matin.
+A voir si j'y arrive aussi quand Aydan est présente.
+Je vois qu'il ya de la honte de ne pas avoir été chez mon père.
+
+Je procrastine 2 choses... Réservation pour aller à Nantes, et donner les dates de visite pour la rentrée.
+Je procrastine aussi pas mal au boulot aussi du coup.
+
+J'ai encore du mal à croire en moi, et à m'ancrer. 
+En tout cas la médit, m'amène la conscience de mes peurs/difficultés/désagréables.
+C'est plutôt chouette.
+
+
+
+# 30/06/2026
+
+Je vois que j'ai oublié de faire des logs depuis maintenant 8 mois.
+Cela veut dire quelque chose du prendre soin de moi, et peut être du confort / inconfort.
+
+Reve du jour. Tromper de chemin, je ne retrouve plus Juliette, les gens autour de moi, font de la résistance à vouloir m'aider (Ressemble au comportement nonchalant de Arthur), ne perçoivent pas l'importance pour moi, et ne prête pas attention.
+J'ai un comportement violent à un moment donné, où j'essaye de faire mal à une personne qui s'obstine à ne pas me donner des infos, et son aide. J'ai honte de lui avoir fait mal, et d'avoir montré cette violence, alors que j'essaye d'incarner quelque chose d'autres.
+Cela a débordé car c'est trop.
+
+De manière générale, je sens que je manque de douceur en ce moment, et que tout le monde me fait chier. Je ne supporte plus les gens. Je l'ai vu ce matin quand Anne racontait son sujet avec son mari. Small talk...
+
+Peut être, est ce à prendre en sens inverse. Qu'est ce qui fait que je suis en épuisement  social?
+Il y a surement quelque chose de l'ordre de mal être cumulés.
+- Divorce
+- Enfants
+- Ex
+- Argent
+
+Je vois qu'il y a toujours une honte assez forte autour de ma situation financière.
+Je m'auto alimente plusieurs peurs aussi.
+Je suis toujours en peur de recevoir des mails. Qu'est ce que cela me permet de vivre?
+Je sabote toujours ma venue à Nantes aussi.
+
+
+
+
 # 01/11/2025
 
 gros problème de dispersion aujourdh'ui.

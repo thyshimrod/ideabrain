@@ -1,4 +1,54 @@
 
+# 26072026 - new
+
+Sub : 628
+Follow : 10 46
+Traffic : 515
+
+
+# 22072026 - new
+
+Sub : 633
+Follow : 10 51
+Traffic : 446
+
+# 15072026 - new
+
+Sub : 634
+Follow : 10 53
+Traffic : 519
+
+
+# 10072026 - new
+
+Sub : 639
+Follow : 10 59
+Traffic : 515
+
+# 08072026 - new
+
+Sub : 639
+Follow : 10 59
+Traffic : 504
+
+# 06072026 - new
+
+Sub : 640
+Follow : 10 59
+Traffic : 519
+
+# 29062026 - new
+
+Sub : 645
+Follow : 10 65
+Traffic : 524
+
+# 24062026
+
+Sub : 648
+Follow : 10 67
+Traffic : 650
+
 # 12062026
 
 Sub : 659

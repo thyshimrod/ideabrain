@@ -22,5 +22,7 @@
 - [ ] template pour guider un solo preneur dans ce qu'il a à faire
 - [ ] Liste des blessures à aller guérir pour être solo preneur
 - [ ] se donner du temps et sortir de la servitude (notamment de ses croyances, de son sens du devoir, du regard des autres)
-Se faire croire, que un autre a du pouvoir sur soi. Ce qui m'arrive est lié au fait qu'il m'a fait du mal. Lier des événements sans rapport, mais qui semblent dire que ce qui 'marrive aujourd'hui est une succession lié à la personne.
-la magie ne vient pas de l'exterieur (aller en vacances dans une luxueuse location, acheter le meilleur), mais la magie vient de l'intérieur (on crée la perception de notre réalité, et on rend beau même le quotidien)
+- [ ] Se faire croire, que un autre a du pouvoir sur soi. Ce qui m'arrive est lié au fait qu'il m'a fait du mal. Lier des événements sans rapport, mais qui semblent dire que ce qui 'marrive aujourd'hui est une succession lié à la personne.
+- [ ] la magie ne vient pas de l'exterieur (aller en vacances dans une luxueuse location, acheter le meilleur), mais la magie vient de l'intérieur (on crée la perception de notre réalité, et on rend beau même le quotidien)
+
+crise mid life - libération des contraintes et remise en avant de son soi, peut être du K4 maladroit, ou un retour en K2

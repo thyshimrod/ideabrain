@@ -11,6 +11,10 @@
 [[Article 2 pour livre v1]]
 [[Article 2 pour livre en]]
 
+[[Article  2 pour livre notes]]
+
+[[Article 3 pour livre v1]]
+[[Article  3 pour livre notes]]
 
 
 
