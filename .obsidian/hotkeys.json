@@ -777,5 +777,14 @@
       ],
       "key": "C"
     }
+  ],
+  "whipscribe:toggle-recording": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
   ]
 }

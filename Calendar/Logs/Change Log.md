@@ -5,6 +5,14 @@ tags:
   - changement
   - pascal
 ---
+## Transcription
+*Transcribed from whipscribe-2026-08-04T17-59-55.webm on 2026-08-04 18:00*
+
+Ah ben, il est pris celui-là ! Il a un petit peu de mal. Mais ça marchait ? Oui. Ah là là !
+## Transcription
+*Transcribed from whipscribe-2026-08-04T17-59-25.webm on 2026-08-04 17:59*
+
+- Qu'est ce qui se passe ? - Ok. Bon normalement ça marche bien. Avec le micro ça marche peut-être. - Tu parles et il est écrit.
 
 
 # 18/12/2024

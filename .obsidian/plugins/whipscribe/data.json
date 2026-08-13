@@ -1,0 +1,13 @@
+{
+  "backend": "local",
+  "apiKey": "",
+  "defaultFormat": "plain",
+  "speakerDiarization": false,
+  "autoInsert": true,
+  "audioFolder": "Audio",
+  "localBinaryPath": "C:\\pascal\\whisper-cpp\\Release\\whisper-cli.exe",
+  "localModelPath": "C:\\pascal\\whisper-cpp\\Release\\models\\ggml-small.bin",
+  "localLanguage": "fr",
+  "localThreads": 0,
+  "localExtraArgs": ""
+}

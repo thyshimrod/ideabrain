@@ -12,6 +12,8 @@
 
 
 [[202607241005 livret blanc gemini comex v2]]
+[[202607271114 livret blanc gemeini operationnel]]
+
 
 
 
