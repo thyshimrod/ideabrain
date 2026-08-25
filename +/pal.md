@@ -13,3 +13,6 @@ qui enquête sur les dérives et dégâts sur le marche du coaching
   
 - Critique de la pensée positive, [**Gerard NEYRAND**](https://www.linkedin.com/in/gerard-neyrand-676a2544/)  
 qui s'intéresse aux fondamentaux idéologiques, histoires et impacts de la pensée positive
+
+[[biographies couple]]
+

@@ -12,3 +12,6 @@ Hendrix, H. (2007). « _Recevoir l’amour_ »
 Sternberg, R. J. « _Théorie triangulaire de l’amour_ », dans « _Psychologie de l’amour_ »
 Jung, C. G. (1959). « _Aion: Recherches sur la phénoménologie de soi_ »
  Gray, John, « Les Hommes Viennent de Mars, les Femmes de Vénus »
+
+[[pal]]
+
