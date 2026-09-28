@@ -35,7 +35,7 @@ La dialectique repose sur l'équilibre entre deux forces en apparence opposées 
 
 La TCD repose sur une théorie simple : la dérégulation émotionnelle résulte de l'interaction entre une vulnérabilité biologique (hypersensibilité émotionnelle de naissance) et un environnement invalidant (entourage qui minimise, punit ou rejette les émotions).
 
-  
+  ![[Pasted image 20260825120052.png]]
 
 ### 3. Les 4 piliers de compétences
 
