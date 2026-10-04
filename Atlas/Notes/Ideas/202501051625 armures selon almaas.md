@@ -11,6 +11,8 @@ tags:
 [[202601051555 armure du type 5]]
 [[202601051555 armure du type 6]]
 [[202601051555 armure du type 7]]
+[[202610031202 armure du type 7 revue par claude]]
+
 [[202601051555 armure du type 8]]
 [[202601051555 armure du type 9]]
 

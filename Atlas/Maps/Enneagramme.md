@@ -34,8 +34,7 @@ tags:
 [[Enneagramme integration - tous les types]]
 [[202601051136 son type facteur de sabotage pour reconnecter sa qualite essnetielle]]
 [[202501051625 armures selon almaas]]
-
-
+[[2026010021747 les types 3 tentent d'inspirer les autres]]
 
 # 3 centres
 [[202008141757 enneagramme resume types]]

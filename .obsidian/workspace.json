@@ -806,7 +806,7 @@
                 {
                   "title": "202609171256 Claude partage des attachements lie a l environnement",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202609171256 Claude partage des attachements lie a l environnement.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609171256 Claude partage des attachements lie a l environnement\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/ref/202609171256 Claude partage des attachements lie a l environnement.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609171256 Claude partage des attachements lie a l environnement\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":357},\"to\":{\"line\":44,\"ch\":357}},\"scroll\":37.99270375569662}"
                 },
                 {
@@ -986,6 +986,645 @@
             }
           },
           {
+            "id": "53c3a07a876a1888",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/202609281637 analyse via psy logs v2 reprise.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609281637 analyse via psy logs v2 reprise"
+            }
+          },
+          {
+            "id": "d3316244d78b6775",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609281649 analyse via psy logs v3 gemini"
+            }
+          },
+          {
+            "id": "96b4fe97d57a678d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202609281637 analyse via psy logs v2 reprise",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281637 analyse via psy logs v2 reprise.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281637 analyse via psy logs v2 reprise\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":410},\"to\":{\"line\":156,\"ch\":410}},\"scroll\":150.2133995037221}"
+                },
+                {
+                  "title": "202609281650 analyse via psy logs v4 grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281650 analyse via psy logs v4 grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281650 analyse via psy logs v4 grok\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":454},\"to\":{\"line\":28,\"ch\":454}},\"scroll\":3.75}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609281649 analyse via psy logs v3 gemini"
+            }
+          },
+          {
+            "id": "3effa2f5fb6a0090",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202609281649 analyse via psy logs v3 gemini",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281649 analyse via psy logs v3 gemini\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202609281649 analyse via psy logs v3 grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281649 analyse via psy logs v3 grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281649 analyse via psy logs v3 grok\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":77},\"to\":{\"line\":56,\"ch\":77}},\"scroll\":43.153645833333336}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609281649 analyse via psy logs v3 gemini 2"
+            }
+          },
+          {
+            "id": "614109edbf0b2863",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20609282051 analyse via psy logs v4 claude"
+            }
+          },
+          {
+            "id": "45db4f02f5b0acfb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202606141557 revue camps de base 1,2,3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202606141557 revue camps de base 1,2,3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606141557 revue camps de base 1,2,3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":11.819444444444445}"
+                },
+                {
+                  "title": "Article 1 pour livre v4 en",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/Article 1 pour livre v4 en.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v4 en\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Article 1 pour livre v4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Article 1 pour livre v3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Article 1 pour livre v2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202608241737 marketing 3 pour 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202608241737 marketing 3 pour 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202608241737 marketing 3 pour 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":25.09085133418043}"
+                },
+                {
+                  "title": "202607312114 coach reference",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202607312114 coach reference.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202607312114 coach reference\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":16},\"to\":{\"line\":2,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "202609171256 Claude partage des attachements lie a l environnement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/ref/202609171256 Claude partage des attachements lie a l environnement.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609171256 Claude partage des attachements lie a l environnement\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":31.514973958333332}"
+                },
+                {
+                  "title": "202609281650 analyse via psy logs v4 grok",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281650 analyse via psy logs v4 grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281650 analyse via psy logs v4 grok\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202609282116 analyse via psy logs v5 gemini",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282116 analyse via psy logs v5 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282116 analyse via psy logs v5 gemini\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":124},\"to\":{\"line\":73,\"ch\":124}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brojects/Integral Pathways/produits/Couple integral/Camp 1/202605262222 propositions liste chantiers couple integral v1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202605262222 propositions liste chantiers couple integral v1"
+            }
+          },
+          {
+            "id": "bfe1488717d4fde9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MOC TLC liberty code",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/MOC TLC liberty code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOC TLC liberty code\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/202609282116 analyse via psy logs v5 gemini.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609282116 analyse via psy logs v5 gemini"
+            }
+          },
+          {
+            "id": "fc9955dabd7d0f82",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "20609282051 analyse via psy logs v4 claude",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20609282051 analyse via psy logs v4 claude\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Atlas/Utilities/sources/Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202609300949 analyse via psy logsv10 claude but en quadrant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609300949 analyse via psy logsv10 claude but en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609300949 analyse via psy logsv10 claude but en quadrant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":199,\"ch\":258},\"to\":{\"line\":199,\"ch\":258}},\"scroll\":96.08026413690476}"
+                },
+                {
+                  "title": "202609292155 analyse via psy logsv9 claude action en quadrant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609292155 analyse via psy logsv9 claude action en quadrant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202609300949 analyse via psy logsv10 claude but en quadrant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609300949 analyse via psy logsv10 claude but en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609300949 analyse via psy logsv10 claude but en quadrant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":68},\"to\":{\"line\":11,\"ch\":68}},\"scroll\":0}"
+                },
+                {
+                  "title": "202609292155 analyse via psy logsv9 claude action en quadrant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609292155 analyse via psy logsv9 claude\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":166,\"ch\":258},\"to\":{\"line\":166,\"ch\":258}},\"scroll\":64.16321614583333}"
+                },
+                {
+                  "title": "20609282051 analyse via psy logs v4 claude",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20609282051 analyse via psy logs v4 claude\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202609290725 analyse via psy logsv8 claude 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609290725 analyse via psy logsv8 claude 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609290725 analyse via psy logsv8 claude 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202609292155 analyse via psy logsv9 claude action en quadrant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609292155 analyse via psy logsv9 claude\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "202609290725 analyse via psy logsv8 claude 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609290725 analyse via psy logsv8 claude 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20260929725 analyse via psy logsv8 claude 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":106,\"ch\":258},\"to\":{\"line\":106,\"ch\":258}},\"scroll\":73.45762219787791}"
+                },
+                {
+                  "title": "202609282239 analyse via psy logsv8 gemini",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282239 analyse via psy logsv8 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282239 analyse via psy logsv8 gemini\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "202609282210 analyse via psy logsv7 claude",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282210 analyse via psy logsv7 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282210 analyse via psy logsv7 claude\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":52},\"to\":{\"line\":71,\"ch\":52}},\"scroll\":0}"
+                },
+                {
+                  "title": "202609282239 analyse via psy logsv8 gemini",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282239 analyse via psy logsv8 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282239 analyse via psy logsv8 gemini\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":200,\"ch\":371},\"to\":{\"line\":200,\"ch\":371}},\"scroll\":184.55431547619048}"
+                },
+                {
+                  "title": "202609282210 analyse via psy logsv7 claude",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282210 analyse via psy logsv7 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282210 analyse via psy logsv7 claude\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":258},\"to\":{\"line\":94,\"ch\":258}},\"scroll\":86.21142578125}"
+                },
+                {
+                  "title": "202609282153 analyse via psy logsv6 gemini tlc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282153 analyse via psy logsv6 gemini tlc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282153 analyse via psy logsv6 gemini tlc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":115},\"to\":{\"line\":85,\"ch\":115}},\"scroll\":73.47394540942928}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/202609300949 analyse via psy logsv11 claude but en quadrant 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609300949 analyse via psy logsv11 claude but en quadrant 2"
+            }
+          },
+          {
+            "id": "84575193661dffac",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/ELAN X.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ELAN X"
+            }
+          },
+          {
+            "id": "cee7e8b12d20a818",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/socrate x.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "socrate x"
+            }
+          },
+          {
+            "id": "e2a0e5963f8085d3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202609300949 analyse via psy logsv11 claude but en quadrant 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609300949 analyse via psy logsv11 claude but en quadrant 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609300949 analyse via psy logsv11 claude but en quadrant 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Autocoaching/202609300949 analyse via psy logsv12 claude but en quadrant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609300949 analyse via psy logsv12 claude but en quadrant"
+            }
+          },
+          {
+            "id": "9dcc4cf6eb092140",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/TYPE  8 aspiration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TYPE  8 aspiration"
+            }
+          },
+          {
+            "id": "5970f42dc88a4271",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202501051625 armures selon almaas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202501051625 armures selon almaas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202501051625 armures selon almaas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Enneagramme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":11},\"to\":{\"line\":38,\"ch\":11}},\"scroll\":27.089062213897705}"
+                },
+                {
+                  "title": "202610021748 qui inspirent les types 6 et quelle lecture",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202610021748 qui inspirent les types 6 et quelle lecture.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202610021748 qui inspirent les types 6 et quelle lecture\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":45.61111160729085}"
+                },
+                {
+                  "title": "2026010021747 les types 3 tentent d'inspirer les autres",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/2026010021747 les types 3 tentent d'inspirer les autres.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026010021747 les types 3 tentent d'inspirer les autres\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/202610031202 armure du type 7 revue par claude.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202610031202 armure du type 7 revue par claude"
+            }
+          },
+          {
             "id": "c567f56b3ee0f2a3",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -1037,7 +1676,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -1163,7 +1802,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "who am i",
+                "query": "liberty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -1242,7 +1881,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Autocoaching/202609281620 analyse via psy logs.md",
+                "file": "+/202610031202 armure du type 7 revue par claude.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1308,44 +1947,44 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "3013228c6b7958b1",
+  "active": "5970f42dc88a4271",
   "lastOpenFiles": [
-    "Calendar/Logs/reprise/202606152035 reprise archi + module 1 + livre suivant.md",
-    "Calendar/Autocoaching/202609281620 analyse via psy logs.md",
-    "Calendar/Logs/reprise/202607310916 reprise stratégie.md",
-    "Brojects/Integral Pathways/produits/Couple integral/202609111747 reprise couple integral - insta - archi.md",
-    "Atlas/Notes/Ideas/202609281602 ego surdimensionne.md",
-    "Calendar/Logs/reprise/202608092328 article detection Ia.md",
-    "Calendar/Logs/reprise/202606092142 reprise.md",
-    "Calendar/Autocoaching/202609162056 prompt claude critique de gemini.md",
-    "Calendar/Autocoaching/202609162029 test autocoaching via keagan.md",
-    "Calendar/Logs/ZoimmeisdessProject Log.md",
-    "Calendar/Logs/Change Log.md",
-    "Calendar/Logs/Thoughts logs.md",
-    "Atlas/prompting/prompt dragon/resultat prompt/202503142148 who am I v6.md",
-    "Atlas/prompting/prompt dragon/202503142057 prompt dragon 1.md",
-    "Atlas/prompting/contexte zoimmeisdess/202503142125 who am I v5.md",
-    "Atlas/formation/hypnose/Hypnose 83 - la chevre a son piquet.md",
-    "Atlas/formation/hypnose/Hypnose 82 - LES TROUBLES DE L’ADDICTION.md",
-    "Atlas/formation/hypnose/Hypnose 84 - pour traiter le tabagisme.md",
-    "Atlas/formation/hypnose/Hypnose 79 - les troubles alimentaires.md",
-    "Atlas/formation/hypnose/Hypnose 89 - PROTOCOLE POUR CONTRÔLER LA DOULEUR.md",
+    "Atlas/Notes/Ideas/202501051625 armures selon almaas.md",
+    "+/202610031202 armure du type 7 revue par claude.md",
+    "Atlas/Notes/Ideas/202601051555 armure du type 7.md",
+    "Atlas/Notes/Ideas/202601051555 armure du type 3.md",
+    "Atlas/Maps/Enneagramme.md",
+    "Atlas/Notes/Ideas/2026010021747 les types 3 tentent d'inspirer les autres.md",
+    "Atlas/Notes/Ideas/202610021748 qui inspirent les types 6 et quelle lecture.md",
+    "+/202610021839 qui inspirent les types 9 et quelle lecture.md",
+    "+/202610021829 qui inspirent les types 8 et quelle lecture.md",
+    "+/202610021754 qui inspirent les types 7 et quelle lecture.md",
+    "+/TYPE  8 aspiration.md",
+    "Calendar/Autocoaching/202609300949 analyse via psy logsv12 claude but en quadrant.md",
+    "Calendar/Autocoaching/202609300949 analyse via psy logsv11 claude but en quadrant 2.md",
+    "+/socrate x.md",
+    "+/ELAN X.md",
+    "Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md",
+    "Atlas/Utilities/sources/Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6.pdf",
+    "Calendar/Autocoaching/202609300949 analyse via psy logsv10 claude but en quadrant.md",
+    "Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md",
+    "Calendar/Autocoaching/202609290725 analyse via psy logsv8 claude 1.md",
+    "Calendar/Autocoaching/202609282239 analyse via psy logsv8 gemini.md",
+    "Calendar/Autocoaching/202609282210 analyse via psy logsv7 claude.md",
+    "Calendar/Autocoaching/202609282153 analyse via psy logsv6 gemini tlc.md",
+    "Calendar/Autocoaching/202609282116 analyse via psy logs v5 gemini.md",
+    "Atlas/Maps/MOC TLC liberty code.md",
+    "Atlas/Utilities/Images/Final TLC_book_for_Serhio 3.pdf",
+    "Atlas/Utilities/Images/00.Document Zero.pdf",
+    "Atlas/Notes/Ideas/202609282119 liberty code book md.md",
+    "Atlas/Utilities/Images/Final TLC_book_for_Serhio 3.md",
     "Atlas/Utilities/Images/6- Protocole pour contrler la douleur.mp3",
-    "Atlas/formation/hypnose/Hypnose 88 - ACCOMPAGNER LES SOINS INVASIFS PAR L’AUTOHYPNOSE.md",
-    "Atlas/formation/hypnose/Hypnose 87 - J’ATTÉNUE MES DOULEURS PAR LES COULEURS.md",
     "Atlas/Utilities/Images/5- J_attnue mes douleurs par les couleurs.mp3",
-    "Atlas/formation/hypnose/Hypnose 86 - LES DOULEURS CORPORELLES.md",
-    "Atlas/formation/hypnose/Hypnose 85 - PROTOCOLE POUR ARRÊTER DE FUMER.md",
     "Atlas/Utilities/Images/4- Protocole pour arrter de fumer.mp3",
     "Atlas/Utilities/Images/3- La chvre son piquet.mp3",
-    "Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md",
     "Atlas/Utilities/Images/2- Traiter les problmes de poids.mp3",
-    "Atlas/formation/hypnose/Hypnose 80 - JE RÉAPPRENDS LE GOÛT POUR COMBATTRE MES COMPULSIONS ALIMENTAIRES.md",
     "Atlas/Utilities/Images/1- Je rapprends le got.mp3",
     "Atlas/Utilities/Images/10- Script - Pour trouver le sommeil.mp3",
-    "Atlas/Utilities/Images/9- La mtaphore du train en cas de rveil nocturne.mp3",
-    "Atlas/Utilities/Images/8- La poupe de chiffon pour trouver le sommeil.mp3",
-    "Atlas/Utilities/Images/7- Script - Gestion des motions.mp3",
     "Atlas/Utilities/Images/Pasted image 20260825120052.png",
     "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre out of game/couv en.png",
     "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre out of game/images/en/trackerchap6.png",
