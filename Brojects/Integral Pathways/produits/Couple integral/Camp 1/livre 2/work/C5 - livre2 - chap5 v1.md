@@ -1,0 +1,59 @@
+Voici le Ch.5 construit horizon par horizon. Je n'ai pas fait défiler les quatre couples de la même façon à chaque fois : chacun apparaît avec un événement différent, de longueur variable.
+
+---
+
+**Ch.5 — Ce qui se passe quand rien ne bouge**
+
+Le chapitre précédent s'est arrêté sur la différence entre comprendre et changer. Une question vient avec elle, et je préfère la poser maintenant : que se passe-t-il si, malgré tout ce qu'on vient de voir, rien ne bouge ?
+
+Je dis d'emblée que la réponse n'a rien d'une catastrophe annoncée. Pour beaucoup de couples, le fonctionnement décrit dans ce livre se prolonge très longtemps sans dommage visible, et certains n'auront jamais de raison de le remettre en question. Ce chapitre est plus modeste. Il regarde ce que la continuité produit à trois échelles de temps : l'année qui vient, les cinq à dix ans qui suivent, et les enfants quand il y en a. Ce sont des hypothèses nourries par ce que j'ai observé chez certains couples, jamais des prédictions. Et comme partout dans ce livre, elles ne servent qu'à regarder votre propre position, pas celle de votre partenaire.
+
+**Dans l'année qui vient**
+
+À cette échelle, rien de spectaculaire. Les effets ressemblent à des détails, ce qui les rend faciles à ne pas relier entre eux.
+
+Prenons un dimanche de plus chez Sophie et Marc, un dimanche où Sophie a de la fièvre. Le planning est resté sur le frigo, mais personne d'autre qu'elle ne sait ce qu'il signifie. Marc lit « dentiste mercredi » et ne sait ni à quelle heure, ni chez quel dentiste, ni si Théo doit être à jeun. Il appelle Sophie dans la chambre. Elle répond depuis son lit, agacée de devoir piloter même malade, puis un peu coupable de l'être. Marc n'est pas incompétent. Il n'a jamais eu à tenir ces informations, puisqu'elles étaient tenues pour lui. Ce que l'année produit chez eux, à petite dose, est une fragilité : le dimanche fonctionne tant que Sophie fonctionne.
+
+Chez Thomas et Léa, ce que j'imagine est plus discret encore. Thomas a donné son conseil sur l'appel de la sœur. Trois semaines plus tard, Léa n'a pas posé la limite qu'il avait formulée. Elle ne l'a pas décidé. Elle n'a pas trouvé le moment, et la phrase qu'on lui avait offerte ne sonnait pas tout à fait comme la sienne. Thomas remarque que rien n'a changé et se dit qu'il avait pourtant été clair. Une pointe d'agacement apparaît, qu'il garde pour lui, parce que Léa l'a remercié et qu'on reproche difficilement quelque chose à quelqu'un qui vous a remercié. C'est un retournement que je trouve fréquent : celui qui aide finit par se sentir non entendu à son tour. Pendant ce temps, Léa a commencé à raconter ses appels difficiles à une amie plutôt qu'à Thomas, sans l'avoir décidé non plus. L'amie ne propose aucune solution. Elle dit « oui, je comprends ». Léa se sent mieux après, et ne fait pas le lien avec ce qu'elle ne raconte plus chez elle.
+
+Inès et Julien voient leur semaine se remplir encore. Le yoga passe de deux soirs à trois, Julien s'inscrit à un deuxième tournoi. À l'échelle d'une année, ce qui change est la place du seul moment qu'ils partageaient vraiment, ces vingt minutes de peinture un samedi. Un samedi sur deux, il est repoussé parce qu'un ami propose quelque chose, et personne ne s'en plaint, puisque personne n'a rien perdu de visible. Le temps à deux devient ce qui reste quand le reste est fait. Je crois qu'on le remarque en dernier, parce que chaque activité prise isolément est un bon choix.
+
+Chez Léa et Antoine, la condition posée en scène était simple : dès que la mère d'Antoine va mieux, dès que le trimestre de Lucas se calme. Imaginons que ça arrive. Sa mère va mieux, le trimestre se termine, et le premier dimanche calme, ils regardent la suite de leur série. Personne ne dit « alors, on reprend ? ». Poser la question reviendrait à reconnaître que le sujet existait et qu'il était resté de côté depuis trois mois. Puis un autre motif s'installe, un déménagement de bureau, une grippe chez les enfants, parce qu'il y en a toujours un. Le report n'avait jamais été décidé comme définitif. Il l'est devenu.
+
+**Sur cinq à dix ans**
+
+À cette échelle, il ne s'agit plus de détails. L'hypothèse de constance de Dusay, vue au chapitre 2, prend un sens très concret : l'énergie investie pendant dix ans dans une position n'est plus disponible pour les autres. Ce qui reste pour l'improvisation, pour le jeu, pour se laisser surprendre, devient mince, sans que personne l'ait choisi.
+
+Sophie a mis dix ans d'énergie dans l'organisation. Elle a aussi dix ans de fatigue qu'elle n'a pas nommée, parce que la nommer reviendrait à questionner la place qu'elle tient. À quarante-cinq ans, un jeudi matin, elle s'effondre dans la voiture devant l'école, sans événement déclencheur. Autour d'elle, on parle d'un coup de fatigue. Je crois qu'on y voit parfois l'effet de dix ans de charge portée sans que personne l'ait remarquée, elle comprise.
+
+Marc, à quarante-sept ans, est dans un café avec un ami qui lui demande ce qu'il aimerait faire de son prochain week-end. Il n'a pas de réponse. Pas une réponse gênante qu'il garderait pour lui, aucune réponse. Il rit, dit « je verrai bien ce que Sophie a prévu ». Le vide de ces quelques secondes le suit pourtant jusqu'au soir. Dix ans de dimanches qu'il n'a pas eu à décider ont produit un homme qui se sent plutôt bien, et qui n'a plus accès à ce qu'il aimerait.
+
+Chez Léa et Thomas, j'imagine une scène à peine plus grande qu'un détail. Thomas propose une solution à un souci de travail de Léa, avec la même gentillesse qu'il y a dix ans. Léa répond d'un ton sec : « Je ne t'ai rien demandé. » Thomas est sonné, il n'a rien fait de différent. La phrase est disproportionnée par rapport à ce qui vient de se dire, et c'est ce qui la rend instructive. Elle parle de ces centaines de soirs où Léa a remercié sans avoir reçu ce qu'elle attendait. On a vu en 2.2 que l'Enfant Adapté a deux versants, soumis et rebelle. Dix ans de soumission peuvent basculer vers l'autre, parfois d'un jour à l'autre.
+
+Pour Inès et Julien, l'échéance a une date approximative : le départ du dernier enfant. Aujourd'hui, les enfants occupent une grande partie de ce qui pourrait ressembler à du silence entre eux. Le jour où le dernier part, un dimanche soir, Julien prépare un curry. Inès goûte. « T'as bien cuisiné ? » « Ouais, c'était sympa. » La phrase est la même qu'il y a dix ans, mais il n'y a plus personne pour parler par-dessus. Je pense que ce moment est l'un des plus durs pour un couple qui s'est organisé en parallèle, parce que rien de ce qu'il a fait n'était une faute et qu'il n'y a donc personne à qui en vouloir. Ce qui manque est un réflexe de rencontre qui n'a jamais été entraîné.
+
+Reste une possibilité que j'ai du mal à décrire sans qu'elle paraisse plus fréquente qu'elle ne l'est. Après quinze ans de sujets mis de côté, Léa et Antoine peuvent un jour décider de se séparer dans le registre exact où ils ont tout décidé : calmement, sans reproche, d'un commun accord. Leurs proches sont surpris, parce qu'ils ne se sont jamais disputés. Eux le sont un peu moins. Cela existe, sans être le sort de tous les couples de ce type. Quand cela arrive, la séparation ressemble à leur couple, raisonnable et sans éclat, avec, je crois, une impression partagée de ne pas savoir à quel moment tout s'est joué.
+
+**Sur les enfants**
+
+Quand il y a des enfants, ces échelles de temps ne se suivent pas, elles se superposent. Pendant que le couple vit ses cinq premières années de couplage, les enfants le regardent. Pour eux, ce qu'ils voient est la manière dont fonctionne un couple.
+
+Albert Bandura a montré dans les années 1960 que les enfants apprennent beaucoup par observation, sans qu'on leur enseigne quoi que ce soit. Je pense que le couple des parents est le premier modèle de relation adulte qu'ils observent longuement. Dans un couple qui ne se dispute pas, ce modèle a une particularité. Il est calme, ce qui est un vrai cadeau. Il montre aussi peu de choses, ce qui l'est moins. Un enfant apprend par ce qu'il voit, et par ce qu'il ne voit jamais.
+
+Théo a vu, pendant des centaines de dimanches, sa mère décider et son père suivre. Il n'a jamais vu l'un de ses parents dire « moi, aujourd'hui, j'ai envie d'autre chose », ni un plan changé parce que l'un des deux le demandait. Je crois qu'il en tire, sans en faire une phrase, que l'amour dans une famille ressemble à une bonne organisation, et que vouloir quelque chose pour soi est un risque pour elle.
+
+Lucas a grandi avec des parents qui ne lèvent jamais la voix. Je pense qu'il aura rencontré très peu de situations où deux personnes en désaccord se retrouvent ensuite. Le jour où sa propre compagne lui dira quelque chose de difficile, il n'aura aucun souvenir d'une dispute réparée à laquelle se référer, et pourra la vivre comme le début de la fin plutôt que comme une étape.
+
+Si Léa et Thomas ont une fille, elle les a peut-être vus, un soir comme celui de l'appel, l'un conseiller et l'autre sourire en remerciant. Elle apprend quelque chose de très précis : quand on a de la peine, on obtient un plan, et on dit merci. Plus tard, à quinze ans, sa meilleure amie lui racontera une dispute avec sa mère, et elle se surprendra à répondre par un conseil, en entendant dans sa propre bouche la voix de son père.
+
+Les enfants d'Inès et Julien grandissent dans une maison où les deux parents sont vivants, visiblement heureux, et rarement ensemble. Ils apprennent que la vie adulte est une série de terrains séparés. Ils apprennent aussi, plus discrètement, qu'ils sont ce que leurs parents ont en commun. Cela peut peser lourd sur un enfant de douze ans, qui sent sans le formuler que c'est lui qui tient quelque chose ensemble.
+
+Quand j'écris ces lignes, je pense aussi à vous qui lisez. Vous avez vous-même regardé un couple pendant votre enfance. On a vu au chapitre 2 que les positions de l'égogramme s'apprennent très tôt, en observant ce qui marchait dans la famille d'origine. Les couplages dont parle ce livre n'ont donc pas commencé avec vous. Il est possible que vous ayez reconnu, dans l'une de ces scènes, quelque chose de la maison où vous avez grandi. Je ne le dis pas pour désigner un responsable. Vos parents ont fait avec ce qu'ils avaient reçu, comme vous faites avec ce que vous avez reçu d'eux. Cela change un peu la manière de regarder la question : ce que vous faites bouger ou non dans votre couple se transmet, pour une part, à des couples qui n'existent pas encore.
+
+Aucune de ces trajectoires n'est écrite. Je les ai décrites parce que ce qui se passe quand rien ne bouge se voit mal de l'intérieur, jour après jour, et assez bien quand on le regarde sur plusieurs années à la fois. Certains y verront une raison d'agir. D'autres, une confirmation que tout va très bien chez eux, et ce serait une lecture légitime. Dans les deux cas, la suite part d'une question qui se pose surtout aux premiers : que se passe-t-il quand l'un des deux commence réellement à bouger ?
+
+---
+
+Deux points à vérifier de ton côté. Les « je crois » et « je pense » sont des hypothèses assumées, mais les formulations du type « ce que j'ai observé chez certains couples » parlent de ta pratique : à toi de confirmer qu'elles sonnent juste, ou de les remplacer par une observation réelle. Ensuite, il y a deux Léa dans les scènes (Thomas/Léa et Léa/Antoine). Je les ai distinguées par leur partenaire, mais un lecteur attentif risque de les confondre, et ça mérite peut-être un changement de prénom dans l'une des deux scènes.
+
+Dernière question : veux-tu qu'on ajoute un petit encadré de questions d'auto-reconnaissance à la fin de chaque échelle de temps, ou une seule fois en fin de chapitre ?

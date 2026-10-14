@@ -4,1609 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "cd1914896f35f103",
+        "id": "9fcc3fc22d036d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "153da970f90a4e23",
+            "id": "28d8f521f03ec537",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "C4 - livre 2 - chap4.1 v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C4 - livre 2 - chap4.1 v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"C4 - livre 2 - chap4.1 v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.666666666666667}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Livre hors jeu suite",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Livre hors jeu suite.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Livre hors jeu suite\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 58 - lacher prise du passé",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 58 - lacher prise du passé.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 58 - lacher prise du passé\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
                   "title": "202606171426 main",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202606171426 main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606171426 main\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":21.833333333333332}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":0},\"to\":{\"line\":52,\"ch\":0}},\"scroll\":22.5}"
                 },
                 {
-                  "title": "Livre hors jeu suite",
+                  "title": "C2 - livre 2 - archi",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Livre hors jeu suite.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Livre hors jeu suite\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Article  3 pour livre notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre out of game/work/Article  3 pour livre notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article  3 pour livre notes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":46,\"ch\":0}},\"scroll\":36.43077048277244}"
-                },
-                {
-                  "title": "Articles pour livre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Articles pour livre.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Articles pour livre\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Livre hors jeu suite",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Livre hors jeu suite.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Livre hors jeu suite\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202608241737 marketing 3 pour 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202608241737 marketing 3 pour 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202608241737 marketing 3 pour 3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":159,\"ch\":272},\"to\":{\"line\":159,\"ch\":272}},\"scroll\":152.81645978241997}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202606171426 main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202606171426 main"
-            }
-          },
-          {
-            "id": "3b1d03da157dd9fb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Hypnose 51 - LA DISSOCIATION PAR LE LIEU RESSOURCE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 51 - LA DISSOCIATION PAR LE LIEU RESSOURCE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 51 - LA DISSOCIATION PAR LE LIEU RESSOURCE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":51.499348958333336}"
-                },
-                {
-                  "title": "Hypnose 50 - L’INDUCTION PAR LA « SAFE PLACE »",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 50 - L’INDUCTION PAR LA « SAFE PLACE ».md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 50 - L’INDUCTION PAR LA « SAFE PLACE »\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":73.99921875}"
-                },
-                {
-                  "title": "Hypnose 42 - L’INDUCTION FLASH",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 42 - L’INDUCTION FLASH.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 42 - L’INDUCTION FLASH\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":7.194244604316546}"
-                },
-                {
-                  "title": "Hypnose 41 - MÉTHODE RAPIDE – PERMISSIVE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 41 - MÉTHODE RAPIDE – PERMISSIVE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 41 - MÉTHODE RAPIDE – PERMISSIVE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":9.59232613908873}"
-                },
-                {
-                  "title": "Hypnose 40 - méthode rapide",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 40 - méthode rapide.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 40 - méthode rapide\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":38.516927083333336}"
-                },
-                {
-                  "title": "Hypnose 38 - CONDITIONNEMENT CORPOREL",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 38 - CONDITIONNEMENT CORPOREL.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 38 - CONDITIONNEMENT CORPOREL\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 37 - TECHNIQUE DE DÉTENTE ET D’APAISEMENT",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 37 - TECHNIQUE DE DÉTENTE ET D’APAISEMENT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 37 - TECHNIQUE DE DÉTENTE ET D’APAISEMENT\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 36 - LA RESPIRATION COLORÉE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 36 - LA RESPIRATION COLORÉE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 36 - LA RESPIRATION COLORÉE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 42 - L’INDUCTION FLASH",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 42 - L’INDUCTION FLASH.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 42 - L’INDUCTION FLASH\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":14.645833333333334}"
-                },
-                {
-                  "title": "Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":54.68359375}"
-                },
-                {
-                  "title": "Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":167},\"to\":{\"line\":43,\"ch\":167}},\"scroll\":35.652018229166664}"
-                },
-                {
-                  "title": "Hypnose",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Hypnose.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 46 - SEPT PLUS OU MOINS DEUX",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 46 - SEPT PLUS OU MOINS DEUX.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 46 - SEPT PLUS OU MOINS DEUX\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":12.583255813953489}"
-                },
-                {
-                  "title": "Hypnose 46 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 46 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 46 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":32.858072916666664}"
-                },
-                {
-                  "title": "Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":18.350260416666668}"
-                },
-                {
-                  "title": "Hypnose 44 - LES PROTOCOLES D’APPROFONDISSEMENT",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 44 - LES PROTOCOLES D’APPROFONDISSEMENT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 44 - LES PROTOCOLES D’APPROFONDISSEMENT\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":38.971162790697676}"
-                },
-                {
-                  "title": "Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":21.516927083333332}"
-                },
-                {
-                  "title": "Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 47 - L’INDUCTION PAR LA RÉPÉTITION DU MOUVEMENT\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 52 - VISUALISATION DE L’ENDROIT FAVORI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 52 - VISUALISATION DE L’ENDROIT FAVORI.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 52 - VISUALISATION DE L’ENDROIT FAVORI\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":20.658854166666668}"
-                },
-                {
-                  "title": "Hypnose 38 - CONDITIONNEMENT CORPOREL",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 38 - CONDITIONNEMENT CORPOREL.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 38 - CONDITIONNEMENT CORPOREL\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":32.283420138888886}"
-                },
-                {
-                  "title": "Hypnose 33 - points à retenir sur l'induction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 33 - points à retenir sur l'induction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 33 - points à retenir sur l'induction\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":30.32940446650124}"
-                },
-                {
-                  "title": "Concurrents",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Concurrents.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Concurrents\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "contexte insta",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/contexte insta.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"contexte insta\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":763},\"to\":{\"line\":4,\"ch\":763}}}"
-                },
-                {
-                  "title": "NEWCV",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/NEWCV.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NEWCV\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "prompt context integral pathways",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/prompt context integral pathways.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt context integral pathways\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "couple integral - liste d'etapes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/couple integral - liste d'etapes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"couple integral - liste d'etapes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Concurrents",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Concurrents.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Concurrents\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202606141823 revue camps de base 1,2,3,4,5,6",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/work/202606141823 revue camps de base 1,2,3,4,5,6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606141823 revue camps de base 1,2,3,4,5,6\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":142.16666668653488}"
-                },
-                {
-                  "title": "202606141556 revue camps de base",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202606141556 revue camps de base.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606141556 revue camps de base\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202603022207 contexte produit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202603022207 contexte produit.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603022207 contexte produit\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.9090909090909092}"
-                },
-                {
-                  "title": "202601262102 couple integrale niveau 2 - fiche disjnoncteur la decharge emotionnelle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202601262102 couple integrale niveau 2 - fiche disjnoncteur la decharge emotionnelle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601262102 couple integrale niveau 2 - fiche disjnoncteur la decharge emotionnelle\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202601091546 couple integral",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202601091546 couple integral.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601091546 couple integral\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":30}"
-                },
-                {
-                  "title": "202606151622 reprise archi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202606151622 reprise archi.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606151622 reprise archi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202607310916 reprise stratégie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202607310916 reprise stratégie.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202607310916 reprise stratégie\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":92.446575063345}"
-                },
-                {
-                  "title": "202606151622 reprise archi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202606151622 reprise archi.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606151622 reprise archi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":254.99062418937683}"
-                },
-                {
-                  "title": "202607310916 reprise stratégie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202607310916 reprise stratégie.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202607310916 reprise stratégie\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":97.68438259760539}"
-                },
-                {
-                  "title": "202608092328 article detection Ia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202608092328 article detection Ia.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202608092328 article detection Ia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202601091546 couple integral",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202601091546 couple integral.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601091546 couple integral\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":5.357142857142857}"
-                },
-                {
-                  "title": "202601262102 couple integrale niveau 2 - fiche disjnoncteur la decharge emotionnelle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202601262102 couple integrale niveau 2 - fiche disjnoncteur la decharge emotionnelle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202601262102 couple integrale niveau 2 - fiche disjnoncteur la decharge emotionnelle\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202603022207 contexte produit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202603022207 contexte produit.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202603022207 contexte produit\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202606141556 revue camps de base",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202606141556 revue camps de base.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606141556 revue camps de base\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "couple integral - liste d'etapes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/couple integral - liste d'etapes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"couple integral - liste d'etapes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
-                },
-                {
-                  "title": "prompt context integral pathways",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/prompt context integral pathways.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt context integral pathways\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Psy Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Psy Log.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Psy Log\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":12},\"to\":{\"line\":6,\"ch\":12}},\"scroll\":0}"
-                },
-                {
-                  "title": "Article  3 pour livre notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre out of game/work/Article  3 pour livre notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article  3 pour livre notes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Articles pour livre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Articles pour livre.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Articles pour livre\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Liste des explorations à faire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Liste des explorations à faire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Liste des explorations à faire\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 63 - SCRIPT D’AUTOHYPNOSE POUR DEVENIR UN EXCELLENT HYPNOTHÉRAPEUTE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 63 - SCRIPT D’AUTOHYPNOSE POUR DEVENIR UN EXCELLENT HYPNOTHÉRAPEUTE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 63 - SCRIPT D’AUTOHYPNOSE POUR DEVENIR UN EXCELLENT HYPNOTHÉRAPEUTE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":53.13333225250244}"
-                },
-                {
-                  "title": "Hypnose 62 - animal totem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 62 - animal totem.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 62 - animal totem\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":38.387499888738}"
-                },
-                {
-                  "title": "Hypnose 61 - se reconnecter à son enfant intérieur",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 61 - se reconnecter à son enfant intérieur.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 61 - se reconnecter à son enfant intérieur\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Article  3 pour livre notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre out of game/work/Article  3 pour livre notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article  3 pour livre notes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":0},\"to\":{\"line\":57,\"ch\":0}},\"scroll\":44.23076923076923}"
-                },
-                {
-                  "title": "Articles pour livre",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Articles pour livre.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Articles pour livre\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Livre hors jeu suite",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Ongoing/Livre hors jeu suite.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Livre hors jeu suite\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 15 main lourde main legere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 15 main lourde main legere.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 15 main lourde main legere\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":12.65979381443299}"
-                },
-                {
-                  "title": "Hypnose 14 - Main Molle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 14 - Main Molle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 14 - Main Molle\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 19 - chute du bras",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 19 - chute du bras.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 19 - chute du bras\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":30.515315315315316}"
-                },
-                {
-                  "title": "Hypnose 18 Levitation de la main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 18 Levitation de la main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 18 Levitation de la main\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":64.18440755208333}"
-                },
-                {
-                  "title": "Hypnose 17 rapprochement des doigts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 17 rapprochement des doigts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 17 rapprochement des doigts\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":51.379557291666664}"
-                },
-                {
-                  "title": "Hypnose 16 - doigts aimantes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 16 - doigts aimantes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 16 - doigts aimantes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":16.174913194444443}"
-                },
-                {
-                  "title": "Hypnose 17 rapprochement des doigts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 17 rapprochement des doigts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 17 rapprochement des doigts\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 16 - doigts aimantes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 16 - doigts aimantes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 16 - doigts aimantes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":9.59232613908873}"
-                },
-                {
-                  "title": "Hypnose 15 main lourde main legere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 15 main lourde main legere.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 15 main lourde main legere\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":21.458333333333332}"
-                },
-                {
-                  "title": "Hypnose 14 - Main Molle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 14 - Main Molle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 14 - Main Molle\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":19.291666666666668}"
-                },
-                {
-                  "title": "Hypnose 13 -POUR COMMENCER VOS SeANCES",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 13 -POUR COMMENCER VOS SeANCES.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 13 -POUR COMMENCER VOS SeANCES\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":60.7109375}"
-                },
-                {
-                  "title": "rtgze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/rtgze.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"rtgze\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":14},\"to\":{\"line\":8,\"ch\":14}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/formation/hypnose/Hypnose 54 - HYPNOSE ET DÉVELOPPEMENT PERSONNEL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hypnose 54 - HYPNOSE ET DÉVELOPPEMENT PERSONNEL"
-            }
-          },
-          {
-            "id": "99b2058a9db82e0c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202608092328 article detection Ia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202608092328 article detection Ia.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202608092328 article detection Ia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202606092142 reprise",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202606092142 reprise.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606092142 reprise\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609162056 prompt claude critique de gemini",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609162056 prompt claude critique de gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609162056 prompt claude critique de gemini\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609162029 test autocoaching via keagan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609162029 test autocoaching via keagan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609162029 test autocoaching via keagan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "ZoimmeisdessProject Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/ZoimmeisdessProject Log.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ZoimmeisdessProject Log\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.92239554723104}"
-                },
-                {
-                  "title": "Change Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Change Log.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Change Log\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":37.122397581736244}"
-                },
-                {
-                  "title": "Thoughts logs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Thoughts logs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Thoughts logs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.017857143123235022}"
-                },
-                {
-                  "title": "202503142148 who am I v6",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/prompt dragon/resultat prompt/202503142148 who am I v6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202503142148 who am I v6\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.007188588075637934}"
-                },
-                {
-                  "title": "202503142057 prompt dragon 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/prompt dragon/202503142057 prompt dragon 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202503142057 prompt dragon 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":38.70984849062833}"
-                },
-                {
-                  "title": "202503142125 who am I v5",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/prompting/contexte zoimmeisdess/202503142125 who am I v5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202503142125 who am I v5\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":88.70000370343526}"
-                },
-                {
-                  "title": "Hypnose 83 - la chevre a son piquet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 83 - la chevre a son piquet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 83 - la chevre a son piquet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":26.675000230471294}"
-                },
-                {
-                  "title": "Hypnose 82 - LES TROUBLES DE L’ADDICTION",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 82 - LES TROUBLES DE L’ADDICTION.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 82 - LES TROUBLES DE L’ADDICTION\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":24.90277777777778}"
-                },
-                {
-                  "title": "Hypnose 84 - pour traiter le tabagisme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 84 - pour traiter le tabagisme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 84 - pour traiter le tabagisme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":9.63855421686747}"
-                },
-                {
-                  "title": "Hypnose 79 - les troubles alimentaires",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 79 - les troubles alimentaires.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 79 - les troubles alimentaires\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":12.916666666666666}"
-                },
-                {
-                  "title": "Hypnose 89 - PROTOCOLE POUR CONTRÔLER LA DOULEUR",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 89 - PROTOCOLE POUR CONTRÔLER LA DOULEUR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 89 - PROTOCOLE POUR CONTRÔLER LA DOULEUR\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 88 - ACCOMPAGNER LES SOINS INVASIFS PAR L’AUTOHYPNOSE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 88 - ACCOMPAGNER LES SOINS INVASIFS PAR L’AUTOHYPNOSE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 88 - ACCOMPAGNER LES SOINS INVASIFS PAR L’AUTOHYPNOSE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":61},\"to\":{\"line\":10,\"ch\":13}},\"scroll\":8.914798343128153}"
-                },
-                {
-                  "title": "Hypnose 87 - J’ATTÉNUE MES DOULEURS PAR LES COULEURS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 87 - J’ATTÉNUE MES DOULEURS PAR LES COULEURS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 87 - J’ATTÉNUE MES DOULEURS PAR LES COULEURS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":220},\"to\":{\"line\":14,\"ch\":220}},\"scroll\":6.582959778105732}"
-                },
-                {
-                  "title": "Hypnose 86 - LES DOULEURS CORPORELLES",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 86 - LES DOULEURS CORPORELLES.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 86 - LES DOULEURS CORPORELLES\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":17.583333333333332}"
-                },
-                {
-                  "title": "Hypnose 85 - PROTOCOLE POUR ARRÊTER DE FUMER",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 85 - PROTOCOLE POUR ARRÊTER DE FUMER.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 85 - PROTOCOLE POUR ARRÊTER DE FUMER\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":42},\"to\":{\"line\":12,\"ch\":42}},\"scroll\":28.87619075321016}"
-                },
-                {
-                  "title": "Hypnose 84 - pour traiter le tabagisme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 84 - pour traiter le tabagisme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 84 - pour traiter le tabagisme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":198},\"to\":{\"line\":23,\"ch\":198}},\"scroll\":4.819277108433735}"
-                },
-                {
-                  "title": "Hypnose 83 - la chevre a son piquet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 83 - la chevre a son piquet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 83 - la chevre a son piquet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":247},\"to\":{\"line\":16,\"ch\":247}},\"scroll\":26.233333309491474}"
-                },
-                {
-                  "title": "Hypnose 82 - LES TROUBLES DE L’ADDICTION",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 82 - LES TROUBLES DE L’ADDICTION.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 82 - LES TROUBLES DE L’ADDICTION\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":30},\"to\":{\"line\":10,\"ch\":3}},\"scroll\":21.683334350585938}"
-                },
-                {
-                  "title": "Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 82 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":44.80333251953125}"
-                },
-                {
-                  "title": "Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 82 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 82 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":126},\"to\":{\"line\":14,\"ch\":126}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 80 - JE RÉAPPRENDS LE GOÛT POUR COMBATTRE MES COMPULSIONS ALIMENTAIRES",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 80 - JE RÉAPPRENDS LE GOÛT POUR COMBATTRE MES COMPULSIONS ALIMENTAIRES.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 80 - JE RÉAPPRENDS LE GOÛT POUR COMBATTRE MES COMPULSIONS ALIMENTAIRES\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":21},\"to\":{\"line\":10,\"ch\":21}},\"scroll\":8.968609865470851}"
-                },
-                {
-                  "title": "Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 81 - SCRIPT POUR TRAITER LES PROBLÈMES DE POIDS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":28},\"to\":{\"line\":10,\"ch\":28}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hypnose 80 - JE RÉAPPRENDS LE GOÛT POUR COMBATTRE MES COMPULSIONS ALIMENTAIRES",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 80 - JE RÉAPPRENDS LE GOÛT POUR COMBATTRE MES COMPULSIONS ALIMENTAIRES.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 80 - JE RÉAPPRENDS LE GOÛT POUR COMBATTRE MES COMPULSIONS ALIMENTAIRES\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":31},\"to\":{\"line\":12,\"ch\":31}},\"scroll\":8.609865470852018}"
-                },
-                {
-                  "title": "Hypnose 79 - les troubles alimentaires",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 79 - les troubles alimentaires.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 79 - les troubles alimentaires\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":22.958333333333332}"
-                },
-                {
-                  "title": "Hypnose 75 - les troubles du sommeil",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 75 - les troubles du sommeil.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 75 - les troubles du sommeil\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":3.5855422422110315}"
-                },
-                {
-                  "title": "Hypnose 72 - les phobies",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 72 - les phobies.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 72 - les phobies\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":20.866667588551838}"
-                },
-                {
-                  "title": "Hypnose 78 - POUR TROUVER LE SOMMEIL",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 78 - POUR TROUVER LE SOMMEIL.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 78 - POUR TROUVER LE SOMMEIL\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":292},\"to\":{\"line\":21,\"ch\":292}},\"scroll\":2.949397627129612}"
-                },
-                {
-                  "title": "Hypnose 77 - LA MÉTAPHORE DU TRAIN EN CAS DE RÉVEIL NOCTURNE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 77 - LA MÉTAPHORE DU TRAIN EN CAS DE RÉVEIL NOCTURNE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 77 - LA MÉTAPHORE DU TRAIN EN CAS DE RÉVEIL NOCTURNE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":60},\"to\":{\"line\":16,\"ch\":60}},\"scroll\":5.022421524663677}"
-                },
-                {
-                  "title": "Hypnose 76 - script la poupee de chiffon pour trouver le sommeil",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 76 - script la poupee de chiffon pour trouver le sommeil.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 76 - script la poupee de chiffon pour trouver le sommeil\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":19},\"to\":{\"line\":23,\"ch\":19}},\"scroll\":17.205619225111604}"
-                },
-                {
-                  "title": "Hypnose 75 - les troubles du sommeil",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 75 - les troubles du sommeil.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 75 - les troubles du sommeil\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":32.50400423042384}"
-                },
-                {
-                  "title": "Hypnose 74 - gestion des émotions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 74 - gestion des émotions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 74 - gestion des émotions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":31.324997901916504}"
-                },
-                {
-                  "title": "Hypnose 73 - les phobies tardives",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 73 - les phobies tardives.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 73 - les phobies tardives\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":28.063888867696125}"
-                },
-                {
-                  "title": "Hypnose 72 - les phobies",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 72 - les phobies.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 72 - les phobies\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":7.228915662650603}"
-                },
-                {
-                  "title": "prompt style pour evitertrop d'IA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/prompt style pour evitertrop d'IA.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prompt style pour evitertrop d'IA\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":246},\"to\":{\"line\":26,\"ch\":246}},\"scroll\":18.101171851158142}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C2 - livre 2 - archi.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"C2 - livre 2 - archi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":30}"
                 },
                 {
                   "title": "202606171426 main",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202606171426 main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606171426 main\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":34.333333333333336}"
-                },
-                {
-                  "title": "202608092328 article detection Ia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202608092328 article detection Ia.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202608092328 article detection Ia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.833333333333333}"
-                },
-                {
-                  "title": "Psy Log",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Psy Log.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Psy Log\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609171256 Claude partage des attachements lie a l environnement",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/ref/202609171256 Claude partage des attachements lie a l environnement.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609171256 Claude partage des attachements lie a l environnement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":357},\"to\":{\"line\":44,\"ch\":357}},\"scroll\":37.99270375569662}"
-                },
-                {
-                  "title": "202609162029 test autocoaching via keagan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609162029 test autocoaching via keagan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609162029 test autocoaching via keagan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609162056 prompt claude critique de gemini",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609162056 prompt claude critique de gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609162056 prompt claude critique de gemini\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":197},\"to\":{\"line\":55,\"ch\":197}},\"scroll\":49.473119485032285}"
-                },
-                {
-                  "title": "202609162029 test autocoaching via keagan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609162029 test autocoaching via keagan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609162029 test autocoaching via keagan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609163024 prompt gemini autocoaching keagan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609163024 prompt gemini autocoaching keagan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609163024 prompt gemini autocoaching keagan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Form-Action-Dyade-Bibliotheque-Protocoles - emergence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Clippings/Form-Action-Dyade-Bibliotheque-Protocoles - emergence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Form-Action-Dyade-Bibliotheque-Protocoles - emergence\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "ref",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/ref/ref.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ref\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609163024 prompt gemini autocoaching keagan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609163024 prompt gemini autocoaching keagan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609163024 prompt gemini autocoaching keagan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":412,\"ch\":4},\"to\":{\"line\":412,\"ch\":4}},\"scroll\":407.3080263498692}"
-                },
-                {
-                  "title": "202609162029 test autocoaching via keagan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609162029 test autocoaching via keagan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609162029 test autocoaching via keagan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 25 techniques d induction par focalisation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 25 techniques d induction par focalisation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 25 techniques d induction par focalisation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hypnose 24 arc - ratification",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 24 arc - ratification.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 24 arc - ratification\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":90.49186197916667}"
-                },
-                {
-                  "title": "hypnose 23 le modele arc",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/hypnose 23 le modele arc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hypnose 23 le modele arc\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":38.544186046511626}"
-                },
-                {
-                  "title": "hypnose 22 preinduction hypnotique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/hypnose 22 preinduction hypnotique.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hypnose 22 preinduction hypnotique\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":22.687174479166668}"
-                },
-                {
-                  "title": "Hypnose 10 - nuage et tunnel",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 10 - nuage et tunnel.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 10 - nuage et tunnel\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":12.60904044409199}"
-                },
-                {
-                  "title": "Hypnose 9 - MISE EN PRATIQUE DU LANGAGE HYPNOTIQUE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 9 - MISE EN PRATIQUE DU LANGAGE HYPNOTIQUE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 9 - MISE EN PRATIQUE DU LANGAGE HYPNOTIQUE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":40.38511627906977}"
-                },
-                {
-                  "title": "Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/formation/hypnose/Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hypnose 45 - MÉTHODE DE LÉVITATION DES BRAS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "contexte insta",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/contexte insta.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"contexte insta\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":4.3426296027131785}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Logs/reprise/202607310916 reprise stratégie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202607310916 reprise stratégie"
-            }
-          },
-          {
-            "id": "3013228c6b7958b1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202606152035 reprise archi + module 1 + livre suivant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202606152035 reprise archi + module 1 + livre suivant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606152035 reprise archi + module 1 + livre suivant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.39166661103567}"
-                },
-                {
-                  "title": "202607310916 reprise stratégie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/reprise/202607310916 reprise stratégie.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202607310916 reprise stratégie\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":60.946353912353516}"
-                },
-                {
-                  "title": "202609111747 reprise couple integral - insta - archi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202609111747 reprise couple integral - insta - archi.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609111747 reprise couple integral - insta - archi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609281602 ego surdimensionne",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202609281602 ego surdimensionne.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281602 ego surdimensionne\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":111},\"to\":{\"line\":140,\"ch\":111}},\"scroll\":64.39516112327246}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609281620 analyse via psy logs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609281620 analyse via psy logs"
-            }
-          },
-          {
-            "id": "53c3a07a876a1888",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609281637 analyse via psy logs v2 reprise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609281637 analyse via psy logs v2 reprise"
-            }
-          },
-          {
-            "id": "d3316244d78b6775",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609281649 analyse via psy logs v3 gemini"
-            }
-          },
-          {
-            "id": "96b4fe97d57a678d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202609281637 analyse via psy logs v2 reprise",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281637 analyse via psy logs v2 reprise.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281637 analyse via psy logs v2 reprise\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":410},\"to\":{\"line\":156,\"ch\":410}},\"scroll\":150.2133995037221}"
-                },
-                {
-                  "title": "202609281650 analyse via psy logs v4 grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281650 analyse via psy logs v4 grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281650 analyse via psy logs v4 grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":454},\"to\":{\"line\":28,\"ch\":454}},\"scroll\":3.75}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609281649 analyse via psy logs v3 gemini"
-            }
-          },
-          {
-            "id": "3effa2f5fb6a0090",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202609281649 analyse via psy logs v3 gemini",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281649 analyse via psy logs v3 gemini\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609281649 analyse via psy logs v3 grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281649 analyse via psy logs v3 grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281649 analyse via psy logs v3 grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":77},\"to\":{\"line\":56,\"ch\":77}},\"scroll\":43.153645833333336}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609281649 analyse via psy logs v3 gemini 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609281649 analyse via psy logs v3 gemini 2"
-            }
-          },
-          {
-            "id": "614109edbf0b2863",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20609282051 analyse via psy logs v4 claude"
-            }
-          },
-          {
-            "id": "45db4f02f5b0acfb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202606141557 revue camps de base 1,2,3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/202606141557 revue camps de base 1,2,3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606141557 revue camps de base 1,2,3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":11.819444444444445}"
-                },
-                {
-                  "title": "Article 1 pour livre v4 en",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/published/Article 1 pour livre v4 en.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v4 en\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Article 1 pour livre v4",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v4\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Article 1 pour livre v3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Article 1 pour livre v2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Article 1 pour livre v2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202608241737 marketing 3 pour 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202608241737 marketing 3 pour 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202608241737 marketing 3 pour 3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":25.09085133418043}"
-                },
-                {
-                  "title": "202607312114 coach reference",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/202607312114 coach reference.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202607312114 coach reference\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":16},\"to\":{\"line\":2,\"ch\":16}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609171256 Claude partage des attachements lie a l environnement",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/ref/202609171256 Claude partage des attachements lie a l environnement.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609171256 Claude partage des attachements lie a l environnement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":31.514973958333332}"
-                },
-                {
-                  "title": "202609281650 analyse via psy logs v4 grok",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609281650 analyse via psy logs v4 grok.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609281650 analyse via psy logs v4 grok\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609282116 analyse via psy logs v5 gemini",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282116 analyse via psy logs v5 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282116 analyse via psy logs v5 gemini\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":124},\"to\":{\"line\":73,\"ch\":124}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brojects/Integral Pathways/produits/Couple integral/Camp 1/202605262222 propositions liste chantiers couple integral v1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202605262222 propositions liste chantiers couple integral v1"
-            }
-          },
-          {
-            "id": "bfe1488717d4fde9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "MOC TLC liberty code",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/MOC TLC liberty code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOC TLC liberty code\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609282116 analyse via psy logs v5 gemini.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609282116 analyse via psy logs v5 gemini"
-            }
-          },
-          {
-            "id": "fc9955dabd7d0f82",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "20609282051 analyse via psy logs v4 claude",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20609282051 analyse via psy logs v4 claude\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Atlas/Utilities/sources/Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202609300949 analyse via psy logsv10 claude but en quadrant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609300949 analyse via psy logsv10 claude but en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609300949 analyse via psy logsv10 claude but en quadrant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":199,\"ch\":258},\"to\":{\"line\":199,\"ch\":258}},\"scroll\":96.08026413690476}"
-                },
-                {
-                  "title": "202609292155 analyse via psy logsv9 claude action en quadrant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609292155 analyse via psy logsv9 claude action en quadrant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609300949 analyse via psy logsv10 claude but en quadrant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609300949 analyse via psy logsv10 claude but en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609300949 analyse via psy logsv10 claude but en quadrant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":68},\"to\":{\"line\":11,\"ch\":68}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609292155 analyse via psy logsv9 claude action en quadrant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609292155 analyse via psy logsv9 claude\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":166,\"ch\":258},\"to\":{\"line\":166,\"ch\":258}},\"scroll\":64.16321614583333}"
-                },
-                {
-                  "title": "20609282051 analyse via psy logs v4 claude",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20609282051 analyse via psy logs v4 claude\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609290725 analyse via psy logsv8 claude 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609290725 analyse via psy logsv8 claude 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609290725 analyse via psy logsv8 claude 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609292155 analyse via psy logsv9 claude action en quadrant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609292155 analyse via psy logsv9 claude\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609290725 analyse via psy logsv8 claude 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609290725 analyse via psy logsv8 claude 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"20260929725 analyse via psy logsv8 claude 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":106,\"ch\":258},\"to\":{\"line\":106,\"ch\":258}},\"scroll\":73.45762219787791}"
-                },
-                {
-                  "title": "202609282239 analyse via psy logsv8 gemini",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282239 analyse via psy logsv8 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282239 analyse via psy logsv8 gemini\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "202609282210 analyse via psy logsv7 claude",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282210 analyse via psy logsv7 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282210 analyse via psy logsv7 claude\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":52},\"to\":{\"line\":71,\"ch\":52}},\"scroll\":0}"
-                },
-                {
-                  "title": "202609282239 analyse via psy logsv8 gemini",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282239 analyse via psy logsv8 gemini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282239 analyse via psy logsv8 gemini\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":200,\"ch\":371},\"to\":{\"line\":200,\"ch\":371}},\"scroll\":184.55431547619048}"
-                },
-                {
-                  "title": "202609282210 analyse via psy logsv7 claude",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282210 analyse via psy logsv7 claude.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282210 analyse via psy logsv7 claude\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":258},\"to\":{\"line\":94,\"ch\":258}},\"scroll\":86.21142578125}"
-                },
-                {
-                  "title": "202609282153 analyse via psy logsv6 gemini tlc",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609282153 analyse via psy logsv6 gemini tlc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609282153 analyse via psy logsv6 gemini tlc\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":115},\"to\":{\"line\":85,\"ch\":115}},\"scroll\":73.47394540942928}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609300949 analyse via psy logsv11 claude but en quadrant 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609300949 analyse via psy logsv11 claude but en quadrant 2"
-            }
-          },
-          {
-            "id": "84575193661dffac",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/ELAN X.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ELAN X"
-            }
-          },
-          {
-            "id": "cee7e8b12d20a818",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/socrate x.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "socrate x"
-            }
-          },
-          {
-            "id": "e2a0e5963f8085d3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202609300949 analyse via psy logsv11 claude but en quadrant 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Autocoaching/202609300949 analyse via psy logsv11 claude but en quadrant 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609300949 analyse via psy logsv11 claude but en quadrant 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Autocoaching/202609300949 analyse via psy logsv12 claude but en quadrant.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609300949 analyse via psy logsv12 claude but en quadrant"
-            }
-          },
-          {
-            "id": "9dcc4cf6eb092140",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/TYPE  8 aspiration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TYPE  8 aspiration"
-            }
-          },
-          {
-            "id": "5970f42dc88a4271",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "202501051625 armures selon almaas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202501051625 armures selon almaas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202501051625 armures selon almaas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Enneagramme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":11},\"to\":{\"line\":38,\"ch\":11}},\"scroll\":27.089062213897705}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.166666666666666}"
                 },
                 {
                   "title": "202610021748 qui inspirent les types 6 et quelle lecture",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202610021748 qui inspirent les types 6 et quelle lecture.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202610021748 qui inspirent les types 6 et quelle lecture\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":45.61111160729085}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":111},\"to\":{\"line\":156,\"ch\":111}},\"scroll\":33.53174607619797}"
                 },
                 {
                   "title": "2026010021747 les types 3 tentent d'inspirer les autres",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/2026010021747 les types 3 tentent d'inspirer les autres.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026010021747 les types 3 tentent d'inspirer les autres\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Enneagramme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Enneagramme.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Enneagramme\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":11},\"to\":{\"line\":38,\"ch\":11}},\"scroll\":13.813673279456784}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/202610031202 armure du type 7 revue par claude.md",
+                "file": "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/202610091039 reprise.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -1621,11 +73,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202610031202 armure du type 7 revue par claude"
+              "title": "202610091039 reprise"
             }
           },
           {
-            "id": "c567f56b3ee0f2a3",
+            "id": "b9722d926af08a7c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -1635,29 +87,35 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Garlic Parmesan Melting Cabbage",
+                  "title": "202606171426 main",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/recette/Garlic Parmesan Melting Cabbage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Garlic Parmesan Melting Cabbage\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202606171426 main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606171426 main\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Hot & Sour Cabbage & Beef",
+                  "title": "C4 - livre 2 - chap4 v3",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/recette/Hot & Sour Cabbage & Beef.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hot & Sour Cabbage & Beef\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C4 - livre 2 - chap4 v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"C4 - livre 2 - chap4 v3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "202609231132 REgina insight Choice, ACT",
+                  "title": "202606171426 main",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/202609231132 REgina insight Choice, ACT.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202609231132 REgina insight Choice, ACT\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":25.869542201525302}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202606171426 main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202606171426 main\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":0},\"to\":{\"line\":48,\"ch\":0}},\"scroll\":34.333333333333336}"
+                },
+                {
+                  "title": "202610021748 qui inspirent les types 6 et quelle lecture",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notes/Ideas/202610021748 qui inspirent les types 6 et quelle lecture.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202610021748 qui inspirent les types 6 et quelle lecture\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":2.6785714285714284}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Notes/recette/Hot & Sour Cabbage & Beef.md",
+                "file": "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202610121000 main propre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -1672,11 +130,56 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hot & Sour Cabbage & Beef"
+              "title": "202610121000 main propre"
+            }
+          },
+          {
+            "id": "3dae52d73ca45b2c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "202610121000 main propre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202610121000 main propre.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"202610121000 main propre\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":7.566772899830245}"
+                },
+                {
+                  "title": "C1 - livre 2 - chap1 v3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C1 - livre 2 - chap1 v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"C1 - livre 2 - chap1 v3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":32.047604147593184}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Logs/Psy Log.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Psy Log"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1881,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/202610031202 armure du type 7 revue par claude.md",
+                "file": "Calendar/Autocoaching/202609162056 prompt claude critique de gemini.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1926,15 +429,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
+      "audio-recorder:Démarrer/Arrêter l'enregistrement": false,
+      "workspaces:Gérer les dispositions des espaces de travail": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "publish:Publier les modifications": false,
-      "workspaces:Gérer les espaces de travail": false,
       "bases:Créer une nouvelle base": false,
       "cmdr:Toggle stacked tabs": false,
       "quickadd:QuickAdd": false,
@@ -1947,37 +450,37 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "5970f42dc88a4271",
+  "active": "3dae52d73ca45b2c",
   "lastOpenFiles": [
-    "Atlas/Notes/Ideas/202501051625 armures selon almaas.md",
-    "+/202610031202 armure du type 7 revue par claude.md",
-    "Atlas/Notes/Ideas/202601051555 armure du type 7.md",
-    "Atlas/Notes/Ideas/202601051555 armure du type 3.md",
-    "Atlas/Maps/Enneagramme.md",
-    "Atlas/Notes/Ideas/2026010021747 les types 3 tentent d'inspirer les autres.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202610121000 main propre.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C1 - livre 2 - scene 4 v2.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C1 - livre 2 - scene 2 v2.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C1 - livre 2 - scene 3 v2.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C1 - livre 2 - chap1 v3.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/202606171426 main.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C4 - livre 2 - chap4 v3.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/202610091039 reprise.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C5 - livre2 - chap5 v1.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/202608261102 reprise.md",
+    "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/work/C2 - livre 2 - archi.md",
+    "+/C4 - livre 2 - chap4.1 v2.md",
     "Atlas/Notes/Ideas/202610021748 qui inspirent les types 6 et quelle lecture.md",
-    "+/202610021839 qui inspirent les types 9 et quelle lecture.md",
-    "+/202610021829 qui inspirent les types 8 et quelle lecture.md",
+    "Atlas/Notes/Ideas/2026010021747 les types 3 tentent d'inspirer les autres.md",
+    "Atlas/Maps/Enneagramme.md",
+    "Atlas/Notes/Ideas/202601051136 son type facteur de sabotage pour reconnecter sa qualite essnetielle.md",
+    "Atlas/Notes/Ideas/202507310837 peur de l'echec enneagramme.md",
+    "Atlas/Notes/Ideas/202507290840 enneatype convergence.md",
+    "Calendar/Autocoaching/202609162056 prompt claude critique de gemini.md",
+    "Calendar/2024-09-21.md",
     "+/202610021754 qui inspirent les types 7 et quelle lecture.md",
-    "+/TYPE  8 aspiration.md",
+    "+/202610021829 qui inspirent les types 8 et quelle lecture.md",
     "Calendar/Autocoaching/202609300949 analyse via psy logsv12 claude but en quadrant.md",
-    "Calendar/Autocoaching/202609300949 analyse via psy logsv11 claude but en quadrant 2.md",
-    "+/socrate x.md",
-    "+/ELAN X.md",
-    "Calendar/Autocoaching/20609282051 analyse via psy logs v4 claude.md",
+    "Atlas/Notes/Ideas/202501051625 armures selon almaas.md",
+    "Atlas/Notes/Ideas/202610031202 armure du type 7 revue par claude.md",
+    "Atlas/Notes/Ideas/202610021839 qui inspirent les types 9 et quelle lecture.md",
     "Atlas/Utilities/sources/Human-Design-Blueprint-8318e3a9adc399eb53309795b5eb8ed6.pdf",
-    "Calendar/Autocoaching/202609300949 analyse via psy logsv10 claude but en quadrant.md",
-    "Calendar/Autocoaching/202609292155 analyse via psy logsv9 claude action en quadrant.md",
-    "Calendar/Autocoaching/202609290725 analyse via psy logsv8 claude 1.md",
-    "Calendar/Autocoaching/202609282239 analyse via psy logsv8 gemini.md",
-    "Calendar/Autocoaching/202609282210 analyse via psy logsv7 claude.md",
-    "Calendar/Autocoaching/202609282153 analyse via psy logsv6 gemini tlc.md",
-    "Calendar/Autocoaching/202609282116 analyse via psy logs v5 gemini.md",
-    "Atlas/Maps/MOC TLC liberty code.md",
     "Atlas/Utilities/Images/Final TLC_book_for_Serhio 3.pdf",
     "Atlas/Utilities/Images/00.Document Zero.pdf",
-    "Atlas/Notes/Ideas/202609282119 liberty code book md.md",
-    "Atlas/Utilities/Images/Final TLC_book_for_Serhio 3.md",
     "Atlas/Utilities/Images/6- Protocole pour contrler la douleur.mp3",
     "Atlas/Utilities/Images/5- J_attnue mes douleurs par les couleurs.mp3",
     "Atlas/Utilities/Images/4- Protocole pour arrter de fumer.mp3",

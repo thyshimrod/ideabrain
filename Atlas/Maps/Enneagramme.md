@@ -37,6 +37,7 @@ tags:
 [[2026010021747 les types 3 tentent d'inspirer les autres]]
 
 # 3 centres
+
 [[202008141757 enneagramme resume types]]
 [[202007312148 Enneagramme Les 3 centres ou moyens fondamentaux de s'exprimer]]
 # Compulsion
