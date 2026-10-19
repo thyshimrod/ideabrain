@@ -4,6 +4,14 @@ tags:
   - log
   - psy
 ---
+# 15/10/2026
+
+## Transcription
+*Transcribed from whipscribe-2026-10-15T12-32-23.webm on 2026-10-15 12:34*
+
+C'est une séance du jour. Je suis allé voir de la honte. On a parlé du changement d'activité, de me lancer pleinement dans ma seconde activité, etc. Et aujourd'hui, je vois qu'il y avait pas mal de honte qui étaient présents. On a été abordé le sujet autour de la peur liée à ce que mon père a vécu. L'entrepreneur, il y a les difficultés, les problèmes d'argent, beaucoup de travail, de tout gérer, etc. D'aller voir chez moi aussi la peur d'avoir tout à gérer, marketing, comptabilité, revenus, expertise, travail, etc. On a été voir l'incohérence qu'on avait déjà vu avec Luc, entre liberté et sécurité, cette tension entre les deux. On ne peut pas avoir la liberté et avoir la sécurité en même temps. On a vu avec Regina aussi cette polarisation du bien et du mal, c'est-à-dire que l'indépendance, le freelance, ces formes de travail sont diamétralement opposées. Et du coup, il y en a un qui est bien et l'autre qui est mal. Ça, c'est intéressant à voir. Voir que finalement, il y avait beaucoup de honte chez moi. Et que la honte, elle était là pour me montrer que j'avais peur et que quelque part avoir peur, c'est une faiblesse, etc. Parce que là, quelque part en faisant cette activité, je vais avoir des doutes, avoir des moments difficiles, on met des choses en question et en même temps je vais faire des choses qui me plaisent, qui me satisfont, etc. Mais du coup, j'ai honte d'avoir peur. Je suis un coach, je suis un homme fort, je suis un homme sur qui on peut se reposer, etc. Donc avoir des doutes et avoir des peurs, quelque part, ça me paralyse. Et c'est la honte qui vient à recouvrir tout ça. Donc en plein d'actions, notamment, je pense que faire cette note déjà, c'est important. Et de pouvoir discuter avec des tiers de confiance, surtout ça en fait. Avec Haydn, avec Luke, voilà. Pour justement dégager la honte et pouvoir les toucher à la peur. Et du coup, la peur c'est plus facile à gérer parce que déjà elle est visible et elle parle de quelque chose. Donc voilà, je peux l'adresser, je peux trouver des plans, etc. Alors que la honte, elle me fait agir sur des choses qui sont difficilement agirables et surtout elle cache tout ce qui est vrai en fait.
+
+
 # 21/09/2026
 
 ## Transcription

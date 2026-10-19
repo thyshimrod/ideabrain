@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Remise en jeu - manuscrit",
+      "path": "Brojects/Integral Pathways/produits/Couple integral/Camp 1/livre 2/Remise en jeu - manuscrit.md"
+    },
+    {
       "basename": "Psy Log",
       "path": "Calendar/Logs/Psy Log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Article 1 pour livre v3",
       "path": "Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v3.md"
-    },
-    {
-      "basename": "Article 1 pour livre v2",
-      "path": "Brojects/Integral Pathways/Contents/Versions/Article 1 pour livre v2.md"
     }
   ],
   "omittedPaths": [],
