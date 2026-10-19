@@ -1,12 +1,13 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
+  - "[[Développement personnel]]"
 tags:
-  - blessure
-  - rejet
+  - devperso/blessures
   - abandon
-  - humiliation
-  - trahison
+  - emotions/honte
   - injustice
-  - amour
+  - relation
 ---
 Blessures -- > Masques
 Rejet                Fuyant

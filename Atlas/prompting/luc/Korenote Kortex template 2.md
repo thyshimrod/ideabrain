@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Hook 
 
 _Idées de titres et d'accroches_  

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.2
+chapitre: C3.2
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **3.2 — Le repérage par les signes**
 
 Pour chacune des situations suivantes, repérez la réponse qui ressemble le plus à ce qui se passe chez vous, la plupart du temps. Pas la réponse idéale, pas celle que vous aimeriez donner — celle qui correspond le mieux à ce qui se produit réellement, sans y penser.

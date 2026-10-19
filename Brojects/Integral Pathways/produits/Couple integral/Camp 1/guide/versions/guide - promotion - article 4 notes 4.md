@@ -1,3 +1,16 @@
+---
+type: notes-article
+statut: brouillon
+projet: guide-roles
+serie: guide-roles
+oeuvre: "You've stopped asking. You call it wisdom."
+langue: en
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 L'article 4 c'est _"You've stopped asking. You call it wisdom."_ — la Victime cultivée.
 
 Le thème central : l'accommodation comme stratégie intelligente, la relation à soi qui s'érode, le silence qui passe pour de la maturité.

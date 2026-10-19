@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Moi - biographie et introspection]]"
 title: "Senior Manager - Agile & Innovation Consulting | Saegus"
 source: "https://www.linkedin.com/jobs/view/4320672477/?trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_1_jobid_4320672477_ssid_7385636154_fmid_kw8rt~ms5wuezj~ty&refId=ZtIX7dluSWv%2BNHTQMxCc2g%3D%3D&trackingId=ONKr9TSN%2BKXtWB7pYJmnUQ%3D%3D"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-07-29
 description:
 tags:
-  - "clippings"
+  - moi
 ---
 Senior Manager - Agile & Innovation Consulting
 

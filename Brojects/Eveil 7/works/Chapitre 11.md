@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.11
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Voici une **traduction complète, fluide et fidèle en anglais**, en conservant la **profondeur**, le **rythme narratif**, et un **anglais accessible mais incarné** (ni trop académique, ni trop marketing).
 
 ---

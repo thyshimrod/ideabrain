@@ -1,8 +1,9 @@
 ---
+type: log
+statut: actif
 tags:
   - cnv
   - coaching
-  - difference
 ---
 Il y a quelque chose à regarder chez moi, mais je retourne dans ce sentiment de toute puissance. Quand les gens me parlent, je détecte rapidement la pile de blessures, et leur enchaînement.
 Du coup, je suis peut être jugeant, et réducteur. Mais je ressens tellement fort tout ce qui se passe en eux, et la structure d'entremêlement. Et il s'agit sûrement de la couche supérieure visible car ils n'ont visiblement pas regardé, ou sont encore en refus de changer.

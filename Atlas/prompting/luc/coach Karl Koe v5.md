@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 ## **Karl Koe V5 : Spécifications Finales Fusionnées** 
 

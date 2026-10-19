@@ -1,12 +1,13 @@
 ---
 tags:
-  - pascal
+  - moi
   - analyse
   - psy
   - introspection
-  - enneagramme7to5
-  - spirale-dynamique
+  - enneagramme
+  - spiraledynamique
   - cnv
+  - ia/prompt
 ---
 ---
 tags:

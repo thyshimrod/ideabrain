@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 title: Garlic Parmesan Melting Cabbage
 source: https://mymanabites.com/garlic-parmesan-melting-cabbage/?utm_campaign=IG_comment&utm_medium=social&utm_source=gro
 author:
@@ -7,9 +9,8 @@ published: 2026-08-28
 created: 2026-09-23
 description: This Garlic Parmesan Melting Cabbage is going to have you forget every other way of eating cabbage. Thick wedges of green cabbage get seared in olive oil until golden and caramelized on both sides, creating a crispy exterior while keeping the inside tender. The real magic happens when you build a creamy, garlicky, buttery sauce […]
 tags:
-  - clippings
-  - keto
-  - recettes
+  - sante/keto
+  - sante
 ---
 This Garlic Parmesan Melting Cabbage is going to have you forget every other way of eating cabbage. Thick wedges of green cabbage get seared in olive oil until golden and caramelized on both sides, creating a crispy exterior while keeping the inside tender. The real magic happens when you build a creamy, garlicky, buttery sauce right in the same pan: melted butter coats the bottom, then diced onions and a shallot get cooked until soft and golden. Chicken broth and heavy cream get poured in, creating a luscious, silky sauce that simmers gently. Then the seasonings go in, letting the garlic powder, smoked paprika, and other flavors bloom throughout the sauce. Freshly grated Parmesan cheese melts into the sauce, along with bright lemon juice for balance. The cabbage goes back into the pan, gets coated with all that gorgeous sauce, and then everything roasts in the oven for 25 to 30 minutes until the cabbage is tender and the sauce bubbles up around the edges and turns golden. The result is pure perfection: creamy, buttery, cheesy cabbage finished with fresh parsley. This is the kind of side dish that steals the show, or a light main course that feels absolutely indulgent. Every bite has tender cabbage, silky sauce, and that wonderful melted Parmesan flavor.
 

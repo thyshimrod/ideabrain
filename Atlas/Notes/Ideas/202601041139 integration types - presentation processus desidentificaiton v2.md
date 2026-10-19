@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - integration
-  - desidentification
+  - enneagramme/integration
+  - devperso/desidentification
 ---
 Merci pour la précision : elle est importante, et elle change réellement la nature de la réponse.  
 Je vais donc **changer de posture** :

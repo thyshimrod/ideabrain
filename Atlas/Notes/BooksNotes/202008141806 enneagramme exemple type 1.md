@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type1
+  - enneagramme/type1
 ---
 # enneagramme exemple type 1
 

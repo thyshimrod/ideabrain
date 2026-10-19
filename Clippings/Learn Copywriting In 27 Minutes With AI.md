@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[SoloPreneur MAP]]"
 title: "Learn Copywriting In 27 Minutes With AI"
 source: "https://www.youtube.com/watch?v=vNJV6m5hkkI"
 author:
@@ -7,7 +9,7 @@ published: 2025-05-02
 created: 2025-05-22
 description: "#electropop #edm #2010sWould you like to finance and support more projects? 🤎Buymeacoffe: https://www.buymeacoffee.com/AlbertCT💙PayPal:  https://www.paypal..."
 tags:
-  - "clippings"
+  - business/ecriture
 ---
 ![](https://www.youtube.com/watch?v=vNJV6m5hkkI)  
 

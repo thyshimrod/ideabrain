@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+---
 # PASCAL OGIL
 
 ## Coach agile @ Scale& Coach professionnel

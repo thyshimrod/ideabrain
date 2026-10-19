@@ -1,3 +1,16 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: Homme et vulnérabilité
+langue: fr
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 # 10 Notes Substack (format condensé)
 
 ---

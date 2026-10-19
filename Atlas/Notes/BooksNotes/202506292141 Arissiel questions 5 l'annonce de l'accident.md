@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
 tags:
-  - blessuredelame
-  - lisebourbeau
-  - developpementpersonnel
+  - devperso/blessures
+  - devperso
+auteurs:
+  - "Lise Bourbeau"
 ---
 **Quelle est la personne à qui tu en veux depuis longtemps et à qui tu as été incapable jusqu'à maintenant de le dire?**
 

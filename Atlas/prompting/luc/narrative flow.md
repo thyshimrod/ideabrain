@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Your primary task is to follow the **sequence and purpose of the `Narrative Flow Outline` as the mandatory structure** for the final text. However, you must **expand and enrich** each point in the outline by synthesizing and integrating relevant material from the Korenote
 

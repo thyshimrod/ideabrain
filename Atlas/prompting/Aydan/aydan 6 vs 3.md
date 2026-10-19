@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 Ton amie de type 6 (Ennéagramme) – loyale, orientée sécurité, collective – fait face à un défi complexe avec ce type 3 (réussisseur, individualiste, niveau 6 de santé) dans un contexte agile chez EDF. Je vais te proposer des stratégies concrètes, ancrées dans l’Ennéagramme, la Spirale Dynamique (mèmes), et des principes agiles, pour qu’elle puisse collaborer avec ce RTE (Release Train Engineer) sans se trahir ni perdre son énergie. On part de tes données : elle est coach agile depuis 6 mois, lui est nouveau, charmeur, dominateur, axé sur ses exploits (35 PI Plannings, SPC), et joue des jeux psychologiques de soumission. Elle est probablement en Vert-Jaune (collaboration, systémique), lui en Bleu-Orange (contrôle, performance). Voici une analyse et des pistes mordantes, mais pratiques, pour qu’elle garde son âme et avance.  
   
 ---  

@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: guide-roles
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 C'est la bonne approche — et pour une raison précise.
 
 Un article unique de lancement fait une pointe, puis retombe. Une série crée une dynamique cumulative : chaque article amène des lecteurs qui remontent lire les précédents, et les notes quotidiennes gardent la visibilité entre les publications. C'est exactement comme ça que les Substacks convertissent.

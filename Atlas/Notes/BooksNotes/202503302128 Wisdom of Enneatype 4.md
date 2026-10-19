@@ -1,13 +1,14 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peur
+  - emotions/peur
   - evolution
-  - integration
-  - desir
-  - healthy
-  - desintegration
-  - type4
+  - enneagramme/integration
+  - couple/desir
+  - enneagramme/desintegration
+  - enneagramme/type4
 ---
 
 Le Type de personnalité QUATRE : L’individualiste

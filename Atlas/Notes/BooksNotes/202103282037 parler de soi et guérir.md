@@ -1,14 +1,15 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - guerison
   - cnv
-  - authentique
-  - Lacan
+  - authenticite
 author: Thomas D'ansembourg
 book: cessez d'être gentil, soyez vrai
 ---
 
-Tags : #guerison, #CNV, #Authenticité, #Lacan
+Tags : #guerison, #cnv, #authenticite, #Lacan
 
 <!-- References :
  Thomas D'ansembourg : cessez d'être gentil, soyez vrai 

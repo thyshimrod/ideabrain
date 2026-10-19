@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Productivité et loi du temps]]"
 tags:
-  - satisfaction
   - frustration
   - plaisir
+  - productivite
 ---
 
 La vie est faite de souffrance. Dont acte.

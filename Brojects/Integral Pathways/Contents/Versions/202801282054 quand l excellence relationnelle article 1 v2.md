@@ -1,3 +1,17 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: excellence-relationnelle
+oeuvre: Le tableau de bord conjugal
+langue: fr
+tags:
+  - couple
+  - couple/desir
+  - devperso
+  - relation
+---
+
 # Le Tableau de Bord Conjugal
 
 ## Quand l'excellence relationnelle devient un piège

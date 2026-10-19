@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: La réciprocité fantôme
+langue: en
+reference: true
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 # The Phantom Reciprocity — when what we call intimacy might not be
 
 There's a sentence I received one evening, in a relationship that mattered deeply to me.

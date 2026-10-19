@@ -1,3 +1,12 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - penseeplate
+---
+
 Voici ma lecture critique, en tenant compte de ton objectif : **toucher principalement Orange (40 %), Vert (30 %), et Jaune (30 %)**, tout en servant de point d’entrée à ton réseau et à ta vision.
 
 ---

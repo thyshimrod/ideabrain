@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.3
+chapitre: C1.3
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **Scène 3 — La semaine bien remplie**
 
 Lundi, Inès a son cours de yoga à 19h. Julien reste avec les enfants, commande une pizza, regarde un match en replay. Mardi, c'est Julien qui a foot — le petit tournoi entre collègues qu'il ne rate jamais. Inès profite de la soirée pour avancer sur le projet déco du salon, celui qu'elle a en tête depuis des mois. Mercredi, dîner chez Camille et Thomas, entre amis. Ils rient beaucoup, Julien raconte une anecdote de boulot qui fait mouche, Inès se sent légère.

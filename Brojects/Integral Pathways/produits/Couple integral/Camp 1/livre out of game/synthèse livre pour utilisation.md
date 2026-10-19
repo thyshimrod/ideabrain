@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
 
 Voici un résumé complet et structuré du livre **« Couple Intégral — Module 1 : Les jeux de base »**, basé sur l'Analyse Transactionnelle, la Communication NonViolente (CNV) et le Triangle de Karpman.
 

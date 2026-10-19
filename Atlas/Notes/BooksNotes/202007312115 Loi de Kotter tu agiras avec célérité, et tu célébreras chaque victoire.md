@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Productivité et loi du temps]]"
 tags:
-  - kotter
-  - loi_du_temps
+  - productivite/loi-du-temps
+  - productivite
 ---
 # Loi de Kotter tu agiras avec célérité, et tu célébreras chaque victoire
 

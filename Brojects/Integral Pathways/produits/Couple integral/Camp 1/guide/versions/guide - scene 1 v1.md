@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **Scène 1 — La conversation qui déraille** Ton partenaire te raconte quelque chose de difficile. Tu écoutes. À un moment tu dis quelque chose — une observation, une nuance, une question. Il ou elle se ferme. Tu ne comprends pas ce qui vient de se passer.
 
 ---

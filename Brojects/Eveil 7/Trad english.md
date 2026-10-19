@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 [[MOA Vivre pleinement son 7]]
 
 [[Introduction]]

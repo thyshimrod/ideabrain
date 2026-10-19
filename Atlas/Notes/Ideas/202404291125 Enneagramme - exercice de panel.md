@@ -1,9 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - accompagnement
-  - test
-  - panel
+  - coaching
 ---
 
 

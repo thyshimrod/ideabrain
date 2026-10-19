@@ -1,7 +1,10 @@
 ---
+type: autocoaching
+prive: true
+statut: archive
 tags:
   - autocoaching
-  - kegan
+  - stades/kegan
 ---
 # Prompt
 

@@ -1,3 +1,11 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+tags:
+  - enneagramme
+  - spiraledynamique
+---
 Voici **le protocole intégral du TYPE 8**, couleur par couleur, dans le **même format précis** que celui validé (forces, ombres, blessures, travail, mini-protocole).  
 Le type 8 incarne la **puissance, la présence, la protection**, mais porte des ombres profondes de vulnérabilité non dite et de contrôle vital.
 

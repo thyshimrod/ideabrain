@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 # PROMPT DE REPRISE — SABOTAGES, ARGENT, VENTE : LECTURE CROISÉE ENTRE IA
 
 ## Version du 28 septembre 2026 — conçu pour être collé tel quel dans n'importe quel modèle

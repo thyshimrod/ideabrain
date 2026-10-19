@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 JE suis un solo preneur. Dans le but de lancer mon activité sur un produit. Je souhaite commencer par me faire connaître, sur la base de choses existantes. Mon produit différentiant viendra dans un deuxième temps.
 Je vois que beaucoup de solo preneur ont commencé par du copywriting, ce qui fait sens, car cela permet d'utiliser des recettes ou des thèmes qui marchent bien, et de commencer à capturer un public, d'augementer le nombre de followers.
 Du coup, je te propose d'analyser l'article en pièce jointe, écrit par un auteur, que j'apprécie, et qui a de l'influence.

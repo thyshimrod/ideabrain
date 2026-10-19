@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: Le piège du missionnaire
+langue: en
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # The Missionary Trap — When You Want to Bring the Other Person Along in Your Own Growth
 
 _Series "Growing — Without Losing the Other" · Article 4 · Free_

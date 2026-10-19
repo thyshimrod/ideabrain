@@ -1,8 +1,8 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - cnv
-  - girafe
-  - chacal
 ---
 Une remarque intéressante, est qu'il faut rester humble, et on ne devient pas girafe simplement.
 

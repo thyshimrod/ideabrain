@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 # Luc-prompt systemique
 
 Le prompt :

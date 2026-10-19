@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[Communautés et communs]]"
+  - "[[Spirale Dynamique]]"
 tags:
   - spiraledynamique
-  - holacratie
-  - coachs
-  - communauté
-  - bienetre
+  - agile/transformation
+  - coaching
   - bienveillance
 ---
 Création d'une communauté de coachs en mode holacratie dans une société.

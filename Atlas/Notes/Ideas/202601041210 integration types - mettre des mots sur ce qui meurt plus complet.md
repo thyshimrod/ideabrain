@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - desidentification
+  - devperso/desidentification
   - identite
-  - changement
+  - devperso/changement
+  - enneagramme/integration
 ---
 Très bien, merci pour la précision — elle est importante.  
 Je vais donc **reformuler intégralement**, en quittant volontairement tout registre poétique, métaphorique ou “impactant”, pour adopter un **style analytique, explicatif et argumenté**, tel qu’on pourrait l’avoir entre deux praticiens expérimentés travaillant sur une question de fond.

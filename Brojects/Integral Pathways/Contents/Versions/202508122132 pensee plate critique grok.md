@@ -1,3 +1,12 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - penseeplate
+---
+
 ### Lecture Critique de l'Article : Une Perspective Externe
 
 En tant que critique indépendant spécialisé en rédaction persuasive, en analyse de contenu mindset et en théories de développement personnel (comme la Spirale Dynamique et les approches somatiques), je vais examiner cet article intitulé "Brisez les chaînes de la pensée plate : forgez votre succès vivant". Je m'appuierai sur les guidelines V5.5 fournies pour le style de Dan Koe, ainsi que sur la Korenote originale ("why-solutions-fail-Korenote") comme source primaire. Mon analyse portera sur la **forme** (structure, style, respect des directives V5.5) et le **contenu** (fidélité aux idées, profondeur, répartition thématique). Je viserai l'objectivité, en soulignant les points forts, les faiblesses et des suggestions constructives, comme si je n'avais aucune implication dans sa création. Pour vérifier les références (ex. : citations de Taleb ou Harari), j'ai consulté des sources fiables via une recherche rapide, sans altérer mon évaluation.

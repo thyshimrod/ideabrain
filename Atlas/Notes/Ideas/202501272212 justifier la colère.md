@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Colere]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - colere
-  - justifier
+  - emotions/colere
   - cnv
 ---
 Vu en formation. Je vois que certains sont tellement habitués à la colère, et doivent surement en porter la culpabilité ou la honte, qu'ils ont besoin de se justifier.

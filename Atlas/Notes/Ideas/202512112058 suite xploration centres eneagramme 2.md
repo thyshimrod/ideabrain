@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Enneagramme]]"
+tags:
+  - enneagramme
+---
 ### Reconnexion aux Centres pour les Types 3, 6 et 9 de l'Ennéagramme
 
 Les types 3 (centre émotionnel/cœur), 6 (centre mental/tête) et 9 (centre instinctif/corps) sont uniques car leur centre dominant est également réprimé, créant une "personnalité divisée" où ils s'adaptent au monde extérieur au détriment de leur essence interne. Cela les rend pragmatiques et adaptables, mais déconnectés de leurs émotions authentiques (3), pensées indépendantes (6) ou instincts viscéraux (9). La reconnexion vise à intégrer ces centres pour reclaim des qualités essentielles : espoir pour le 3, foi pour le 6, et amour inconditionnel (y compris envers soi) pour le 9. Je vais détailler pour chaque type la manière de se reconnecter, les difficultés, si cela fait sens, et les conséquences, en m'appuyant sur le triangle intérieur (lignes d'intégration) et des pratiques de croissance.

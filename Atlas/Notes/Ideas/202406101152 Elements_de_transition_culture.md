@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Spirale Dynamique]]"
+  - "[[Transfo agile]]"
 tags:
   - spiraledynamique
-  - transformation
-  - orange
-  - vert
+  - devperso/changement
+  - spiraledynamique/orange
+  - spiraledynamique/vert
   - culture
 ---
 généré par chatgpt

@@ -1,11 +1,12 @@
 ---
+up:
+  - "[[Couple]]"
+  - "[[Jeux Psychologiques]]"
 tags:
-  - karpman
-  - sauveur
-  - changement
-  - developpementpersonnel
-  - AT
-  - equilibre
+  - at/karpman
+  - devperso/changement
+  - devperso
+  - at
   - relation
 ---
 le beau rôle est donné aujourd'hui au sauveur de manière générale. C'est surement en lien avec notre société basé sur le christianisme. 

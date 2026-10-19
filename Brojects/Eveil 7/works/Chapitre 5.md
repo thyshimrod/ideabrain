@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.5
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### The Power of Type 7
 
 Your type 7 is a superpower – until it becomes your prison. This chapter isn't a flat description; it's your wake-up call to transform your traits into strengths and your compulsions into allies. As a type 7, the Enthusiast par excellence, I long saw my optimism as an invincible weapon: a ability to bounce back from any failure, to reframe reality into an exciting adventure, to fill my life with options so as never to get bored.

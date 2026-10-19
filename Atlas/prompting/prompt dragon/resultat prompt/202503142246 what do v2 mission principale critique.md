@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici une analyse externe de la proposition "Architecte de Résilience Organique" pour votre activité principale, comme si je n’en étais pas l’auteur. Je vais évaluer son intérêt général, son attrait pour les décideurs (DSI, DRH, Directeurs, Comex), son réalisme d’implémentation, les points d’attention, les prérequis nécessaires, et sa viabilité économique. Mon regard sera critique, objectif, et orienté vers des angles pratiques et stratégiques, en m’appuyant sur votre Markdown mis à jour et les tendances actuelles, tout en restant fidèle à votre exigence de profondeur et de non-conventionnalité.
 
 ---

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.1
+chapitre: C1.1
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 # Scène 1 — Le dimanche bien géré
 
 Il est 9h. Sophie a déjà sorti le planning de la semaine. Les activités des enfants, le rendez-vous chez le dentiste mercredi, les courses à faire avant 11h parce que l'après-midi c'est le match de foot de Théo. Marc acquiesce, reprend son café, note mentalement ce qu'il doit faire.

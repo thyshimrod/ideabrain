@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Concernant les 3 orientations professionnelles différentiantes, J'aimerai que tu me refasses une analyse depuis l'extérieur (comme si tu n'étais pas le réalisateur de ce prompt ou de ce résultat). Que penses tu de ce résultat? Est ce que cela va parler à des décideurs (donc acheteur). Dans quel mesure ce plan te semble réaliste à implémenter? Quels sont les points d'attention? Quels sont les pré requis? Le but étant d'en faire une activité viable.
 

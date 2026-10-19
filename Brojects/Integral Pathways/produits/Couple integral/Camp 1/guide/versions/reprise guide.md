@@ -1,3 +1,15 @@
+---
+type: reprise
+projet: guide-roles
+statut: archive
+perimetre: guide
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 # PROMPT DE REPRISE DE SESSION — INTEGRAL PATHWAYS / COUPLE & DÉVELOPPEMENT
 
 ## Version 3 — contexte complet incluant le guide en cours

@@ -1,6 +1,5 @@
 ---
-tags:
-  - EveilVivant
+projet: eveil-vivant
 ---
 # Thématiques
 

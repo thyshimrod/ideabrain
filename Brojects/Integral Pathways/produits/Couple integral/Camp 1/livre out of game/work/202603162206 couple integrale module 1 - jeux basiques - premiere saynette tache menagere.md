@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Parfait. On commence par la scène 1 — Les tâches ménagères / "La Jambe de Bois".
 
 Je vais produire la structure complète telle qu'on l'a définie ensemble, avec les deux niveaux solo/duo. Dis-moi ce qui sonne juste, ce qui est trop théorique, ce qui manque de chair — et on affine avant de passer à la scène 2.

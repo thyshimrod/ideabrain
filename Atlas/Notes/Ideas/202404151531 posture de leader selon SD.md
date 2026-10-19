@@ -1,11 +1,15 @@
 ---
+up:
+  - "[[Agilité]]"
+  - "[[Coaching]]"
+  - "[[Spirale Dynamique]]"
 tags:
   - leadership
-  - manager
+  - agile/management
   - spiraledynamique
-  - posture
+  - coaching/posture
   - choix
-  - jeuxpsychologiques
+  - at/jeux
   - souffrance
   - conscience
 ---

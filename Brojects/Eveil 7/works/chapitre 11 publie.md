@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: publie
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.11
+langue: fr
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 ### Introduction
 

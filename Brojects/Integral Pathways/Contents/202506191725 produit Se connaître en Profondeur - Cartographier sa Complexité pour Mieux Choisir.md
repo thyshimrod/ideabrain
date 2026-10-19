@@ -1,3 +1,15 @@
+---
+type: produit
+statut: brouillon
+projet: integral-pathways
+oeuvre: Se connaître en profondeur
+langue: fr
+reference: true
+tags:
+  - devperso
+  - integral
+---
+
 Bien sûr. Voici une **déclinaison complète du produit #3 : "Cartographie de sa propre complexité"**, pensé comme un **PDF payant à 9-15 €**, destiné à un public de niveau Jaune (autonome, curieux de soi, en transition, désireux de comprendre ses dynamiques internes pour mieux choisir ses environnements).
 
 ---

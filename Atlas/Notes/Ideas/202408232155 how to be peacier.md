@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Développement personnel]]"
+  - "[[Productivité et loi du temps]]"
 tags:
-  - developpementpersonnel
+  - devperso
   - coaching
-  - stucked
 ---
 When you
 

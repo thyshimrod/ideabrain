@@ -1,3 +1,13 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 #### Chapitre 4 : Intégration Spirale Dynamique : Couleurs et Croissance du Type 7
 

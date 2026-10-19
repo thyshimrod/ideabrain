@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 🔥 Parfait. Tu veux **scaler ton savoir** au lieu de l’échanger contre du temps. C’est exactement ce qu’il faut faire **si tu veux bâtir un empire, pas juste un cabinet de coaching.**
 

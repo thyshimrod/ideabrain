@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - moduleminute
-  - kenWilber
-  - vieintegrale
+  - integral/pratique
+  - integral
+auteurs:
+  - "Ken Wilber"
 ---
 ## Module Minute
 Le matin : (avant de sortir du lit), revoyez votre dernier rêve et identifiez une personne ou un objet portant une charge émotionnelle. Regardez en face cette personne ou cet objet el gardant à l'esprit. Puis parlez lui, résonnez avec lui, tout en ressentant le fait d'être face à face avec lui. Finalement, soyez le en voyant les choses de son point de vue. Pour cet exercice rapide, il n'est pas nécessaire d'écrire, vous pouvez parcourir l processus par la pensée.

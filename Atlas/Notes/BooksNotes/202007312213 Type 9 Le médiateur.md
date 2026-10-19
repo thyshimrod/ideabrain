@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type9
+  - enneagramme/type9
 ---
 
 # Type 9 Le médiateur

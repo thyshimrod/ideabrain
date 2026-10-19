@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=568537&idpage=3098656&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-08-05
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## LES TECHNIQUES D’INDUCTION RAPIDE
 

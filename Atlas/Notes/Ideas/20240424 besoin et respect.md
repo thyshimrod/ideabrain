@@ -1,10 +1,14 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Colere]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
   - respect
-  - besoin
-  - stratégie
-  - demande
+  - cnv/besoins
+  - strategie
+  - cnv/demande
   - pouvoir
 ---
 

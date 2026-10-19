@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Développement personnel]]"
+---
 
 - Penser plutôt que coacher, [**Oscar Brenifier**](https://www.linkedin.com/in/oscarbrenifier/)  
 qui offre une comparaison entre philosophie pratique et developpement personnel  

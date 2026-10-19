@@ -1,9 +1,10 @@
 ---
+up:
+  - "[[Citations]]"
 tags:
   - vie
   - citation
-  - jeu
-  - Laing
+  - at/jeux
 author: Alan Watts
 ---
 

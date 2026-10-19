@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.1
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan Détaillé du Chapitre 1 : Découverte de l’Ennéagramme : Origines et Unicité
 
 Ce plan est conçu pour un chapitre introductif concis, ne dépassant pas 8 pages (environ 2000-2500 mots, format standard A5 avec marges 2 cm, police 12 pt, interligne 1.5 – ajustable selon édition). Il s'appuie sur votre prémice (rappel court Ennéagramme, unicité vs patterns, identification via stress/"côté obscur", graines types, différences tests, espoir transcendance, intro Spirale bleu pour structure), avec ton personnel/anecdotique ("je" pour type 7), exercices interactifs (quiz, journal), et critique équilibrée. Structure en 5 sections principales pour fluidité : hook/intro, origines/contexte, unicité/identification, différences/espoir, conclusion/exercices. Chaque section inclut objectifs, contenu clé, longueur estimée, et suggestions rédaction (visuals, ton). Total : ~2200 mots, 7-8 pages.

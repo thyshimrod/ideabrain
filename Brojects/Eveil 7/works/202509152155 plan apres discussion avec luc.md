@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan Détaillé du Livre : "Transcender le Type 7 : Du Pattern à l'Éveil Conscient"
 
 Voici une version étendue et détaillée du plan du livre, construite à partir de votre prémice initiale dans "premisses de la korenote.md" (focus sur le type 7, unicité vs patterns, identification via stress/"côté obscur", graines de tous les types, chemin de progression dynamique : découverte outil, insights différences, meta-comportements, conscience automatismes, expérimentation healthy, étude pourquoi enfance, guérison vs atténuation symptômes, espoir transcendance/reintégration ou sortie ego, analogie Spirale Dynamique pour progression lecteur : bleu-structure, orange-développement, vert-holistique, turquoise-reliance). J'ai intégré les critiques et ajustements des échanges précédents : ajout d’un "why" motivant par chapitre, nuances Spirale Dynamique (couleurs variables par contexte), définitions claires (douleur vs souffrance), fluidité ombre (progressive), et transcendance nuancée (paradoxe liberté, éveil n’importe où). Chaque chapitre inclut un contenu overview étendu, lien à la prémice, intégrations références (Chestnut-sous-types/shadow, Robins-conscious/embodied, Hudson-niveaux/releases, Cron-narration), exercices avec hiérarchie itérative (surface-moyen-profond) et 4 parties (changer, moyen, pratique, attente), fit Spirale, suggestions conception/écriture (structure interne, ton, longueur, visuals comme quizzes/checklists, QR audios, cahier détachable), et bundle achat (livre + audio + printable à 25€, site teasers quizzes). Les chapitres sont conçus pour un lecteur typé 7, avec ton personnel/anecdotique ("je" pour partager mon vécu), et progression : découverte (chap. 1-5), conscience/sabotages (chap. 6-7), évolution healthy/intégration (chap. 8-10), déprogrammation consciente (chap. 11-12). Longueur totale : 250-300 pages, 20-30 pages/chapitre. Couverture : couleurs spirale, tagline "Libérez votre joie sans FOMO – Le chemin du 7 vers l’éveil".

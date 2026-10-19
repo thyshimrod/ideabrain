@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: La dispute a commencé avant que tu rentres
+langue: fr
+reference: true
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 # La dispute a commencé avant que tu rentres.
 
 ## Et tu n'étais même pas là.

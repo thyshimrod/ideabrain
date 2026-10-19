@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Exercices par Groupe pour Explorer et Transcender l'Ombre du Type 7
 
 Voici une régénération complète de la réponse précédente, avec un texte plus fluide et détaillé pour une lecture aisée. J'ai évité les raccourcis comme "sentez tension plexus" en expliquant chaque étape de manière narrative et accessible. Chaque exercice est maintenant structuré en 4 parties claires : (1) **Ce qu'on aimerait changer** (le problème/sabotage ciblé), (2) **Le moyen d'y arriver** (la stratégie globale), (3) **Description de la pratique** (étapes détaillées), et (4) **Ce qu'on attend de la pratique** (résultats attendus et bénéfices). Cela rend l'approche itérative plus concrète : commencez par observer (surface), analysez (moyen), confrontez (profond). Les exercices sont inspirés des références (Chestnut pour shadow/sous-types, Robins pour embodied/conscious, Hudson pour releases/affirmations, Cron pour narration, Wigglesworth pour Spirale), et adaptés à votre insight (peur de décider, conformisme masqué, non-soin de soi lié à trauma restriction). Durée suggérée : 20-40 min par session, sur 1-2 semaines, avec un journal pour noter les insights. Commencez par Groupe 1 (interne) pour bâtir confiance, puis Groupe 2 (externe) pour application.

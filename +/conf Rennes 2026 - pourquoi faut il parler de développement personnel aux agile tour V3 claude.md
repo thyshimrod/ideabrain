@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Agilité]]"
+---
 ## Mon analyse de la proposition Gemini
 
 C'est une bonne base, solide et bien structurée. Mais je vais être direct : **elle manque de chair et de danger.**

@@ -1,13 +1,17 @@
 ---
+type: contenu
+format: video
+plateforme: youtube
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[Videos]]"
+  - "[[Jeux Psychologiques]]"
 created: 2024-07-20
 tags:
   - cnv
-  - jeuxpsychologiques
-  - AT
-rank: "5"
+  - at/jeux
+  - at
 ---
 
 Saint valentin, un homme doit savoir qu'il doit m'offrir des fleurs, si c'est moi qui demande, c'est comme si je le forçais.

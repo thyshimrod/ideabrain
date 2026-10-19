@@ -1,3 +1,9 @@
+---
+type: autocoaching
+prive: true
+statut: courant
+reference: true
+---
 # Synthèse — sabotages, profil, chemins d'exploration
 
 ## Document de référence — 28 septembre 2026

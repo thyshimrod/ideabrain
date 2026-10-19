@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Contenu Interactif Ajouté par Chapitre pour Rendre le Livre Plus Interactif
 
 Pour rendre votre livre *"Transcender le Type 7 : Du Pattern à l'Éveil Conscient"* plus interactif, je propose d'intégrer des éléments comme des quizzes courts (5-10 questions pour auto-évaluation fun), des checklists printables (listes à cocher pour tracking), des QR codes pour audios guidés ou ressources en ligne (ex. : méditations, worksheets téléchargeables sur un site fictif comme "transcender7.com"), et un cahier détachable à la fin du livre pour notes/exercices. Cela transforme le livre en compagnon dynamique, adapté au lecteur type 7 (curieux, dispersé, attiré par le fun), en évitant l'ennui théorique. Pour les contenus en ligne, le livre inclurait des références light (ex. : "Pour le quiz complet, scannez le QR ou visitez transcender7.com/chap1"), avec teaser gratuit sur site pour booster ventes. Chaque chapitre reçoit 1-3 ajouts, intégrés après sections clés, pour fluidité. Voici les détails par chapitre.

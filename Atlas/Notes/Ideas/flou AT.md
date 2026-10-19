@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Jeux Psychologiques]]"
+tags:
+  - at
+---
 
 
 # Analyse Transactionnelle : Le Flou et ses Bénéfices Secondaires

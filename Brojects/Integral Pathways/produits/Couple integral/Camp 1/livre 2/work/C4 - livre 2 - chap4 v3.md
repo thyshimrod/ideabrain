@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C4
+chapitre: C4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 Voici le chapitre 4 réécrit, avec le paysage réduit à une simple ouverture de transition (une phrase, pas un fil filé), la partie "trois entités" retirée pour le Ch.6, et les deux notions restantes développées en profondeur sur Sophie et Marc.
 

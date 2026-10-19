@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Pour répondre à ta demande, je vais créer un **guide numérique** pour les camps de base physiques adaptés aux neuf types de l’Énéagramme, conçu pour être partagé sur une plateforme P2P (ex. Loomio, Open Collective) afin d’inspirer le collectif non conscient à rejoindre le **réseau micellaire** dans le cadre de ta vision turquoise : **tisser une conscience micellaire sous un ciel de constellations**. Ce guide s’appuie sur les exemples concrets proposés précédemment (ex. coopératives, fablabs, cuisines communautaires), inspirés par **Michel Bauwens** (commons-based peer production, CBPP) et **Elinor Ostrom** (gestion des communs), pour ancrer le **quadrant corps** (expériences physiques et tangibles). Il est structuré pour être clair, inclusif, et non directif, intégrant les images stellaires, les quadrants de Wilber (corps, ombre, mental, esprit), et la Spirale Dynamique (y compris le rouge), tout en restant aligné avec ton intuition HPI. Le guide est conçu pour être téléchargeable ou partagé en ligne, encourageant la co-création et l’émergence organique du réseau.
 
 ---
@@ -232,7 +236,7 @@ Le **réseau micellaire** est un tissu vivant d’étoiles humaines, chacune rep
 ## Diffusion du guide
 
 - **Plateformes P2P** : Publiez le guide sur **Loomio** (pour la gouvernance participative), **Open Collective** (pour le financement transparent), ou **GitHub** (pour la documentation open source).
-- **Réseaux sociaux** : Partagez des extraits sur **X** avec des hashtags comme #RéseauMicellaire, #Énéagramme, #Commons, pour atteindre le collectif non conscient.
+- **Réseaux sociaux** : Partagez des extraits sur **X** avec des hashtags comme #RéseauMicellaire, #enneagramme, #Commons, pour atteindre le collectif non conscient.
 - **Communautés turquoise** : Collaborez avec des groupes comme la P2P Foundation ou Game B pour organiser des camps pilotes.
 - **Format** : Téléchargez le guide en Markdown ou convertissez-le en PDF pour une diffusion facile.
 

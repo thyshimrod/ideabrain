@@ -1,3 +1,16 @@
+---
+type: notes-article
+statut: brouillon
+projet: eveil-vivant
+serie: vulnerabilite
+oeuvre: Pourquoi « Soyez vulnérable » crée du retrait
+langue: fr
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 Pour maintenir l'intérêt sur la durée, il faut varier les angles : certains doivent piquer l'ego, d'autres offrir une lueur d'espoir, et d'autres encore apporter une clarté purement technique.
 
 Voici 10 Notes prêtes à l'emploi, classées par "vibration" :

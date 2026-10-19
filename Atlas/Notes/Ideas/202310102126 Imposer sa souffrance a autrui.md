@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Couple]]"
 tags:
   - souffrance
   - cnv
-  - domination
+  - at/rebellion
   - relation
   - exigence
   - authenticite

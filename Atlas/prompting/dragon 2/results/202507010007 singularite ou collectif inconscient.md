@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Prompt
 
 Est ce que tu as connaissance de textes ou de pensées qui ressemblent à ma vision? 

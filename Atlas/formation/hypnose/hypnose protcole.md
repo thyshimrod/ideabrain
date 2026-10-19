@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Hypnose]]"
+tags:
+  - hypnose
+---
 
 Voici un **script d'induction complet, verbe par verbe et hautement détaillé**, conçu selon les règles de l'hypnose ericksonienne classique et de la Nouvelle Hypnose.
 

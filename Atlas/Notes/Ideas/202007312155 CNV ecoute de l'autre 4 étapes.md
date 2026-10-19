@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - processus
   - cnv
-  - ecoute
+  - coaching/ecoute
 ---
 
 

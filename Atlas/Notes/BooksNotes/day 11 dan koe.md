@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Bienvenue au jour 11, regardez !
 
 Jusqu'à présent, nous avons :

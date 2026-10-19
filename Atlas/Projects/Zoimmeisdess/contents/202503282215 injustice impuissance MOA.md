@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Honte, culpabilité et colère]]"
+tags:
+  - emotions
+---
 
 [[202503282215 analyse injustice impuissance]]
 

@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.6
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - integral/ombre
+---
+
 Ces propositions gardent l’esprit du chapitre (intégration de l’ombre) mais dans un ton **simple, incarné et libérateur** — conçu pour que le lecteur 7 _ressente, observe, comprenne et intègre_.
 
 ---

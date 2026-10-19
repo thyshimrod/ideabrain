@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=558772&idpage=3039098&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-08-31
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## UN OUTIL POUR VOUS: SCRIPT D’AUTOHYPNOSE POUR DEVENIR UN EXCELLENT HYPNOTHÉRAPEUTE
 

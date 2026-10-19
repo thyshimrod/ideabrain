@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type6
+  - enneagramme/type6
 ---
 # Type 6 le Loyaliste
 

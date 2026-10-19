@@ -1,7 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Armures et essence]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - almaas
+  - enneagramme/armure
+auteurs:
+  - "A. H. Almaas"
 ---
 
 [[202601051555 armure du type 1]]

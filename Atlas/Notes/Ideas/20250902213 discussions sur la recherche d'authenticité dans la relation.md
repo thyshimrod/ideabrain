@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Couple]]"
 tags:
   - authenticite
-  - jeuxpsychologiques
-  - AT
+  - at/jeux
+  - at
   - relation
   - couple
   - emergence

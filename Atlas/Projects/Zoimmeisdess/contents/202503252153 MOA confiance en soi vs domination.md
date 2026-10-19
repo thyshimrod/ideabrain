@@ -1,13 +1,15 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
   - confianceensoi
-  - domination
+  - at/rebellion
   - cnv
   - relation
-  - orange
+  - spiraledynamique/orange
   - spiraledynamique
-  - societe
   - dysfonctionnements
+  - devperso
 ---
 [[202503252155 confiance en soi vs domination v0]]
 

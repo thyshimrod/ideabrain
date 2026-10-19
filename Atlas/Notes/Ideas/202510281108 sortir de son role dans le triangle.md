@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - berne
-  - karpman
-  - triangledramatique
-  - AT
-  - jeuxpsychologiques
+  - at
+  - at/karpman
+  - at/jeux
+auteurs:
+  - "Eric Berne"
 ---
 # Persécuteur
 

@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: excellence-relationnelle
+oeuvre: Laisser mourir le projet
+langue: fr
+reference: true
+tags:
+  - couple
+  - couple/desir
+  - devperso
+  - relation
+---
+
 # Laisser Mourir le Projet
 
 ## L'abandon du contrôle comme seule issue

@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - moduleminute
-  - kenWilber
-  - vieintegrale
+  - integral/pratique
+  - integral
+auteurs:
+  - "Ken Wilber"
 ---
 # Scan des quadrants
 

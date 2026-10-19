@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Parfait. Je réécris la scène 1 complète avec tous ces ajustements.
 
 ---

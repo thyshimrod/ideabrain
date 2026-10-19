@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: grandir
+oeuvre: Vous ne parlez plus la même langue
+langue: fr
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # 10 notes Substack autonomes
 
 _Série "Grandir — et ne pas perdre l'autre" — Article 3_

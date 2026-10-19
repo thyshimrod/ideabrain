@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Brené Brown : Oser avec Cœur  
 
 ## Description  

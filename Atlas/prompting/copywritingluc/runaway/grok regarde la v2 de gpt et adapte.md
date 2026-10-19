@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ### Analyse de la deuxième version générée par ChatGPT
 
 La deuxième version de l'article généré par ChatGPT, basée sur mon premier article, est une réinterprétation concise et percutante qui conserve les idées principales tout en adoptant un style plus poétique et direct. Voici une analyse détaillée de ses forces, faiblesses, et ce que j’en retiendrais pour améliorer ma proposition, suivie d’un nouvel article intégrant ces éléments.
@@ -92,7 +96,7 @@ Rejoignez-moi sur [insérez votre plateforme, ex. LinkedIn ou Twitter/X] pour ex
 - **Richesse non matérielle et paradoxes** : J’ai intégré ces concepts de ChatGPT et de ma première version pour ancrer l’article dans une vision systémique. **Intention** : Parler aux valeurs Jaunes de transcendance des paradigmes matérialistes et de gestion des complexités.
 
 #### 6. Conseils pour la diffusion
-- **Plateformes** : Publiez sur LinkedIn et Twitter/X avec un extrait percutant (ex. : “La richesse de demain n’est pas l’argent. C’est votre contribution.”) et des hashtags comme #Innovation, #Entrepreneurship, #FutureOfWork.
+- **Plateformes** : Publiez sur LinkedIn et Twitter/X avec un extrait percutant (ex. : “La richesse de demain n’est pas l’argent. C’est votre contribution.”) et des hashtags comme #agile/transformation, #business, #agile/transformation.
 - **Engagement** : Posez la question “Quel micro-problème allez-vous résoudre ?” dans vos posts pour encourager les commentaires et créer une conversation.
 - **Visuels** : Créez une image simple (ex. : un réseau de connexions vs une pyramide) pour accompagner l’article. Je peux proposer un concept si besoin.
 - **Série de contenus** : Transformez l’article en une série de posts (ex. : un post par section) pour maintenir l’engagement sur plusieurs jours.

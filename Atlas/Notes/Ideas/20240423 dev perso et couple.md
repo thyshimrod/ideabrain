@@ -1,8 +1,13 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Colere]]"
+  - "[[Couple]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - developpementpersonnel
+  - devperso
   - couple
-  - colere
+  - emotions/colere
   - cnv
   - stimulus
 type:

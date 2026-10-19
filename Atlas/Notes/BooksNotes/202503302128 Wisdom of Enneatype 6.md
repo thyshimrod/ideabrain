@@ -1,13 +1,14 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peur
+  - emotions/peur
   - evolution
-  - integration
-  - desir
-  - healthy
-  - desintegration
-  - type6
+  - enneagramme/integration
+  - couple/desir
+  - enneagramme/desintegration
+  - enneagramme/type6
 ---
 Le Type de personnalité SIX : Le loyaliste
 

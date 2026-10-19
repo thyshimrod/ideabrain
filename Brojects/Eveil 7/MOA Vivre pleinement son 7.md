@@ -1,8 +1,11 @@
 ---
+type: pilotage
+projet: eveil-7
+langue: fr
 tags:
-  - potentialpepite
   - enneagramme
-  - type7
+  - enneagramme/type7
+  - devperso
 ---
 [[Trad english]]
 

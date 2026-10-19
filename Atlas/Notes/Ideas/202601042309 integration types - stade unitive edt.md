@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Développement vertical]]"
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
-  - edt
+  - stades/edt
   - enneagramme
-  - type7
-  - desidentification
+  - enneagramme/type7
+  - devperso/desidentification
+  - stades
 ---
 Pour un Type 7 HPI, le **stade Unitive** (le sommet de l'Ego Development Theory de Cook-Greuter, correspondant au Niveau 1 de l'Ennéagramme) représente la fin de la "quête". C'est le moment où l'architecture mentale, aussi complexe soit-elle, s'efface devant l'évidence de l'instant.
 

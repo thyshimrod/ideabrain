@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 #  Prompt
 Sur l'implémentation, je pense que je vais avoir plusieurs phases, et je sais que cela va me demander du travail, et tu m'as déjà fait remarquer que descendre en orange peut être un risque pance, aborder l'intelligence émotionnelle, commencer son parcours vers le vert), les besoins du vert (de trouver un moyen de vivre de manière plus harmonieuse en communauté, sans s'abandonner, se sacrifier par exemple)... etcetc.
 Je ferai un double construction, c'est à dire répondre à cette mission dans le temps présent des considérations, besoins actuels, en vendant des produits qui correspondent à la demande du jour.

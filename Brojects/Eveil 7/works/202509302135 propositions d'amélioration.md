@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Super 👍 Je vais te préparer une **proposition d’améliorations concrètes pour chaque chapitre**, en gardant la structure de ton manuscrit.  
 But : enrichir le livre pour qu’il soit plus **pratique, incarné, auto-accompagnant**, et qu’il tende vers le **niveau de référence**.
 

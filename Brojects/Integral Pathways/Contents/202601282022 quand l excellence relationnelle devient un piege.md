@@ -1,3 +1,10 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - couple
+---
 
 [[202801282023 quand l'excellence relationnelle devient un piege global]]
 [[202801282032 quand l'excellence relationnelle decoupage en 4]]

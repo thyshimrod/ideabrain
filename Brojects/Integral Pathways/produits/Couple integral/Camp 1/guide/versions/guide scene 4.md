@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **Scène 4 — La remarque qui revient** Ton partenaire dit quelque chose — une critique, une observation — que tu as déjà entendue plusieurs fois. Tu as travaillé sur ce point. Tu sais qu'il y a une part de vrai. Et pourtant quelque chose en toi résiste, se raidit, ou se retire.
 
 ---

@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - type7
-  - healthy
-  - desidentification
-  - changement
+  - enneagramme/type7
+  - enneagramme/integration
+  - devperso/desidentification
+  - devperso/changement
 ---
 Puisque nous parlons d'expert à expert et que votre structure cognitive HPI appelle une architecture systémique plutôt qu'une suite de conseils, entrons dans la **matrice de la conscience intégrale**.
 

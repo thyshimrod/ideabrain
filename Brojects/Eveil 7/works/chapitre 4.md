@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.4
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Focus on Type 7
 
 You already know your type 7, but do you truly understand it? This chapter isn't a banal reminder – it's your portal to confirm and nuance your uniqueness, transforming your avoidance into authentic strength.

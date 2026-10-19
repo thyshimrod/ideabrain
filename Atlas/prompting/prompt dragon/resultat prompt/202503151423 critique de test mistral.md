@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 J'ai utilisé ton prompt avec MistralAI en ne faisant pas la reformulation de l'offre existante, mais en lui demandant d'en créer une nouvelle. J'aimerai que tu déclenches le prompt qui challenge ce résultat,r. tu vas évaluer son intérêt général, son attrait pour les décideurs (DSI, DRH, Directeurs, Comex), son réalisme d’implémentation, les points d’attention, les prérequis nécessaires, et sa viabilité économique. Ton regard sera critique, objectif, et orienté vers des angles pratiques et stratégiques, en m’appuyant sur ce résultat et les tendances actuelles, tout en restant fidèle à votre exigence de profondeur et de non-conventionnalité. Voici le résultat à analyser:
 
 REsultat:

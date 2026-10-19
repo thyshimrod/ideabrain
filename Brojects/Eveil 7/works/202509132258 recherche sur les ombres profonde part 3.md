@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - integral/ombre
+---
+
 ### Analyse et Complément des Angles d'Ombre Profonds du Type 7
 
 Vous avez raison de souligner que ma réponse précédente s'est fortement inspirée de votre exemple personnel (trauma restriction maternelle, conformisme masqué, peur de décider pour soi, non-soin de soi), car il offrait une profondeur rare et alignée avec votre intention d'émancipation au-delà des symptômes. Cela a servi de base pour structurer les thèmes profonds, mais je vais maintenant vérifier sa cohérence avec les écrits d'autres auteurs et compléter avec des perspectives équivalentes de profondeur, en me concentrant sur ceux qui vont au-delà des descriptions superficielles des compulsions (comme FOMO ou évitement) pour explorer les motivations intrinsèques et les expériences vécues par le 7. J'utilise les références fournies (Chestnut, Hudson, Cron, McCord, Robins, Egerton, Allender, Hall, Wigglesworth) et une recherche web_search (query : "Enneagram type 7 deep shadow analysis 2023-2025") pour valider et enrichir, en excluant les auteurs limités à des descriptions (ex. : Camarote, qui reste descriptif).

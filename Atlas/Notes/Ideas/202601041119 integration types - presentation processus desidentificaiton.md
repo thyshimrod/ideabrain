@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - desidentification
-  - changement
+  - devperso/desidentification
+  - devperso/changement
   - identite
+  - enneagramme/integration
 ---
 # Prompt
 

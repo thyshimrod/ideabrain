@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.4
+chapitre: C2.4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **2.4 — Le couplage comme idée centrale**
 
 Un couplage, c'est une transaction qui s'est répétée tant de fois qu'elle est devenue la forme par défaut d'un échange entre deux personnes précises. Ce n'est pas un état du moi. C'est deux positions qui se sont ajustées l'une à l'autre, au point de ne presque plus pouvoir exister l'une sans l'autre dans ce contexte-là. On pourrait décrire Sophie comme quelqu'un qui a un Parent Normatif développé, et Marc comme quelqu'un qui a un Enfant Adapté disponible. Ce serait vrai. Ce serait aussi passer à côté de l'essentiel : aucun des deux n'aurait pu, seul, produire ce dimanche bien tenu.

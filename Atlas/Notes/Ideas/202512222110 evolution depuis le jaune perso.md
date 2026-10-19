@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[Développement vertical]]"
+  - "[[EDT ego development theory]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - edt
+  - stades/edt
   - evolution
-  - transformation
+  - devperso/changement
 ---
 ### Proposition d'Évolution vers des Stades Supérieurs via l'EDT, en Partant de Jaune
 

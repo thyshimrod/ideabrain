@@ -1,12 +1,13 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - cnv
-  - retroaction
-  - expression_authentique
+  - cnv/expression
   - feedback
 ---
 
-tags = #CNV, #expression_authentique
+tags = #cnv, #cnv/expression
 
 Dans une optique de passage de relais, pour cultiver un dialogue dans la qualité de la relation
 

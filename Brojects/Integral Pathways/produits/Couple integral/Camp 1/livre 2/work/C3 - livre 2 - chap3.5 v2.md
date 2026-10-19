@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - chap3
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.5
+chapitre: C3.5
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé
+statut_detail: validé
+tags:
+  - chap3
+  - at
+  - couple
+  - relation
 ---
 
 **3.5 — Savoir ne suffit pas**

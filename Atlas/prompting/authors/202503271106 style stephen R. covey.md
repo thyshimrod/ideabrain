@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Stephen R. Covey : Structurer pour Réussir  
 
 ## Description  

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Développement personnel]]"
+tags:
+  - devperso
+---
 3 Mythes sur les Émotions Qui T’Empêchent d’Avancer
   
 **Introduction (150 mots) :**  

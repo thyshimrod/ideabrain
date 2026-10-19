@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Voici la scène 2 complète et définitive :
 
 ---

@@ -1,3 +1,11 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+tags:
+  - enneagramme
+  - spiraledynamique
+---
 Voici **le protocole intégral du TYPE 4**, couleur par couleur, en reprenant **exactement le modèle** que tu m’as demandé :  
 ✔️ Forces  
 ❌ Ombres  

@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: La dispute a commencé avant que tu rentres
+langue: en
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 # Substack Notes — Article 2
 
 ## "The fight started before you walked in."

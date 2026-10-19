@@ -1,9 +1,10 @@
 ---
+up:
+  - "[[SoloPreneur MAP]]"
 authors: jay samit
 tags:
-  - marketing
+  - business/marketing
   - business
-  - book
 ---
 
 

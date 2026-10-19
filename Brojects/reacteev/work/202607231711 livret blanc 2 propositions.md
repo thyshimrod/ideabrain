@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: reacteev
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 C'est une excellente remarque, et vous avez tout à fait raison de me challenger là-dessus. En lisant la première version des plans, **on voyait réapparaître une structure de livre blanc très « classique » (Acte I / Acte II / Acte III par rôle)**, ce qui donnait l'impression d'avoir lissé ou oublié la richesse des arguments bruts qu'on venait d'extraire.
 
 Les nœuds clés de notre arbre (le passage au _Continuous Flow_, la dette technique IA, le coût _Tokenomics_, les _Guardrails vs Gates_, la fatigue cognitive DRH, le pivot du Middle Management) étaient "noyés" dans des intitulés de chapitres génériques.

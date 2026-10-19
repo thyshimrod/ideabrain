@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Fiche Complète et Exhaustive des Références sur l'Ennéagramme
 
 Ci-dessous, je compile **toutes les références** sur l'Ennéagramme mentionnées dans nos échanges de ce soir, en incluant les auteurs demandés (Beth McCord, Robin Camarote, Cindy Wigglesworth, Rachel Clayton) et ceux déjà cités (Beatrice Chestnut, Deborah Threadgill Egerton, Ian Morgan Cron, Russ Hudson, Stephanie Barron Hall, Scott Allender). J'ai effectué une recherche supplémentaire (web_search) pour vérifier les publications récentes (2021-2025, avec focus sur 2024) et inclure tout livre pertinent, même s'il n'est pas exclusif au type 7, pour respecter votre demande de références "moins spécifiques". Pour chaque livre, je fournis : le nom, l'année de publication (ou réédition récente), un court résumé (2-4 phrases), et l'apport à votre sujet (projet de livre sur l'Ennéagramme, focus type 7, chemin de progression, transcendance ego, intégration Spirale Dynamique). Si un auteur n'a pas de livre pertinent (ex. : Cindy Wigglesworth, Rachel Clayton), je le note avec alternatives. Les livres sont organisés par auteur (alphabétique), avec sources vérifiées via Goodreads, Amazon, Enneagram Institute, et résultats fournis (). J'évite les biais en critiquant les sources (ex. : manque de scientificité) et en nuançant leur pertinence.

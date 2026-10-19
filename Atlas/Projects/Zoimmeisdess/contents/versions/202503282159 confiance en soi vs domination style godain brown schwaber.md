@@ -21,4 +21,4 @@ Tu gagnes une vie qui respire – plus de stress à jouer un rôle, juste la lib
 ## Conclusion  
 Arrête de courir après leur mirage. Qui es-tu sans ce bruit ? Fais-le, maintenant – un pas simple, réel. La vraie force est là, et elle n’attend que toi pour livrer.  
 
-#EveilVivant #Authenticité #Action
+#EveilVivant #authenticite #Action

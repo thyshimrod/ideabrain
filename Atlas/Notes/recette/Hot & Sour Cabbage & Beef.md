@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 title: Hot & Sour Cabbage & Beef
 source: https://www.everylastbite.com/hot-sour-cabbage-beef/
 author:
@@ -7,9 +9,8 @@ published: 2026-09-05
 created: 2026-09-23
 description: This hot and sour cabbage and beef is a flavor packed 30 minute one pan meal that is high protein, filling and so so tasty.
 tags:
-  - clippings
-  - keto
-  - recettes
+  - sante/keto
+  - sante
 ---
 ![Hot & Sour Cabbage & Beef ](https://www.everylastbite.com/wp-content/uploads/2026/09/Hot-Sour-Cabbage-Beef-1023x1536.jpg)
 

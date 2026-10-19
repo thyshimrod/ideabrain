@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Je comprends mieux ton approche PME et ETI. Effectivement, il y a plusieurs avenirs possibles où les grands groupes accaparent une large domination (monde corporatiste cf la littérature cyberpunk et d'anticipation), ou au contraire, une démodélisation vers des structures qui deviennent plus humaines ou peut être un hybride avec une hyper production par des grands groupes, et une recherche de sens par les autres, en créant des structures plus humaines, pour justement faire de l'atout humain un vrai atout, et une capacité à la résilience.
 En tous les cas, avenirs incertains, et échéances également. 

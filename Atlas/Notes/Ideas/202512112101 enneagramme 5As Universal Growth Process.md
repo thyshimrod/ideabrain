@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
   - guerison
-  - 5A
+  - enneagramme/5a
+  - enneagramme/integration
 ---
 Les "5As" font référence à un processus de croissance personnelle et de transformation dans le cadre de l'Ennéagramme, souvent appelé les "5 A's of Transformation" ou "Universal Growth Process". Ce cadre a été développé par des experts comme David N. Daniels, un psychiatre et enseignant en Ennéagramme, pour aider les individus à interrompre leurs schémas habituels (fixations ou passions des types) et à favoriser un développement intérieur équilibré.   Il s'agit d'une méthode structurée en cinq étapes interconnectées, conçue pour promouvoir la présence, l'acceptation et l'action consciente, particulièrement utile pour les types comme le 3, 6 et 9 qui luttent avec la déconnexion de leurs centres.
 

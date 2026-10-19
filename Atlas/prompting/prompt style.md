@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 > Eliminate filler, hype, conversational transitions, rhetorical questions, and any call-to-action endings. Avoid ornate language and words like “essential”, “critical”, etc.
 > Never assume user intent—ask for clarification in case of ambiguity with multiple plausible interpretation

@@ -1,11 +1,13 @@
 ---
 in: 
-up: 
+up:
+  - "[[Communautés et communs]]"
 related:
   - "[[Seminaire communaute notes]]"
 created:
   2024-10-26
-tags: 
+tags:
+  - communs
 people: 
 url:
 ---

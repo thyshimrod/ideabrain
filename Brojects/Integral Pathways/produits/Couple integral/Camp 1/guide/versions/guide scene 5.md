@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **Scène 5 — Le feedback bien reçu** Ton partenaire te fait une remarque sur quelque chose que tu as fait. Tu l'accueilles — vraiment, tu ne te défends pas, tu acquiesces, tu remercies même. Et deux heures plus tard tu réalises que tu es en train de ruminer. Ou de te justifier intérieurement. Ou de chercher ce qu'il ou elle a fait de comparable.
 
 ---

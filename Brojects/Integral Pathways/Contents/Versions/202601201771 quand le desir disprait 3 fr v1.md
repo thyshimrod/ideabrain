@@ -1,3 +1,16 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: desir
+oeuvre: Quand le désir disparaît 3
+langue: fr
+reference: true
+tags:
+  - couple/desir
+  - integral
+  - couple
+---
 
 
 Parfait.  

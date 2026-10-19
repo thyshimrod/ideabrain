@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Approches thérapeutiques]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - constellation
   - systemie
 author:
 ---

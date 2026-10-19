@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.1
+chapitre: C3.1
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 Tu as raison, j'ai sauté une étape. Reprenons dans l'ordre.
 
 **Chapitre 3 — Où en êtes-vous, vous ?**

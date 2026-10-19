@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Un monde tissé par nos contributions
 
 ## Les ombres d’un monde ancien

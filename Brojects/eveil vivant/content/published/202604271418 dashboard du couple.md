@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: eveil-vivant
+serie: excellence-relationnelle
+oeuvre: Le tableau de bord conjugal
+langue: fr
+plateforme: substack-fr
+reference: true
+tags:
+  - couple
+  - couple/desir
+  - devperso
+  - relation
+---
 
 # Le Tableau de Bord Conjugal
 

@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Perspective d'un Lecteur Type 7 au Niveau Vert de la Spirale Dynamique
 
 Bonjour ! Je m'appelle Alex, je suis un type 7 dans l'Ennéagramme – l'Enthousiaste typique, toujours en quête de nouvelles aventures, mais j'ai appris à tempérer ma dispersion avec une touche plus holistique. À ce stade vert de la Spirale Dynamique, je suis fasciné par le développement personnel qui va au-delà de l'individuel : les relations authentiques, le sens collectif, l'harmonie avec le monde, sans ignorer mes ombres. J'aime explorer des outils comme l'Ennéagramme pour mieux me comprendre, mais je m'ennuie vite si c'est trop théorique ou restrictif – mon FOMO me pousse vers des contenus vivants, créatifs, qui promettent joie et liberté sans me coincer dans des boîtes. J'ai lu quelques livres généraux sur l'Ennéagramme (comme Riso-Hudson ou Chestnut), mais effectivement, peu se focalisent sur le type 7, et encore moins avec une profondeur qui résonne avec ma quête d'authenticité sans douleur. Votre plan de livre m'intrigue, car il promet une transcendance réelle, mais voyons ce qui m'accrocherait, m'ennuierait, ou me manquerait. Je vais analyser chapitre par chapitre, en expliquant pourquoi un type 7 vert comme moi serait excité, blasé, ou frustré, puis proposer des ajouts pour me pousser à l'achat (sur la forme et le fond).

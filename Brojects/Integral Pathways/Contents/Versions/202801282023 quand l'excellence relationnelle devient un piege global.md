@@ -1,3 +1,17 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: excellence-relationnelle
+oeuvre: "Quand l'excellence relationnelle devient un piège (texte global)"
+langue: fr
+tags:
+  - couple
+  - couple/desir
+  - devperso
+  - relation
+---
+
 # Quand l'excellence relationnelle devient un piège : Pourquoi les couples les mieux gérés s'effondrent en silence
 
 ## Le Tableau de Bord Conjugal, ou l'Art de Tout Faire Correctement

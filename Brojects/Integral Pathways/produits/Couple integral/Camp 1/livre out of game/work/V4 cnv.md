@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - cnv
+  - at/jeux
+  - couple
+---
+
 Voici la section réécrite.
 
 ---

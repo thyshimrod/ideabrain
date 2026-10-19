@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
-  - eneagramme
-  - type7
-  - desidentification
-  - healthy
+  - enneagramme
+  - enneagramme/type7
+  - devperso/desidentification
+  - enneagramme/integration
 ---
 Pour un Type 7, le passage vers le niveau "Healthy" (l'intégration) ne consiste pas à perdre sa joie ou son enthousiasme, mais à passer de la **gloutonnerie d'expériences** (fuite de la douleur) à la **sobriété** et à la **profondeur**.
 

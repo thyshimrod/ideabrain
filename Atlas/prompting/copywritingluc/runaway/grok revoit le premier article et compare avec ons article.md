@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ### Analyse et Comparaison des Articles
 
 Pour répondre à votre demande, je vais :
@@ -137,7 +141,7 @@ Rejoignez-moi sur [insérez votre plateforme, ex. LinkedIn ou Twitter/X] pour co
 ---
 
 #### 6. Conseils pour la diffusion
-- **Plateformes** : Publiez sur LinkedIn et Twitter/X avec un extrait percutant (ex. : “La richesse de demain n’est pas l’argent. C’est votre contribution à un monde connecté.”). Utilisez des hashtags comme #Innovation, #FutureOfWork, #Entrepreneurship.
+- **Plateformes** : Publiez sur LinkedIn et Twitter/X avec un extrait percutant (ex. : “La richesse de demain n’est pas l’argent. C’est votre contribution à un monde connecté.”). Utilisez des hashtags comme #agile/transformation, #agile/transformation, #business.
 - **Engagement** : Posez la question “Quel paradoxe allez-vous résoudre ?” dans vos posts pour encourager les commentaires et créer une conversation.
 - **Visuels** : Créez une infographie (ex. : un réseau de nœuds vs une pyramide) pour accompagner l’article. Je peux proposer un concept si besoin.
 - **Série de contenus** : Transformez l’article en une série de posts (ex. : un post sur les paradoxes, un autre sur les réseaux) pour maintenir l’engagement sur plusieurs jours.

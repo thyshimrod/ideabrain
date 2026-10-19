@@ -1,9 +1,9 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
-  - ecoute
-  - hygiene
-  - sain
+  - coaching/ecoute
 ---
 
 Il faut avoir la capacité à se ressourcer : avoir du temps pour soi, pour s'évader (sport musique, ...).

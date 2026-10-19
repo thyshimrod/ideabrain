@@ -21,4 +21,4 @@ Tu gagnes tout : la liberté de lâcher leurs conneries, la paix d’un cœur st
 ## Conclusion  
 Lâche leurs chaînes. Qu’est-ce qui te tient, là, maintenant ? Bouge vers ça – avec amour, avec tripes. T’es déjà assez, alors sois-le.  
 
-#EveilVivant #Authenticité #Force
+#EveilVivant #authenticite #Force

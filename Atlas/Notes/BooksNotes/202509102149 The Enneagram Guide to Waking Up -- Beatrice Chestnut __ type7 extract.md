@@ -1,11 +1,13 @@
 ---
+up:
+  - "[[Enneagramme]]"
 author: beatrice chestnut
 book: The Enneagram Guide to Waking Up
 tags:
   - enneagramme
-  - type7
-  - integration
-  - shadow
+  - enneagramme/type7
+  - enneagramme/integration
+  - integral/ombre
 ---
 # Using Type 7 Wings as Growth Stretches
 

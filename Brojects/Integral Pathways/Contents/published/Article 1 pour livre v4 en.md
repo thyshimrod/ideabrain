@@ -1,3 +1,19 @@
+---
+type: article
+statut: publie
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: "Ce n'est pas la machine que tu as reprise"
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 # It's not the washing machine you picked back up.
 
 ## But the role that comes with it.

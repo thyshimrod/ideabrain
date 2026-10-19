@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - annexe
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C12
+chapitre: C12
+langue: fr
+reference: true
 date: 2026-10-14
-statut: validé (années des traductions françaises à vérifier avant publication)
+statut_detail: validé (années des traductions françaises à vérifier avant publication)
+tags:
+  - annexe
+  - at
+  - couple
+  - relation
 ---
 
 **Annexe 3 — Pour aller plus loin**

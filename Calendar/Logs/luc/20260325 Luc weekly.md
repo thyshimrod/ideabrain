@@ -1,3 +1,7 @@
+---
+type: log
+statut: actif
+---
 
 
 # Biz

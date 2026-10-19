@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
-  - developpementpersonnel
+  - devperso
   - coaching
-  - resistance
-  - liberté
+  - devperso/resistance
+  - liberte
 ---
 ![[resistance.jpg]]

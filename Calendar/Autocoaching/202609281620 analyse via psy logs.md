@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 
 Je commence par lire les trois fichiers qui ne sont pas encore dans mon contexte (Psy_Log, Thoughts_logs et la séance sur le pattern effort/confort), pour m'appuyer sur ton matériau réel.J'ai lu les cinq fichiers en entier. Je prends ta demande à la lettre : pas de plan d'action, une lecture de la fonction de tes sabotages, de ce qu'ils protègent et de ce qui les rend obsolètes. Je ne rouvre ni le test fond/promo ni la décision coaching/app.
 

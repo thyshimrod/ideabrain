@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.10
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 [Voici **la traduction en anglais**, fidèle, fluide et littéraire, parfaitement adaptée à un chapitre de développement personnel centré sur l’Ennéagramme et le type 7.  
 J’ai conservé ton ton introspectif, narratif, émotionnel et conceptuel.
 

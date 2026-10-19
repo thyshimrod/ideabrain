@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=559226&idpage=3073763&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-09-23
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## SCRIPT: LA MÉTAPHORE DU TRAIN EN CAS DE RÉVEIL NOCTURNE
 

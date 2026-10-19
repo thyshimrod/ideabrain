@@ -1,3 +1,16 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: "Créer les conditions sans forcer l'ouverture"
+langue: fr
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 Directement.
 
 ---

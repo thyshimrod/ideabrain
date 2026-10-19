@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Excellent terrain — c'est universel, chargé émotionnellement, et il y a une ironie cruelle dedans : plus tu essaies d'aider, plus tu rates ce dont elle a besoin. Et le jeu se referme précisément parce que tu es de bonne foi.
 
 Je me lance.

@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[Integral]]"
+  - "[[Spirale Dynamique]]"
 tags:
   - spiraledynamique
-  - kenWilber
-  - histoiredetout
+  - integral
+auteurs:
+  - "Ken Wilber"
 ---
 Une conscience de second palier peut penser à la fois verticalement et horizontalement, en intégrant à la fois les fonctionnements hiérarchiques (penser à la fois en termes de classements et de relations). On peut dès lors, pour la 1ere fois, saisir avec clarté la totalité du spectre de développement intérieur, et ainsi réaliser que chaque niveau, chaque mème, chaque vague est essentielle à la santé de la spirale dans son ensemble.
 Mais ce qu'aucun mème de premier palier n'est en mesure de faire, est d'apprécier pleinement l'existence des autres mèmes. Chaque mème de premier palier voit sa perspective, sa vision du monde comme étant la meilleure. Chacun réagit négativement dès qu'il est remis en question, et contre attaque violemment, avec ses armes, dès qu'il se sent menacé. L'ordre Bleu ne peut supporter ni l'impulsivité rouge, ni l'individualisme orange. Pour l'individualiste Orange, seuls les plus naïfs peuvent se satisfaire de l'ordre bleu et l'égalitarisme vert lui semble anémique et irréaliste. Quant à l'égalitarisme vert, il a beaucoup de mal à accepter la notion d'excellence, les classement de valeurs, les généralités, les hiérarchies, et tout ce qui ressemble à de l'autorité, et de ce fait il a tendance à rejeter les mèmes Bleus, orange, et tout ce qui est "post vert".

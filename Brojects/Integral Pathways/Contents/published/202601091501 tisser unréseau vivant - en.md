@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Tisser un réseau vivant
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 **The End of Digital Isolation: Why Your Network is a Prison (and How to Transform It into a Swarm)**
 
 Most people think they're connected because they have 5,000 followers and three WhatsApp discussion groups that never sleep.

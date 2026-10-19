@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Main Arguments
 1. L'Ennéagramme est un outil dynamique pour explorer les patterns de personnalité, en mettant l'accent sur l'unicité individuelle (Auteur comme synthesizer).
 2. L'identification au type se fait via le "côté obscur" et le stress, plutôt que par aspiration sociétale (Individus en introspection).

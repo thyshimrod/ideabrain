@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - chap4
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C4
+chapitre: C4
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé (enrichi le 14/10 : scène de la brocante, scène avec Nadia, moment pour vous)
+statut_detail: "validé (enrichi le 14/10 : scène de la brocante, scène avec Nadia, moment pour vous)"
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 **Chapitre 4 — Ce qui résiste, même quand on a compris**

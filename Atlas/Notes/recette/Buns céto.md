@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 title: Buns céto
 source: https://nutribe.fr/blogs/recettes-faibles-en-glucides/buns-keto
 author:
@@ -7,9 +9,8 @@ published: 2018-10-13
 created: 2026-01-03
 description: Vous ne rêvez pas il s'agit bien de pains burger cétogènes. Cette recette de Maria Emmerich, un classique repris sur tous les sites de recettes cé
 tags:
-  - clippings
-  - recettes
-  - keto
+  - sante/keto
+  - sante
 ---
 ![Buns céto](https://nutribe.fr/cdn/shop/articles/buns-poudre-amande_1200x_crop_center.jpg?v=1528806859)
 

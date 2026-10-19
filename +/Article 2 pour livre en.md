@@ -1,3 +1,19 @@
+---
+type: article
+statut: final
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: La dispute a commencé avant que tu rentres
+langue: en
+reference: true
+up:
+  - "[[Couple]]"
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
 
 
 **The argument started before you even got home.**

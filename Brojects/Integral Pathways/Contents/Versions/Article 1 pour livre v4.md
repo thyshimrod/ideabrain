@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: "Ce n'est pas la machine que tu as reprise"
+langue: fr
+reference: true
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 # Ce n'est pas la machine que tu as reprise.
 
 ## Mais le rôle qui va avec.

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Parfait. Je pars sur les devoirs — c'est un terrain universel, quotidien, et il cristallise bien la divergence de valeurs sans être trop chargé émotionnellement. Ce qui laisse de la place pour aller chercher ce qui est vraiment en jeu dessous.
 
 Je me lance.

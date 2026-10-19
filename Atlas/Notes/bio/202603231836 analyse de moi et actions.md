@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+tags:
+  - moi
+---
 
 
 [[202603231836 analyse de moi]]

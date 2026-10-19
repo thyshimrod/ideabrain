@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: taquinerie
+oeuvre: Je ne transige pas là-dessus
+langue: fr
+reference: true
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Je ne transige pas là-dessus
 
 Il gagne plus qu'elle. Pas énormément, mais suffisamment pour que ça pèse dans les décisions, même quand personne ne le dit à voix haute. Depuis qu'ils vivent ensemble, c'est lui qui a posé les grandes lignes : un appartement dans un quartier qu'il a choisi, des vacances calibrées sur ce qu'il appelle "un budget raisonnable", une épargne mensuelle dont il a fixé le montant seul, un soir, avec un tableur.

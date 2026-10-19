@@ -1,13 +1,13 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
-  - domination
-  - besoin
+  - at/rebellion
+  - cnv/besoins
   - force
-  - punition
-  - recompense
   - intention
-  - volontaire
+  - emotions
 ---
 
 [[202307061431 Shame Guilty Anger]]

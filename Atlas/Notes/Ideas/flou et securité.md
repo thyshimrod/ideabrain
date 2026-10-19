@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Jeux Psychologiques]]"
+tags:
+  - at
+---
 
 Voici un plan possible pour structurer une conférence sur le thème "Le confort du flou réduit la sécurité psychologique", intégrant vos compétences et méthodologies :
 

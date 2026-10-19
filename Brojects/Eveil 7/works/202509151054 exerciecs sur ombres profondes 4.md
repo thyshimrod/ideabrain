@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - integral/ombre
+---
+
 ### Exercices par Groupe pour Explorer et Transcender l'Ombre du Type 7
 
 Voici une proposition d'exercices pour chaque groupe d'ombres, basée sur votre insight (peur de décider, conformisme masqué, non-soin de soi lié à trauma restriction) et les références (Chestnut pour shadow/sous-types, Robins pour embodied/conscious, Hudson pour releases/affirmations, Cron pour narration, Wigglesworth pour Spirale). Chaque exercice est itératif : commencez surface (observation), passez moyen (analyse), atteignez profond (confrontation racine). Ils visent à déprogrammer l'ego (moins automatisé), en reliant sabotage (ex. : dispersion pour éviter choix) à peur (décider = vulnérabilité) et besoin (ancrage authentique). Durée : 10-30 min/jour, sur 1-2 semaines par exercice. Notez dans un journal (inspiré Egerton). Si besoin, adaptez à votre type (ex. : 7w6 anxieux vs 7w8 assertif, per Chestnut).

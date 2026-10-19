@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 [[202505182237 organiser tout bad prompt]]
 

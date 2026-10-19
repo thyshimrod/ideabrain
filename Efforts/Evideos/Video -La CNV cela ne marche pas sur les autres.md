@@ -1,10 +1,14 @@
 ---
-type: "[[Videos]]"
+type: contenu
+format: video
+plateforme: youtube
+statut: idee
+rank: 4
 tags:
   - cnv
 up:
   - "[[Efforts]]"
-rank: "4"
+  - "[[CNV]]"
 ---
 Vouloir changer l'autre, avoir sa soumission
 

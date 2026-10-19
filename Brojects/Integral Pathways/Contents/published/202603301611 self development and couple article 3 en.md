@@ -1,3 +1,19 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: grandir
+oeuvre: Vous ne parlez plus la même langue
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # You No Longer Speak the Same Language — and It's Not a Communication Problem
 
 _Series "Growing Up — Without Losing Each Other" · Article 3 · Subscribers Only_

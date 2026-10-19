@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Enneagramme]]"
 tags:
   - controle
-  - compulsion
-  - type7
-  - exces
+  - enneagramme/passion
+  - enneagramme/type7
   - tension
 ---
 

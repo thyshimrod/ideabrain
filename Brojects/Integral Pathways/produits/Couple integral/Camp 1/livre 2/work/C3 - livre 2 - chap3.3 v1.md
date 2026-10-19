@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.3
+chapitre: C3.3
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 **3.3 — Le nom de ce que vous avez repéré**
 

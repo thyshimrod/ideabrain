@@ -1,3 +1,7 @@
+---
+type: effort
+statut: done
+---
 
 [[vulnerabilité articles liste]]
 [[vulnérabilité liste articles v2]]

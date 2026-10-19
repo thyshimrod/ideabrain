@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour ton retour. Pour bien te répondre, je vais procéder en trois étapes :
 
 ---

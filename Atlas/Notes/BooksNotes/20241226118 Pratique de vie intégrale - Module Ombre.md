@@ -1,12 +1,18 @@
 ---
+up:
+  - "[[Couple]]"
+  - "[[Integral]]"
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - vieintegrale
-  - kenWilber
-  - developpementpersonnel
-  - ombre
+  - integral/pratique
+  - integral
+  - devperso
+  - integral/ombre
   - leadership
-  - désir
+  - couple/desir
   - admiration
+auteurs:
+  - "Ken Wilber"
 ---
 ```insta-toc
 ---

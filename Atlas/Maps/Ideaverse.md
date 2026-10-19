@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Sources Map]]"
-related: []
-created: 2022-01-01
+  - "[[Home]]"
+type: map
+statut: evergreen
 ---
-This note passively looks at the properties of all notes.
-This note passively looks at the properties of all notes.
+> [!Map]+ # Ideaverse
+> Page méta : ce vault est un Ideaverse au sens LYT (Nick Milo). Pour la méthode et les conventions, voir [[ZKN]] ; pour entrer dans le contenu, partir de [[Home]].
+> **Maps voisines :** [[Efforts]]
 
-If a note has a `type` property that says `Ideaverse`, it will show up below.
-
+- [[Ideaverse Map]] — la carte d'origine du starter kit LYT

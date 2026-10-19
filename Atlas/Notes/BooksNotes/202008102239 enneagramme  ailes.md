@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - ailes
+  - enneagramme/ailes
 ---
 # eneagramme  ailes
 

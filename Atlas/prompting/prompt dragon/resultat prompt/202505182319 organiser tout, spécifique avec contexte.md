@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour ces précisions et pour les fichiers de contexte mis à jour ! Je vais maintenant intégrer toutes les données disponibles pour proposer un plan d’action spécifique, détaillé, et adapté à ton profil, tes aspirations, tes forces, tes faiblesses, et tes projets actuels. Je m’appuie sur :
 - **Contexte du jour (18 mai 2025, 22:13 CEST)** : Ton side hustle actuel ("Mieux vivre avec ses émotions grâce à la CNV"), tes objectifs à court terme (30 abonnés Substack, 3-5 ventes d’ici le 24 mai 2025), et le plan en cours (10 jours, étapes précises).
 - **Ajustement V8 (15 mars 2025)** : Ton projet "Éveil Vivant" avec "L’ancre qui libère" (réancrage/authenticité) et "Néo face au futur" (résilience IA), visant une viabilité économique (15 850 € en 2025).

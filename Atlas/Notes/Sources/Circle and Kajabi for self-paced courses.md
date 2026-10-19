@@ -1,10 +1,12 @@
 ---
 in:
   - "[[Productisation Map]]"
-up: 
+up:
+  - "[[SoloPreneur MAP]]"
 related: 
 created: 2024-08-27
-tags: 
+tags:
+  - business
 people: 
 url:
 ---

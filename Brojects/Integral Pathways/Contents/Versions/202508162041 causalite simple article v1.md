@@ -1,3 +1,15 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
 
 # Brisez les chaînes de la pensée plate : déclenchez votre Révolution Vivante
 

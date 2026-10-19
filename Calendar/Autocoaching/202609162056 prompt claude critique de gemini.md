@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 
 
 Je reprends le fil : ce que tu cherchais avec Gemini, ce qu'il t'a répondu, et où je pense qu'il y a des angles morts — notamment au regard de tes propres notes de référence, qui sont plus rigoureuses que ce que Gemini a mobilisé.

@@ -1,10 +1,10 @@
 ---
 tags:
-  - "#relation"
+  - relation
   - toxicite
-  - colere
-  - culpabilite
-  - jeuxpsychologiques
+  - emotions/colere
+  - emotions/culpabilite
+  - at/jeux
 ---
 
 Le partenaire pose la question "pourquoi es tu en colère contre moi?" Alors que l autre ne ressent rien de tel, en tout bonne foi. Mais la question insinue que l autre sait mieux que vous même ce qui se passe dans votre esprit et que la réponse "mais je ne suis pas en Colère du tout" est un pur mensonge. Technique dite de la lecture de pensée ou voyance. Cette technique est très efficace car on peut discuter jusqu'aux aurores des humeurs et de leurs manifestations visibles, et généralement la plupart des gens entrent en fureur quand on leur attribue des sentiments négatifs.

@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - vieintegrale
-  - kenWilber
-  - ombre
-  - developpementpersonnel
+  - integral/pratique
+  - integral
+  - integral/ombre
+  - devperso
+auteurs:
+  - "Ken Wilber"
 ---
 [[20241226118 Pratique de vie intégrale - Module Ombre|Module Ombre]]
 	- [[Pratique intégrale - module ombre - module minute]]

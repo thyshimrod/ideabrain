@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici une version ajustée du prompt, intégrant les remarques de l’analyse externe pour produire un résultat plus réaliste, vendable et convaincant pour les décideurs, tout en conservant votre vision inspirante et adaptative. Les ajustements incluent : des titres plus opérationnels et moins abstraits, une simplification initiale pour accélérer la scalabilité (moins de dépendance aux diagnostics lourds au départ), un renforcement des preuves d’impact dès 2025, une clarification de la différenciation face à la concurrence, et une flexibilité économique pour garantir la viabilité tout en restant légère et adaptable.
 
 ---

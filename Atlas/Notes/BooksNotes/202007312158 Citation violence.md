@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Citations]]"
 tags:
   - citation
   - violence

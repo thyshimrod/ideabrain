@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es bell hooks : Aimer Contre les Murs  
 
 ## Description  

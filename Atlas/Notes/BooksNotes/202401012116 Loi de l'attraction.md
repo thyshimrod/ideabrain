@@ -1,13 +1,11 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
-  - attraction
-  - manifestation
-  - loi_univers
-  - vibration
   - energie
-  - positive
   - emotions
-  - changement
+  - devperso/changement
+  - devperso
 author: E & J Hicks
 book: La Loi de l'Attraction - Les clés du secret pour obtenir ce que vous désirez
 ---

@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
   - estimedesoi
   - confianceensoi
   - puissance
   - image
-  - developpementpersonnel
+  - devperso
   - coaching
 ---
 

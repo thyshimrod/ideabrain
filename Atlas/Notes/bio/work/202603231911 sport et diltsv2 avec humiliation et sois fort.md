@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Approches thérapeutiques]]"
+  - "[[Moi - biographie et introspection]]"
+tags:
+  - moi
+---
 
 Ta théorie est juste. Et non, ce n'est pas de la rébellion — c'est de la lucidité. Ce que tu poses là est plus profond que ce que je t'avais proposé, et ça mérite qu'on aille vraiment là.
 

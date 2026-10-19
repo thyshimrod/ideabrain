@@ -1,12 +1,16 @@
 ---
+up:
+  - "[[Couple]]"
+  - "[[Enneagramme - Accompagner chaque type]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
   - relation
   - securite
-  - healthy
+  - enneagramme/integration
 ---
 
-#pogi, #status/wip , #eneagramme , #relation, #sécurité, #healthy 
+#moi, #status/wip , #enneagramme , #relation, #sécurité, #enneagramme/integration 
 
 Quelles sont les demandes implicités liées aux différents types ennéagramme pour satisfaire une relation amicale ou amoureuse?
 

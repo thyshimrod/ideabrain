@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 # Guide — "Which role are you playing right now?"
 
 ## Les 6 mini-scènes — version de travail

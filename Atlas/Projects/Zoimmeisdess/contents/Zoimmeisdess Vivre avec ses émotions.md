@@ -1,8 +1,11 @@
 ---
-tags:
-  - zoimmesidess
+projet: zoimmeisdess
+up:
+  - "[[Développement personnel]]"
 top:
   - "[[991 - Zoimmeisdess Project]]"
+tags:
+  - devperso
 ---
 Bonjour et bienvenue,
 

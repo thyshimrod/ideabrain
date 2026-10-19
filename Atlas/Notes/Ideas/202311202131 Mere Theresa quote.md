@@ -1,8 +1,9 @@
 ---
+up:
+  - "[[Citations]]"
 tags:
   - citation
   - vie
-  - meretheresa
 ---
 
 La vie est une chance, saisis la

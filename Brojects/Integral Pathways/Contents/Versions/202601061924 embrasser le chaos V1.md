@@ -1,3 +1,15 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Embrasser le chaos
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
 
 
 ### Embrasser le Chaos : Comment la Pensée Multidimensionnelle Transforme les Échecs en Croissance Antifragile

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Hypnose]]"
+tags:
+  - hypnose
+---
 
 Pour un débutant, la méthode la plus accessible, sécurisante et efficace est l'**Induction par la répétition du mouvement**, couplée à une **Dissociation simple (Lieu agréable / endroit favori)**. Elle crée une saturation sensorielle mécanique simple à guider et offre un cadre sécurisant sans nécessiter de techniques complexes.
 

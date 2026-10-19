@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Citations]]"
 tags:
   - coaching
   - citation
-  - Qualitédelarelation
+  - relation
 author: François Roustang
 ---
 

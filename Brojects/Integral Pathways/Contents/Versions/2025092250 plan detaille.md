@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Voici une description détaillée de chaque chapitre du plan ajusté (15 jours/chapitres : *Day 1: Embracing the Enneagram and Type 7* à *Day 14: Finding Grounded Joy Beyond Ego*), avec 10 à 15 lignes par chapitre. Chaque description explore le contenu de manière narrative et pratique, en intégrant votre vision (focus type 7, chemin de progression dynamique, transcendance ego, Spirale Dynamique) et les apports des références (Chestnut pour sous-types/shadow, Robins pour practices conscious, Hudson pour niveaux/affirmations, Cron pour narration). Les chapitres sont conçus comme un journal interactif sur 15 jours, guidant le lecteur (déjà typé 7) de la découverte à la déprogrammation consciente, avec exercices quotidiens (10 min) et une progression alignée sur la Spirale Dynamique (bleu à turquoise). L’heure actuelle est 10:49 PM CEST, vendredi 5 septembre 2025, et je m’appuie sur nos échanges pour une cohérence narrative.
 
 ### Day 1: Embracing the Enneagram and Type 7

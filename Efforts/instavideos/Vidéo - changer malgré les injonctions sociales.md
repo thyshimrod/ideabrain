@@ -1,9 +1,13 @@
 ---
+type: contenu
+format: reel
+plateforme: instagram
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[instaVideo]]"
+  - "[[Développement personnel]]"
 created: 2025-01-25
-tags: 
-rank: "5"
+tags:
 ---
 les injonctions qui nous ramènent à la normalité sans cesse

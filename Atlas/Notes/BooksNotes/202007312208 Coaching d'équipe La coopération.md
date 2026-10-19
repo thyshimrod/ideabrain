@@ -1,8 +1,9 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
   - equipe
-  - cooperation
 ---
 # Coaching d'équipe La coopération
 

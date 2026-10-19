@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - vieintegrale
+  - integral/pratique
   - ethique
-  - kenWilber
+  - integral
+auteurs:
+  - "Ken Wilber"
 ---
 
 | Moralité | Comportement |

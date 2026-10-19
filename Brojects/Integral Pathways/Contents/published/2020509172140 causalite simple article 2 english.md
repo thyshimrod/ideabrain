@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: causalite-simple
+oeuvre: Le piège caché
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
 
 
 ---

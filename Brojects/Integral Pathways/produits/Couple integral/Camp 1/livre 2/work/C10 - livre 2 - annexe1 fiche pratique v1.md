@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - annexe
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C10
+chapitre: C10
+langue: fr
+reference: true
 date: 2026-10-14
-statut: validé
+statut_detail: validé
+tags:
+  - annexe
+  - at
+  - couple
+  - cnv
 ---
 
 **Annexe 1 — Préparer une conversation de renégociation**

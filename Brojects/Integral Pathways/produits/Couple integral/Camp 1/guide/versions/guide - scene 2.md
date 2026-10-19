@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **Scène 2 — La croissance qui creuse** Ton partenaire ne suit pas le même chemin que toi — pas de thérapie, pas de lectures, pas vraiment d'intérêt pour "tout ça". Tu ne lui en veux pas. Mais il y a des conversations que tu n'as plus avec lui ou elle. Et tu ne sais pas quoi faire de cet écart qui grandit.
 
 ---

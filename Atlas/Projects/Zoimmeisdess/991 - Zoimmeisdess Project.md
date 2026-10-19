@@ -1,10 +1,13 @@
 ---
 tags:
   - projet
-  - pogi
+  - moi
   - coaching
-  - changement
-up: "[[Home]]"
+  - devperso/changement
+up:
+  - "[[Home]]"
+  - "[[SoloPreneur MAP]]"
+  - "[[Zoimmeisdess]]"
 ---
 ![[dragonmiddle.png]]
 

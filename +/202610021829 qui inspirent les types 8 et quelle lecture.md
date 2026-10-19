@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
 tags:
   - enneagramme
-  - type8
+  - enneagramme/type8
   - inspiration
 ---
 ### Type 8 — Le Challenger / Le Leader

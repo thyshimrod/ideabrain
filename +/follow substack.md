@@ -1,3 +1,7 @@
+---
+up:
+  - "[[SoloPreneur MAP]]"
+---
 
 
 

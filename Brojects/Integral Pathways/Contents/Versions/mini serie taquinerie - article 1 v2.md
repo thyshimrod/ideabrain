@@ -1,3 +1,17 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "L'art maladroit de blesser ceux qu'on aime"
+langue: fr
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Juste pour rire
 
 Vous la prenez dans vos bras, devant des amis, et vous dites : _"Ma petite femme."_ Affectueux, évident, presque automatique — elle mesure 1m75, vous 1m88, le mot semble juste tomber de la différence de taille. Tout le monde sourit. Sauf qu'elle, à l'intérieur, n'a jamais aimé être appelée "petite". Une femme de 1m75 n'est pas petite. Elle est grande, et ce mot-là — _petite_ — lui rappelle, chaque fois, qu'elle ne tient pas la place qu'elle occupe vraiment.

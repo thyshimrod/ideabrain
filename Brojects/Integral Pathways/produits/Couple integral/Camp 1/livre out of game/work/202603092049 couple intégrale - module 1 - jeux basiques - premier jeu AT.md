@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Tu as raison. Ce que j'ai produit est une entrée — pas une grille de lecture. Il manque la profondeur structurelle qui donne au module sa valeur réelle.
 
 Voici ce que je propose d'ajouter systématiquement après chaque scène :

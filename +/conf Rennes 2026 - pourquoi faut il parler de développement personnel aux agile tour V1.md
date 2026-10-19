@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Agilité]]"
+---
 C'est noté. Restons sur l'essentiel : **la posture du coach comme point de bascule entre sa propre croissance et la réalité du système.**
 
 Si on veut être efficace en 1h, il faut passer d'une "boîte à outils" à une **"grille de lecture"**. L'idée centrale devient : _Le développement personnel n'est pas une fin en soi, c'est le calibrage de l'instrument (le coach) pour qu'il puisse opérer sur le système (l'entreprise) sans le dénaturer._

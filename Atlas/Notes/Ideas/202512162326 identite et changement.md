@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Développement personnel]]"
 tags:
   - identite
-  - changement
+  - devperso/changement
   - coaching
-  - resistance
+  - devperso/resistance
 ---
 on en a déjà parlé je pense, mais je le vois très fort en ce moment.
 Il y a une résistance très forte qui s'explique par le fait de s'accrocher à son identité.

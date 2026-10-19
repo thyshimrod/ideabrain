@@ -1,3 +1,12 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - couple
+  - penseeplate
+---
+
 Parfait. Je vais te proposer une **trilogie cohérente**, pensée comme un **système progressif** et non comme trois articles juxtaposés.  
 Je vais travailler à trois niveaux en même temps :
 

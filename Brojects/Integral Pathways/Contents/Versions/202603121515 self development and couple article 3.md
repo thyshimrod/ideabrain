@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: Vous ne parlez plus la même langue
+langue: fr
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # Vous ne parlez plus la même langue — et ce n'est pas un problème de communication
 
 _Série "Grandir — et ne pas perdre l'autre" · Article 3 · Réservé aux abonnés_

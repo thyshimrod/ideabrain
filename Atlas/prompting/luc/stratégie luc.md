@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 # Prompt
 
@@ -35,7 +41,7 @@ Pour maximiser ta visibilité et établir ton autorité, combine une stratégie 
 
 3. **Interagir stratégiquement** :
    - Commente les posts d’autres leaders d’opinion ou décideurs (sur X ou LinkedIn) avec des remarques qui relient leurs idées à ton expertise. Exemple : "Intéressant ! Cela rejoint ce que j’explore sur l’impact de l’IA dans la redéfinition des visions d’entreprise."
-   - Participe à des conversations sur des hashtags comme #IA, #ChangeManagement, #TransformationDigitale pour te rendre visible auprès des bonnes audiences.
+   - Participe à des conversations sur des hashtags comme #ia, #agile/transformation, #agile/transformation pour te rendre visible auprès des bonnes audiences.
 
 4. **Collaborer pour amplifier** :
    - Propose à des influenceurs ou experts complémentaires (ex. : en stratégie d’entreprise, tech, ou RH) de co-écrire un post ou de participer à un échange public. Cela te connecte à leur audience.

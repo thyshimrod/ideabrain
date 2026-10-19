@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - desidentification
-  - healthy
-  - changement
+  - devperso/desidentification
+  - enneagramme/integration
+  - devperso/changement
 ---
 Trouver des témoignages de "Niveau 1" est un défi, car à ce stade d'intégration, l'ego est devenu si transparent que la personne n'a souvent plus besoin de crier son succès sur les toits. Cependant, en croisant les récits de praticiens chevronnés et de chercheurs en psychologie transpersonnelle, on peut dégager un **"chemin de crête"** très concret.
 

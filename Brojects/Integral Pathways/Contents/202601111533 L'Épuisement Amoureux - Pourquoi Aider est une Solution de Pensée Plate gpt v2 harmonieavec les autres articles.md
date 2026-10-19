@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: "L'épuisement amoureux"
+langue: fr
+reference: true
+tags:
+  - couple
+  - penseeplate
+  - relation
+---
+
 Parfait. Je te propose une **version harmonisée** qui s’aligne clairement avec l’article précédent (_The Myth of Compatibility_), en conservant :
 
 - le **même cadre conceptuel** (pensée plate → complexité → AQAL → posture jaune),

@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - Spirale
   - spiraledynamique
-  - intégral
-  - intégration
+  - integral
+  - integration
   - guerison
   - evolution
 ---

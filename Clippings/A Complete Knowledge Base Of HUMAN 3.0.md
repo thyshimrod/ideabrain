@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Integral]]"
 title: "A Complete Knowledge Base Of HUMAN 3.0"
 source: "https://letters.thedankoe.com/p/a-complete-knowledge-base-of-human?utm_source=post-email-title&publication_id=2825099&post_id=172406927&utm_campaign=email-post-title&isFreemail=true&r=5kslvh&triedRedirect=true&utm_medium=email"
 author:
@@ -7,7 +9,8 @@ published: 2025-08-31
 created: 2025-09-01
 description: "The HUMAN 3.0 model, scientific validation, historical context, civilizational impact, assessment questions and practices, and deep nuances"
 tags:
-  - "clippings"
+  - integral
+  - business
 ---
 ### The HUMAN 3.0 model, scientific validation, historical context, civilizational impact, assessment questions and practices, and deep nuances
 

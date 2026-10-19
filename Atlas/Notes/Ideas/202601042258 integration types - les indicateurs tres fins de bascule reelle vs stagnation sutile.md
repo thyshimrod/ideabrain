@@ -1,11 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - type7
-  - healthy
-  - kegan
-  - desidentification
-  - changement
+  - enneagramme/type7
+  - enneagramme/integration
+  - stades/kegan
+  - devperso/desidentification
+  - devperso/changement
 ---
 Très bien.  
 Je vais traiter cela comme on le ferait **entre deux praticiens expérimentés**, en entrant dans des **différences fines de structure**, pas dans des marqueurs superficiels de comportement ou de discours. L’enjeu ici n’est pas de savoir _si_ quelqu’un parle bien du méta, mais **d’où il parle réellement**.

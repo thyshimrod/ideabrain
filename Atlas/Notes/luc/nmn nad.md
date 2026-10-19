@@ -1,10 +1,12 @@
 ---
 in:
   - "[[Health]]"
-up: 
+up:
+  - "[[Santé et alimentation]]"
 related: 
 created: 2024-12-02
 tags:
+  - sante
 ---
 [nmn nad](<NMN, NAD, NR etc My first try ( Last year) and a question to sanjay :
  - I receceived my NMN and giving it a try .effectively feeling more « energised », without the anxious push i got from cordyceps for instance ( noradrenalin)

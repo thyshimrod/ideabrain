@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Agilité]]"
+---
 C'est noté. On garde ce titre tel quel : il est ton étendard. Il crée justement cette friction nécessaire dès l'affichage sur le programme de l'Agile Tour. Les gens viendront pour contester ou par curiosité, et c'est là que tu les cueilles.
 
 Voici la structure de conférence finale, calibrée sur 1h, qui traite le **Développement Personnel** non pas comme une option "bien-être", mais comme une **exigence de rigueur systémique**.

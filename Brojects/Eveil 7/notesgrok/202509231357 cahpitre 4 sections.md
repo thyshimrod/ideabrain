@@ -1,3 +1,13 @@
+---
+type: pilotage
+statut: abandonne
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme/type7
+  - spiraledynamique
+---
+
 Tu as raison 🙏 Merci de la vigilance.  
 Je reprends ton **plan de référence** (dans _plan après discussion avec Luc_).  
 Il précise bien que :

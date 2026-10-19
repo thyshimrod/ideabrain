@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: publie
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.1
+langue: fr
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### INTRODUCTION
 
 	La simplicité est un mensonge qui nous vole notre joie – et en tant que type 7, j’ai passé des années à y croire, fuyant la douleur pour une illusion de liberté. Imaginez : vous êtes au milieu d’un projet excitant, un rêve d’aventure entrepreneuriale qui semble parfait sur le papier. Mais soudain, tout s’effondre et une frustration monte en vous comme une vague.

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Développement personnel]]"
+tags:
+  - devperso
+---
 D'accord, je comprends que tu as créé un package payant intitulé *Comment mieux vivre avec ses émotions*, composé de six vidéos détaillées sur la Communication Non Violente (CNV), la gestion des émotions et l'auto-responsabilité. Tu souhaites maintenant concevoir une vidéo introductive gratuite pour présenter les bénéfices (outcomes) de ce parcours, afin d'attirer des participants potentiels. Voici une proposition pour structurer cette vidéo introductive, en mettant en avant les résultats clés que les viewers peuvent attendre, tout en restant alignée avec le contenu de tes vidéos.
 
 ---

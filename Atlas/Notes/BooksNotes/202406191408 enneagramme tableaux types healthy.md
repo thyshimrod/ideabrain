@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - healthy
+  - enneagramme/integration
 ---
 Le tableau commence par la peur basique. Cette peur est propre à chaque type, même si chaque type peut vivre la peur de l'autre (nous sommes humains). En tous les cas c'est la peur que le type essaye de réprimer. Cette peur basique n'est peut être pas ressenti actuellement, car des peurs secondaires sont en jeu, mais si vous y prenez garde, vous verrez en quoi cette peur primaire a étayé votre vie.
 Le désir basique est la motivation centrale de chaque type. C'est son moyen de gérer sa peur basique.

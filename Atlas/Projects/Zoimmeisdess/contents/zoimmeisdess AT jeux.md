@@ -1,10 +1,11 @@
 ---
-tags:
-  - jeuxpsychologiques
-  - AT
-  - zoimmesidess
+projet: zoimmeisdess
 up:
   - "[[991 - Zoimmeisdess Project]]"
+  - "[[Jeux Psychologiques]]"
+tags:
+  - at/jeux
+  - at
 ---
 On passe un temps certain à jouer dans une relation et notamment dans un couple.
 

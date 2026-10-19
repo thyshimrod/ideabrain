@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=559226&idpage=3116234&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-09-14
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## EXERCICE DE VISUALISATION: LA CASSEROLE D'EAU QUI REFROIDIT
 

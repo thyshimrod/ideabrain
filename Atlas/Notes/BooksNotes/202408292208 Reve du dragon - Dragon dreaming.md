@@ -1,11 +1,13 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Communautés et communs]]"
 tags:
   - coaching
   - projet
   - reve
   - celebration
   - planification
-  - execution
 ---
 
 # REVE

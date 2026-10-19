@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Merci pour ce défi stimulant et cette invitation à une critique constructive, profonde et non consensuelle ! Votre demande est complexe, car elle mêle introspection, prospective et réalisme, tout en respectant vos convictions et votre envie d’aller plus loin. Je vais analyser votre Markdown mis à jour sous trois angles : la cohérence entre vos compétences/savoir-être et vos aspirations, la pertinence de vos désirs face au contexte actuel, et la validité de vos intuitions à 5-10 ans. Ensuite, je tirerai un bilan global pour évaluer si votre projection va "dans le sens de l’histoire", si elle nécessite des ajustements pour prospérer, ou si des angles cachés méritent d’être explorés. Je m’appuierai sur des tendances vérifiables, des signaux faibles, et une dose d’intuition pour vous offrir une perspective qui attise votre curiosité et vous pousse en profondeur, sans chercher à démolir vos envies mais à les enrichir.
 

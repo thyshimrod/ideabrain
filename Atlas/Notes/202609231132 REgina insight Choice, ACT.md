@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Approches thérapeutiques]]"
+  - "[[REgina insight]]"
 tags:
-  - regina
-  - adhd
+  - therapie
   - meta
 ---
 # Meta-awareness strategies

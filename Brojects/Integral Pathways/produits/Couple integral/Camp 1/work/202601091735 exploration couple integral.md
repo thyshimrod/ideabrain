@@ -1,7 +1,7 @@
 ---
 tags:
   - couple
-  - vieintegrale
+  - integral/pratique
   - coaching
 ---
 ### Les Quadrants et Théories pour Explorer et Faire Grandir le Couple Intégral

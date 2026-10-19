@@ -1,13 +1,14 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Développement personnel]]"
 tags:
-  - changement
+  - devperso/changement
   - confort
   - bonheur
   - sabotage
   - coaching
   - effort
-  - benefice
-  - autosabotage
 ---
 
 On remarque qu'il est plus facile de continuer à se comporter d'une manière connue, même si le résultat conduit à un résultat négatif.

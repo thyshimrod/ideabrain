@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
 tags:
-  - lisebourbeau
-  - developpementpersonnel
-  - blessuredelame
+  - devperso/blessures
+  - devperso
+auteurs:
+  - "Lise Bourbeau"
 ---
 **Qu'est ce que tu n'aimes pas chez tes parents?**
 

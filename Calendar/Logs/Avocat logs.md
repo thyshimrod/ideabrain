@@ -1,9 +1,11 @@
 ---
+type: log
+statut: archive
+prive: true
 tags:
-  - pascal
-  - log
+  - moi
 ---
-# 17/09/2024
+# 2024-09-17
 
 Voir avec l'avocat:
 * Proposition alors qu'elle avait tout refusé cet été, prétextant le bien de Hyacinthe(jusqu'à refuser la sortie dans le parc à côté du centre)

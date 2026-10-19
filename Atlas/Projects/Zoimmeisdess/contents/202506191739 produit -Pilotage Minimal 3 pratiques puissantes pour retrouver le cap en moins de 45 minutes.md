@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Productivité et loi du temps]]"
+tags:
+  - productivite
+---
 Voici une proposition de contenu macro pour le produit **"Pilotage Minimal : 3 pratiques puissantes pour retrouver le cap en moins de 45 minutes"**, conçu comme un **PDF payant à 12 €** (prix psychologique médian, testable à 9 € ou 15 €), ciblant un public **Orange** (50 % : indépendants, coachs, managers en surcharge mentale, 25-45 ans) avec une touche **Jaune** (30 % : recherche de clarté systémique). Ce produit s’aligne avec votre positionnement **Éveil Vivant** (*S’Ancrer pour Performer, Vivre, Connecter*), vos compétences (CNV, Spirale Dynamique, agilité), et votre profil HPI (simplicité, efficacité, autonomie). Le PDF est interactif, court (12-15 pages), esthétique, et offre une solution immédiate à la douleur de la surcharge mentale via une méthode actionnable.
 
 Le livrable est structuré en Markdown, dans une balise `<xaiArtifact>`, avec un nouvel **artifact_id**, un **titre** approprié, et un **contentType** de `text/markdown`. Il respecte les contraintes B2C, intègre un copywriting AIDA, et s’appuie sur votre expérience BNPP pour crédibilité. Le style est **pragmatique** (Orange), **clair**, et **encourageant**, avec des outils pratiques (CNV, ancrage, systémie) et un bonus audio/Notion pour engager vers votre Substack ou un futur produit vidéo (CTA non détaillé ici).

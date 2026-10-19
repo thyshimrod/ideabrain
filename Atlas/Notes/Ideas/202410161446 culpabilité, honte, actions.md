@@ -1,9 +1,14 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
+  - "[[Développement personnel]]"
+  - "[[Honte, culpabilité et colère]]"
+  - "[[Santé et alimentation]]"
 tags:
-  - honte
-  - culpabilite
-  - alimentation
-  - compulsion
+  - emotions/honte
+  - emotions/culpabilite
+  - sante/keto
+  - enneagramme/passion
 ---
 
 LIse Bourbeau dans son livre Stop au contrôle, avance une théorie que les compulsions (notamment alimentaires, mais je pense qu'on peut l'étendre) sont la résurgence d'une honte ou culpabilité ressentie en amont dans autre chose.

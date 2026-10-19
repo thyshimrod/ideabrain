@@ -1,12 +1,14 @@
 ---
+projet: zoimmeisdess
+up:
+  - "[[991 - Zoimmeisdess Project]]"
+  - "[[Développement personnel]]"
 tags:
-  - zoimmesidess
   - resilience
   - dependance
   - depression
   - acceptation
-up:
-  - "[[991 - Zoimmeisdess Project]]"
+  - devperso
 ---
 
 Lister les pratiques permettant la résilience

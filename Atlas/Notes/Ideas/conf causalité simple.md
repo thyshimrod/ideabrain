@@ -1,13 +1,16 @@
 ---
+up:
+  - "[[Pensée plate et complexité]]"
+  - "[[Spirale Dynamique]]"
 tags:
   - conference
   - causalite
-  - changement
-  - complexité
+  - devperso/changement
+  - complexite
   - spiraledynamique
   - cnv
-  - AT
-  - chatgpt
+  - at
+  - ia/prompt
 ---
 ### **Présentation : Quitter la causalité simpliste pour embrasser la complexité dans les transformations d’entreprise**  
 

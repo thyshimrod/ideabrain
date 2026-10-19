@@ -1,10 +1,13 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - honte
+  - emotions/honte
   - cnv
-  - domination
-  - nourriture
-  - vulnerabilite
+  - at/rebellion
+  - sante/keto
+  - couple/vulnerabilite
+  - emotions
 ---
 [[202307061431 Shame Guilty Anger]]
 

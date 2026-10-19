@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Comprendre les quadrants AQAL
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - integral/aqal
+  - integral
+  - penseeplate
+---
 
 ### Understanding AQAL Quadrants: Transform Your Daily and Professional Failures into Integral Victories
 

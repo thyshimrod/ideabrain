@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Angles d'Ombre du Type 7 : Une Exploration Exhaustive et Hiérarchisée
 
 D'après les références listées (et mes connaissances sur l'Ennéagramme, enrichies par une recherche web_search infructueuse – j'ai utilisé des sources internes comme les descriptions d'auteurs et les principes généraux de Riso-Hudson pour compléter), je propose une synthèse des différents angles d'ombre abordés pour le type 7. Le type 7, souvent appelé "l'Enthousiaste" ou "l'Épicurien", a pour peur de base l'emprisonnement dans la souffrance ou la limitation, menant à une compulsion d'évitement via l'optimisme excessif, la gloutonnerie mentale (surconsommation d'idées/plaisirs), et la recherche de nouveauté. L'ombre représente le "côté obscur" : les aspects refoulés, automatiques et sabotants qui maintiennent l'ego en place, mais qui, une fois confrontés, permettent une émancipation profonde.

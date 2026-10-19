@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Approches thérapeutiques]]"
+  - "[[Coaching]]"
 tags:
-  - CBT
-  - changement
+  - therapie/tcc
+  - devperso/changement
   - comportement
   - depression
-  - present
 ---
 
 # Rester dans le présent, changement comportementale

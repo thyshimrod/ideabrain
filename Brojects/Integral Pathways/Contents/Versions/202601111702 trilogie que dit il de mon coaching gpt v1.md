@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: Ce que la trilogie dit de mon coaching
+langue: fr
+reference: true
+tags:
+  - coaching
+  - couple
+  - integral
+---
+
 Voici un **texte de méta-positionnement**, pensé non comme une page marketing, mais comme un **texte de clarification stratégique et éthique**, reliant explicitement la trilogie à une **approche de coaching adulte, systémique et non complaisante**.
 
 Je l’écris dans un registre **professionnel, argumenté, sans promesse**, tel que tu pourrais le partager :

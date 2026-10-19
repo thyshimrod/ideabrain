@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - desidentification
-  - changement
-  - kegan
+  - devperso/desidentification
+  - devperso/changement
+  - stades/kegan
+  - enneagramme/integration
 ---
 Très bien. Je vais répondre **sans style injonctif**, sans slogans, et sans réduire la question à une liste comportementale superficielle.  
 Parler des _signes d’un faux 5 chez les 7 avancés_ suppose de comprendre **ce qu’est réellement le 5**, **ce que n’est pas le stade 5 de Kegan**, et **comment le type 7 peut mimer une désidentification sans qu’elle ait eu lieu structurellement**.

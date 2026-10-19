@@ -1,3 +1,9 @@
+---
+up:
+  - "[[SoloPreneur MAP]]"
+tags:
+  - business
+---
 
 - [x] is ir clear that it is an iterative learning process ?
     - [x] do you expect success at first trial ? *No*

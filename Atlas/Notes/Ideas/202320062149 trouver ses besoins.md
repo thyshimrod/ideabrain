@@ -1,12 +1,14 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Jeux Psychologiques]]"
 tags:
   - cnv
-  - besoin
+  - cnv/besoins
   - responsabilite
   - dependance
-  - victime
-  - karpman
-  - AT
+  - at/karpman
+  - at
 ---
 
 Pour rappel, nous rendons souvent responsable l'autre de nos propres sentiments, surtout s'ils sont désagréables, mais pas que. On peut avoir quelqu'un qui nous rend joyeux également.

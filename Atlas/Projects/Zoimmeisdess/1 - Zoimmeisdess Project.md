@@ -1,9 +1,9 @@
 ---
 tags:
   - projet
-  - pogi
+  - moi
   - coaching
-  - changement
+  - devperso/changement
 up: "[[Home]]"
 ---
 ![[dragonmiddle.png]]

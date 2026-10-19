@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: taquinerie
+oeuvre: Au lieu de piquer
+langue: fr
+reference: true
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Au lieu de piquer
 
 Il rentre tard, encore une fois. Elle l'entend poser ses clés, retirer ses chaussures, et elle sent monter la phrase toute faite, celle qui sortirait sans effort : _"Ah, tu te souviens encore où on habite, c'est bien."_ Un classique. Ça ferait sourire, peut-être. Ça lui rappellerait, sous une forme légère, qu'elle l'attend, qu'elle compte les heures, qu'elle est un peu seule depuis le matin.

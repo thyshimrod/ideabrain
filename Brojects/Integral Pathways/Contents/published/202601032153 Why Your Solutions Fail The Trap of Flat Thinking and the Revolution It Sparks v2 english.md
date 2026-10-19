@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Why your solutions fail
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
 
 
 You know that sinking feeling when a "surefire" solution crashes and burns? I've been there—staring at a failed project, a stalled career shift, or even my own body rebelling against a simple diet plan. It wasn't laziness or bad luck. It was me, trapped in flat thinking, blaming the world while ignoring the web of forces at play. This is the myth we've all bought into: one cause, one fix. But it's a lie that keeps you stuck in victimhood. What if your failures were invitations to a deeper revolution—a living, breathing uprising against simplicity that hands you back your power?

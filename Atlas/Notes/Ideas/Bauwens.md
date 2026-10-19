@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Communautés et communs]]"
 tags:
-  - bauwens
   - participative
-  - cbpp
-  - p2P
+  - communs
+auteurs:
+  - "Michel Bauwens"
 ---
 Voici une **note en Markdown** résumant la pensée de **Michel Bauwens**, centrée sur les _Common-Based Peer Production_ (CBPP), la gouvernance participative, et sa vision systémique.
 

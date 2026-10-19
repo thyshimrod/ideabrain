@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.4
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan Détaillé du Chapitre 5 : Découvrir Son Type : Clés pour le Type 7
 
 Ce chapitre 5 est une étape clé dans le livre, car il transitionne de la découverte générale de l'Ennéagramme (chapitres 1-4) à un focus plus personnel sur le type 7, en alignant avec votre prémice : identification via stress/"côté obscur" (pas aspiration sociétale), graines des types pour universalité, unicité modelée par l'histoire, et introduction à la conscience pour préparer l'ombre. Il s'aligne sur la Spirale Dynamique bleue pour la structure de base des types, avec un ton pratique et empathique pour engager le lecteur déjà typé 7 sans redondance. Longueur estimée : 25-30 pages (5000-6000 mots), pour une immersion sans surcharge, avec un équilibre théorie/pratique. Structure en 5 sections principales pour fluidité : hook/focus type 7, rappel 9 types, nuances ailes/instincts, exercices identification, conclusion/teaser ombre. Chaque section inclut objectifs, contenu clé, lien à votre prémice, intégrations références (ex. : Chestnut pour ailes/instincts, Hudson pour questionnaire, Robins pour conscious, Cron pour exemples narratifs, avec nuance pour éviter biais), exercices (structurés en 4 parties : ce qu'on change, moyen d'y arriver, description de la pratique, ce qu'on attend), fit à la Spirale Dynamique, et suggestions pour la conception/écriture (structure interne, ton, longueur, visuals comme quizzes ou checklists, cahier détachable, QR code pour audio fictif). Le chapitre commence par un hook personnel pour rappeler le "why" (confirmation type pour transcendance), et se termine par un teaser pour le chapitre 6 (traits/compulsions). Pour la réutilisation, chaque élément est auto-suffisant et détaillé, permettant une rédaction directe sans questions supplémentaires.

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.2
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Here is the full English translation, faithful, fluid, and aligned with the tone of your book:
 
 ---

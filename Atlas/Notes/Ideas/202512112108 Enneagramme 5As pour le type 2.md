@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - 5A
+  - enneagramme/5a
   - guerison
-  - type2
+  - enneagramme/type2
+  - enneagramme/integration
 ---
 ### Les 5As pour le Type 2 de l'Ennéagramme : Description et Exercices Pratiques
 

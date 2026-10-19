@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Optimized Prompt for Crafting Tailored Messages 
 
 You are an expert in behavioral psychology and communication, specializing in Spiral Dynamics and Rogers’ Diffusion of Innovation frameworks. Given a [problem] (or a default problem: "Encouraging adoption of a new sustainable energy solution"), craft tailored messages to persuade two distinct audience groups:

@@ -1,3 +1,7 @@
+---
+type: log
+statut: archive
+---
 
 - [ ] Prendre soin de moi
 	- [x] celebrations à reprendre

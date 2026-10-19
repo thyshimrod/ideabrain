@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: desir
+oeuvre: Quand le désir disparaît 1
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - couple/desir
+  - integral
+  - couple
+---
 
 Merci pour la précision — elle est très juste.  
 Je te propose ci-dessous **un autre article**, écrit dans un **style continu, explicatif, conceptuellement dense**, assumant une **approche intégrale explicite** (AQAL, développement du sujet, systémique, phénoménologie), et surtout **sans phrases hachées** ni effets “manifesto”.

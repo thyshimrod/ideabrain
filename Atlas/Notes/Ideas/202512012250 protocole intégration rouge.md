@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - Spirale
   - spiraledynamique
-  - intégral
-  - intégration
-  - Évolution
+  - integral
+  - integration
+  - evolution
 ---
 Voici **le protocole complet, précis et praticable** pour **réintégrer ta part Rouge** selon Wilber, Spiral Dynamics, la psychologie intégrale, et les approches somatiques contemporaines.
 

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Tu as raison — c'est un manque réel. Le triangle de Karpman est particulièrement riche dans cette scène parce que les rôles basculent plusieurs fois, et de façon très visible. Et tu as raison sur la porte de sortie : Karpman offre souvent quelque chose de plus immédiat que l'AT pure, parce qu'il suffit de repérer son rôle du moment pour commencer à en sortir.
 
 Je t'intègre ça directement dans la scène complète.

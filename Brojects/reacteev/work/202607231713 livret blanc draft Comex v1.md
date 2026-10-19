@@ -1,9 +1,18 @@
 ---
+type: livre-blanc
+statut: brouillon
+projet: reacteev
+oeuvre: Livre blanc agilité et IA
+langue: fr
 title: "L'AGILITÉ À L'ÈRE DE L'IA : GOUVERNANCE, RENTABILITÉ ET HUMANITÉ"
 subtitle: "Dépasser l'illusion de la vitesse pour rebâtir une organisation cognitive durable"
 author: "Cabinet de Conseil & Transformation"
 date: "2026"
 output: pdf_document
+tags:
+  - agile/transformation
+  - ia
+  - business
 ---
 ---
 title: "L'AGILITÉ À L'ÈRE DE L'IA : GOUVERNANCE, RENTABILITÉ ET HUMANITÉ"

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Liv Larsson : Cultiver la Paix Intérieure  
 
 ## Description  

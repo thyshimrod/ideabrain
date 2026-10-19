@@ -1,6 +1,8 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
-  - reformulation
+  - coaching/ecoute
   - coaching
 ---
 <!-- Related -->

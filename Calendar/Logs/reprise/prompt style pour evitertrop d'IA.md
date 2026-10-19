@@ -1,11 +1,11 @@
 ---
-
+type: pilotage
+projet: livre-remise-en-jeu
+statut: courant
+perimetre: charte-de-style
 tags:
-
-- livre2
-- style
-- methode
-
+  - style
+  - methode
 ---
 
 # Recommandations de style — Livre 2

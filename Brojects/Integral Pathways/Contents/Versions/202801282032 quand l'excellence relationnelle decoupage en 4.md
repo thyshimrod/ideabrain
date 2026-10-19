@@ -1,3 +1,11 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - couple
+---
+
 # Quadrilogie : L'Effondrement Silencieux des Couples Performants
 
 ---

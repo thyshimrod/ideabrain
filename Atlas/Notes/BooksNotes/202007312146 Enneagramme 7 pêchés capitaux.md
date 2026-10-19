@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peches_capitaux
+  - enneagramme/passion
 ---
 # Eneagramme 7 pêchés capitaux
 

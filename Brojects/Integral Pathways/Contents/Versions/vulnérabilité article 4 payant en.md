@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: "Créer les conditions sans forcer l'ouverture"
+langue: en
+reference: true
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 Why People Open Up When You Stop Asking Them To
 Most people think openness comes from asking the right questions.
 In reality, it comes from removing the pressure to answer.

@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - chap7
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C7
+chapitre: C7
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé
+statut_detail: validé
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 **Chapitre 7 — Les portes de sortie**

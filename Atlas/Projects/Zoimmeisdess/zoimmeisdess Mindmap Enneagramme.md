@@ -1,5 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 mindmap-plugin: basic
+tags:
+  - enneagramme
 ---
 
 # Enneagramme

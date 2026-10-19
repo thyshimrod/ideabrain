@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.9
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ## Section 4 – Exercices de croissance pour le Type 7
 
 ### _Retrouver une expansion ancrée et consciente_

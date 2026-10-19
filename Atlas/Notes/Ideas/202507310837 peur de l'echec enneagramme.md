@@ -1,8 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peur
-  - echec
+  - emotions/peur
   - comportement
 ---
 ### 🧩 **Tableau : Ce que l’échec touche chez chaque type de l’Ennéagramme**

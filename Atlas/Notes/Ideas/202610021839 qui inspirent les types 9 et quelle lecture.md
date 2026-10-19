@@ -1,7 +1,10 @@
 ---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
 tags:
   - enneagramme
   - inspiration
+  - coaching
 ---
 Voici la modélisation complète pour le **Type 9 au féminin**, en conservant la structure comparative stricte entre le niveau moyen (_Average_) et le niveau de santé psychologique élevé (_Healthy_).
 

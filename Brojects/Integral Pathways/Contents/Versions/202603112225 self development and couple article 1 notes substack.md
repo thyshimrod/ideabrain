@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: grandir
+oeuvre: "Tu te développes et tu t'éloignes"
+langue: fr
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # 10 notes Substack autonomes
 
 _Série "Grandir — et ne pas perdre l'autre"_

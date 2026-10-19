@@ -1,11 +1,14 @@
 ---
+projet: zoimmeisdess
+up:
+  - "[[MOA RELEASe]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - zoimmesidess
-  - release
   - croyances
   - spiraledynamique
   - relation
-  - holon
+  - integral
+  - devperso
 ---
 
 Les fondations de notre société s'appuyent sur du multi culturelles, et des millénaires de construction, un aspect holonique en somme.

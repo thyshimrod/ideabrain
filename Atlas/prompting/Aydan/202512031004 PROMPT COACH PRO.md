@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 Je suis caoch agile, et j'ai l'habitude d'accompagner des équipes, et des personnes dans le cadre de transformation
 Je passe ma certification de coach professionnelle au travers d'une école de coaching pour me permettre d'accompagner des individus avec une démarche structurée, et pouvoir ne faire une activité à part entière.
 J'ai 14j de formation en cnv, une formation en analyse transactionnelle, des connaissances en enneagramme, en spirale dynamique.

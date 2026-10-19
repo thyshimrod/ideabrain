@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[Agilité]]"
+  - "[[Coaching]]"
 tags:
-  - transformation
+  - devperso/changement
   - bienveillance
   - douceur
-  - serenite
-  - courage
 ---
 
 Donnez-moi la sérénité D'accepter Les choses que je ne puis changer,  

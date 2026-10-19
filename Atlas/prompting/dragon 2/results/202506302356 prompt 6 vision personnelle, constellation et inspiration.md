@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Prompt
 
 je n'ai pas besoin de cela pour l'instant. Je vais continuer à compléter la vision avec mes inspirations, et intuitions. Je n'ai pas réellement de crainte de me perdre. J'ai confiance au rappel par l'univers.

@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.11
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Voici une version réécrite **des exercices du chapitre 12**, adaptée spécifiquement à un **type 7** qui veut **s’ancrer** et **intégrer son mouvement d’intégration vers le type 5** (focus, intériorité, profondeur, stabilité).  
 L’objectif : conserver la richesse et la profondeur du texte original, mais **rendre chaque pratique plus simple, incarnée et motivante** pour un 7 (qui fuit souvent la contrainte ou l’ennui).
 

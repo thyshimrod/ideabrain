@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type7
+  - enneagramme/type7
 ---
 
 # Type 7 Le généraliste

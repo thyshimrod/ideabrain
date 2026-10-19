@@ -1,10 +1,17 @@
 ---
+type: article
+statut: publie
+projet: eveil-vivant
+serie: vulnerabilite
+oeuvre: Pourquoi « Soyez vulnérable » crée du retrait
+langue: fr
+plateforme: substack-fr
+reference: true
 tags:
-  - vulnerabilite
-  - EveilVivant
+  - couple/vulnerabilite
   - relation
   - injonction
-  - bateson
+  - emotions
 ---
 
 [[Notes Pourquoi Soyez vulnérable crée du retrait notes]]

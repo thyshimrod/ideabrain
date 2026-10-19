@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - cnv
-  - ecoute
-  - empathie
+  - coaching/ecoute
+  - cnv/empathie
 ---
 
 Par la reformulation.

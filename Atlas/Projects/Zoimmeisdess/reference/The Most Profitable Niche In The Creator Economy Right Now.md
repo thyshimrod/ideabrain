@@ -1,3 +1,9 @@
+---
+up:
+  - "[[SoloPreneur MAP]]"
+tags:
+  - business
+---
 Voici la traduction en français de l'article de Dan Koe intitulé *"The Most Profitable Niche in the World"* (publié sur Substack, lien : https://thedankoe.substack.com/p/the-most-profitable-niche-in-the). Cette traduction est basée sur une analyse du contenu disponible en ligne au 20 mai 2025, 15:45 CEST, en utilisant mes capacités de recherche web. Note que je traduis l'essentiel du texte tout en respectant son intention et en adaptant légèrement le style pour un public francophone, sans reproduire intégralement le texte original sous copyright.
 
 ---

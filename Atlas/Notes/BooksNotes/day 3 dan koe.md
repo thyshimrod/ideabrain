@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 # Bienvenue au Jour 3 !
 
 Salut !

@@ -1,10 +1,9 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - karpman
-  - AT
-  - triangledramatique
-  - jeromeLefeuvre
-  - PierreAgnese
+  - at/karpman
+  - at
 ---
 # Invitations
 ## Invitations à partir du rôle de persécuteur

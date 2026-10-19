@@ -1,3 +1,17 @@
+---
+type: livre
+statut: final
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+reference: true
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 # Couple Intégral — Module 1
 
 ## Les jeux de base

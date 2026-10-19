@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Marshall Rosenberg : Parler avec le Cœur  
 
 ## Description  

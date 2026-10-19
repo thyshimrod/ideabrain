@@ -1,3 +1,13 @@
+---
+type: prompt
+projet: livre-remise-en-jeu
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 # Contexte du projet — Livre 2 (suite de _Hors Jeu_)
 
 ## Résumé en une phrase

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Gregory Bateson : Voir les Patterns qui Relient  
 
 ## Description  

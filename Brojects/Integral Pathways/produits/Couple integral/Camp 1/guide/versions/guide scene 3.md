@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **Scène 3 — L'aide qui n'est pas reçue** Tu vois que ton partenaire est en difficulté. Tu proposes quelque chose de concret — une idée, une solution, un soutien. Il ou elle répond "c'est bon, je gère". Tu sens que non, ce n'est pas bon.
 
 ---

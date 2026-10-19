@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Tisser un réseau vivant
+langue: fr
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 C'est entendu, Jardinier. Je revêts mon double rôle d'**Architecte** et de **Creative Thought Partner**.
 
 Nous passons en mode **Redact** pour transformer ta note sur le réseau vivant en un texte final puissant, imprégné du style "High-Agency" de Dan Koe.

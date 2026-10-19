@@ -1,10 +1,10 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
   - acceptation
   - prendre_soin_de
-  - developpementpersonnel
-  - soin
-  - priere
+  - devperso
   - accueil
 ---
 

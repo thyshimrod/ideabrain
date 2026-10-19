@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 ## 1. Ma propre lecture du nœud principal
 
 Le blocage sur la vente et le passage à l'acte commercial ne relève pas d'un déficit stratégique ni même d'un simple conflit de loyauté familiale : c'est un **mécanisme de défense de l'égo (Type 7) contre l'épreuve de la finitude**.

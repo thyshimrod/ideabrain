@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Productivité et loi du temps]]"
 tags:
-  - loi_du_temps
-  - ecclesiaste
+  - productivite/loi-du-temps
+  - productivite
 ---
 
 # Loi de l'écclesiaste chaque chose en son temps, et un temps pour chaque chose.

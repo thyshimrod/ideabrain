@@ -1,3 +1,15 @@
+---
+type: livre
+statut: brouillon
+projet: eveil-7
+oeuvre: Éveil 7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Chapitre 1 : Découverte de l’Ennéagramme : Origines et Unicité
 
 #### Section 1 : Hook et Introduction Personnelle

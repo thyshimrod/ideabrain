@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ## 📝 Article : **"Quand chacun devient un point d’inflexion"**
 
 ---

@@ -1,22 +1,18 @@
 ---
+up:
+  - "[[Couple]]"
+  - "[[Développement personnel]]"
 title: Le pouvoir de la vulnérabilité
 authors: brenee brown
 tags:
-  - book
-  - breneebrown
-  - vulnerabilite
-  - honte
-  - entierete
-  - vieentiere
-  - oser
+  - couple/vulnerabilite
+  - emotions/honte
   - perfection
-  - espoir
-  - snyder
-  - rareté
-  - gratitude
-  - jeuxpsychologiques
-  - management
+  - at/jeux
+  - agile/management
   - culture
+auteurs:
+  - "Brené Brown"
 ---
 # Vie entière : consignes et définitions
 

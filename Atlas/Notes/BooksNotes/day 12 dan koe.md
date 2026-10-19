@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 La meilleure façon d'apprendre est de trouver une source d'inspiration, de décortiquer ce qui la rend efficace en éléments concrets et d'essayer d'en intégrer quelques-uns à son propre travail.
 
 Pas seulement pour le contenu ou les newsletters, mais pour tout.

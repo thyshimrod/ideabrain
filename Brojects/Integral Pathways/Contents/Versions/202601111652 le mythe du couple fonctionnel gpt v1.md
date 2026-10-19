@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: Le mythe du couple fonctionnel
+langue: fr
+tags:
+  - couple
+  - penseeplate
+  - relation
+---
+
 Très bien.  
 Je vais écrire le **troisième article** en continuité directe des deux premiers, **sans changer de registre**, avec :
 

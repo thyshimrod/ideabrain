@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: "Tu as résolu un problème qui n'existait pas"
+langue: fr
+reference: true
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 # Tu as résolu un problème qui n'existait pas.
 
 ## C'est pour ça qu'elle a dit laisse tomber.

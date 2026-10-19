@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 > ### 🌱 Exercice 1 – Observer sans fuir
 > 
 > **Objectif :** apprendre à remarquer tes variations d’énergie et d’humeur sans te juger ni chercher à aller mieux.

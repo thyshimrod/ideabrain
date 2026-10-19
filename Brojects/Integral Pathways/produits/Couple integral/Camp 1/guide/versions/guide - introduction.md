@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 Il y a une chose que personne ne dit franchement aux gens qui ont fait du travail sur eux-mêmes.
 
 Comprendre ce qui se passe dans une relation ne suffit pas à changer ce qui s'y passe. On peut nommer le triangle de Karpman, reconnaître les états du moi, identifier les jeux psychologiques — et se retrouver le soir même dans la même scène, avec les mêmes répliques, dans le même rôle. Pas par manque de volonté. Pas par manque de lucidité. Parce que comprendre et voir sont deux choses différentes.

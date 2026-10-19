@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 # Plan de Coaching Solopreneur : Synthèse du Défi Future-Proof de 30 Jours de Dan Koe
 
 Ce document synthétise les leçons clés des newsletters de Dan Koe (jours 1 à 9), axées sur la création d’une marque personnelle rentable en tant que solopreneur. Il propose un plan d’action chronologique clair pour développer une marque personnelle favorisant la **croissance**, l’**authenticité** et l’**autorité**, menant à la monétisation. Chaque jour comprend des objectifs, des idées clés et des étapes concrètes.

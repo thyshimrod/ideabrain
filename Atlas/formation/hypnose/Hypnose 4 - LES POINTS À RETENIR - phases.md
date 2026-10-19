@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://www.spirivie-formations.org/formation/formation/54896/?idmodule=552901&idpage=3007441&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2025-08-17
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ![image%20menu](https://da32ev14kd4yl.cloudfront.net/versioned/spirivie-formations/image%20menu.png "image%20menu") ![Zephir%20par](https://da32ev14kd4yl.cloudfront.net/versioned/spirivie-formations/Hypnose/Zephir%20par.png "Zephir%20par")
 

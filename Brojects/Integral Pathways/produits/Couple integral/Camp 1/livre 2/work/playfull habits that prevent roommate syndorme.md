@@ -1,7 +1,11 @@
 ---
+type: recherche
+statut: notes
+projet: livre-remise-en-jeu
+langue: en
 tags:
   - couple
-  - roommate
+  - relation
 ---
 1. Dance in the kitchen for one song.  
 Not because you’re good dancers.  

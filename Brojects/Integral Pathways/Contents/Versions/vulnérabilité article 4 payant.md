@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: "Créer les conditions sans forcer l'ouverture"
+langue: fr
+reference: true
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 # Créer les conditions sans forcer l'ouverture
 
 On avait tous les deux senti que quelque chose pesait.

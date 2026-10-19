@@ -1,4 +1,8 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Enneagramme - Accompagner chaque type]]"
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - coaching
   - ethique

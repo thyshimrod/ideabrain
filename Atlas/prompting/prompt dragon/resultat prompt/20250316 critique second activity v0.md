@@ -1,4 +1,8 @@
-- [[#Prompt|Prompt]]
+---
+tags:
+  - ia/prompt
+---
+- [[#ia/prompt|Prompt]]
 - [[#Resultat|Resultat]]
 	- [[#Resultat#Critique de "Éveil Vivant"|Critique de "Éveil Vivant"]]
 		- [[#Critique de "Éveil Vivant"#1. Intérêt général et pertinence|1. Intérêt général et pertinence]]

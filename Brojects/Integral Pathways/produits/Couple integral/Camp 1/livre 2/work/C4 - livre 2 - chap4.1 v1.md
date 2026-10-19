@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C4
+chapitre: C4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **Ch.4 — Ce qui résiste, même quand on a compris**
 
 Imaginez un paysage vu du ciel, des années après qu'on ait cessé d'y toucher. Des collines douces, des vallées bien dessinées, un relief qui semble avoir toujours existé sous cette forme. Rien, dans ce paysage, ne raconte qu'il s'est construit couche après couche, sédiment après sédiment, décennie après décennie, chacune déposée sans qu'on la remarque au moment où elle se dépose. On ne voit que le résultat : un relief stable, cohérent, presque évident. Pour le modifier, il ne suffit pas de savoir qu'il s'est formé ainsi. Il faut du temps, ou alors un bulldozer — et encore, le bulldozer ne fait que déplacer la terre, il ne rend à personne les années qu'il a fallu pour qu'elle se dépose là.

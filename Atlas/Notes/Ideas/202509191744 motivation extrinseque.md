@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Agilité]]"
+  - "[[Productivité et loi du temps]]"
 tags:
   - motivation
-  - extrinseque
   - leadership
-  - manager
+  - agile/management
+  - agile
 ---
 La motivation extrinseque vient notamment du fait qu'une personne ne persuader une autre de faire quelque chose.
 Car cette première personne (parent ou manager) a un objectif, et veut que l'autre atteigne son objectif.

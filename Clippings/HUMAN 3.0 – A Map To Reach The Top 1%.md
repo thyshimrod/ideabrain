@@ -1,4 +1,7 @@
 ---
+up:
+  - "[[Integral]]"
+  - "[[SoloPreneur MAP]]"
 title: HUMAN 3.0 – A Map To Reach The Top 1%
 source: https://letters.thedankoe.com/p/human-30-a-map-to-reach-the-top-1
 author:
@@ -7,11 +10,13 @@ published: 2025-08-26
 created: 2025-08-29
 description: A comprehensive set of guidelines to maximize your potential (in all domains of life)
 tags:
-  - clippings
-  - kenWilber
-  - dankoe
-  - quadrants
-  - vieintegrale
+  - integral
+  - business
+  - integral/aqal
+  - integral/pratique
+auteurs:
+  - "Ken Wilber"
+  - "Dan Koe"
 ---
 ### A comprehensive set of guidelines to maximize your potential (in all domains of life)
 

@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Coaching]]"
 tags:
   - coaching
-  - developpementpersonnel
-  - projection
+  - devperso
   - cnv
 ---
 Néologisme créé par moi.

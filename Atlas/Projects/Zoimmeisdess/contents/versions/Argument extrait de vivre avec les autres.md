@@ -4,10 +4,9 @@ version: 1.0
 date: 11/04/2025
 intention: Analyser les arguments d’un texte sur les défis du développement personnel dans les relations, en identifiant objectifs, méthodes et revendications, avec une perspective sur les changements de paradigme.
 tags:
-  - développement personnel
-  - relations
+  - relation
   - injustice
-  - empathie
+  - cnv/empathie
 ---
 
 # Analyse du Texte A

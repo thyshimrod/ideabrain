@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.3
+chapitre: C1.3
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 
 Décryptage maintenant. L'angle distinctif ici : ce n'est pas un Enfant Libre absent comme dans la scène 1 — il est bien présent, actif, joyeux même. Mais il ne se tourne jamais vers le couple. C'est une fuite qui ne ressemble pas à une fuite parce qu'elle est saine en apparence — sport, cuisine, amitié, projets. Rien à reprocher individuellement.

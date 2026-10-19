@@ -1,3 +1,15 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Why your solutions fail
+langue: en
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
 
 [[202601032142 Why Your Solutions Fail The Trap of Flat Thinking and the Revolution It Sparks]]
 

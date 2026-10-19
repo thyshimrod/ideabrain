@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
 
 
 Bon choix pour tester l'hypothèse proprement — une série te donne plusieurs points de mesure (3 articles, 3 occasions de comparer l'engagement) plutôt qu'un seul coup d'essai difficile à interpréter.

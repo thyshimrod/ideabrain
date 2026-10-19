@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Approches thérapeutiques]]"
 tags:
-  - CBT
+  - therapie/tcc
   - emotions
-  - origine
+  - therapie
 ---
 
 # Origine des pbs émotionnels

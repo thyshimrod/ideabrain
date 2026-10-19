@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Développement personnel]]"
 title: Demand avoidance
 source: https://www.autism.org.uk/advice-and-guidance/topics/behaviour/demand-avoidance
 author:
@@ -6,10 +8,10 @@ published:
 created: 2025-12-10
 description: Resistance to demands is a characteristic experienced by and observed in some autistic people. It is sometimes labelled as Pathological Demand Avoidance (PDA), but there is debate about the evidence for and usefulness of this label.
 tags:
-  - clippings
   - pda
   - demandavoidance
   - autism
+  - devperso
 ---
 Your Internet Explorer 11 browser is not supported by this site. Please upgrade to a recent browser for the best experience.
 

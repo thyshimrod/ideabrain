@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - moduleminute
-  - kenWilber
-  - vieintegrale
+  - integral/pratique
+  - integral
+auteurs:
+  - "Ken Wilber"
 ---
 Utilisez vos 5 sens pour entrer en contact avec le domaine physique.
 Examinez votre environnement, que voyez vous? Que sentez vous ou de quoi avez vous le goût dans la bouche? Ecoutez les bruits autour de vous comme par exemple le son de votre respiration.

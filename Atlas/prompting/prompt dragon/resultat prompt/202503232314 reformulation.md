@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ## Prompt
 
 En omettant la partie tech ou néo, j'aimerai rester dans l'aspect relation, humain, coaching, pourrais tu me proposer un texte amélioré qui comprend tes remarques, et pourraient aider à améliorer la note globale.

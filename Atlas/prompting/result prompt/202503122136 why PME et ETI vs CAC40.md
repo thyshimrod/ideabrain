@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Je n'ai travaillé que pour des grands groupes notamment du CAC40, tes propositions concernent plutôt les PME/ETI. Je trouve cela étrange, peux tu m'expliquer pourquoi tu as envisagé cette cible, et que serais ta réponse si elle ciblait plutôt les grands groupes.
 Dans ta réponse, il est important de prendre en compte le contexte économique, et la capacité financière des structures ou des personnes qui pourraient m'employer.
 

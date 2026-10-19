@@ -1,9 +1,10 @@
 ---
+up:
+  - "[[Citations]]"
 tags:
   - bonheur
   - citation
   - solution
-  - heureux
 author: dostoieveski
 ---
 # Heureux selon dostoïevski

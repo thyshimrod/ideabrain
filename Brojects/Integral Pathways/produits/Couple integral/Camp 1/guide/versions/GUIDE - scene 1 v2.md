@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 La remarque est notée — et elle est déjà dans mes instructions de base, donc pas de changement à faire de ce côté.
 
 Voici la scène 1 réécrite :

@@ -1,6 +1,7 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
-  - enneatype
   - enneagramme
 top:
   - "[[Enneagramme]]"

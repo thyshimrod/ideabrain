@@ -1,12 +1,14 @@
 ---
+type: exploration
+statut: ongoing
+rank: 3
 up:
   - "[[Efforts]]"
-type: "[[Exploration]]"
-rank: "3"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - integration
-  - type6
+  - enneagramme/integration
+  - enneagramme/type6
 ---
 
 J'aimerai mener une recherche qui parle du type 6 enneagramme.

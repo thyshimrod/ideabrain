@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme - Armures et essence]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - spiritualite
 ---
 
  ![[Ennea-HolyIdeas3.png]]

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 # depasser la vue socialiste chretienne sur la creation de valeur
 
 Quand on voit le nombre de millionnaires qui se créent chaque année, on peut y voir deux choses au moins.

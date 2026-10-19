@@ -1,6 +1,9 @@
 ---
+up:
+  - "[[Productivité et loi du temps]]"
 tags:
-  - loi_du_temps
+  - productivite/loi-du-temps
+  - productivite
 ---
 
 # Loi Swoboda-Fliess-Teltscher connaît toi même

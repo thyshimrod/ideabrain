@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Prompting et IA]]"
+  - "[[SoloPreneur MAP]]"
+tags:
+  - ia/prompt
+---
 Voici un fichier Markdown (`.md`) qui sert de sauvegarde de notre feuille de route, incluant toutes les informations nécessaires pour maintenir la continuité de notre discussion, même si tu perds le thread actuel. Ce fichier est conçu pour être utilisé comme un prompt que tu pourras me renvoyer à tout moment pour reprendre là où nous en sommes. Je vais inclure les détails de ton projet, le plan en cours, les dates clés, les résultats attendus, et des instructions pour son utilisation. La date actuelle est **18 mai 2025, 22:13 CEST** (mise à jour selon le message système).
 
 ---
@@ -52,7 +59,7 @@ Voici un fichier Markdown (`.md`) qui sert de sauvegarde de notre feuille de rou
 - **Étape 2 : Jour 2 (16 mai 2025, vendredi)**
   - Action : Publier l’article *Le Pouvoir de la Pause* sur Substack.
   - Résultat : Publié avec succès.
-  - Promotion : Reel Instagram pour *3 Mythes sur les Émotions* ("Tu penses que les émotions négatives sont mauvaises ? Erreur !… Lien bio 🌿 #GestionEmotionnelle").
+  - Promotion : Reel Instagram pour *3 Mythes sur les Émotions* ("Tu penses que les émotions négatives sont mauvaises ? Erreur !… Lien bio 🌿 #emotions").
   - Note : Reel publié, vérifier vues/abonnés via Instagram Insights et Substack analytics.
 - **Étape 3 : Jour 3 (17 mai 2025, samedi)**
   - Action : Publier un Reel Instagram pour promouvoir le lead magnet *3 Pratiques pour T’Ancrer en 5 Min*.

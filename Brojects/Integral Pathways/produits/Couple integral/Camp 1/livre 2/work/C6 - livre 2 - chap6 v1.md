@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - chap6
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C6
+chapitre: C6
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé (fil conducteur : Thomas et Claire)
+statut_detail: "validé (fil conducteur : Thomas et Claire)"
+tags:
+  - at
+  - couple
+  - cnv
 ---
 
 **Chapitre 6 — Le « nous » et la renégociation**

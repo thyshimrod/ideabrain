@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - desintegration
+  - enneagramme/desintegration
 ---
 # eneagramme desintegration types
 

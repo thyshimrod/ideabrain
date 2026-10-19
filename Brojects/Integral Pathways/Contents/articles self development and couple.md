@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
 
 [[liste articles self development and couple]]
 

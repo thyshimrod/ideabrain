@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 
 ---
 title: "Style de Ken Wilber – Théorie Intégrale"

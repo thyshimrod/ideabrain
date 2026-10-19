@@ -1,3 +1,8 @@
+---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
+  - "[[Enneagramme]]"
+---
 
 # Directives pour un Type 6 au Niveau Jaune avec Actions Concrètes
 

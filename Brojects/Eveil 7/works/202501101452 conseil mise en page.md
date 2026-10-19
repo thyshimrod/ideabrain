@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Super — je te donne ici **tout ce qu’il te faut pour mettre en forme ton livre (imprimé + ebook)**, avec logiciels conseillés, conseils de mise en page concrets et une démarche pas-à-pas prête à suivre. Je reste pratique et opérationnel : tu pourras appliquer ces recommandations directement ou les transmettre à un graphiste / maquettiste.
 
 # Logiciels recommandés (selon niveau & budget)

@@ -1,3 +1,16 @@
+---
+type: notes-article
+statut: brouillon
+projet: guide-roles
+serie: guide-roles
+oeuvre: "You don't exit the game by understanding it better."
+langue: en
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 L'article 5 c'est _"You don't exit the game by understanding it better."_ — la conclusion de la série. Le thème central : la différence entre comprendre et voir, le signal de bascule, et l'ouverture vers une conversation. C'est l'article le plus orienté vers l'action — il doit convertir.
 
 Les notes doivent refléter ça : moins d'introspection, plus de tension vers le passage à l'acte.

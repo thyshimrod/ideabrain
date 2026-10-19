@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+tags:
+  - moi
+---
 Ce que tu décris est déjà bien plus riche que ce que je supposais. Tu n'es pas en train de courir _contre_ ton corps — tu utilises la course comme un espace de pensée flottante, presque comme une forme de méditation active. Et l'observation que la douleur disparaît quand tu es absorbé dans tes pensées est réelle : c'est le système nerveux qui bascule hors du mode surveillance.
 
 Donc la question se déplace. Ce n'est pas "comment devenir plus présent au corps pendant la course" — tu as déjà quelque chose qui fonctionne. La vraie question est : **est-ce que cet espace de pensée libre pendant la course te nourrit vraiment, ou est-ce parfois une autre forme de fuite dans le mental ?**

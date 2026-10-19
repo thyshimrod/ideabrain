@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - AT
-  - jeuxpsychologiques
-  - karpman
-  - berne
-  - triangledramatique
+  - at
+  - at/jeux
+  - at/karpman
+auteurs:
+  - "Eric Berne"
 ---
 ### Jeu 1 : « Pauvre de moi ! »
 

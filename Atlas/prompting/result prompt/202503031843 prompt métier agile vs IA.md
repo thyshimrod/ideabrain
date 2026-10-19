@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 prompt : 
 Ok, Je suis coach agile appartenant à un cabinet de conseil spécialisé dans les transformations d'entreprise et notamment sur les aspects produits et agiles. Pour ma part, je suis aussi coach professionnel (accompagnement individuel), avec des compétences fortes en analyse transactionnelle, communication non violente, spirale dynamique et enneagramme. Je vois que l'arrivée de l'IA crée une contraction du marché, lié à une peur des entreprises, une confusion, lié à l'inconnu, sachant qu'il faudrait l'intégrer aux pratiques de l'entreprise, mais ne sachant pas réellement comment, et aussi, du fait, qu'il y a une inquiétude de la disparition de la plupart des métiers. Du coup, les transformations agiles se ralentissent, face à l'inconnu. Je me pose la question de ce que les entreprises pourraient avoir besoin dans les prochaines années, et voir quel métier je devrai faire, sachant que j'ai aujourd'hui 48 ans, et que je voudrai m'appuyer sur mon expérience, et mes compétences actuelles. Pourrais tu me faire une analyse de cela, et me proposer des orientations?

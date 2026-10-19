@@ -1,9 +1,18 @@
 ---
+type: livre-blanc
+statut: brouillon
+projet: reacteev
+oeuvre: Livre blanc agilité et IA
+langue: fr
 title: "L'AGILITÉ AUGMENTÉE : LA PROMESSE ENFIN TENUE"
 subtitle: "Manuel d'orchestration socio-technique, mutation des rituels et ingénierie à l'ère agentique"
 author: "Cabinet de Conseil & Transformation Strategique"
 date: "2026"
 output: pdf_document
+tags:
+  - agile/transformation
+  - ia
+  - business
 ---
 
 # ÉDITORIAL : LIBÉRER L'AGILITÉ DE SA PROPRE BUREAUCRATIE

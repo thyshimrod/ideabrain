@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+tags:
+  - moi
+---
 
 amitié
 soutien

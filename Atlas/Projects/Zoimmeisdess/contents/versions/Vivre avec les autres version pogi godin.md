@@ -6,9 +6,8 @@ date: 11/04/2025
 intention: Décortiquer les défis du développement personnel dans les relations avec une approche systémique et lucide, pour un impact réfléchi.
 tags:
   - introspection
-  - relations
-  - systémique
-  - croissance
+  - relation
+  - systemique
 ---
 
 # Réveiller la Puissance

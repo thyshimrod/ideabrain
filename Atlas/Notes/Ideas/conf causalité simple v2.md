@@ -1,11 +1,14 @@
 ---
+up:
+  - "[[Pensée plate et complexité]]"
+  - "[[Spirale Dynamique]]"
 tags:
   - conference
   - spiraledynamique
   - causalite
-  - complexité
+  - complexite
   - cnv
-  - AT
+  - at
 ---
 ### **Présentation : Quitter la causalité simpliste pour embrasser la complexité dans les transformations d’entreprise**  
 

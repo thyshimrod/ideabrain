@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Avant-propos
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ## **Foreword**
 
 It took me a long time before I was able to write a book. I chose to share my discoveries with you after several years of exploring my type through the Enneagram.

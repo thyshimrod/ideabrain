@@ -1,6 +1,5 @@
 ---
-tags:
-  - zoimmesidess
+projet: zoimmeisdess
 related:
   - "[[991 - Zoimmeisdess Project]]"
 top:

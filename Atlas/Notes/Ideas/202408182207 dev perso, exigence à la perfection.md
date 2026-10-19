@@ -1,12 +1,15 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
+  - "[[Développement personnel]]"
 tags:
   - cnv
   - exigence
   - perfection
-  - developpementpersonnel
-  - honte
+  - devperso
+  - emotions/honte
   - jugement
-  - blessure
+  - devperso/blessures
 ---
 l'entrée dans le dev perso commence souvent par un besoin de recherche de solution à un problème, un ras le bol, une fracture.
 

@@ -1,8 +1,13 @@
 ---
+up:
+  - "[[Integral]]"
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - kenWilber
-  - vieintegrale
-  - AQAL
+  - integral
+  - integral/pratique
+  - integral/aqal
+auteurs:
+  - "Ken Wilber"
 ---
 ```insta-toc
 ---

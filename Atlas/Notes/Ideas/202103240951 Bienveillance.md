@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - bienveillance
   - coaching

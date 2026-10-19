@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.9
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan Détaillé du Chapitre 10 : Exploring Integration and Growth Paths for Type 7
 
 Ce chapitre 10 est une étape intégrative dans le livre, car il permet au lecteur de transformer la conscience de l'ombre et des niveaux de santé des chapitres précédents en une croissance active via l'intégration, en alignant avec votre prémice : mouvements d'intégration/désintégration comme flux vital non statique, expérimentation pour monter en healthy, étude du "pourquoi" pour comprendre comment l'intégration transcende les compulsions et sabotages, menant à une guérison profonde plutôt qu'une atténuation des symptômes. Il s'aligne sur la Spirale Dynamique turquoise pour une reliance via l'intégration des qualités des autres types, où la croissance n'est pas individuelle mais interconnectée au monde, avec un ton motivant et visionnaire pour engager le lecteur sans théoriser excessivement. Longueur estimée : 30-35 pages (6000-7000 mots), pour une immersion actionnable avec pratique, équilibrant théorie (intégration rôle) et action (exercices paths). Structure en 5 sections principales pour fluidité : hook/anecdote, définition intégration, découverte paths 7, exercices growth, conclusion/teaser. Chaque section inclut objectifs, contenu clé, lien à votre prémice, intégrations références (ex. : Hudson pour intégration/désintégration, Chestnut pour nuances sous-types, Robins pour embodied paths, Cron pour narration growth, avec nuance pour éviter biais comme idéalisation intégration), exercices (structurés en 4 parties : ce qu'on change, moyen d'y arriver, description de la pratique, ce qu'on attend), fit à la Spirale Dynamique, et suggestions pour la conception/écriture (structure interne, ton, longueur, visuals comme quizzes ou checklists, cahier détachable, QR code pour audio fictif). Le chapitre commence par un hook personnel pour rappeler le "why" (intégrer pour joie durable), et se termine par un teaser pour le chapitre 11 (overcoming compulsions) avec un appel à l'action motivant. Pour la réutilisation, chaque élément est auto-suffisant et détaillé, permettant une rédaction directe sans questions supplémentaires.

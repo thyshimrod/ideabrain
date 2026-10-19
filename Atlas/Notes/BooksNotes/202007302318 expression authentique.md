@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - cnv
-  - authentique
-  - expression_authentique
+  - authenticite
+  - cnv/expression
 ---
 # expression authentique
 

@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: reacteev
+oeuvre: Offre transformation IA
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
 
 [[offre transfo IA v1]]
 [[offre transfo IA v2]]

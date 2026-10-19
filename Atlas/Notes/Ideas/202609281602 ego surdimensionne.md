@@ -1,10 +1,14 @@
 ---
+up:
+  - "[[Développement personnel]]"
+  - "[[Enneagramme]]"
 tags:
   - ego
   - jugement
   - spiraledynamique
-  - AT
+  - at
   - enneagramme
+  - devperso
 ---
 **« Avoir un ego surdimensionné »** est un jugement qui révèle autant (voire plus) sur celui qui le porte que sur celui qui le reçoit. Voici une analyse structurée des mécanismes en jeu, du côté du jugeur comme du « jugé », avec les grilles de l’Analyse Transactionnelle (AT) et de l’Ennéagramme.
 

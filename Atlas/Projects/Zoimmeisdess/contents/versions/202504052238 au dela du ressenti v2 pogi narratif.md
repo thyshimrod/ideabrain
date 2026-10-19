@@ -3,11 +3,11 @@ title: "Émotions : Au-delà du ressenti"
 style: Pogi – Narratif
 version: 1.1
 tags:
-  - éveil vivant
-  - systémique
+  - eveil vivant
+  - systemique
   - introspection
-  - émotions
-  - relations
+  - emotions
+  - relation
 date: 05/04/2025
 platform: Stan.store
 price: 5 $

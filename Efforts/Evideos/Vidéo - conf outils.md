@@ -1,13 +1,16 @@
 ---
+type: contenu
+format: video
+plateforme: youtube
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[Videos]]"
 created: 2024-07-20
 tags:
   - spiraledynamique
-  - agilite
+  - agile
   - coaching
-  - transformation
-rank: "5"
+  - agile/transformation
 ---
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Je vais analyser votre dernier message en suivant les consignes que vous avez données : identifier les incohérences, fausses informations, omissions, et arguments tendancieux ou biaisés. Ensuite, je vous proposerai une version ajustée de votre prompt pour qu’il soit plus robuste et permette une projection réaliste dans le futur.
 
 ---

@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: "Tu te développes et tu t'éloignes"
+langue: en
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
 
 
 ---

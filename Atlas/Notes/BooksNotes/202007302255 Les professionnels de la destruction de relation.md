@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[Colere]]"
+  - "[[Couple]]"
+  - "[[Honte, culpabilité et colère]]"
+  - "[[Jeux Psychologiques]]"
 tags:
-  - alternative_illusoire
-  - colere
-  - culpabilite
+  - emotions/colere
+  - emotions/culpabilite
   - relation
   - toxicite
 ---

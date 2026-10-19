@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: reacteev
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 # Prompt
 
 Avant cela, tu t'es limité à 3 offres, pourrais tu m'en proposer 10? si cela est pertinent sinon arrête avant. Je veux un vocabulaire moins poétique, nous allons parler à des gens qu'il va falloir de convaincre d'acheter l'offre, donc il faut quelque chose qui soit plus concret, potentiellement, avec un outcome clair (pas forcément chiffré, mais qu'est ce qu'on va essayer de réussir, d'accomplir, de gagner). je ne sais pas si les DSI actuels sont capable d'entendre un discours anti fragile, alors qu'ils pensent aujourd'hui que l'IA va tout améliorer, et est un asset indispensable. Même si je suis d'accord pour moi, que l'impact organisationnel et humain est évident, et doit être pris en compte (pour autant, en fonction du niveau de spirale, on voit que pour beaucoup d'entreprises qui sont encore dans un bleu important, en migration orange, l'humain n'est pas réellement au coeur, ou en tout cas, pas avec cette vision "Vert" que tu apportes, il faut protéger les gens, et s'en occuper, car ils font partie de l'entreprise, mais pas pour le bien être, ou lleur épanouissement, la nuance est importante pour le discours).

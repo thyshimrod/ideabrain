@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: guide-roles
+serie: guide-roles
+oeuvre: "You don't exit the game by understanding it better."
+langue: en
+reference: true
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **"You don't exit the game by understanding it better."**
 
 ---

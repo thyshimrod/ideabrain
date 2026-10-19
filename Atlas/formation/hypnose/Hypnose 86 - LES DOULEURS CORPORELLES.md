@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=559396&idpage=3041930&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-09-23
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## LES DOULEURS CORPORELLES
 

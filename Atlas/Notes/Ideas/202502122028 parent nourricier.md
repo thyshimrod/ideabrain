@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - AT
-  - jeuxpsychologiques
+  - at
+  - at/jeux
   - cnv
-  - parent
-  - rebellion
+  - at/rebellion
 ---
 Situation, Aydan part en vacances, elle souhaite me laisser sa voiture, mais cela veut dire que je dois la raccompagner chez elle, et revenir. Le soir, c'est la galère sur la route, cela va faire au moins 1h30 aller retour.
 finalement, le soir, elle a une migraine et ne se sent pas bien. Donc de toute façon pas possible pour elle de repartir en voiture. Soit je la ramène, soit elle appelle un Uber.

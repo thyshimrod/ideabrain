@@ -1,10 +1,14 @@
 ---
+up:
+  - "[[Développement vertical]]"
+  - "[[EDT ego development theory]]"
+  - "[[Enneagramme]]"
 tags:
-  - edt
+  - stades/edt
   - enneagramme
-  - developpementpersonnel
-  - transformation
-  - caoching
+  - devperso
+  - devperso/changement
+  - coaching
 ---
 
 

@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Productivité et loi du temps]]"
 tags:
-  - loi_du_temps
-  - illich
+  - productivite/loi-du-temps
+  - productivite
 ---
 
 # Loi d'Illich Tu feras des pauses

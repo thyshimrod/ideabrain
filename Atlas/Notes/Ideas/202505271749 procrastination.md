@@ -1,7 +1,8 @@
 ---
+up:
+  - "[[Productivité et loi du temps]]"
 tags:
-  - procrastination
-  - flow
+  - productivite
 ---
 
 

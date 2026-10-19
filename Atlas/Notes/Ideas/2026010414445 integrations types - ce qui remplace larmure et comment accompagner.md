@@ -1,10 +1,15 @@
 ---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
+  - "[[Enneagramme - Armures et essence]]"
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - coaching
   - enneagramme
-  - desidentification
+  - devperso/desidentification
   - identite
-  - changement
+  - devperso/changement
+  - enneagramme/integration
 ---
 Merci pour la clarification — elle est importante, et je vais m’y conformer strictement.
 

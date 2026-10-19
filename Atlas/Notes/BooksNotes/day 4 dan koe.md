@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Bienvenue au jour 4, regardez !
 
 La leçon d'aujourd'hui sera courte et percutante.

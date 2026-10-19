@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Ton idée d’un site web sous forme d’**arbre de progression**, inspiré des arbres de compétences des RPG comme *Path of Exile*, est tout à fait intéressante, et je comprends que tu te demandes si une plateforme comme **Stan.me** (Stan Store) pourrait répondre à ce besoin. Stan Store est conçu pour les créateurs qui veulent vendre des produits numériques, des cours, des abonnements ou des services via une interface simple et optimisée pour les réseaux sociaux (type "link in bio"). Je vais analyser si et comment tu pourrais adapter ton concept avec un compte Stan.me, en tenant compte de tes envies (authenticité, systémique, CNV, Spirale Dynamique) et de tes ressources (articles, vidéos).
 

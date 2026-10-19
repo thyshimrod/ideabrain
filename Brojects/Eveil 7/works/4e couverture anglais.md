@@ -1,3 +1,15 @@
+---
+type: produit
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — 4e de couverture
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 Bien sûr 🙂 Voici une traduction fluide, naturelle et éditorialement solide en anglais, pensée pour un **lecteur anglophone** (pas une traduction mot à mot) :
 

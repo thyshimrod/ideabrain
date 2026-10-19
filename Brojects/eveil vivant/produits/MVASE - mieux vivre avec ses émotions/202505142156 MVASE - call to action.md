@@ -18,7 +18,7 @@ Ton lead magnet est prêt, c’est un excellent outil pour attirer des abonnés 
   - **Contenu :** "3 astuces pour calmer tes émotions en 5 min ! Télécharge mon guide gratuit en t’inscrivant à ma newsletter – lien bio ! 🌿"  
   - Filme-toi (30 sec) : Présente-toi, montre le PDF (capture écran), et fais un appel à l’action.  
   - Monte avec CapCut : Ajoute du texte ("Guide gratuit !") et une musique douce.  
-  - Légende : "Un outil simple pour retrouver la paix intérieure – inscris-toi à ma newsletter pour le recevoir ! Lien bio 🌿 #GestionEmotionnelle #BienEtre"  
+  - Légende : "Un outil simple pour retrouver la paix intérieure – inscris-toi à ma newsletter pour le recevoir ! Lien bio 🌿 #emotions #BienEtre"  
   - **Résultat attendu :** 50-100 vues, 3-6 nouveaux abonnés Instagram, 5-10 clics vers Substack (20% conversion = 1-2 abonnés Substack).  
 - **Stories (Jour 2, 30 min) :**  
   - 2 Stories : 1) Montre le PDF ("Mon guide est prêt !") 2) Ajoute un Sticker Lien ("Télécharge ici").  

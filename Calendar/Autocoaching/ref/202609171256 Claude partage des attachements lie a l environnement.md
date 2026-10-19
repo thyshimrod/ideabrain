@@ -1,8 +1,10 @@
 ---
+type: recherche
+prive: true
 tags:
   - autocoaching
-  - keagan
-  - perso
+  - stades/kegan
+  - moi
 ---
 # Prompt
 

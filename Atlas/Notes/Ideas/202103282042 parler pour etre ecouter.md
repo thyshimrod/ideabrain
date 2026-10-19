@@ -1,7 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Coaching]]"
 tags:
   - cnv
-  - ecoute
+  - coaching/ecoute
 ---
 .
 <!-- Related -->

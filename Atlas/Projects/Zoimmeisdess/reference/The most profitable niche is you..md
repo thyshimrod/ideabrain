@@ -1,3 +1,7 @@
+---
+up:
+  - "[[SoloPreneur MAP]]"
+---
 
 Voici la traduction complète en français du texte que tu as fourni, en respectant l'intention et le style de l'auteur, tout en adaptant pour un public francophone. J'ai veillé à reformuler de manière naturelle tout en restant fidèle au contenu.
 

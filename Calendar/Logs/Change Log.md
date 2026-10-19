@@ -1,17 +1,18 @@
 ---
+type: log
+statut: archive
 up: 
 tags:
-  - log
-  - changement
-  - pascal
+  - devperso/changement
+  - moi
 ---
 
 
-# 18/12/2024
+# 2024-12-18
 Vu en release : C'est intéressant de voir que j'ai créé une routine de sabotage (exploration à faire) pour me maintenir le plus possible dans la honte (regrossir, masturbation, ne poas faire des choses, se disperser, dépenser trop d'argent).
 Vivre la honte et être un victime. Continuer à rechercher un parent pour me sauver, ou attirer l'amour?
 
-# 11/12/2024
+# 2024-12-11
 Beaucoup de fatigue.
 JE vois que je suis moins dans l'exigence, et c'est déjà pas si mal.
 Je prends en compte ma fatigue.
@@ -30,7 +31,7 @@ J'ai une inquiétude aussi d'aller plus vite sur le changement, et qu'elle n'arr
 
 
 
-# 02/12/2024
+# 2024-12-02
 
 Difficulté à revenir à la discipline sur l'aspect intellecturel, produire du contenu, célébrer, écrire.
 LE sport assez ok. 
@@ -43,7 +44,7 @@ On revient à cette discussion, j'en ai marre des gens qui se complaisent dans l
 J'ai besoin de revenir dans la douceur. Peut être ai je besoin d'attention.
 En même temps, je suis fier d'elle sur plein d'aspect. 
 
-# 24/11/2024
+# 2024-11-24
 Je me sens pas mal du tout. J'ai passé un week end à prendre soin de moi dans une certaine mesure. Je vois que j'ai encore du mal à lancer des actions pour mon insta. INterressant à voir.
 Je pense que j'ai décidé sur ma vente teachable de terminer la partie émotions, sans faire la partie colère et tristesse dans un premier temps.
 Il faut que je regarde une partie éditoriale pour mon insta. JE vois que j'ai envie de faire des choses, mais que je n'ose pas car non structurée.
@@ -57,7 +58,7 @@ Ce sujet me trotte dans la tête. Après Noel, je pense, car là, il va y avoir 
 Il y a un truc pas ok dans la relation avec Aydan. Je ne sais pas trop ce que c'est. Elle est beaucoup dans la rébellion, suis je trop dans le parent? Peut être besoin de se donner plus d'espace? 
 
 
-# 19/11/2024
+# 2024-11-19
 Observation d'un gros détachement chez moi.
 Très en observation de ce qui se passe chez les autres.
 Grosse prise de recul.  Je vois que je pense que de manière très momentanée. Plus dans le désir que dans la peur, l'angoisse, le questionnement.
@@ -80,7 +81,7 @@ J'aimerai profiter de ma période avec peu d'Aydan dispo pour me focus bien plus
 
 J'ai des sujets à creuser. J'aimerai être plus rigoureux sur mes releases, et avancer sur mon travail sur moi. Il y a trop de sabotage.
 
-# 11/11/2024
+# 2024-11-11
 C'est reparti. Je vois qu'aujourd'hui les choses ont été bien meilleures. Beaucoup de réalisation.
 J'ai fait beaucoup de choses pour me sentir bien. Je vois que ce que je pensais être de la dispersion est peut être juste un moyen de me rappeler ma puissance et de ce que je suis capable.
 L'expérimentation ou le développement de petits projets annexes m'amènent de la fierté, estime de moi, confiance en moi. C'est bon de me rappeler comme je suis bon, et capable.
@@ -95,10 +96,10 @@ je vois que je continue à être dans la honte. J'ai du mal à venir ici faire m
 Il est une chose qu'il faut que je réduise aussi, c'est ma capacité à analyser les situations et à proposer ma réflexion sur ces sujets. Comme si j'étais en train d'étaler ma science. En fait je n'en sais rien. Ai je honte de ma puissance? Il y a quelque chose à regarder là dessus.
 Je vois que je pousse parfois un peu fort, sans m'adapter. Je vois qu'il y a une bête qui cherche à sortir, et qui en a marre de rester en arrière plan. j'en ai marre de ne pas laisser plus de place à l'homme qui a toutes ces capacités, et qui les retient par faute de gens compréhensifs, ou en capacité de comprendre, ou qui veulent rester dans leur mode victime.
 
-# 10/11/2024
+# 2024-11-10
 Difficulté à me remettre à faire mes logs.
 
-# 22/09/2024
+# 2024-09-22
 Je reçois encore de la culpabilité / honte. Le bouton est encore actif. Release à faire de nouveau.
 Néanmoins, je vois que c'est injuste, et je vois qu'en fait elle me pointe du doigt alors que c'est elle en faute. Elle a imposé une manière de faire qui fait qu'elle se retrouve coincée.
 Alors forcément elle va raconter des choses à ses fils, pour dire que je n'arrange pas.... blablabla.
@@ -113,13 +114,13 @@ Je vois que parfois Aydan vient me parler de son fils alors que je suis en doule
 
 Il y a quelque chose aussi en moi qui en a marre, et qui veut que tout cela s'arrête. Partir à l'étranger, vivre ailleurs, sortir de tout cela.
 
-# 07/09/2024
+# 2024-09-07
 
 Réussir à demander à voir les enfants. J'ai vu Ancelin, qui finalement voulait faire le clown avec moi. lol
 Intéressant, je n'avais pas remarqué, mais elle ne me regarde pas durant notre échange.
 Ca me fait pitié.
 
-# 30/08/2024
+# 2024-08-30
 Travail aujourd'hui sur l'impuissance, ou/et le contrôle.
 Travail sur le release.
 La considération est toujours de ne pas se laisser identifier à, mais d'avoir la capacité à prendre une posture méta à chaque fois que quelque chose se passe.
@@ -129,7 +130,7 @@ Le contrôle prive de liberté car il induit des comportements automatiques, pou
 Du coup, dans l'action, reprendre contact avec soi, voir ce qu'il se passe, et savoir si on est dans une action automatique, ou si on peut reprendre le choix. Avoir peur n'est pas mal, on n'a pas forcément besoin de s'en débarrasser.
 
 
-# 19/08/2024
+# 2024-08-19
 Changement de corps. C'est intéressant par rapport aux blessures de l'âme et notamment de l'humiliation et de contrôle. Ce corps qui devait prendre beaucoup de place pour exister, et imposer à l'autre. Se sentir dans la honte aussi en permanence. 
 Justifier une posture de victime, me laisser porter par le regard des autres.
 
@@ -140,24 +141,24 @@ D'ailleurs cette perte de poids est elle liée à la suppression de la honte, sa
 
 Je vois que je vis plus de colère aussi. Elle s'écoule plus. Il faut que je vois ce que j'en fais. Ne pas être malveillant, mais accepter de la vivre.
 
-# 14/08/2024
+# 2024-08-14
 Tous ces problèmes me ramènent à mes compulsions habituelles.
 J'ai pas mal faim, envie de manger des choses non keto, ou en quantité.
 Présence du sauveur très présent, et surement une forme d'hypervigilance aussi. Je le vois, notamment sexuellement, où je suis trop attentif à l'autre, sans penser à moi. J'ai des difficultés à jouir, et je préfère le faire en cachette.
 
-# 07/08/2024
+# 2024-08-07
 Encore des compulsions à manger. J'ai du mal à me retenir. Ce soir, je me sens mal d'avoir trop mangé de saucisson.
 Posture de sauveur trop prononcée.
-# 04/08/2024
+# 2024-08-04
 J'ai remarqué que je ne me curais plus le nez. Moins de choses dans le nez (lié au keto?). ou abandon d'un toc.
-# 03/08/2024
+# 2024-08-03
 Question poséee par Aydan sur pourquoi je me suis senti aussi coupable de la situation. Culpabilité ou honte? d'ailleurs.
 Je me demande si ce n'est pas de la peur de ne pas répondre à ses attentes, ou de pouvoir agir comme elle aimerait. Il y a évidemment la peur d'une gestion de conflit.
 Je ressens comme si je devais prendre la responsabilité de ce qu'il lui arrive :(
 Peur de sa réaction? Si je montre que je suis coupable, est ce que cela va diminuer sa colère, sa réaction? Se poser en victime me permet peut être de vivre quelque chose qui a un bénéfice pour moi. Je me positionne dans un quadrant victime / sauveur. 
 Du coup, je pense que c'est une hyper anticipation de voir tous les chemins désagréables possible, et du coup, je me sens mal. Je pense que ce n'est pas de la culpabilité, mais plutôt de vivre la honte, vis à vis d'une femme qui va me pointer du doigt. Reproduction de ce que me faisait vivre ma mère. Plutôt peur de l'humiliation infligée par ma mère.
 
-# 31/07/2024
+# 2024-07-31
 Un mode sauveur important chez moi pour Aydan. Sentiment de culpabilité, peut être de honte? en tous les cas envie de préserver la relation. Un peu de sacrifice de ma part. Je fais encore beaucoup d'efforts. Contre moi.
 Des moments heureux, et également, je lui apporte aussi la simplicité, le cour
 age, la capacité à faire, à se recentrer sur ce qui est important, l'ici et maintenant.
@@ -168,7 +169,7 @@ Changement aussi, pouvoir faire chacun des choses de son côté, éviter le dr S
 Heureux d'avoir aussi un réseau de soutien autour de moi, de vrais amis.
 
 
-# 29/07/2024
+# 2024-07-29
 Apparition de plus de colère chez moi.
 Les émotions sont plus présentes chez moi. Encore quelques déviances pour essayer de masquer cela (porn, & insta & bouffe).
 Toujours un peu de mal à me mettre aux choses qui comptent pour moi, ou à aller dans des stratégies qui me servent, et qui me font du bien. Il y a quand même le sport, et le fait de ne pas craquer sur la nourriture (bonbon, BK...).

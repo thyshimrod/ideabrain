@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan Détaillé du Chapitre 8 : Navigating the Health Spectrum : Niveaux de Santé pour le Type 7
 
 Ce chapitre 8 est une étape transformative dans le livre, car il permet au lecteur de cartographier son évolution au sein du type 7, en alignant avec votre prémice : niveaux de santé (9) comme continuum dynamique pour voir l'évolution, expérimentation pour monter en healthy, et chemin vers la guérison profonde (vs atténuation symptômes) en reliant les niveaux à l'enfance et aux sabotages pour une transcendance où l'ego s'efface. Il s'aligne sur la Spirale Dynamique vert pour une approche holistique des niveaux, où l'évolution n'est pas linéaire mais interconnectée aux émotions et relations, avec un ton motivant et structuré pour engager le lecteur sans overwhelm. Longueur estimée : 30-35 pages (6000-7000 mots), pour une immersion analytique avec pratique, équilibrant théorie (niveaux) et action (tracking). Structure en 5 sections principales pour fluidité : hook/anecdote, définition niveaux, découverte niveaux 7, exercices tracking, conclusion/teaser. Chaque section inclut objectifs, contenu clé, lien à votre prémice, intégrations références (ex. : Hudson pour niveaux de santé, Chestnut pour nuances sous-types, Robins pour embodied tracking, Cron pour narration niveaux, avec nuance pour éviter biais comme idéalisation healthy), exercices (structurés en 4 parties : ce qu'on change, moyen d'y arriver, description de la pratique, ce qu'on attend), fit à la Spirale Dynamique, et suggestions pour la conception/écriture (structure interne, ton, longueur, visuals comme quizzes ou checklists, cahier détachable, QR code pour audio fictif). Le chapitre commence par un hook personnel pour rappeler le "why" (monter niveaux pour joie ancrée), et se termine par un teaser pour le chapitre 9 (mindfulness ancrage) avec un appel à l'action motivant. Pour la réutilisation, chaque élément est auto-suffisant et détaillé, permettant une rédaction directe sans questions supplémentaires.

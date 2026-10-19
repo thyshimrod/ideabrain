@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **Scène 6 — Le moment où tu te tais** Tu as quelque chose à dire — une demande, une insatisfaction, quelque chose qui compte. Tu choisis de ne pas le dire. Pas parce que c'est le mauvais moment. Parce que tu anticipes la réponse, ou le coût, ou la façon dont ça va se retourner.
 
 ---

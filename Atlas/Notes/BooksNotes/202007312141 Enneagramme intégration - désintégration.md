@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - integration
-  - desintegration
+  - enneagramme/integration
+  - enneagramme/desintegration
 ---
 # Eneagramme intégration - désintégration
 

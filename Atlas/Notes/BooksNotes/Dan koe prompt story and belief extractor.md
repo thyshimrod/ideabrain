@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[MOA Dan Koe]]"
 tags:
-  - dankoe
+  - business
   - croyances
-  - marketing
-  - prompt
+  - business/marketing
+  - ia/prompt
+auteurs:
+  - "Dan Koe"
 ---
 
 

@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Agilité]]"
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 Merci pour ces précisions sur la structure organisationnelle de la DSI chez BNPP. Vous décrivez une hiérarchie claire : un **DSI** supervisant des **managers de domaine** (responsables d’un ensemble d’équipes pour un métier, ex. : High Value Payment), qui encadrent des **managers de sous-domaine**, eux-mêmes supervisant des **responsables d’application** en proximité avec les équipes. Vous souhaitez cibler spécifiquement les **managers de domaine** et les **managers de sous-domaine** (haut et moyen management), car les responsables d’application (middle managers) sont souvent “entre le marteau et l’enclume”, coincés entre les directives d’en haut et les réalités opérationnelles. Votre objectif est de transformer leur **mindset** vers un **growth mindset** et des pratiques agiles (travail soutenable, responsabilité collective), dans un contexte culturel **Bleu** (processus, hiérarchie), **Orange** (performance, compétitivité), avec des traces **Rouge** (culte du héros) et une émergence **Verte** (écologie, agilité). La faible maturité agile après 7 ans de transformation, les dynamiques politiques (Mintzberg), et le culte de l’effort individuel (“sueur et sang”) sont des freins majeurs.
 

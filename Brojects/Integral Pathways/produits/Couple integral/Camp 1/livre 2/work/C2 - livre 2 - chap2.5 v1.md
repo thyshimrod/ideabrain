@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.5
+chapitre: C2.5
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **2.5 — Se repérer dans la carte complète des couplages**
 
 Les quatre couplages qu'on vient de retraverser ne sont pas les seuls possibles. Ils sont les quatre que ce livre a choisi de raconter, parce qu'ils reviennent souvent et qu'ils se prêtaient bien à une scène. Mais l'égogramme compte cinq voix, et ces cinq voix peuvent se combiner de bien plus de façons que celles déjà vues. Avant d'aller plus loin, il vaut la peine d'élargir la carte — pas pour être exhaustif, mais parce que vous vous reconnaîtrez peut-être davantage dans un couplage qu'aucune scène n'a encore montré.

@@ -1,0 +1,4 @@
+---
+type: effort
+statut: sleeping
+---

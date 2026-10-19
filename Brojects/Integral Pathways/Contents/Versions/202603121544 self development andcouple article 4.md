@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: Le piège du missionnaire
+langue: fr
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # Le piège du missionnaire — quand tu veux embarquer l'autre dans ta propre croissance
 
 _Série "Grandir — et ne pas perdre l'autre" · Article 4 · Gratuit_

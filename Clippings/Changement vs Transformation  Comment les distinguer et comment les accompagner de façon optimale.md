@@ -1,4 +1,7 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Transfo agile]]"
 title: "Changement vs Transformation : Comment les distinguer et comment les accompagner de façon optimale."
 source: "https://jfinnov.fr/2025/11/02/changement-vs-transformation-comment-les-distinguer-et-comment-les-accompagner-de-facon-optimale/"
 author:
@@ -7,7 +10,8 @@ published: 2025-11-02
 created: 2025-11-04
 description: "Deux réalités distinctes pour naviguer dans l’évolution des organisations Dans le paysage professionnel actuel, les mots « changement » et «..."
 tags:
-  - "clippings"
+  - coaching
+  - agile/transformation
 ---
 ### Deux réalités distinctes pour naviguer dans l’évolution des organisations
 

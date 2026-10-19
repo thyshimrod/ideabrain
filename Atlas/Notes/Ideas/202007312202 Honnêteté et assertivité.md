@@ -1,9 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
-  - assertivite
   - honnetete
   - cnv
-  - expression_authentique
+  - cnv/expression
 ---
 
 L'assertivité est la capacité d'un être humain à exprimer ce qu'il vit et à ce à quoi il aspire, sans jugement ni reproche ou agressivité.

@@ -1,4 +1,9 @@
-# 12/03/2025
+---
+type: log
+statut: archive
+projet: zoimmeisdess
+---
+# 2025-03-12
 
 En promptant, je recherche les niches vers lesquelles aller.
 Aujourd'hui, Grok me donne des pistes, mais restent très générales.
@@ -6,7 +11,7 @@ Ca reste des idées un peu floues.
 
 Il faut que j'essaye de trouver 
 
-# 03/02/2025
+# 2025-02-03
 One pager envoyé à Cyrille. J'ai toujorus las possibilité de passer en anonyme et ne pas gérer cette partie là.
 MErci Luc. Il me faudrait refaire mes contenus par contre. Où tout au moins en extraire le son, et créer une vidéo à la place.
 
@@ -20,7 +25,7 @@ Du coup, je pense que je peux commencer à me filmer en différentes situations,
 Exploration Pinterest et Tik Tok à faire. Commençons par insta.
 
 
-# 07/09/2024
+# 2024-09-07
 
 Je vois que le contenu n'est pas encore totalement clair pour moi ni ce que je vais en faire.
 Surement un besoin de perfection qui se cache là. J'ai toujours peur de me lancer.
@@ -28,12 +33,12 @@ En même temps, je vois que je suis un peu en surcharge, et pas simple de me de 
 Il faudrait que je passe par une phase d'auto coaching, c'est toujours une tâche que j'ai dans ma todo, mais comme je ne consulte pas ma todo :D
 
 
-# 30/08/2024
+# 2024-08-30
 Soutien de Luc sur la création de contenu.
 Découverte de plate forme prête à l'emploi pour créer un site de vente de contenu type elearning.
 
 
-# 28/08/2024
+# 2024-08-28
 
 Pas mal de sabotage autour de ce projet, comme d'habitude. Quand je me lance dans un projet où je dois donner de ma personne.
 * Je n'ai rien d'intéressant à dire / faire / vendre

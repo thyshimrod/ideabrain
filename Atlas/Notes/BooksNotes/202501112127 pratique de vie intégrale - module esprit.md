@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - vieintegrale
-  - esprit
-  - kenWilber
-  - meditation
+  - integral/pratique
+  - integral
   - eveil
+auteurs:
+  - "Ken Wilber"
 ---
 Le module esprit nous permet de discerner des schémas importants de spiritualité en utilisant les distinctions AQAL.
 * Les **états** de conscience spirituelle, qui vont et viennent, par rapport aux stades de réalisation spirituelle, que nous pouvons expérimenter de façon plus permanente.

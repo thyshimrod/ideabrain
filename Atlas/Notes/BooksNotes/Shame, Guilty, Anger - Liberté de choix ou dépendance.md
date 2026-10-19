@@ -1,11 +1,13 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
-  - liberté
+  - liberte
   - dependance
   - choix
-  - rebellion
-  - soumission
+  - at/rebellion
+  - emotions
 ---
 [[202307061431 Shame Guilty Anger]]
 

@@ -1,3 +1,17 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "L'art maladroit de blesser ceux qu'on aime"
+langue: fr
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Juste pour rire
 
 Vous la prenez dans vos bras, devant des amis, et vous dites : _"Ma petite femme."_

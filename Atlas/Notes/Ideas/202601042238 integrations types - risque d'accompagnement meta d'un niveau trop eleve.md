@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Enneagramme - Accompagner chaque type]]"
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
   - meta
   - coaching
-  - accompagnement
 ---
 Très bien. Je vais traiter cette question comme **un problème de posture d’accompagnement**, pas comme une question d’outils ou de techniques.  
 Et je vais volontairement rester dans un **dialogue entre praticiens avancés**, en articulant Ennéagramme, développement adulte (Kegan), systémique et clinique de la relation d’aide.

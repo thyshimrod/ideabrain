@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type6
-  - integration
+  - enneagramme/type6
+  - enneagramme/integration
 ---
 Très bien.  
 Je vais entrer dans le **passage 6 → 9** en restant rigoureusement dans une **lecture systémique, développementale et transformationnelle**, et non dans une lecture de traits, de comportements ou de “compétences à acquérir”.

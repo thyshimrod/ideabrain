@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Pour répondre à ta demande, je vais explorer des inspirations spécifiques tirées des travaux de **Michel Bauwens** (commons-based peer production, CBPP) et **Elinor Ostrom** (gestion des communs) pour concevoir des **camps de base physiques** adaptés aux neuf types de l’Énéagramme. Chaque camp de base est pensé comme un espace collaboratif où les participants, représentés par leurs images stellaires (ex. Étoile Polaire pour le Type 1, Étoile Scintillante pour le Type 7), relâchent leurs fixations limitantes (release) et renouvellent leurs contributions (renew) pour tisser un **réseau micellaire** dans le cadre de ta vision turquoise : **tisser une conscience micellaire sous un ciel de constellations**. Les camps intègrent les principes d’Ostrom (ex. frontières claires, règles adaptées localement) et les concepts de Bauwens (ex. production par les pairs, gouvernance participative), tout en restant non directifs et alignés avec ton intuition HPI. Chaque type bénéficie d’un camp de base adapté à ses besoins émotionnels, cognitifs et sociaux, tout en favorisant la collaboration collective.
 
 ---

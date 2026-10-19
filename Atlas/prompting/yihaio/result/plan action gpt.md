@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour ton retour très clair 🙏  
 Tu as raison : ma réponse précédente s’est concentrée sur la mise en action rapide (court-terme, Orange), alors que tu m’avais demandé un **plan d’action global** articulant les leviers de **growth, de configuration technique, de création de produits, d’éditorial, de copywriting et de stratégie commerciale**, **avec une cohérence systémique** et **une vue complète** du projet.
 

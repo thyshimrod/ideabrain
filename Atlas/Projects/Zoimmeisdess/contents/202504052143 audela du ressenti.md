@@ -1,3 +1,9 @@
+---
+up:
+  - "[[CNV]]"
+tags:
+  - cnv
+---
 
 **Émotions : Au-delà du ressenti**
 

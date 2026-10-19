@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 ### 25. Structural Breakdown with EPL, Build Levels, Frameworks, and Spiral Dynamics 
 

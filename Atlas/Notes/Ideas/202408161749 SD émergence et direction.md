@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Spirale Dynamique]]"
 tags:
   - spiraledynamique
-  - transformation
+  - devperso/changement
   - emergence
 ---
 

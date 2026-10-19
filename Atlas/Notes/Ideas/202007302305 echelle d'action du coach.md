@@ -1,7 +1,7 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
-  - echelle
-  - action
   - coaching
 ---
 

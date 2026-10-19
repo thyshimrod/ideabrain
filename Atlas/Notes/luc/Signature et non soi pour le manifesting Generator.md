@@ -1,12 +1,14 @@
 ---
 in:
   - "[[Human Design Map]]"
-up: 
+up:
+  - "[[Moi - biographie et introspection]]"
 related:
   - "[[human design , signature et non soi]]"
 by: 
 created: 2024-10-28
-tags: 
+tags:
+  - moi
 source: 
 url: 
 rank:

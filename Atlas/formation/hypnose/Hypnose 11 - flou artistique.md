@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://www.spirivie-formations.org/formation/formation/54896/?idmodule=556575&idpage=3026646&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2025-09-17
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ![image%20menu](https://da32ev14kd4yl.cloudfront.net/versioned/spirivie-formations/image%20menu.png "image%20menu")
 

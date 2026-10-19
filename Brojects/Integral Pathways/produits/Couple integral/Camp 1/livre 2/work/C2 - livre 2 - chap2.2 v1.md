@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.2
+chapitre: C2.2
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **2.2 — Les cinq voix intérieures**
 
 **D'où vient cette carte**

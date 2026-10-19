@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 # La Maîtrise par le Deuil : De la Confusion à la Performance Créative 
 

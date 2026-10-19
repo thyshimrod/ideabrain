@@ -1,3 +1,11 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+tags:
+  - enneagramme
+  - spiraledynamique
+---
 Voici **le protocole intégral du TYPE 6**, couleur par couleur, dans le **même format précis** que celui validé pour le type 1, 4, 5 et 7 :  
 ✔️ Forces — ❌ Ombres — 🔥 Blessures — 🌿 Travail — 🧘 Mini-protocole (3 étapes).
 

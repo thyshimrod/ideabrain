@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 Parfait. Les 4 angles sont retenus — je vais construire une série cohérente, avec une progression narrative réelle entre les articles, pas juste 4 textes sur le même thème.
 
 Voici l'architecture avant de rédiger :

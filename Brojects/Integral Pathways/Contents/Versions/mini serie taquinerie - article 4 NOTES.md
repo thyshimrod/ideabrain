@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: taquinerie
+oeuvre: Je ne transige pas là-dessus
+langue: fr
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Notes de soutien — Article 4 : "Je ne transige pas là-dessus"
 
 La note d'introduction se publie avant la sortie de l'article. Les 9 suivantes s'étalent sur la semaine après publication. Notes [LIEN] renvoient vers l'article, les autres se lisent seules.

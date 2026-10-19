@@ -1,6 +1,8 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
-  - ecoute
+  - coaching/ecoute
   - coaching
 ---
 

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Spirale Dynamique]]"
+tags:
+  - ia/prompt
+---
 
 ## Beige (Survie, besoins de base de l’organisation)
 

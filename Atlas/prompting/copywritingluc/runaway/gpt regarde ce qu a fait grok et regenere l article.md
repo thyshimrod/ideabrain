@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour ce comparatif. Voici une **analyse de la version de Grok**, ce que j’en retiens pour enrichir ma propre approche, et enfin une **nouvelle proposition d’article** encore plus affûtée pour un public au niveau _Jaune_ de la spirale dynamique.
 
 ---

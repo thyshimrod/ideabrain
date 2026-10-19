@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.4
+chapitre: C2.4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 **2.4 — Le couplage comme idée central**
 

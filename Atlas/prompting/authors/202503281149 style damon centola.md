@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Damon Centola : Décrypter les Réseaux du Changement  
 
 ## Description  

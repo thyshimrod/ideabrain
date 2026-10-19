@@ -1,7 +1,8 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - harmonie
 ---
 # Eneagramme Voie d'harmonisation
 

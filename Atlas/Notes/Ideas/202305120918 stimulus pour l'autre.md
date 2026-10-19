@@ -1,11 +1,14 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
+  - "[[CNV]]"
+  - "[[Couple]]"
 tags:
   - cnv
   - stimulus
   - respect
-  - frontière
   - douceur
-  - blessure
+  - devperso/blessures
 ---
 En CNV, on nous apprend que nous sommes seuls responsables de nos émotions, et que ce qui nous entoure sont des stimulus qui viennent réveiller nos blessures, et donc l'autre n'est pas responsable de ce réveil, et donc de l'émotion.
 De la même manière, nous ne sommes pas responsable de ce que vit l'autre, car nous même par nos propos, nous pouvons venir réveiller des choses chez l'autre et nous n'avons pas toujours conscience de ce qui se joue chez l'autre.

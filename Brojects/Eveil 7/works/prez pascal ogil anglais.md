@@ -1,2 +1,14 @@
+---
+type: produit
+statut: final
+projet: eveil-7
+oeuvre: "Éveil 7 — Présentation de l'auteur"
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 A curious epicurean and explorer of the human experience, Pascal Ogil has been supporting people for years in their search for a more present and conscious way of living. A coach, trainer, and passionate student of depth psychology, he enjoys translating inner complexity into simple, practical paths. Himself a Type 7, he shares here the journey that led him from compulsive joy to grounded joy.

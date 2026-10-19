@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Communautés et communs]]"
 title: "Form-Action-Dyade-Bibliotheque-Protocoles - emergence"
 source: "https://publish.obsidian.md/luctaesch/Efforts/Form-Action/Form-Action-Dyade-Bibliotheque-Protocoles"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-09-16
 description: "2026-09-09-Pascal Weekly - emergence - Powered by Obsidian Publish."
 tags:
-  - "clippings"
+  - communs
 ---
 ## Form-Action — Bibliothèque de protocoles autoportés (dyade)
 

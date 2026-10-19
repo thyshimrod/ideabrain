@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+---
 
 **Purpose of the Human Design Lead  
 **The main purpose of the Human Design Lead is to be the single point of accountability for the successful enablement and implementation of culture / ways of working transformation in our clients. Human Design activities align to Global Practices and include:  

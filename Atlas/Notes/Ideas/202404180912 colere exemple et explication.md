@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Colere]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
-  - colere
-  - peur
+  - emotions/colere
+  - emotions/peur
 ---
 
 **Retard des transports**

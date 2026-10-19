@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Enneagramme - Armures et essence]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
   - sabotage
-  - healthy
+  - enneagramme/integration
 ---
 Pour Almaas, l’armure ne tombe pas parce qu’on décide de la lâcher, mais parce que **ce qu’elle remplaçait revient**.  
 Chaque type s’est structuré autour d’une **perte de contact avec une qualité essentielle** :  

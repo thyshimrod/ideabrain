@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - scene3
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.3
+chapitre: C1.3
+langue: fr
+reference: true
 date: 2026-10-12
-statut: validé
+statut_detail: validé
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 # Scène 3 — La semaine bien remplie

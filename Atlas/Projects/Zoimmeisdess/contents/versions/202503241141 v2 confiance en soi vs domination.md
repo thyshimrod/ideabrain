@@ -82,6 +82,6 @@ Le modèle sociétal a été longtemps d'avoir des gens forts, affirmés, sans p
 J’aimerais voir les compétents admirés pour ce qu’ils font, pas ce qu’ils disent pouvoir faire. Et vous, qu’admirez vous vraiment ?
 
 
-#EveilVivant #Authenticite #Relations
+#EveilVivant #authenticite #relation
 
 

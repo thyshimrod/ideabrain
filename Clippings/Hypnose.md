@@ -6,5 +6,5 @@ published:
 created: 2026-09-11
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---

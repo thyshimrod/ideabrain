@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 tags:
-  - keto
-  - recettes
+  - sante/keto
+  - sante
 ---
 
 ![🥯](https://static.cdninstagram.com/images/emoji.php/v9/t81/1/16/1f96f.png) Pain burger brioché keto 

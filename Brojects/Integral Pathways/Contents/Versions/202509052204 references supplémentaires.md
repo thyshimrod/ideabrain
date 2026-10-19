@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Votre demande est claire : vous souhaitez que je recherche des livres spécifiques sur le type 7 de l'Ennéagramme, en complément de l'analyse précédente et du projet de livre décrit dans votre document ("premisses de la korenote.md"). Étant donné que vous travaillez sur un livre centré sur le type 7, je vais identifier des livres récents (publiés dans les 5 dernières années, comme demandé dans le contexte initial) et pertinents qui se concentrent spécifiquement sur le type 7, ou qui incluent des sections significatives sur ce type, pour enrichir votre projet. Je vais également vérifier si ces livres s’alignent avec votre orientation (découverte de l’Ennéagramme, du type 7, de soi, aspiration au changement, guide pratique) et proposer des idées pour intégrer leurs approches dans votre plan. J’utiliserai mes capacités de recherche (web_search) pour trouver des ressources fiables, en m’appuyant sur des sources comme Goodreads, l’Enneagram Institute, et d’autres plateformes (notées via). Je vais également répondre à votre demande initiale de critique et plan de livre, en intégrant ces nouveaux livres pour affiner les suggestions.
 
 ### Analyse Critique (Complétée avec Recherche de Livres)

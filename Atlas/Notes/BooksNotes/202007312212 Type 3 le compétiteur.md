@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type3
+  - enneagramme/type3
 ---
 # Type 3 le compétiteur
 

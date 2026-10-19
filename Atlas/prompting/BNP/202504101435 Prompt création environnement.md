@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Agilité]]"
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 J'aimerai créer un fichier  de contexte qui te permettrait de comprendre le contexte de mon environnement de travail, afin de pouvoir te donner un un contexte complet, qui te permette de te donner un maximum de repères, afin d'avoir des réponses les plus pertinentes et structurées.
 Quels sont les éléments qui pourraient apporter un niveau de contexte suffisant pour qu'en tant que coach agile, dans une transformation entreprise (méthodologique, organisationnelle, culturelle) je trouve des axes pour apporter des changements et des clefs de compréhension sur mon environnement pour prendre un recul suffisant, pour trouver les approches me permettant de créer de l'impact.
 JE pense que ta réponse doit fournir un cadre multi dimensionnelle, se basant sur des théories sociales, organisationnelles, des entreprises, comme la spirale dynamique, les niveaux logiques de Dilts, etc. Propose moi d'abord une liste de théorie qui permettrait d'analyser mon environnement, et ensuite une structure de description par théories, qui permettrait de décrire l'environnement.

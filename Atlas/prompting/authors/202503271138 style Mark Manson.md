@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Mark Manson : Dire la Vérité qui Dérange  
 
 ## Description  

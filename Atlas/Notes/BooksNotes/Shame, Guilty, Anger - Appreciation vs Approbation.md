@@ -1,8 +1,9 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
-  - appreciation
-  - approbation
+  - emotions
 author: liv larson
 book: Shame, Guilty, Anger
 ---

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Eric Berne : Décoder les Jeux de l’Âme  
 
 ## Description  

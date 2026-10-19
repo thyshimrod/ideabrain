@@ -1,9 +1,16 @@
 ---
+type: article
+statut: publie
+projet: integral-pathways
+serie: desir
+oeuvre: Lecture AQAL de la perte de désir
+langue: en
+plateforme: substack-en
+reference: true
 tags:
-  - AQAL
-  - desir
+  - integral/aqal
+  - couple/desir
   - relation
-  - integralpath
 ---
 
 # AQAL Reading of the "After the Disappearance of Desire" Passage

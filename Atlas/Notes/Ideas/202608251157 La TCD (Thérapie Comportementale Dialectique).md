@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Approches thérapeutiques]]"
 tags:
   - therapie
-  - tcd
+  - therapie/tcd
   - comportement
 ---
 La **TCD** (Thérapie Comportementale Dialectique) — ou _DBT (Dialectical Behavior Therapy)_ en anglais — est une forme spécifique de thérapie cognitivo-comportementale (TCC) développée à la fin des années 1980 par la psychologue américaine **Marsha Linehan**.

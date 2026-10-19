@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[MOA Renew]]"
 tags:
   - renew
-  - perso
+  - moi
 ---
 Intention : Clarifier la vision pour mon renew
 -pour cela: Identifier les "trucs" (comportements, objectifs et autres composants) , et regarder : 

@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type4
-  - 5A
+  - enneagramme/type4
+  - enneagramme/5a
   - guerison
+  - enneagramme/integration
 ---
 ### Les 5As pour le Type 4 de l'Ennéagramme : Description et Exercices Pratiques
 

@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - colere
+  - emotions/colere
   - cnv
-  - developpementpersonnel
-  - sentiment
+  - devperso
+  - emotions
 related:
   - "[[Atlas/Notes/Ideas/202007312151 colère CNV]]"
   - "[[Atlas/Notes/Ideas/202007302255 Les professionnels de la destruction de relation]]"

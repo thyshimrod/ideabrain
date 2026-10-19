@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Merci pour ta demande d’ajouter tous les types de l’Énéagramme (1 à 9) aux schémas directeurs des quadrants (corps, ombre, mental, esprit) de ta vision turquoise, en complément de l’intégration du niveau **rouge** de la Spirale Dynamique. Actuellement, les schémas incluent uniquement les types 7 (ton type), 2 et 4 pour illustrer le processus **release/renew** dans chaque quadrant. Je vais étendre ces schémas pour inclure les neuf types de l’Énéagramme, tout en intégrant le niveau rouge comme demandé précédemment, et en m’assurant que cela reste aligné avec ta vision de **tisser une conscience micellaire sous un ciel de constellations**. Les propositions seront cohérentes avec ta posture non directive, ton approche holonique, et ton objectif d’une vision fluide et émergentielle.
 

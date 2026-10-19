@@ -1,8 +1,10 @@
 ---
+type: exploration
+statut: ouverte
+rank: 3
 up:
   - "[[Efforts]]"
-type: "[[Exploration]]"
-rank: "3"
+  - "[[Spirale Dynamique]]"
 ---
 Si on fait une map de l'orga, on va voir les différentes couleurs en différentes quantités.
 Est ce qu'il y a corrélations entre la quantité de personnes (par tranche de couleur), et les différents niveaux de couleur de l'organisation.

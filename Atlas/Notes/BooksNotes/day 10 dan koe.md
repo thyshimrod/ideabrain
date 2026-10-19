@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Aujourd'hui marque la transition entre la rédaction de contenu court et le contenu long, les stratégies de croissance et la monétisation pour débutants.
 
 C'est pourquoi je vous propose de vous lancer dans une aventure passionnante.

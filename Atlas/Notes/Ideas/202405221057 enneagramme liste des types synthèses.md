@@ -1,16 +1,17 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - enneatype
-  - type1
-  - type2
-  - type3
-  - type4
-  - type5
-  - type6
-  - type7
-  - type8
-  - type9
+  - enneagramme/type1
+  - enneagramme/type2
+  - enneagramme/type3
+  - enneagramme/type4
+  - enneagramme/type5
+  - enneagramme/type6
+  - enneagramme/type7
+  - enneagramme/type8
+  - enneagramme/type9
 ---
 
 **Enneagramme type 1**

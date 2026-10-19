@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 Parfaitement clair. Tu opères une **synthèse stratégique** :
 
 - **Profondeur intégrale maintenue** (refus de la simplification, complexité assumée)

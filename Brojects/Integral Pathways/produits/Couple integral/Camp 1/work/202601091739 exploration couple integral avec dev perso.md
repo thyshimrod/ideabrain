@@ -1,9 +1,9 @@
 ---
 tags:
-  - vieintegrale
+  - integral/pratique
   - couple
   - coaching
-  - developpementpersonnel
+  - devperso
 ---
 ### Pratiques de Développement Personnel pour Améliorer les Relations dans le Couple Intégral : Une Exploration
 

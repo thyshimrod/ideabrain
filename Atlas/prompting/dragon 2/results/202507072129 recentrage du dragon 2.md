@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 # Prompt
 tout cela a été très intéressant à creuser. C'est devenu quelque chose de très poétique, et c'est chouette, et inspirant. Pour autant, ce narratif m'éloigne d'une vision qui puisse d'une part être partagé, et compréhensible. Ensuite, ce narratif, s'écarte aussi de la notion de vision, car je ne sais pas réellement l'exploiter, ni la découper pour qu'elle devienne quelque chose d'implémentable.

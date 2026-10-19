@@ -1,4 +1,8 @@
 ---
+up:
+  - "[[SoloPreneur MAP]]"
+---
+---
 
 - [ ] as tu quelquun a qui parler de cela ? ( ne garde pas cela pour toi ) -D6
     - [ ] un beneficiaire

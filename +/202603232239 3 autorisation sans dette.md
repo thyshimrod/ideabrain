@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+---
 
 Tu es déjà dans le bon endroit avec Integral Pathways. Ce que tu décris — créer par plaisir, ressentir que tu touches quelque chose sans chercher la validation — c'est exactement la posture juste. Le fait que les retours te confirment quelque chose plutôt que de te nourrir, c'est une distinction réelle et tu as raison de la sentir.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici l'exécution de votre prompt ajusté. Je vais respecter scrupuleusement ses consignes, en m’appuyant sur une analyse prospective réaliste et en valorisant vos compétences actuelles dans un monde où l’IA transforme profondément les paradigmes. Je vais structurer ma réponse en suivant les trois phases que vous avez définies, tout en intégrant les idées de Jeremy Rifkin et des tendances vérifiables.
 
 ---

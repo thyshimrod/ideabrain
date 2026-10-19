@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 Reprenons à partir de ce cadre.
 
 Je lis bien l'évolution de ta situation : tu as publié l'article 1 gratuitement (le double bind / "sois vulnérable"), tu veux que les articles 3 et 4 soient payants, et tu as besoin qu'ils apportent quelque chose d'**activable** — pas une solution complète (c'est pour les cours), mais une clé suffisamment concrète pour que l'abonnement se justifie existentiellement, pas juste cognitivement.

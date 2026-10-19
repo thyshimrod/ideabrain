@@ -1,7 +1,10 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - desidentification
+  - devperso/desidentification
+  - enneagramme/integration
 ---
 # Prompt
 

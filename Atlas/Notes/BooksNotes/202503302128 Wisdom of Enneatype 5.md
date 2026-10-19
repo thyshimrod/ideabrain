@@ -1,13 +1,14 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peur
+  - emotions/peur
   - evolution
-  - integration
-  - desir
-  - healthy
-  - desintegration
-  - type5
+  - enneagramme/integration
+  - couple/desir
+  - enneagramme/desintegration
+  - enneagramme/type5
 ---
 Le Type de personnalité CINQ : L’investigateur
 

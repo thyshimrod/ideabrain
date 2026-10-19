@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Integral]]"
 title: "Prompt: HUMAN 3.0 Self-Discovery & Metatype Test"
 source: https://letters.thedankoe.com/p/prompt-human-30-self-discovery-and?utm_source=post-email-title&publication_id=2825099&post_id=172054418&utm_campaign=email-post-title&isFreemail=true&r=5kslvh&triedRedirect=true&utm_medium=email
 author:
@@ -7,11 +9,13 @@ published: 2025-08-27
 created: 2025-08-28
 description: Identify your next core problem, become aware of blind spots, and maximize your potential
 tags:
-  - clippings
-  - dankoe
-  - kenWilber
-  - quadrants
-  - intégral
+  - business
+  - integral
+  - integral/aqal
+  - ia/prompt
+auteurs:
+  - "Dan Koe"
+  - "Ken Wilber"
 ---
 ### Identify your next core problem, become aware of blind spots, and maximize your potential
 

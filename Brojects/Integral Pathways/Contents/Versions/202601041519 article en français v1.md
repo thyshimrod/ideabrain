@@ -1,3 +1,15 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: "L'ennéagramme au-delà de la pensée plate"
+langue: fr
+tags:
+  - enneagramme
+  - penseeplate
+---
+
 ### L'Ennéagramme : Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs
 
 Vous avez déjà appliqué une "solution magique" – un régime miracle, une méthode de productivité infaillible – et vu tout s'effondrer ? J'ai connu ça : motivé un soir, mais le lendemain, tout retombe. Au lieu de blâmer les circonstances, imaginez un outil qui révèle comment vos patterns internes sabotent tout. L'Ennéagramme n'est pas un quiz de personnalité banal ; c'est un miroir contrariant qui expose vos fixations egoïques. Paradoxe : plus vous creusez votre "type", plus vous réalisez que vous avez été votre propre obstacle. Inspiré par la "pensée plate" critiquée dans mes réflexions sur les échecs, l'Ennéagramme vous aide à ralentir, recartographier et embrasser la complexité pour une vraie révolution personnelle.

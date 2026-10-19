@@ -1,11 +1,15 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
+  - "[[Développement personnel]]"
 tags:
-  - lisebourbeau
-  - pardon
-  - blessuredelame
+  - devperso/blessures
+  - devperso/pardon
   - acceptation
   - protocole
-  - developpementpersonnel
+  - devperso
+auteurs:
+  - "Lise Bourbeau"
 ---
 # Etapes pour se réconcilier avec l'autre et se pardonner soi même
 

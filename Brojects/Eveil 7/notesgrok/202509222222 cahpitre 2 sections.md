@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.2
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Parfait 👍 Tu veux un **plan pour le chapitre 2**, avec la contrainte d’un format qui tienne en ~8 pages max.  
 Je vais m’appuyer sur :
 

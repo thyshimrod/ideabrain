@@ -1,3 +1,11 @@
+---
+type: pilotage
+projet: integral-pathways
+oeuvre: Le mythe du couple fonctionnel
+langue: fr
+tags:
+  - couple
+---
 
 [[202601111635 explication trilogie gpt]]
 

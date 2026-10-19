@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.4
+chapitre: C3.4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 
 **3.4 — Ce que ce couplage vous apporte, à vous précisément**

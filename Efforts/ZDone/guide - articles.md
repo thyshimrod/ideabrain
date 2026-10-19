@@ -1,3 +1,7 @@
+---
+type: effort
+statut: done
+---
 	
 [[guide]]
 

@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[MOA Renew]]"
 tags:
   - renew
-  - perso
+  - moi
 ---
 # Besoins
 

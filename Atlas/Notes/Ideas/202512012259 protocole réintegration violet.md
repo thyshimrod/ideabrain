@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - Spirale
   - spiraledynamique
-  - intégral
-  - intégration
-  - Évolution
+  - integral
+  - integration
+  - evolution
 ---
 Parfait.  
 Voici **le protocole intégral complet pour le niveau VIOLET**, construit dans **exactement la même structure, la même profondeur et la même rigueur** que les protocoles Rouge, Orange et Vert.

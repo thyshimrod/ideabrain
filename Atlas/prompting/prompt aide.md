@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 
 analyse my communication partterns based on our conservation so far. Telle me what you observe about my thinking style, decision making approach, and potential blindspots.

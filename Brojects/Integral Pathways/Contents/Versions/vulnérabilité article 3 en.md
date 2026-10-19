@@ -1,3 +1,16 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: Ce que tu crois lire chez lui
+langue: en
+reference: true
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
 
 
 ---

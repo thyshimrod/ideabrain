@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Prompt
 
 Dans mon inspiration par exemple, je vois qu'aujourd'hui, la plupart de nos relations sont basées sur un mélange de honte/humiliation, peur du rejet/du regard des autres, besoin d'approbation, besoin de contrôle, et ascension sociale.

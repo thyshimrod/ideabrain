@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.6
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - integral/ombre
+---
+
 [Voici **la traduction en anglais complète**, fluide et littéraire, adaptée à un livre de développement personnel centré sur l’Ennéagramme et le travail de l’ombre.  
 J’ai respecté le ton introspectif, émotionnel et nuancé de ton texte.
 

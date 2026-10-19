@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 # Prompt
 
 Voici un texte  (dépasser la vue socialiset...)qui prend uen vision de l'évolution du monde, ou de ce qui pourrait devenir si jamais nous allions dans une aspiration commune Turquoize (niveau de spirale dynamique).

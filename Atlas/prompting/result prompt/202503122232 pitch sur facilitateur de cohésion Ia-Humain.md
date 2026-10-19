@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Je reste dubitatif sur l'orientation 1. Pourrais tu me formuler un pitch permettant de comprendre ce qu'il y a derrière ce titre, qui me convainque comme il convaincrait un DSI ou une DRH? 
 
 resultat

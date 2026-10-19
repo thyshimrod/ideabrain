@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - integration
+  - enneagramme/integration
 ---
 # ennegramme integration signification
 

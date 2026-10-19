@@ -1,12 +1,12 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - centre_mental
-  - centre_emotionnel
-  - centre_instinctif
-  - colere
-  - peur
-  - compulsion
+  - enneagramme/centres
+  - emotions/colere
+  - emotions/peur
+  - enneagramme/passion
 ---
 #  Eneagramme Les 3 centres ou moyens fondamentaux de s'exprimer
 

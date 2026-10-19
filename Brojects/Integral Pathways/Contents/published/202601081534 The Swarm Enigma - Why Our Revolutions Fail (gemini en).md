@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: "L'énigme de l'essaim"
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - integral/ombre
+  - penseeplate
+  - integral
+---
+
 Here is the English translation of your article, optimized for **Substack**. I have maintained the structural integrity, the intellectual depth, and the strategic placement of visual anchors to ensure high engagement.
 
 ---

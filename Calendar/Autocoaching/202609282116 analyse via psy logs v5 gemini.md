@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 
 Tes résultats — deux livres publiés et vendus à une quinzaine d'exemplaires chacun, des articles payants rédigés et 13 leçons validées sur 18 en hypnose — prouvent une chose : le problème n'est pas une incapacité d'agir ni un manque d'effort. Ce que tu nommes « oscillation » ou redescende dans les niveaux de santé de l'Ennéagramme (la désintégration du type 5) n'est pas une rechute, mais le **système prédictif** qui cherche à maintenir la continuité d'une identité familière.
 

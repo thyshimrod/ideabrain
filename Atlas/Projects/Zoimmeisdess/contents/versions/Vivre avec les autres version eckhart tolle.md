@@ -5,10 +5,9 @@ version: 1.0
 date: 11/04/2025
 intention: Transformer les défis du développement personnel en une invitation à la présence, dissolvant l’ego et ses attentes.
 tags:
-  - présence
   - ego
-  - relations
-  - liberté
+  - relation
+  - liberte
 ---
 
 # Éveiller au Présent

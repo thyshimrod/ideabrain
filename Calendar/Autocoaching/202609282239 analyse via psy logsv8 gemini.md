@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 Voici une cartographie systémique conçue pour articuler ta dynamique cognitive avec le mouvement d'intégration du Type 7 vers le Type 5, en utilisant la matrice des 4 Cadrans d'Aspiration Intégrale (Wilber).
 
   

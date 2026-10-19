@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - cnv
-  - demande
+  - cnv/demande
   - feedback
-  - ecoute
-  - contact
+  - coaching/ecoute
 ---
 
 

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.1
+chapitre: C2.1
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **2.1**
 
 Il faut d'abord dire une chose, avant d'aller plus loin. Si vous vous êtes reconnu dans une de ces scènes, ce n'est probablement pas parce que vous avez laissé faire, ou que vous n'avez rien vu. C'est plutôt l'inverse. Ce dimanche bien tenu, ce soutien donné sans compter, cette semaine remplie d'activités qui font du bien, cette décision prise raisonnablement à deux, tout cela demande de l'attention, de l'énergie, une vraie volonté de bien faire, jour après jour. Personne n'arrive à ce niveau de fluidité par accident. On y arrive parce qu'on a, quelque part, décidé que c'était important, et qu'on a mis du soin à le construire.

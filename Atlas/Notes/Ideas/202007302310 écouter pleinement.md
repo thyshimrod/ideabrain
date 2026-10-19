@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
-  - ecoute
+  - coaching/ecoute
 ---
 Faire preuve d'empathie, de compassion, et comprendre
 

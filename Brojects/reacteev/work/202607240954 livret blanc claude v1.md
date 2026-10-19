@@ -1,3 +1,16 @@
+---
+type: livre-blanc
+statut: final
+projet: reacteev
+oeuvre: Livre blanc agilité et IA
+langue: fr
+reference: true
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 # Livre blanc
 
 # De l'agilité de la production à l'agilité de la décision

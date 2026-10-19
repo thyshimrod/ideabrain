@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Comparaison entre ma Proposition de Sommaire et le Sommaire de *Healing for the Enneagram Type 7: Finding Grounded Joy*
 
 Je vais comparer mon sommaire proposé pour votre livre (basé sur vos directives et enrichi par les références sur l'Ennéagramme) avec le sommaire du livre *Healing for the Enneagram Type 7: Finding Grounded Joy* (extrait via OCR : Introduction: Embracing the Journey to Grounded Joy, Understanding Type 7: The Enthusiast’s Core, The Shadow Side: Facing Pain and Avoidance, Levels of Health: Navigating the Spectrum, Integration and Disintegration: Moving Toward Balance, Healing Practices: Tools for Inner Transformation, Mindfulness and Presence: Anchoring the Enthusiast, Relationships and Type 7: Building Deeper Connections, Overcoming Compulsions: Steps to Freedom, Finding Your True Joy: A Path Forward). L’analyse évalue les forces et faiblesses de chaque sommaire par rapport à votre projet (focus type 7, chemin de progression dynamique, transcendance ego, intégration Spirale Dynamique), avec une critique et des suggestions d’amélioration pour mon chapitrage. L’heure actuelle est 10:36 PM CEST, vendredi 5 septembre 2025, et je m’appuie sur les échanges précédents pour contextualiser.

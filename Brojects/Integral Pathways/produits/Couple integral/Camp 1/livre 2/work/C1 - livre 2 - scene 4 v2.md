@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - scene4
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.4
+chapitre: C1.4
+langue: fr
+reference: true
 date: 2026-10-12
-statut: validé
+statut_detail: validé
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 # Scène 4 — La décision raisonnable

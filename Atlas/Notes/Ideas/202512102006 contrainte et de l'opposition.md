@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - opposition
+  - at/rebellion
   - contrainte
   - conflit
-  - rebellion
+  - at
 ---
 Il faut savoir faire la différenciation entre contrainte et opposition.
 

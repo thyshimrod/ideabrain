@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Spirale Dynamique]]"
 tags:
   - spiraledynamique
-  - changement
+  - agile/transformation
   - coaching
   - organisation
 ---

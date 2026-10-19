@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 du coup, regénère moi un prompt avec les ajustements mentionnés dans le verdict, dans le but de donner ensuite un résultat plus réaliste.
 
 Voici une version ajustée du prompt, intégrant les remarques issues de l’analyse externe pour produire un résultat plus réaliste, pragmatique et susceptible de séduire des décideurs tout en assurant une mise en œuvre viable. Les ajustements incluent : un ton plus opérationnel, une clarification des bénéfices tangibles pour les acheteurs, une prise en compte des contraintes concurrentielles (ex. gros cabinets), un calendrier resserré pour les premières étapes, et une flexibilité économique pour garantir la survie. Je conserve votre vision à 15 ans et vos aspirations sociétales, mais avec une approche plus ancrée et mesurable.

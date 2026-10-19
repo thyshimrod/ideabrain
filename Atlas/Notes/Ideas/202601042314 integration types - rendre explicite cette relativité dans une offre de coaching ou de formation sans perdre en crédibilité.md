@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - coaching
   - enneagramme
-  - changement
+  - devperso/changement
   - comportement
+  - enneagramme/integration
 ---
 Très bien.  
 C’est une question **stratégique, pédagogique et identitaire** à la fois — et elle est beaucoup plus délicate qu’elle n’en a l’air, car elle touche au paradoxe suivant :

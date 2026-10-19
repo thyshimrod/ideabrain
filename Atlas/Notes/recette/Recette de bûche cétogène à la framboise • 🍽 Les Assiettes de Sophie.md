@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 title: Recette de bûche cétogène à la framboise • 🍽 Les Assiettes de Sophie
 source: https://lesassiettes.fr/recettes-ceto-lowcarb/la-buche-framboise-de-valerie/
 author:
@@ -7,9 +9,8 @@ published: 2019-12-22
 created: 2026-01-03
 description: Vingt-deux!me recette de notre Calendrier de l’Avent Céto & Collaboratif, une magnifique bûche à la framboise proposée par Valérie, que vous pourrez retrouver sur son compte Instagram @valeriemelkior
 tags:
-  - clippings
-  - recettes
-  - keto
+  - sante/keto
+  - sante
 ---
 Vingt-deux!me recette de notre [Calendrier de l’Avent Céto & Collaboratif](https://lesassiettes.fr/recettes-ceto-lowcarb/recettes-festives-ceto/), une magnifique bûche à la framboise proposée par Valérie, que vous pourrez retrouver sur son compte Instagram [@valeriemelkior](https://www.instagram.com/valeriemelkior/)
 

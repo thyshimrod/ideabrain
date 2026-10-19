@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: Ce que la trilogie dit de mon coaching
+langue: en
+reference: true
+tags:
+  - coaching
+  - couple
+  - integral
+---
+
 # What This Trilogy Says About My Coaching Approach
 
 This trilogy is not an isolated editorial production.  

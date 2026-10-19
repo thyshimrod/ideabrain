@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Prompting et IA]]"
+---
 
 # SOCRATE v2.2 — Partenaire de dialogue multi-phase
 

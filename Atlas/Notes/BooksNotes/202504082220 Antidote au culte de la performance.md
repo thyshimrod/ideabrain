@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[Agilité]]"
 tags:
-  - Performance
+  - performance
   - resilience
-  - olivierhamant
+  - agile
+auteurs:
+  - "Olivier Hamant"
 ---
 Selon la loi de Goodhart, quand une mesure devient une cible, elle cesse d'être fiable. Dit autrement, toute performance soumise à une mesure tend à s'autojustifier juqu'à aller contre son objet.
 

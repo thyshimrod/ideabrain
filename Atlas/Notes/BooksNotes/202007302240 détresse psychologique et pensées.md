@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Approches thérapeutiques]]"
+  - "[[Coaching]]"
+  - "[[Colere]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - CBT
-  - detresse
-  - ressenti
-  - rigidite
+  - therapie/tcc
+  - emotions
 ---
 # détresse psychologique et pensées
 

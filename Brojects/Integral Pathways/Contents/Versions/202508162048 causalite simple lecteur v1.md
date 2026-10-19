@@ -1,3 +1,11 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - penseeplate
+---
 
 Je suggère de simuler un lecteur pour valider l'impact.
 

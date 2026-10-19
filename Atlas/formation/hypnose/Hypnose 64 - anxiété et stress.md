@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=559226&idpage=3041325"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-09-14
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## L’ANXIÉTÉ ET LE STRESS
 

@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - introduction
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C0
+chapitre: C0
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé
+statut_detail: validé
+tags:
+  - introduction
+  - at
+  - couple
+  - relation
 ---
 
 **Introduction**

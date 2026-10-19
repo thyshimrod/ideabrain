@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 # [Jour 1] Comment PENSER comme un créateur
 
 **De** : Dan Koe [thedankoe@d.stanmail.io](mailto:thedankoe@d.stanmail.io)  

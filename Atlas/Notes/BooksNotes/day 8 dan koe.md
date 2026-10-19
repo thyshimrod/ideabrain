@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Bienvenue au jour 8, regardez !
 
 Maintenant que nous avons pratiqué la rédaction de différents types d'articles pendant une semaine, il est temps de passer aux choses sérieuses.

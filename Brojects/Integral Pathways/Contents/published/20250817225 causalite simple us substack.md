@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
 
 
 Parfait 👍 Tu veux donc une version **US storytelling style**, avec un ton plus direct, un peu narratif, plus percutant et orienté “Medium/Substack”, pour capter un public américain (business leaders, creatives, consultants).

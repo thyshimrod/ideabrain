@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: reacteev
+oeuvre: Livre blanc agilité et IA
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
 
 [[202607231636 livret blanc 1]]
 [[202607231636 livret blanc 2]]

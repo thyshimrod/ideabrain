@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 La cible B a déjà fait du travail sur elle-même. Les scènes banales (le lave-vaisselle, le retour tardif) risquent de la laisser froide — trop visibles, trop connues. Ce qui la touche, c'est ce qui se passe dans les zones où elle pense avoir progressé.
 
 Voici 6 scènes proposées, avec ce principe : chaque scène doit être méconnaissable comme "conflit" — c'est ça qui déstabilise la cible B.

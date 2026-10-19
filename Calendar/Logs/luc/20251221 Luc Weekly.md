@@ -1,4 +1,6 @@
 ---
+type: log
+statut: actif
 published:
 ---
 

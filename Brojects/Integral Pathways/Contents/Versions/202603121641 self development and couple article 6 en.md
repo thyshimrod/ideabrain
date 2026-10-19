@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: Grandir sans témoin
+langue: en
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 Voici une traduction fidèle, respectant le ton, le rythme et la nuance psychologique de votre texte.
 
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Pour répondre à ta demande, je vais écrire un **récit symbolique** où les neuf types de l’Énéagramme, représentés par leurs images stellaires (ex. Étoile Polaire pour le Type 1, Supernova pour le Type 8), collaborent dans un camp de base pour former une constellation, illustrant l’émergence du **réseau micellaire** dans le cadre de ta vision turquoise : **tisser une conscience micellaire sous un ciel de constellations**. Le récit est conçu pour être évocatif, poétique et inclusif, montrant comment chaque type relâche sa fixation limitante (release) et renouvelle sa contribution (renew) pour tisser des liens collectifs. Il intègre les quadrants de Wilber (corps, ombre, mental, esprit), la Spirale Dynamique (y compris le niveau rouge), et des éléments de pratiques comme l’IFS et la CNV, tout en respectant ta posture non directive et ton intuition HPI. Le camp de base est un espace hybride (physique et numérique) où les étoiles se réunissent pour co-créer.
 
 ---

@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
   - responsabilite
-  - changement
+  - devperso/changement
   - pouvoir
 ---
 # Responsabilité

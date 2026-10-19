@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Couple]]"
+---
 # Prompt de reprise — Projet Offre Couple
 
 _Dernière mise à jour : mai 2026_

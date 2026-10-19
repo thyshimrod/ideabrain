@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - paradoxe
-  - kenWilber
-  - vieintegrale
+  - integral
+  - integral/pratique
+auteurs:
+  - "Ken Wilber"
 ---
 Une capacité intégrale de base consiste à maintenir le paradoxe et par conséquent à découvrir une nouvelle profondeur. Au cours de toute vie de pratique, on se confronte à de nombreux paradoxes profonds. Ce ne sont pas des énigmes auxquelles nous devons essayer de répondre, mais des koans avec lesquels nous vivons, des questions que nous contemplons et auxquelles nous permettons de nous instruire.
 Voici 5 paradoxes profonds qui valent la peine d'être considérés.

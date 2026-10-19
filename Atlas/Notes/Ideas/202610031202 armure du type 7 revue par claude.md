@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Armures et essence]]"
 tags:
   - enneagramme
-  - almaas
-  - integration
+  - enneagramme/armure
+  - enneagramme/integration
+auteurs:
+  - "A. H. Almaas"
 ---
 # Le type 7 selon Almaas (Diamond Approach)
 

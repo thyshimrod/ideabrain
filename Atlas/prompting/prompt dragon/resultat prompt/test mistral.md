@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 "Je suis un consultant en transformation d’entreprise (CAC 40), 48 ans, avec un passé d’architecte logiciel et développeur (C++, Java, JS, PHP, Python, Perl), surnommé 'Néo' pour ma capacité à connecter tech et humain. Mon profil inclut :
 
 - **Expertise** : Accompagnement systémique, Spirale Dynamique, CNV, sociodynamique, compréhension des LLM (réseaux de neurones, apprentissage).

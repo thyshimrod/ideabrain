@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 [[grok side hustle V2]]
 
 [[gpt side hustle v2]]

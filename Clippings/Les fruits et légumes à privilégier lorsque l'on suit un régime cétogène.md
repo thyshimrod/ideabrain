@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 title: Les fruits et légumes à privilégier lorsque l'on suit un régime cétogène
 source: https://www.maxdegenie.com/conseils-et-astuces/les-fruits-et-legumes-a-privilegier-en-regime-cetogene/
 author:
@@ -7,11 +9,8 @@ published: 2023-02-10
 created: 2025-08-29
 description: Comment gérer son régime keto ? Voici pour vous aider un glossaire des fruits et légumes à privilégier (et à limiter) en régime cétogène !
 tags:
-  - clippings
-  - keto
-  - fruits
-  - legume
-  - glucide
+  - sante/keto
+  - sante
 ---
 \-15% dès 20€ avec le code RENTREEGOURMANDE, jusqu’au 7/09 seulement! 🎉
 

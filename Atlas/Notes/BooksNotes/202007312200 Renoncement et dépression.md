@@ -1,6 +1,7 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
-  - renoncement
   - depression
 ---
 # Renoncement et dépression

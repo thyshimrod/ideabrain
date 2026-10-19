@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
-  - compromis
-  - besoin
+  - cnv/besoins
+  - emotions
 ---
 [[202307061431 Shame Guilty Anger]]
 

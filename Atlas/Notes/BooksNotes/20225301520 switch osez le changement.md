@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Développement personnel]]"
+  - "[[Transfo agile]]"
 tags:
-  - changement
-  - transformation
-  - resistance
+  - devperso/changement
+  - devperso/resistance
   - coaching
 book: switch, osez le changement
 author: chip heath

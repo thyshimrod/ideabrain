@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: Le mythe de la compatibilité
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - couple
+  - penseeplate
+  - relation
+---
+
 Voici une **traduction fidèle et fluide en anglais**, pensée pour un public Substack anglophone (registre clair, assertif, conceptuel, sans trahir le fond) :
 
 ---

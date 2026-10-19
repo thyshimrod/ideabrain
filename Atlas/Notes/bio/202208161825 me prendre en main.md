@@ -1,8 +1,9 @@
 ---
+up:
+  - "[[Moi - biographie et introspection]]"
 tags:
-  - perso
-  - changement
-  - epanouissement
+  - moi
+  - devperso/changement
   - responsabilite
 ---
 Posture initiale mise en attente d'un guide.

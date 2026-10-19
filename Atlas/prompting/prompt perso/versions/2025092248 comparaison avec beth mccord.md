@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ### Comparaison entre le Plan de Beth McCord (*The Enneagram Type 7: The Entertaining Optimist*) et Mon Plan Proposé
 
 Je vais comparer le plan proposé par Beth McCord dans son livre *The Enneagram Type 7: The Entertaining Optimist* (Overview of the Nine Enneagram Types, Overview of Type 7, Day 1: Faith and the Enneagram à Day 21: Moving Toward Your Best Self) avec mon plan révisé (11 chapitres : Introduction: Embracing Your Enneagram Journey à Finding True Joy Beyond Ego). L’analyse évalue les forces et faiblesses de chaque plan par rapport à votre projet (focus type 7, compréhension Ennéagramme, identification comportements/sabotages, clés d’évolution healthy/intégration, déprogrammation consciente), avec une critique et une proposition d’amélioration si pertinente. L’heure actuelle est 10:54 PM CEST, vendredi 5 septembre 2025, et je m’appuie sur nos échanges pour contextualiser.

@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Bienvenue au jour 9, Regardez.
 
 Je ne vais pas m'attarder sur l'optimisation de votre profil pour les raisons suivantes :

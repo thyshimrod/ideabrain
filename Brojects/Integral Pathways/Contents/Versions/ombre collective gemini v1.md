@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: "L'énigme de l'essaim"
+langue: fr
+tags:
+  - integral/ombre
+  - penseeplate
+  - integral
+---
+
 Voici une version remaniée de votre article, optimisée pour Substack. J'ai injecté plus de tension narrative, clarifié les concepts techniques pour ne pas perdre le lecteur, et intégré des ancres visuelles stratégiques pour rythmer la lecture.
 
 ---

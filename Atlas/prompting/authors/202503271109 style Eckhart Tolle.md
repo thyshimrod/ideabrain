@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Eckhart Tolle : Éveiller au Présent  
 
 ## Description  

@@ -1,7 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Développement personnel]]"
 tags:
   - cnv
-  - developpementpersonnel
+  - devperso
   - exigence
   - perfection
 ---

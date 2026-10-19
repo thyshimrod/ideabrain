@@ -1,3 +1,9 @@
+---
+type: reprise
+projet: integral-pathways
+statut: archive
+perimetre: strategie
+---
 
 # PROMPT DE REPRISE DE SESSION — INTEGRAL PATHWAYS
 

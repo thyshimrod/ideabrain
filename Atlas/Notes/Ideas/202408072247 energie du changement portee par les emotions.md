@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
   - emotions
   - coaching
-  - developpementpersonnel
-  - changement
+  - devperso
+  - devperso/changement
   - energie
 ---
 ![[scale of action.jpeg]]

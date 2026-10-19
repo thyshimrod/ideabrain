@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - integration
-  - desidentification
+  - enneagramme/integration
+  - devperso/desidentification
   - identite
 ---
 Parfait. Voici une **carte comparative claire et structurée des grands auteurs de l’Ennéagramme**, centrée **exactement** sur la question que tu poses :

@@ -1,4 +1,8 @@
-- [[#prompt|prompt]]
+---
+tags:
+  - ia/prompt
+---
+- [[#ia/prompt|prompt]]
 - [[#resultat|resultat]]
 	- [[#resultat#Proposition ajustée : Activité secondaire – "Éveil Vivant" (version 4.0, sans tech)|Proposition ajustée : Activité secondaire – "Éveil Vivant" (version 4.0, sans tech)]]
 		- [[#Proposition ajustée : Activité secondaire – "Éveil Vivant" (version 4.0, sans tech)#Concept global (reformulé)|Concept global (reformulé)]]

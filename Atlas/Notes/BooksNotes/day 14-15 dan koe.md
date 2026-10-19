@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Eh bien.
 
 Il semblerait que j'aie programmé l'envoi de l'e-mail d'hier avec un jour de retard par rapport à d'habitude…

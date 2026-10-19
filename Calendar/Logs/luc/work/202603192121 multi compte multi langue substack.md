@@ -1,4 +1,6 @@
 ---
+type: recherche
+projet: integral-pathways
 tags:
   - substack
 ---

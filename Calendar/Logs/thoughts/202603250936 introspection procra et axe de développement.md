@@ -1,7 +1,8 @@
 ---
+type: log
+statut: actif
 tags:
-  - perso
-  - bio
+  - moi
   - autocoaching
 ---
 J'ai réinjecté mes diaries à Claude, mon who am I (enneagremme, etc), ma vision projet, mes travaux substack.

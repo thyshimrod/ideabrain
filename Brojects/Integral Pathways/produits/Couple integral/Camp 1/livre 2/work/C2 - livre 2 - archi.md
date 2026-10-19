@@ -1,3 +1,15 @@
+---
+type: pilotage
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2
+chapitre: C2
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 Avant la segmentation, une décision qui conditionne tout le chapitre : est-ce que ce livre suppose la lecture de _Hors Jeu_, ou doit-il tenir seul ? Si un lecteur arrive directement sur le tome 2 sans connaître Parent/Adulte/Enfant, le chapitre doit poser les bases AT depuis zéro — ce qui change son volume et son entrée. Je pars de l'hypothèse qu'il doit tenir seul (plus large en marché, plus sûr), à corriger si tu vises une lecture en série stricte.
 
 **Segmentation proposée**

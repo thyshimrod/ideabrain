@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+tags:
+  - moi
+---
 
 La **Croix de l'Angle Droit de l'Inattendu (41/31 | 28/27)** en Design Humain symbolise une **mission de vie centrée sur l’imprévu**.  Elle unit quatre portes clés :
 

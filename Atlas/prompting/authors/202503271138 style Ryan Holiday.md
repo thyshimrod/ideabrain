@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Ryan Holiday : Forger la Force Intérieure  
 
 ## Description  

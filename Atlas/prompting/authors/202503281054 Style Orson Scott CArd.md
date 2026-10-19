@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Orson Scott Card : Raconter les Batailles de l’Âme  
 
 ## Description  

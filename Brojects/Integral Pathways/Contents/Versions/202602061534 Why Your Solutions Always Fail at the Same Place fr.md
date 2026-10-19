@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Pourquoi vos solutions échouent au même endroit
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 # Pourquoi Vos Solutions Échouent Toujours au Même Endroit
 
 ## La géométrie cachée de vos impasses

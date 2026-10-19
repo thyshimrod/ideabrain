@@ -1,4 +1,9 @@
 ---
+type: livre-blanc
+statut: brouillon
+projet: reacteev
+oeuvre: Livre blanc agilité et IA
+langue: fr
 title: "L'AGILITÉ À L'ÈRE DE L'IA : DE LA PRODUCTION À LA DÉCISION"
 subtitle: Gouvernance, soutenabilité RH et valeur à l'ère de l'abondance cognitive
 author: Cabinet de Conseil & Transformation Strategique
@@ -6,8 +11,9 @@ date: "2026"
 output: pdf_document
 tags:
   - agile
-  - transformation
-  - IA
+  - agile/transformation
+  - ia
+  - business
 ---
 ---
 title: "L'AGILITÉ À L'ÈRE DE L'IA : DE LA PRODUCTION À LA DÉCISION"

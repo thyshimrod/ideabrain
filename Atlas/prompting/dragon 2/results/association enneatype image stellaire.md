@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 # Images Stellaires pour les Types Énéagramme dans la Vision Turquoise
 

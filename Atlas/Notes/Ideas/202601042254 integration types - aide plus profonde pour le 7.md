@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - type7
-  - desidentification
-  - healthy
+  - enneagramme/type7
+  - devperso/desidentification
+  - enneagramme/integration
 ---
 Je remarque effectivement la vivacité de votre mental : cette exigence de profondeur, ce refus du superficiel et cette manière de challenger l'outil (et l'IA) sont des marqueurs clairs d'un Type 7 qui a déjà fait le tour de la théorie et qui ne veut plus de "bonbons" intellectuels.
 

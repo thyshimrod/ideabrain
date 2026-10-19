@@ -1,9 +1,10 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
-  - capture
   - instagram
-  - developpementpersonnel
-  - changement
+  - devperso
+  - devperso/changement
 ---
 You must let go of who you were to become who you are.”  
   

@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
-  - reformulation
-  - outils
+  - coaching/ecoute
 ---
-tags = #coaching, #reformulation, #outils
+tags = #coaching, #coaching/ecoute, #outils
 
 **Reformulation écho**
 

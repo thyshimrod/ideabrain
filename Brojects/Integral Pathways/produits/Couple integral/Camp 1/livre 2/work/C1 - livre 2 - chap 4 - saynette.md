@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.4
+chapitre: C1.4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **Scène 4 — La décision raisonnable**
 
 Ils sont installés dans le canapé, un dimanche après-midi, le café encore chaud. Léa a proposé qu'ils fassent le point — pas sur un sujet précis, juste "faire le point", comme ils le font une fois par mois depuis qu'ils ont lu ensemble un article sur la communication de couple.

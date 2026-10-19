@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici la réponse de GPT. De la même manière, prend un regard critique, fais une comparaison, vois ce qui te semble plus pertinent. et regénère un article.
 Dans un 2e temps, génére encore un autre article en t'appuyant sur le style de gpt. Je trouve que tu es trop concis, avec des formulations de phrase avec seuelemtn qq mots. Je ne suis pas sur que cela plaise à un Jaune, qui cherche la clarté par la compréhension.
 
@@ -178,7 +182,7 @@ Partagez votre vision sur [insérez votre plateforme, ex. LinkedIn ou Twitter/X]
 ---
 
 ### 8. Conseils pour la Diffusion
-- **Plateformes** : Publiez l’**Article 1** sur LinkedIn pour son équilibre et son appel à l’action clair, et l’**Article 2** sur Twitter/X pour son ton introspectif, adapté aux threads. Utilisez des hashtags comme #Innovation, #FutureOfWork, #Entrepreneurship.
+- **Plateformes** : Publiez l’**Article 1** sur LinkedIn pour son équilibre et son appel à l’action clair, et l’**Article 2** sur Twitter/X pour son ton introspectif, adapté aux threads. Utilisez des hashtags comme #agile/transformation, #agile/transformation, #business.
 - **Engagement** : Posez des questions ouvertes (ex. : “Quel paradoxe voulez-vous explorer ?” pour l’Article 1, “Quelle friction voyez-vous ?” pour l’Article 2) pour encourager les commentaires.
 - **Visuels** : Créez une infographie (ex. : réseau mycélien vs pyramide) pour accompagner chaque article. Je peux proposer un concept si besoin.
 - **Série de contenus** : Déclinez chaque article en 3-5 posts (ex. : un post par section) pour maintenir l’engagement.

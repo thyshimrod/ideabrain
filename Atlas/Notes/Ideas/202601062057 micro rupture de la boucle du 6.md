@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type6
+  - enneagramme/type6
   - sabotage
 ---
 Très bien. Je vais rester **strictement dans une lecture systémique et développementale**, sans “outil”, sans posture coachante prescriptive, et sans style impactant.  

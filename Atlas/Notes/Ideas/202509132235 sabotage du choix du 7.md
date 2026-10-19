@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type7
+  - enneagramme/type7
   - sabotage
   - decision
-  - fomo
 ---
 Par exemple, en tant que 7, en ayant longtemps travaillé sur moi, je me rends compte que le fait de ne pas choisir (sous prétexte dans la littérature que le 7 a peur de fermer des portes, et une forme de FOMO, choisir c'est renoncé), est en fait pour moi, une manière de me saboter. C'est à dire, choisir cela serait comme si je prenais une décision de faire quelque chose qui est important pour moi, une chose qui fait vraiment. Alors que globalement, ce que je faisais je le faisais pour attirer l'attention, et montrer que je suis intéressant.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Pour répondre à ta demande, je vais proposer des **exemples concrets** d’initiatives physiques et numériques (ex. coopératives, plateformes, espaces collaboratifs) pour ancrer le **quadrant corps** (l’aspect tangible, matériel et expérientiel) des camps de base physiques adaptés aux neuf types de l’Énéagramme, dans le cadre de ta vision turquoise : **tisser une conscience micellaire sous un ciel de constellations**. Ces exemples s’inspirent des travaux de **Michel Bauwens** (commons-based peer production, CBPP) et **Elinor Ostrom** (gestion des communs), tout en restant alignés avec les principes de gouvernance participative et de gestion communautaire. Chaque exemple est adapté aux besoins spécifiques de chaque type, aidant à relâcher leur fixation limitante (release) et à renouveler leur contribution (renew) au réseau micellaire. Les propositions intègrent les images stellaires, les quadrants de Wilber (avec un focus sur le corps), et la Spirale Dynamique (y compris le niveau rouge), tout en restant non directives et en résonance avec ton intuition HPI.
 
 ---

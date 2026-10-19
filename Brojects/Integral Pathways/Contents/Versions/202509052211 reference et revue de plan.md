@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Éléments pour Approfondir l'Approche du Changement via l'Ennéagramme
 
 D'abord, je clarifie votre demande : vous voulez ajouter les livres de Beatrice Chestnut, Abi Robins (je suppose que "abby robins" est une variante ou une faute pour "Abi Robins", basée sur ma recherche – si c'est une erreur, précisez), Russ Hudson, et Ian Morgan Cron, en les rendant "moins spécifiques" (peut-être pour les élargir au-delà du type 7, ou les rendre plus généraux). J'ai identifié, via ma recherche (web_search), les livres pertinents de ces auteurs, en me concentrant sur ceux qui traitent de la transformation, du changement personnel, et de l'évolution via l'Ennéagramme. Ces livres offrent des éléments pour approfondir une manière d'appréhender le changement : ils passent d'une typologie statique à une dynamique de croissance, avec des outils pratiques (niveaux de santé, intégration/désintégration, exercices), alignés sur votre projet (découverte, conscience, transcendance de l'ego).

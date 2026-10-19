@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - scene1
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.1
+chapitre: C1.1
+langue: fr
+reference: true
 date: 2026-10-12
-statut: validé
+statut_detail: validé
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 # Scène 1 — Le dimanche bien géré

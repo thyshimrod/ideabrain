@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
 tags:
-  - developpementpersonnel
-  - lisebourbeau
-  - blessuredelame
+  - devperso
+  - devperso/blessures
+auteurs:
+  - "Lise Bourbeau"
 ---
 **As tu tendance à te culpabiliser facilement de tout et de rien?**
 

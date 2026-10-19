@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Voici l'exécution du prompt ajusté, avec une réponse structurée, pragmatique et orientée vers des résultats réalistes et mesurables, tout en répondant à vos aspirations sociétales et économiques.
 

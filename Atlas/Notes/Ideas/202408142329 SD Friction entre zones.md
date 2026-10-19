@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Spirale Dynamique]]"
 tags:
   - spiraledynamique
-  - resistance
+  - devperso/resistance
   - coaching
   - accueil
 ---

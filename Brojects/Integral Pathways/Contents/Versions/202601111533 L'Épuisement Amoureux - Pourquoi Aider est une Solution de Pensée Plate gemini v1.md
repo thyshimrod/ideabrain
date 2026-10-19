@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: "L'épuisement amoureux"
+langue: fr
+tags:
+  - couple
+  - penseeplate
+  - relation
+---
+
 Voici la version rédigée de votre article pour Substack, prête à être publiée. Elle suit le protocole **Redact** en fusionnant l'expertise de votre Korenote avec le style incisif et "high-agency" de Dan Koe.
 
 ---

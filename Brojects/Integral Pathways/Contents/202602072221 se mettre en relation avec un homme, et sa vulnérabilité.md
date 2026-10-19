@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - couple/vulnerabilite
+  - spiraledynamique
+  - integral
+---
+
 C'est une demande fascinante qui touche précisément au "glitch" entre les niveaux de développement **Orange, Vert et Jaune** dans l'espace relationnel.
 
 Comme vous l'avez pressenti, Martin Ucik aborde cela via la dynamique des polarités et les stades de développement. Le problème de cette abonnée est un cas d'école de **décalage structurel** : elle offre une vulnérabilité (souvent de niveau Vert) à des hommes qui opèrent encore dans une structure de protection (Orange ou Rouge) ou qui sont eux-mêmes perdus dans un "Vert" mal intégré.

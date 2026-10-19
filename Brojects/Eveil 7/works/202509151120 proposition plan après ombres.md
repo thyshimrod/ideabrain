@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan du Livre : "Transcender le Type 7 : Du Pattern à l'Éveil Conscient"
 
 Voici une régénération complète du plan du livre, avec des descriptions étendues et détaillées pour chaque chapitre. Chaque description est maintenant développée en un paragraphe narratif continu de 200-300 mots (environ 10-15 lignes, selon la mise en page), pour une lecture fluide et auto-suffisante. Cela permet une réutilisation future : si la session est interrompue, vous pourrez réinjecter ce plan tel quel, avec tous les éléments clés (votre prémice : focus type 7, unicité vs patterns, identification via stress/obscur, graines types, dynamisme niveaux/intégration, espoir transcendance, chemin progression : découverte outil, insights différences, meta-comportements, conscience automatismes, expérimentation healthy, étude pourquoi). J'ai intégré les critiques (équilibre biais, omissions ailes/instincts, critiques scientifiques) et références (Chestnut-sous-types/shadow, Robins-conscious/embodied, Hudson-niveaux/affirmations, Cron-narration) pour profondeur. Les exercices (groupes ombres internes/externes) sont placés dans chapitres pertinents, avec hiérarchie itérative (surface-moyen-profond). Structure : 12 chapitres, progression Spirale Dynamique (bleu à turquoise), 250-300 pages, ton personnel/introspectif comme un guide compagnon.

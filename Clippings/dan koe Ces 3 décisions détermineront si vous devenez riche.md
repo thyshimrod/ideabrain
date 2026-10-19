@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+tags:
+  - business
+---
 Ces 3 décisions détermineront si vous devenez riche
 Les objectifs délirants recâblent votre cerveau
 Dan Koe

@@ -1,13 +1,14 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peur
+  - emotions/peur
   - evolution
-  - integration
-  - desir
-  - healthy
-  - desintegration
-  - type7
+  - enneagramme/integration
+  - couple/desir
+  - enneagramme/desintegration
+  - enneagramme/type7
 ---
 Le Type de personnalité SEPT : L’enthousiaste
 

@@ -1,10 +1,9 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 tags:
   - aydan
-  - oedeme
-  - lymphe
-  - polydeme
-  - mtc
+  - sante
 ---
 📜 Traditional Chinese Medicine (TCM) Interpretation  
 In TCM, chronic edema with water retention in the legs, present for decades, is often seen as a sign of a deep internal imbalance that prevents water and fluids from circulating freely.  

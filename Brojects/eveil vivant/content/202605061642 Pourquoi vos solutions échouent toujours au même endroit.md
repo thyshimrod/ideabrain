@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: eveil-vivant
+serie: pensee-plate
+oeuvre: Pourquoi vos solutions échouent au même endroit
+langue: fr
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 **La géométrie cachée de vos impasses**
 
 Vous avez tout tenté. Dévoré les livres, suivi les séminaires, appliqué les méthodes à la lettre. Vous avez fait le travail en thérapie, modifié vos habitudes et peaufiné votre _mindset_.

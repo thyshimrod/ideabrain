@@ -1,3 +1,10 @@
+---
+type: exploration
+statut: ongoing
+prive: true
+up:
+  - "[[MOA RELEASe]]"
+---
 - [ ] Peur de vivre la contrainte par perte de pouvoir d'achat
 - [ ] Peur du rejet de mes enfants : 8
 - [ ] Avoir des attentes de la part de Camille

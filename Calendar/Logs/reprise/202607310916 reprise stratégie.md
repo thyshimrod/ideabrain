@@ -1,3 +1,9 @@
+---
+type: reprise
+projet: integral-pathways
+statut: courant
+perimetre: strategie
+---
 
 # PROMPT DE REPRISE — REPOSITIONNEMENT STRATÉGIQUE DE L'ACTIVITÉ
 

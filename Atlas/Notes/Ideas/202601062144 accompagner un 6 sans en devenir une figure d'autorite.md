@@ -1,7 +1,10 @@
 ---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type6
+  - enneagramme/type6
   - coaching
 ---
 Très bonne question — et c’est une **question centrale**, à la fois **clinique, systémique et éthique**, dès qu’on accompagne des profils 6 de manière sérieuse.

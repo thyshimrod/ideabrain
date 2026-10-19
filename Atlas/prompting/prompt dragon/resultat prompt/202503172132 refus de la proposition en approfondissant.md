@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 ## prompt
 MErci pour cette critique, mais je trouve que tu es trop consensuel, et peu critique. Pour ma part, je trouve que ce prompt et cette réponse ne correspond pas à mon profil, mais plus à une personne qui cherche le superficiel. Je me remet assez peu, par rapport à mes contenus actuels.

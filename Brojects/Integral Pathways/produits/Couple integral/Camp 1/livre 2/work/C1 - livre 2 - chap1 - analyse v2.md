@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.1
+chapitre: C1.1
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 Tu apportes beaucoup de matériau — la question maintenant est ce qui appartient à cette scène et ce qui appartient à la théorie ou aux portes de sortie. Si je mets tout ça dans le décryptage, on quitte le format court et on commence à résoudre, ce qu'on a décidé de ne pas faire à ce stade.
 
 Voici ce que je retiens comme essentiel pour _cette_ scène précisément : retirer "vieille idée de la psychologie" sans hésitation, tu as raison sur les deux points. Et ajouter une perspective qui interpelle sans répondre — pour qui, pourquoi, et la question du prix payé sans le savoir.

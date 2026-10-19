@@ -1,3 +1,15 @@
+---
+type: recherche
+statut: notes
+projet: livre-hors-jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 C'est une analyse excellente. Ce que tu décris là est un **"Rituel de Friction"**. Pour l'Analyse Transactionnelle (AT), une "caresse" (unité de reconnaissance) négative est toujours préférable à une absence de caresse. Si je ne peux pas obtenir ton amour, j'obtiendrai ta colère ; au moins, je sens que j'existe pour toi.
 
 Voici une exploration des thématiques du quotidien à travers le prisme de l'AT et des Jeux Psychologiques d'Eric Berne.

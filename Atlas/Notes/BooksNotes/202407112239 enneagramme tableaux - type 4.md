@@ -1,13 +1,14 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peur
+  - emotions/peur
   - evolution
-  - type4
-  - desir
-  - healthy
-  - integration
-  - desintegration
+  - enneagramme/type4
+  - couple/desir
+  - enneagramme/integration
+  - enneagramme/desintegration
 ---
 [[202406191408 enneagramme tableaux types healthy|liste des types & explication]]
 

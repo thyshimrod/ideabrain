@@ -1,11 +1,15 @@
 ---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Integral]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - Spirale
   - spiraledynamique
-  - intégral
-  - intégration
-  - Évolution
-  - blessure
+  - integral
+  - integration
+  - evolution
+  - devperso/blessures
+  - enneagramme
 ---
 # Prompt
 

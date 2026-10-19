@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Spirale Dynamique]]"
+tags:
+  - spiraledynamique
+---
 C'est une excellente initiative. Pour rendre ce protocole générique et efficace pour toute personne ayant un **Bleu (Spirale Dynamique)** sous-développé ou réprimé — sans passer par le prisme spécifique du Type 7 — nous devons nous concentrer sur la **fonction structurelle** du Bleu : le passage du chaos (Rouge/Impulsif) ou de la confusion (Vert/Relativiste) vers la **cohérence, la stabilité et l'intégrité**.
 
 Voici une version révisée, universalisée, centrée sur la **réhabilitation du Cadre comme colonne vertébrale**.

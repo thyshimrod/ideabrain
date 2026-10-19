@@ -1,8 +1,10 @@
 ---
+type: exploration
+statut: ouverte
+rank: 3
 up:
   - "[[Efforts]]"
-type: "[[Exploration]]"
-rank: "3"
+  - "[[Spirale Dynamique]]"
 ---
 J'aime la représentation comme une carte de la SD
 

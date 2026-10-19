@@ -1,3 +1,9 @@
+---
+type: reprise
+projet: integral-pathways
+statut: archive
+perimetre: substack
+---
 
 # PROMPT DE REPRISE — SUIVI EXPÉRIENCE FOND vs PROMO SUBSTACK
 

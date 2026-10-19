@@ -1,5 +1,9 @@
+---
+tags:
+  - ia/prompt
+---
 
-- [[#Prompt|Prompt]]
+- [[#ia/prompt|Prompt]]
 - [[#REsultat|REsultat]]
 	- [[#REsultat#Analyse de votre intuition sur la situation mondiale|Analyse de votre intuition sur la situation mondiale]]
 	- [[#REsultat#Proposition ajustée : Activité secondaire – "Éveil Vivant" (version 6.0, sans tech)|Proposition ajustée : Activité secondaire – "Éveil Vivant" (version 6.0, sans tech)]]

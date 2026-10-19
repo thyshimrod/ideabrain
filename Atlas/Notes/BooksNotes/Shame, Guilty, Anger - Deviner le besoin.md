@@ -1,12 +1,12 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
-  - deviner
-  - statuer
-  - comprendre
-  - empathie
+  - cnv/empathie
   - connexion
   - solution
+  - emotions
 ---
 [[202307061431 Shame Guilty Anger]]
 

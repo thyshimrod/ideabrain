@@ -1,9 +1,14 @@
 ---
+up:
+  - "[[Développement personnel]]"
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - resistance
-  - changement
-  - vieintegrale
-  - kenWilber
+  - devperso/resistance
+  - devperso/changement
+  - integral/pratique
+  - integral
+auteurs:
+  - "Ken Wilber"
 ---
 Le secret pour travailler sur la résistance à la croissance est de choisir la voie du milieu. Notre premier réflexe de réponse à la résistance est d'essayer de dépasser ce refus arrogant ou même honteux de changer. Nous résistons à notre résistance. Mais cette stratégie hyper masculine ne marche pas sur le long terme. Elle exagère la fracture interne entres les impulsions "bonnes" et "mauvaises", et refoule les parties non voulues de nous-même dans l'Ombre. Généralement, cela se traduit par des périodes de pratique apparemment vertueuse mais basée sur la honte, ponctuées par des périodes de rébellion impulsive, de désorientation, et d'abandon de la pratique.
 

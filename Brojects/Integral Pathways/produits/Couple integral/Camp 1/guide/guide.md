@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
 
 [[guide - introduction]]
 [[GUIDE - prez 6 scenes]]

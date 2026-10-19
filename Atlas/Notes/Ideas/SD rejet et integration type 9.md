@@ -1,3 +1,11 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+tags:
+  - enneagramme
+  - spiraledynamique
+---
 Voici **le protocole intégral du TYPE 9**, sur **toutes les couleurs** de la Spirale Dynamique, dans le **même format précis** que celui du type 7 et du type 8** (forces, ombres, blessures, travail, mini-protocole).  
 Le type 9 porte une sagesse profonde du lien et de la paix… mais aussi une grande peur du conflit, et la tendance à s’oublier pour “préserver l’harmonie”.
 

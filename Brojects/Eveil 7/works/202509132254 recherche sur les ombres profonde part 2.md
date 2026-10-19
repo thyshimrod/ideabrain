@@ -1,8 +1,12 @@
 ---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
 tags:
   - enneagramme
-  - type7
-  - ombre
+  - enneagramme/type7
+  - integral/ombre
 ---
 
 ### Angles d'Ombre du Type 7 : Développement de la Partie Profonde de Chaque Thème

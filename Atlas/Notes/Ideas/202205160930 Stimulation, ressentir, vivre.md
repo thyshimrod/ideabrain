@@ -1,10 +1,13 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
   - stimulus
   - emotions
   - sesentirvivant
   - energie
   - excitation
+  - devperso
 ---
 La stimulation régulière est là pour créer des sensations.
 Est ce que cette recherche des sensations, n'est pas un moyen de se sentir vivant, par habitude. Je ressens donc je suis.

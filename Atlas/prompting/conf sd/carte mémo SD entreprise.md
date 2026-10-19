@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Prompting et IA]]"
+  - "[[Spirale Dynamique]]"
+tags:
+  - ia/prompt
+---
 # Carte Mémo : Les Couleurs de la Spirale Dynamique en Entreprise
 
 **Recto** : Introduction et défi  

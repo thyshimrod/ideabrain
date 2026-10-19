@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Chapitre 1 : Découverte de l’Ennéagramme : Origines et Unicité
 
 #### Encadré 1 : Définition de l'Égo dans l'Ennéagramme

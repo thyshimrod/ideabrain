@@ -1,15 +1,16 @@
 ---
+projet: zoimmeisdess
+up:
+  - "[[991 - Zoimmeisdess Project]]"
+  - "[[Blessures de l'âme]]"
+  - "[[Développement personnel]]"
 tags:
-  - zoimmesidess
-  - developpementpersonnel
-  - blessure
-  - sauveur
+  - devperso
+  - devperso/blessures
+  - at/karpman
   - effort
   - reconnaissance
   - relation
-  - Qualitédelarelation
-up:
-  - "[[991 - Zoimmeisdess Project]]"
 ---
 Une des problématiques liés au développement personnel est le fait de se différencier, et de vivre autrement.
 

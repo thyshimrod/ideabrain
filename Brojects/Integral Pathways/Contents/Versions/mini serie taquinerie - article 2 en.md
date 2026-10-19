@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: taquinerie
+oeuvre: Au lieu de piquer
+langue: en
+reference: true
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
 
 
 # Instead of Jabbing

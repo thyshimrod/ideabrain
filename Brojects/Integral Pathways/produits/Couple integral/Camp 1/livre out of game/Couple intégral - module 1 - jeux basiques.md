@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
 
 [[202603091836 Couple intégral - module 1 - jeux basiques - exemples jeux]]
 

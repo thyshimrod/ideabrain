@@ -1,13 +1,14 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - peur
+  - emotions/peur
   - evolution
-  - integration
-  - desir
-  - healthy
-  - desintegration
-  - type2
+  - enneagramme/integration
+  - couple/desir
+  - enneagramme/desintegration
+  - enneagramme/type2
 ---
 
 Le Type de personnalité DEUX : L’altruiste

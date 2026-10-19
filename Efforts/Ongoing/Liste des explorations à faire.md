@@ -1,4 +1,5 @@
 ---
+type: pilotage
 up:
   - "[[Efforts]]"
 ---

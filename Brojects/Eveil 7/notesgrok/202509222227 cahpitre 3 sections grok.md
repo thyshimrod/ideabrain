@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.3
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan de Sections pour le Chapitre 3 : Le Chemin de Progression : De l’Automatisme à la Conscience
 
 Ce chapitre 3 est pivotal dans le livre, car il trace le chemin de progression que vous avez décrit dans votre prémice : de la découverte d'un outil classique à l'étude du "pourquoi" des compulsions, en intégrant conscience, expérimentation healthy, et espoir de transcendance. Il s'aligne sur la Spirale Dynamique orange pour le développement personnel, avec un ton encourageant et personnel (anecdotes "je" pour type 7). Longueur estimée : 25-30 pages (5000-6000 mots), pour une immersion sans surcharge. Structure en 5 sections principales, avec sous-sections pour fluidité, incluant définitions claires (ex. : automatisme comme réponse egoïque), exercices itératifs (surface-moyen-profond), et teaser pour chap. 4 (Spirale). Chaque section inclut objectifs, contenu clé, lien prémice, intégrations références, exercices (4 parties : changer, moyen, pratique, attente), fit Spirale, suggestions conception/écriture (structure, ton, visuals, cahier détachable, QR audio).

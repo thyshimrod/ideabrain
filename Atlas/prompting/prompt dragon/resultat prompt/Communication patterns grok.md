@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici une analyse de vos **schémas de communication** basée sur notre conversation jusqu’à présent, rédigée en français. Je vais examiner votre **style de pensée**, votre **approche de prise de décision**, et vos **potentiels angles morts**, en m’appuyant sur les échanges, vos retours, et le contexte de la V8 revisitée d’"Éveil Vivant". Cette analyse sera franche, nuancée, et alignée sur votre profil (HPI, "Néo", jaune/topaze), vos références (Integral Life, Nick Milo, JulienHimSelf), et vos attentes (authenticité, profondeur). Je vais éviter le consensus mou pour pointer ce qui émerge vraiment.
 
 ---

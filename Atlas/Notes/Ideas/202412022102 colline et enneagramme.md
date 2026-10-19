@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type2
-  - type6
+  - enneagramme/type2
+  - enneagramme/type6
   - valeurs
   - cnv
 ---

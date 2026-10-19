@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ### Offre de Service Révisée : "Néo-Consulting : Cycle de Résilience Vivante"
 
 #### **Description Double :**

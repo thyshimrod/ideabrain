@@ -1,11 +1,13 @@
 ---
+up:
+  - "[[Agilité]]"
+  - "[[Coaching]]"
+  - "[[Spirale Dynamique]]"
 tags:
   - leadership
-  - manager
+  - agile/management
   - spiraledynamique
   - energie
-  - visualiser
-  - barometre
 ---
 
 Globalement, le leader est celui qui possède l'énergie. Quand son énergie diminue, il devrait être capable de passer la main, et de s'appuyer sur d'autres personnes.

@@ -1,3 +1,11 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - penseeplate
+---
 
 Mes excuses pour l'absence de réponse immédiate ; il semble que la requête précédente ait été interrompue ou non traitée correctement. Vous avez demandé 20 citations, soit inspirantes, soit provocantes, en lien avec le sujet de la complexité et les arguments développés dans l'Argument Tree sur pourquoi les solutions simplistes dominent et pourquoi des approches complexes sont nécessaires. Je vais maintenant fournir ces citations, en m'assurant qu'elles résonnent avec les six thèmes identifiés (influences historiques/philosophiques, facteurs psychologiques/émotionnels, contraintes cognitives/évolutives, pressions sociales/organisationnelles, impacts technologiques/médiatiques, et nécessité d'approches complexes). Chaque citation est accompagnée d'un auteur (quand disponible), d'une source, et d'un lien avec les arguments/thèmes spécifiques. J'ai visé un mélange de citations inspirantes (pour motiver la réflexion complexe) et provocantes (pour défier les biais vers la simplicité).
 

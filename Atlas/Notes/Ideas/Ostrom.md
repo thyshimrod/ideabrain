@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Communautés et communs]]"
 tags:
-  - ostrom
-  - bienscommuns
   - participative
-  - commons
+  - communs
+auteurs:
+  - "Elinor Ostrom"
 ---
 Voici une **note en Markdown** résumant la pensée d’**Elinor Ostrom**, en particulier sa théorie des communs et ses **8 principes de gouvernance durable**.
 

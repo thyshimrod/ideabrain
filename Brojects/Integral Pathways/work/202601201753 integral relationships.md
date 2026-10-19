@@ -1,9 +1,9 @@
 ---
 author: martin ucik
 tags:
-  - vieintegrale
+  - integral/pratique
   - couple
-  - AQAL
+  - integral/aqal
   - spiraledynamique
   - relation
 book: integral relationshops a manual for men

@@ -1,11 +1,12 @@
 ---
-tags:
-  - zoimmesidess
-  - AT
-  - jeu
-  - developpementpersonnel
+projet: zoimmeisdess
 up:
   - "[[991 - Zoimmeisdess Project]]"
+  - "[[Jeux Psychologiques]]"
+tags:
+  - at
+  - at/jeux
+  - devperso
 ---
 Article sur la complexité de désamorcer.
 

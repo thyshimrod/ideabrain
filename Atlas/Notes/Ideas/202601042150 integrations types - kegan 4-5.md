@@ -1,11 +1,15 @@
 ---
+up:
+  - "[[Développement vertical]]"
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
-  - desidentification
+  - devperso/desidentification
   - enneagramme
   - identite
-  - kegan
-  - changement
+  - stades/kegan
+  - devperso/changement
   - coaching
+  - stades
 ---
 Très bien. Je vais donc **mettre explicitement en dialogue ton processus de désidentification de l’armure enneagrammatique (type 7)** avec le **passage Kegan 4 → 5**, en prenant le temps de :
 

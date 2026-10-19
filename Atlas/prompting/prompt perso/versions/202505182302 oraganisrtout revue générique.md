@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Je vais ajuster le plan d’action initial en intégrant les recommandations identifiées lors de l’analyse précédente, en adoptant la perspective d’un coach de solopreneur. Les ajustements visent à rendre le plan plus réaliste, à éviter une surcharge, à mieux suivre les progrès financiers, à renforcer la transformation des croyances limitantes, et à intégrer des évaluations initiales et des contingences. Voici le plan révisé sur les horizons de **6 mois**, **3 mois**, et **1 mois**, avec un effort réduit (max 7h/semaine), des évaluations claires, et un soutien renforcé pour tes croyances.
 
 ---

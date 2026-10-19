@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.4
+chapitre: C1.4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 **Décryptage — Scène 4**
 

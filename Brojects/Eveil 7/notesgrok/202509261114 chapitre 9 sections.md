@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.8
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan Détaillé du Chapitre 9 : Mindfulness and Presence : Anchoring for the Type 7
 
 Ce chapitre 9 est une étape d'ancrage pratique dans le livre, car il permet au lecteur de transformer la conscience théorique des chapitres précédents en une présence embodied, en alignant avec votre prémice : expérimentation healthy pour monter en santé, conscience automatismes pour choisir vs réactif, et chemin vers transcendance ego par ancrage pour une vie moins automatisée. Il s'aligne sur la Spirale Dynamique vert pour une approche holistique des émotions et du corps, où la mindfulness ancre les relations et transforme l'évitement en joie présente, avec un ton pratique et sensoriel pour engager le lecteur sans intellectualiser. Longueur estimée : 30-35 pages (6000-7000 mots), pour une immersion embodied avec pratique, équilibrant théorie (mindfulness rôle) et action (méditations). Structure en 5 sections principales pour fluidité : hook/anecdote, définition mindfulness, découverte présence 7, exercices ancrage, conclusion/teaser. Chaque section inclut objectifs, contenu clé, lien à votre prémice, intégrations références (ex. : Robins pour embodied presence, Hudson pour affirmations ancrage, Chestnut pour sous-types embodied, Cron pour narration présence, avec nuance pour éviter biais comme idéalisation mindfulness), exercices (structurés en 4 parties : ce qu'on change, moyen d'y arriver, description de la pratique, ce qu'on attend), fit à la Spirale Dynamique, et suggestions pour la conception/écriture (structure interne, ton, longueur, visuals comme quizzes ou checklists, cahier détachable, QR code pour audio fictif). Le chapitre commence par un hook personnel pour rappeler le "why" (ancrer pour joie durable), et se termine par un teaser pour le chapitre 10 (intégration) avec un appel à l'action motivant. Pour la réutilisation, chaque élément est auto-suffisant et détaillé, permettant une rédaction directe sans questions supplémentaires.

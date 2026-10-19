@@ -1,10 +1,13 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
   - equipe
   - dysfonctionnements
-  - patrick_lencioni
 author: P Lencioni
+auteurs:
+  - "Patrick Lencioni"
 ---
 # Les 5 dysfonctionnement d'équipe
 

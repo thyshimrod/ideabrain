@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Regroupement des Angles d'Ombre du Type 7
 
 En tenant compte de votre observation sur les similarités entre thèmes (arbitraires sur guérison/causes, avec peur racine commune : insignifiance/vide liée à trauma restriction, conformisme masqué, non-soin de soi), je regroupe en deux thèmes transversaux : **Ombres Internes** (fusion Émotionnelle, Personnelle/Sabotage Quotidien, Spirituelle/Égoïque – focus vide intérieur/non-soin) et **Ombres Externes** (fusion Relationnelle, Professionnelle/Leadership – focus conformisme aux autres/évitement engagement). Cela garde le détail des paragraphes originaux, avec causalité (problème, cause, sabotage, besoin, peur, conséquence, transcendance), sans synthèse ni condensation. Chaque paragraphe lie éléments comme votre insight (peur décider, reframing, trauma maternel, non-soin).

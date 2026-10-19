@@ -1,11 +1,11 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
-  - demande
-  - sauveur
-  - processcom
+  - cnv/demande
+  - at/karpman
   - processus
-  - contrat
 ---
 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Prompt
 
 La vision est incomplète effectivement, chaque quadrant n'est pas décrit. Pour autant, elle va émerger avec douceur. Je n'ai pas encore de schémas directeurs dans chaque quadrant. J'essaye d'assembler un certain nombre de pièces de connaissance qui sont à ma disposition pour construire étape par étape, différents éléments.

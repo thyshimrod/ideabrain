@@ -1,13 +1,17 @@
 ---
+type: contenu
+format: video
+plateforme: youtube
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[Videos]]"
+  - "[[Jeux Psychologiques]]"
 created: 2024-07-20
 tags:
-  - AT
+  - at
   - cnv
-  - jeuxpsychologiques
-rank: "5"
+  - at/jeux
 ---
 
 [[202502122028 parent nourricier]]

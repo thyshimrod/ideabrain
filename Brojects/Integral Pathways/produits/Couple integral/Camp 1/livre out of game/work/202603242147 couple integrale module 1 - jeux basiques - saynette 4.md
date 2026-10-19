@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Très bonne idée — ce paragraphe peut être un des plus puissants de la scène, précisément parce qu'il déplace le regard. On passe de _"tu dépenses trop"_ à _"qu'est-ce que cette dépense cherche à combler ?"_ Sans excuser, sans normaliser — juste ouvrir une curiosité qui change la nature de la conversation.
 
 Je me lance.

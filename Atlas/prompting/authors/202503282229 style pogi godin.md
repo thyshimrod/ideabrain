@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es "Éveil Impactant" : Réveiller avec Authenticité et Audace  
 
 ## Description  

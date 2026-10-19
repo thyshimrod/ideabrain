@@ -1,9 +1,10 @@
 ---
+type: log
+statut: actif
 tags:
-  - pascal
-  - log
+  - moi
 ---
-# 28/07/2026
+# 2026-07-28
 
 ## Transcription
 *Transcribed from whipscribe-2026-07-28T12-44-29.webm on 2026-07-28 12:52*
@@ -11,7 +12,7 @@ tags:
 On lance le protocole sur la libération de la honte, sur la désentification de la honte. Si je pouvais laisser partir cette identification à la honte sur l'aspect financier, je me sentirais léger. Si je pouvais laisser partir cette identification à la honte sur l'aspect financier, je me sentirais bien. Si je pouvais laisser partir cette identification à la honte, je me sentirai serein. J'ai besoin de conserver cette identification à la honte sur l'aspect financier parce que j'ai peur d'être jugé par les autres. J'ai besoin de conserver cette identification à la honte parce que je me juge moi même. Je vois que je gagne une salaire de 90 k/an et je suis toujours dans le rouge. J'ai besoin de conserver cette identification à la honte parce que j'en sais pas pourquoi j'ai besoin de le garder. Mais si il est présent, c'est qu'il me sert à quelque chose. Si je pouvais relâcher cette identification à la honte, je me sentirais libéré. Si je pouvais lâcher cette identification à la honte, je me sentirais libéré. Je vois qu'aujourd'hui, cette honte me fout ça à cacher, à me sentir mal, à cultiver une honte du corps aussi pour montrer aux autres que j'ai honte de moi-même. C'est de l'auto-immuniation. Si je pouvais me libérer de cette identification à la honte, je pourrais vivre des relations plus saines. Je ne peux pas relâcher cette identification à la honte parce que c'est un sujet dur pour moi. Dans ce point de vue, je dois être dans un rôle d'homme, d'homme fort. Je ne devrais pas avoir de problèmes, je devrais être solide. Je me sens honteux de ne pas réussir à être à autre ça. Je ne peux pas relâcher ces indications à la honte parce que elle me met dans une situation d'équilibre un peu pourri, ça me permet de minimiser qui je suis. Malgré mes grands aires, je ne suis pas assez bien. Ça me permet de valider ce que ma mère disait sur moi. Ça me permet de garder ce lien tout pourri. Si je pouvais relâcher ces indications à la honte, je me sentirais plus confiant sur l'avenir. Si je pouvais relâcher ces indications à la honte, je pourrais avoir une vie pleine et consciente. Plaine et consciente plutôt que de vivre par compulsion, auto-sabotage et comportement automatique de fuite. Si je pouvais relâcher cette identification à la honte sur l'argent, je pourrais sûrement commencer à gagner l'argent. Il y a quelque chose d'attraction comme j'ai honte de l'argent, j'ai du mal à l'attirer et à faire en sorte d'en gagner plus. Il y a quelque chose aussi de l'argent c'est mal ou quelque chose comme ça ou je ne mérite pas d'avoir de l'argent. Je ne peux pas relâcher cette indication à la honte parce que justement il y a ce jugement de valeur sur l'argent, en avoir c'est mal. Et puis ça permet de montrer que je suis capable de me débrouiller, de vivre et ça m'empêche de m'accomplir aussi. Si je pouvais relâcher cette honte vis-à-vis de l'argent, je ne peux pas relâcher cette honte vis-à-vis de l'argent. Il y a quelque chose de vraiment dans les vis-à-vis, dans le ventre, je vois où est situé, je vois où est situé. J'ai les mains sur mon ventre conflé, ce qui est assez dingue au vu des efforts que je fais pour essayer de la moindre rire. Je ne peux pas relâcher cette honte vis-à-vis de l'argent. Parce que je me sens impuissant de quoi que je fasse en fait ça. Il y a peut-être une part de responsabilité chez moi de ne pas compter, de ne pas vérifier, de croire que l'argent sera là et puis de découvrir à la fin du mois qu'il n'est plus là. J'ai envie de relâcher cette identification à la honte parce que j'ai envie de pouvoir sentir libre, de pouvoir... Regarder mon compte sans avoir peur, de mieux gérer mes dépenses, d'avoir quelque chose qui est plus fluide, etc. Et je vois qu'aujourd'hui je ne suis pas dans cette possibilité de ne pas compter en fait et en autant ça me fait mal d'aller compter. Je vois que je suis dans les solutions plutôt que dans... J'ai envie de contrer cette honte en fait. J'ai envie de relâcher cette honte parce que elle me pourrit la vie. Il y en a marre en fait, je n'ai pas honteux de ce qui se passe. On me prélève et puis la situation est difficile avec mes enfants et mon ex-femme, etc. Et j'ai fait des choix qui ne sont pas toujours les bons et voilà, c'est des choix qui ont été faits et je ne peux pas les agréter et je dois vivre comme je vis. Et je dois prendre plutôt des options pour changer certaines choses. J'ai envie de relâcher cette identification à l'honte parce que j'ai envie de reprendre le contrôle sur ma vie et de pouvoir me repettre sur des rails. Si je pouvais accueillir cette indication à l'honte sur l'argent, alors je me sentirais reconnaissant de ce qu'elle a fait pour moi, de me protéger, de me faire vivre des choses, etc. Si je pouvais accueillir cette honte alors je me sentirais curieux de voir qu'elle est toujours là malgré tous les changements que j'ai pu faire dans ma vie et me demander pourquoi elle me sert, pourquoi j'y tiens tellement, etc. Et je vois que j'ai du mal à accueillir cette identification à l'honte parce que... Il y a de la honte, de la honte, bien sûr. Il y a de la colère aussi par rapport à cette honte parce que cette honte me fait vivre des choses et du coup voilà je suis en colère, du coup j'ai pas envie de l'écouter, j'ai pas envie de l'entendre, j'ai pas envie de l'accueillir, j'ai pas envie qu'elle soit là, j'ai envie de la cacher. Tout ça c'est très désagréable et j'ai du mal à l'accueillir par rapport à ça. J'aime pas l'accueillir parce que c'est douloureux, ça vient jouer dans la relation, etc. Si je pouvais laisser aller cette identification à la honte sur l'argent, ça me permettrait de me sentir léger, tranquille, sans tabou sur l'argent, aussi bien organier sur le fait de vendre, sur le fait d'en récupérer, sur le fait de refuser d'en donner, sur... C'est vrai qu'il y a quelque chose de, c'est pour ça que j'ai du mal à lâcher cette identification à la honte, mais possé de l'argent, il y a toujours quelque chose sur un jugement mal et sûrement lié à une éducation judéo-chrétienne où on doit se sacrifier, donner aux autres, ne pas être égoïste, avoir de l'argent, etc. Donc il y a un fondement culturel qui est présent sur cette gestion de la honte. Je peux voir qu'entre Aydan et moi, il y a une différence, et cette différence est sûrement culturelle aussi. Et en Turquie, avoir de l'argent, montrer, etc. En France, c'est un peu différent. Je me donne sûrement des excuses, mais aussi des explications, c'est le mental qui reprend le relais. Et j'aimerais me désidentifier, je suis fier de cette honte, j'ai envie de laisser aller sur la honte et de la lâcher. Il est temps de partir, il est temps de quitter ce ventre, beudonnant, il est temps de choisir une autre place. Ça serait différent si cette honte n'était plus présente. Je me vois serein, je me vois changer physiquement, je me vois profiter de la vie, je me vois pas me poser de questions quand je sens ma carte bleue, je me vois très à l'aise avec tous ces sujets, je me vois demander de l'argent pour mes services, pour ce que je fais, etc. J'ai envie de lâcher cette inortification à la honte. Je lâche cette inortification à la honte. Je lâche cette inortification sur la honte. Je lâche cette inortification sur la honte de l'argent. Je suis libre de cette inortification sur la honte de l'argent. Je suis libéré de cette inortification à la honte sur l'argent. Je n'ai plus besoin de cette inortification sur la honte de l'argent.
 
 
-# 26/07/2026
+# 2026-07-26
 
 Gros évitement. Je sens qu'il ya de multiples suejts à affronter, et le plus important est le self esteem qui n'esst pas tr-s haut.
 
@@ -43,7 +44,7 @@ Alors, je sais que l'un des problèmes, c'est ce que j'ai pu vivre dans l'enfanc
 
 
 
-# 07/07/2026
+# 2026-07-07
 
 Grosse journée.
 
@@ -77,7 +78,7 @@ J'aimerai être plus vivant.
 
 
 
-# 06/07/2026
+# 2026-07-06
 
 Epuisement global. Difficulté à dormir le soir.
 Ajout de magnesium à mon régime.
@@ -97,7 +98,7 @@ C'est plutôt chouette.
 
 
 
-# 30/06/2026
+# 2026-06-30
 
 Je vois que j'ai oublié de faire des logs depuis maintenant 8 mois.
 Cela veut dire quelque chose du prendre soin de moi, et peut être du confort / inconfort.
@@ -123,7 +124,7 @@ Je sabote toujours ma venue à Nantes aussi.
 
 
 
-# 01/11/2025
+# 2025-11-01
 
 gros problème de dispersion aujourdh'ui.
 Je sens de la honte présente.
@@ -136,7 +137,7 @@ Peut être que ce me racontre Luc aussi m'a refroidi sur la capacité àme faire
 
 
 
-# 30/09/2025
+# 2025-09-30
 
 Cela fait bien longtemps que je ne suis plus venu ici. 3 mois apparemment.
 POurtant je sais que le journaling a des bienfaits.
@@ -146,7 +147,7 @@ Vu que c'était notamment, le divorce qui reprend, le manque de soutien, que je 
 Je me demande encore comment gérer les vacances. Accepter la demande de Ancelin? ou contre proposer, et pourquoi? Ce n'est pas clair. En même temps, en revenant mercredi, j'aurai du temps pour moi, et cela serait cool. profiter de mes vacances.
 
 
-# 30/06/2025
+# 2025-06-30
 
 Du stress et de l'inquiétude aujourd'hui.
 J'imagine que c'est l'appel avec l'avocat. Il y a quelque chose qui est dans l'impuissance, le non contrôle. J'ai énormément de choses en tête aussi, j'ai vu que j'ai mis mon brain content, et la liste est longue. J'ai plein de choses à faire. 
@@ -154,7 +155,7 @@ J'essaye aujourd'hui de ne pas trop éviter. Même si la masturbation reste qq c
 J'ai du mal à poser tout cela. Le champ... Je suis le champ qui voit l'émotion aller et venir.
 Release à faire. Ca se tente... Laquelle?
 
-# 11/06/2025
+# 2025-06-11
 
 Tension chez moi. Beaucoup de compulsion, masturbation, manger.
 Voir que je fais peu de choses réellement profitable pour moi. Surtout de la disperson.
@@ -171,7 +172,7 @@ Je vais pouvoir retravailler mon side hustle
 
 
 
-# 29/05/2025
+# 2025-05-29
 Intéressant de voir que je n'ai pas encore relâché la relation avec Camille.
 J'ai beaucoup aimé les discussions avec Juliette sur ce sujet.
 Le passé est dépassé, le présent est un cadeau.
@@ -211,7 +212,7 @@ JE vois que mon 7, me dit cela. Je n'avais pas pris conscience, de l'importance 
 
 Intéressant de voir tout cela. Merci PAscal pour cette introspection.
 
-# 26/05/2025
+# 2025-05-26
 
 Harassement de voir la maison si pleine, et si dure à vider. Pour autant, je trouve que j'ai pas mal bouger de choses. J'ai les idées claires, sur  ce qu'il y a ranger, et faire.
 FAut que je passe du temps dans le garage aussi, pour arranger correctement.
@@ -230,7 +231,7 @@ En vrai, on peut regarder tout cela a mené à une catastrophe. Elle fait fi com
 
 
 
-# 16/05/2025
+# 2025-05-16
 
 Gratitude faite. Je vois que j'ai du mal à écrire ici.
 Beaucoup de fatigues. Peut être dois je trouver un autre moment pour le faire.
@@ -251,12 +252,12 @@ En même temps, c'est vrai que j'ai une incompréhension. Elle sait qu'on ne va 
 
 
 
-# 28/04/2025
+# 2025-04-28
 
 Bazinga comme dirait Sheldon. Ca tombe dans ma tête.
 Je vois que tout cela va impacter ma vie, et va me créer de la perturbation
 
-# 25/04/2025
+# 2025-04-25
 Je viens d'avoir le résultat du jugement.
 Intéressnt de voir ce que cela crée en moi. J'ai du mal à bondir de joie. Pour autant, ça y est je suis divorcé. Peu de charges retenues. Je récupère un droit de visite et d'hébergement étendu. Enormément étendu. A voir si jke suis capable d'assumer cela. A voir, comment les enfants vont réagir à cela.
 Je dois payer par ailleurs 38000€ pfffff... des mensualités de 396€. PLus la prise en charge des enfants.... Je vais avoir des mois un peu dur j'ai l'impression.
@@ -264,7 +265,7 @@ En tous les cas, vu avec Luc, j'étais dans une identification à la victime, ca
 Peur du rejet de nouveau peut e^tre, l'acceptation de n'avoir que ce que j'aurai n'est pas totalement faite.
 
 
-# 08/04/2025
+# 2025-04-08
 
 En fait, je vois que la charge mentale liée aux enfants est énorme. Je vais voir cela avec Regina Demain. Père parfait, je me cherche, je me demande comment recréer du lien, qui n'existe pas. Quoique je ferai cela sera mal quelque part. J'ai honte de ne pas leur envoyer un message, en même temps, en envoyer est vain, et me crée de la tristesse. J'ai surement besoin de guidance sur ce sujet. Du coup, je suis en mode stuck, car cela revient chez moi en mode serveur.
 
@@ -277,7 +278,7 @@ Continuer à travailler sur mes contenus. Ecrire des choses pertinentes
 Soutenir Luc, avoir des discussions passionnantes. Faire de la recherche. Approfondir les sujets.
 Porter du L voire du M. Super moment de shopping avec Aydan. Haleine Cetonique. Peindre figu pour Nico. Se faire plaisir. Nouvelles basket de course.
 
-# 01/04/2025
+# 2025-04-01
 
 PLus de douceur chez moi. En même temps, encore tourner en rond beaucoup de choses en tête.
 2j que je manque de sommeil. Aucune idée de la raison. Trop de choses non faites probablement.
@@ -290,7 +291,7 @@ Pas mal d'expérimentations pour m'aider.
 Je commence à creuser du concret. JE touche du doigt mes sabotages et pourquoi je n'avance pas.
 
 
-# 30/03/2025
+# 2025-03-30
 
 Dur de se mettre sur son journal, et de reprendre des habitudes.
 JE vois que je compulse pas mal en ce moment, nourriture et masturbation, plutôt que de faire des choses qui me nourrissent (par exemple peinture). Pour la peinture, je vois que je suis stuck, j'ose pas démarrer une figurine. Alors que j'en ai peint des dizaines. Comme si j'avais une exigence de quelque chose, qu'elle soit merveilleuse, que je surpasse mon niveau?
@@ -324,7 +325,7 @@ C'est difficile pour moi de demander de l'aide. C'est le syndrome du 7. Auto suf
 
 
 
-# 24/03/2025
+# 2025-03-24
 
 Journée de compulsions intenses. Je vois qu'Aydan étant partie, je n'ai plus personne à m'occuper, donc je dois m'occuper de moi. Je me retrouve seul avec moi même et c'est désagréable. Du coup évitement, et compulsion.
 
@@ -340,7 +341,7 @@ JE vois que je construis une nouvelle identité, et que j'ai des niveaux de cons
 
 
 
-# 16/02/2025
+# 2025-02-16
 
 Logs irrégulières. Peut être en ressens je moins le besoin? Il y a évidemment des choses qui ne tournent pas rond. Mais globalement, reprise en main, de pas mal de choses.
 Je commence à vivre mon corps. CEla me fait drôle d'être aussi fit.
@@ -364,7 +365,7 @@ Prendre soin de ma maison aussi.
 
 Finalement, je fais énormément de choses. Je suis heureux aussi car mes colis arrivent.
 
-# 09/02/2025
+# 2025-02-09
 
 Journée étrange aujourd'hui. Je connais mieux mes mécanismes désormais, donc voilà. Je sais que quand il y a sabotage, c'est lié à un besoin de ressentir la honte. Parce que j'ai du mal à vivre une émotion chargée désagréablement. Je pense que je vis de la tristesse et que je n'arrive pas à l'accuillir. Tristesse envers mes enfants bien entendu. C'est dur toujours. Je n'ai pas de retours de leur part. Tout cela me parait vain. Je vois que je vis de la colère là, lié à l'injustice de la situation.
 Je viens juste de fuir cette émotion d'ailleurs. Je suis très fort. J'ai les yeux qui brulent.
@@ -375,7 +376,7 @@ Aller plus sur site, par exemple et utiliser Luc.
 
 
 
-# 03/02/2025
+# 2025-02-03
 La mort de SP, reste un événement difficile, mais j'encaisse. J'essaye de soutenir Aydan là dessus.
 Je sais que ce n'est pas simple. En même temps, je vis cela sereinement. C'est arrivé, et c'est tout.
 
@@ -391,7 +392,7 @@ Je vois que l'intégration de Olga est un cailloux dans ma chaussure. Je ne sais
 je vois que je suis capable de remettre de l'équilibre dans mon désordre. Apporter de la puissance.
 Je reviens sur pour être puissant il faut vivre de la puissance.
 
-# 27/01/2025
+# 2025-01-27
 Quel mois cela va être.
 Je vois que j'appréhende énormément le passage au tribunal. J'appréhende déjà de recevoir les horreurs de l'autre, qui va venir appuyer sur mes blessures. Ne pas être assez bien, ne pas être un bon père, blablabla.
 J'ai besoin de plus d'apaisement. De vivre quelque chose de doux.  Du coup, je mange mes émotions, plutôt que de les explorer.
@@ -409,7 +410,7 @@ Dur de voir que j'ai lâché la plupart des pratiques. Il faut que je me recentr
 Je n'avance pas suffisamment sur mes sujets non plus. Je passe beaucoup de temps à autre chose. Finalement à quoi?
 
 
-# 22/01/2025
+# 2025-01-22
 
 Demain déjà mon anniversaire. Je vois que j'y ai mis une certaine importance. Besoin d'avoir de l'attention, des gens qui m'aiment, qui pensent à moi.
 En vrai, cela ne peut arriver, mais j'aimerai tellement que mes enfants me le souhaitent. Mais je ne leur ai pas dit, et leur mère ne leur dira rien.
@@ -418,7 +419,7 @@ C'est insupportable.
 Je suis content d'avoir trouvé le livre de pesquet pour Lyssandre. J'espère qu'il ne l'a pas. Sinon, tant pis. J'ai envie de lui faire la surprise et de montrer que je pense à lui.
 
 
-# 15/01/2025
+# 2025-01-15
 
 Fatigue, colère.
 
@@ -477,7 +478,7 @@ En même temps, on ne cesse de me demander d'entrer dans cette case de normatif.
 
 
 
-# 12/01/2025
+# 2025-01-12
 
  Que dire? Est ce qu'on peut changer sans rupture? Question de Audan. Effectivement, question intéressante. Je vois que je suis quelque part là dedans, où j'ai envie de changer de vie, et en même temps, je suis coincé quelque 
  part. Confort et sécurité. Peur de tout lâcher et de construire autre chose? Intéressant car au final je pourrai faire une 2nde activité, sans lâcher mon activité principale.
@@ -489,7 +490,7 @@ J'ai quand même créé uen vidéo aujourd'hui sur l'intention du feedback.
 Je m'éclaircis les idées je perçois.
 
 
-# 07/01/2025
+# 2025-01-07
 Stucked ... toujours stucked.
 Je vois que j'ai du mal à me lancer ou à écrire des choses.
 Est ce qu'il ya quelque chose de l'ordre du sabotage. OU je suis vraiment incapable d'aller sur ma vision et de la construire.
@@ -503,7 +504,7 @@ J'ai toujours du mal à m'assumer moi même et mettre en application toutes ces 
 
 
 
-# 06/01/2025
+# 2025-01-06
 
 En recherche d'une aide par IA pour avancer. Des solutions magiques pour déverrouiller ma procrastination?
 Le tarot aussi.
@@ -529,7 +530,7 @@ Je vois que je cherche du soutien, ou à me rassurer. Il faut plutôt que je cr�
 J'ai plein d'envie. J'ai de la honte qui est présent chez moi. Je me sabote pour vivre cette honte. Putain c'est chiant.
 
 
-# 02/01/2025
+# 2025-01-02
 Je sens une tension en moi. La situation d'Aydan avec ses parents, et moi au milieu de cela.
 Je vois que cela vient réveiller une blessure chez moi, surement je vois que Maman a joué à cela avec moi aussi, du chantage affectif.
 Cela me touche beaucoup.
@@ -538,7 +539,7 @@ Gratitude qu'elle me parle ouvertement de tout cela. Gratitude aussi pour son é
 Gratitude d'avoir réussi à rester ouvert à son problème et rester à ma place.
 
 
-# 18/12/2024
+# 2024-12-18
 
 Il y a des choses qui ne sont pas ok en ce moment, j'ai du mal à avoir la clarté sur cela.
 Je vois que les enfants sont surement au coeur. Je suis curieux de savoir ce que me dit ma gorge en somme. 
@@ -564,7 +565,7 @@ Autre part, en célébration aussi, je vois que l'approche intégrale me parle. 
 Je vois que j'ai dit à Luc notamment, qu'il fallait que je m'ancre plus dans le présent. La méditation peut être un outil puissant pour cela.
 Cette affiche de l'Aikido me parle beaucoup aussi. Je pense qu'il faut que j'arrête de me trouver des excuses et que j'essaye.
 
-# 11/12/2024
+# 2024-12-11
 
 Bon voilà encore un jeu qui m'a plutôt impacté ma relation avec Olga.
 En vrai, c'est usant. Intéressant d'avoir creusé malgré elle avec Mathilde.
@@ -592,7 +593,7 @@ Beaucoup de pensées aussi vis à vis du tribunal, et de ce que j'aimerai dire. 
 
 Sacrée journée.
 
-# 08/12/2024
+# 2024-12-08
 
 Conférence importante pour moi. Voir l'impact que j'ai auprès des gens. Ma capacité à parler de sujet complexe en les mettant à la portée des autres. Avoir de l'amour et des retours incroyables. Voir que je suis capable d'impactger les autres.
 Savoir que je suis bien au dessus des autres.  Je vois que j'ai vraiment envie de murmurer aux gens les possibilités de mouvement. J'ai envie qu'on m'appelle pour des sujets pointus, et ne pas être utilisé comme un simple main d'oeuvre. Faire bouger les lignes, avec des gens qui le souhaitent.
@@ -620,7 +621,7 @@ Il y a quelque chose de l'ordre de se rendre responsable de quelque chose car on
 
 
 
-# 06/10/2024
+# 2024-10-06
 J'ai réussi à ne pas aller regarder mes mails ce week end c'est quand même une souffrance pour moi.
 Je passe beaucoup de temps en ce moment dans mes compulsions. Je fais aussi beaucoup de mauvais rêves. La peur de l'abandon était très présente. Je n'ai pas réussi à me focus.
 Je vois que j'anticipe peut être aussi de cette période à venir. La décision du tribunal à venir, les prochaines difficultés. Mais peut être aussi l'arrivée de la mère de Aydan qui va nous couper pendant un moment. Plus de nuits ensemble, plus de week end. 
@@ -637,7 +638,7 @@ Epuisement moral. Il faut que je trouve un moyen de me ressourcer réellement.
 Comment cela serait pour moi de me poser avec mes émotions difficiles à vivre?
 J'ai passé tout le week end à vivre. Je me demande s'il n'y avait pas de la colère. Il faut que je retrouve ma place dans tout cela. J'ai l'impression que je passe beaucoup de temps à subir ma relation avec Aydan notamment. Elle m'inflige beaucoup de choses. J'ai l'espoir que cela s'arrangera une fois revenue dans sa vie normale. Néanmoins, je vis dans la culpabitlité de ce qu'elle vit, je pense que c'est pour cela que je suis pas mal dans un mode sauveur, attentif, hyper vigilant, très supportant. Et elle joue avec ce bouton très fort.
 
-# 14/09/2024
+# 2024-09-14
 
 Camille m'a envoyé un mail. Je suis de nouveau la variable d'ajustement. Elle vient jouer sur le bouton culpabilité "Ancelin est torturé"... Alors qu'en soit, pour l'instant on ne sait pas.
 Je vois que mon envie profonde est d'aller gérer la situation immédiatement pour trouver une solution, et me sacrifier de nouveau.
@@ -660,7 +661,7 @@ Tiens effectivement, c'est à elle qu'incombe la responsabilité de me garantir 
 
 Faire un release sur la culpabilité.
 
-# 08/09/2024
+# 2024-09-08
 
 Procrastination à fond les ballons. Grosse tension intérieure.
 J'ai fait mon arbre de soutien / de vie. 
@@ -683,11 +684,11 @@ Voilà mes sujets de tension :
 Je vois aque je suis dans la compulsion achat. Donc je ne suis plus dans mon healthy. En même temps, tout cela cela fait beaucoup.
 
 
-# 03/09/2024
+# 2024-09-03
 Journée difficile aujourd'hui.
 Je suis dans un état de freeze, très désagréable. Est ce la sortie du keto? est ce la fatigue? Est ce la colère? Est ce l'impuissance?
 
-# 20/08/2024
+# 2024-08-20
 
 Journée assez dur aujourd'hui. Effondrement lié aux enfants.
 Je ne l'ai pas vu venir. L'anniversaire d'Alistair a été qeulque chose de très dur pour moi.
@@ -712,7 +713,7 @@ Et c'est tellement injuste vis à vis de tout ce que je fais pour elle aussi. Je
 Je sais bien qu'elle est dans un mode panique, une inquiétude incroyable, une position hyper inconfortable vis à vis de sa famille, de son fils, de son divorce. Il y a trop de choses chez elle. Je peux comprendre ce côté "hopeless" qui l'a poussé à boire.
 Mais je vois ce qui est vraiment intolérable est sa volonté de vouloir me faire du mal, de me blesser, et d'utiliser contre moi ce qu'elle connait de moi pour me faire du mal et me faire croire que je suis une mauvaise personne. J'en ai marre de cela. J'ai trop vécu cela. 
 
-# 19/08/2024
+# 2024-08-19
 
 Aujourd'hui dans ma course à pied, j'ai réfléchi à ce que j'aurai envie de faire. 
 Je vois qu'il y a ce centre à quelques pas de chez moi qui m'attire. Un ancien centre social, qu'on pourrait réhabiliter avec la mairie. Et aussi les terrains pour en faire des jardins ouvriers collectifs.
@@ -721,7 +722,7 @@ Le deuxième de faire comme Mick Milo créer un produit autour de la transfo ou 
 Surement le faire de manière incrémental, cela va me demander du deepwork, un but à atteindre, sans savoir si cela va me ramener quelque chose.
 Un travail de vision, d'étapes, d'idéation, de brainstorming. Ca va être chaud et excitant.
 
-# 14/08/2024
+# 2024-08-14
 De la tristesse aujourd'hui, en préparant les cadeaux d'anniversaire d'Alistair. Surement de l'impuissance aussi. Je vois que j'aimerai pouvoir faire quelque chose pour recréer du lien avec mes enfants, et je suis toujours dans l'incapacité d'agir, ou de faire quoi que ce soit. Je ne sais mêem pas ce que je pourrai faire.
 Tristesse, et peur --> intéressant le mixte des deux s'appellent anxiété. Effectivement, cela décrit plutôt mon état. 
 Je n'ai pas l'impression de vivre de honte. Il y a un brin de colère je pense aussi contre Camille, qui est le mur qui se dresse devant mes enfants.
@@ -729,7 +730,7 @@ Je vais essayer de l'abattre à coup de justice.
 Je vois que je procrastine beaucoup aussi à faire les choses que j'aime. Dans une forme d'attente, comme si je devais être disponible et ne pas faire ce qui était important pour moi. 
 Pourtant, j'ai pas mal de champ d'exploration, de vidéos, et de livres. Il faut que je passe un temps à me recentrer sur ce qui est important pour moi je pense. Est ce qu'il n'y a pas un peu de honte, lié à une forme de croyance que c'est d'être égoiste de penser à moi?
 
-# 13/08/2024
+# 2024-08-13
 En fait, concernant le 07/08/2024, il y a peut être une prédominance de l'envie, de mon incapacité à avancer, et aussi une colère à voir l'autre reproduire mes propres errements.
 
 Aujourd'hui, moment difficile en remettant les affaires d'Aydan à Nico. 
@@ -739,7 +740,7 @@ Fainéantise et peur chez moi sûrement.
 Globalement, je ne trouve personne à mon égal, ou qui a des envies de comprendre le monde en profondeur, ou d'échanger là dessus. Les gens sont mous et incapable de grandir, ou en manque de capacité, de vision, de perception. 
 J'en reviens à trouver une place dans tout cela. Il faut que je refasse le travail du sens, et aussi de dissociation du sauveur.
 
-# 07/08/2024
+# 2024-08-07
 Journée désagréable. Aydan est dans cette situation de trouver comment gérer sa vie d'indep, et rendez vous avec les sociétés de portage.
 Je passe beaucoup de mon temps à l'aider, la soutenir. Cela a fini en clash.
 La surface ressemble à je suis en congés, c'est injuste je ne peux pas profiter, blablbal...
@@ -757,16 +758,16 @@ Secondo, voir si je peux faire une séance de désidentification au sauveur, com
 
 
 
-# 03/08/2024
+# 2024-08-03
 SD --> Donner du travail différent à chacun. Rejoins mon idée d'avoir un backlog large qui permette à chacun de contribuer à sa préférence.
 Cela se confirme d'autant, que chacun ayant ses prédominances, il aura surement 
 besoin et envie de pouvoir contribuer à sa manière.
 Il y a vraiment une autre manière de voir sur la spirale. 
 voir comment on peut faire une map.
-# 31/07/2024
+# 2024-07-31
 A voir comment je peux implémenter cette histoire de sd et ennéagramme. Je sens plus de complexité. Peut être faut il partir sur une map qui pourrait montrer pour chaque niveau de healthy. Le sujet est complexe car il y a beaucoup de dimension, et peut être aussi que je connais pas suffisamment bien les niveaux de Healthy. Peut être est ce que cela devrait être mon point de départ.
 
-# 29/07/2024
+# 2024-07-29
 
 Je continue à donner/sauver Aydan alors qu'elle ne m'a rien demandé. Elle se prend tout dans la tête.
 Exploration : Enneagramme & SD
@@ -775,7 +776,7 @@ Exploration : SD : Je vois que ma perception de la SD était largement incomplè
 
 Point important aussi sur la SD. Le premier Tiers sont des niveaux de conscience qui s'antagonisent. L'un est mal par rapport à l'autre. Il y a donc du rejet, et une incapacité à lier tout cela. Les solutions d'un niveau sont alors conçus comme allant contre son propre niveau. Cela m'a fait penser à Gwen, qui se considère comme Jaune, alors qu'elle n'a pas encore résolu ses conflits internes, et reste en antagonisme avec les autres niveaux. L'élévation de conscience viendrait du fait de pouvoir se mettre en paix avec chaque niveau de conscience, et de valoriser ce que chaque niveau nous apporte.
 
-# 23/07/2024
+# 2024-07-23
 
 Encore entré dans un jeu avec Olga. Trop attentif à bien faire sûrement. Je vois également qu'elle est une femme et est dans cette dureté qu'il y avait chez ma mère. Quand elle titille ne pas faire assez, cela me renvoie à ma mère. Elle est très pushy.
 Il faut vraiment que je travaille ce sujet. Je ne me rendais pas compte à quel point cela avait des impacts dans ma vie. Cela me rend triste, de voir à quel point le pilote automatique et la soumission sont actifs chez moi.

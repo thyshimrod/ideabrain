@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Pensée plate et complexité]]"
 tags:
   - coaching
   - estimedesoi
-  - "#desordre"
 ---
 
 Saviez-vous que l'endroit de la maison où se trouve le désordre reflète le domaine qui pose problème dans votre vie ?

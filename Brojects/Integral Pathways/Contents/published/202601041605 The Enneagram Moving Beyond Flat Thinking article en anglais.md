@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: "L'ennéagramme au-delà de la pensée plate"
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - enneagramme
+  - penseeplate
+---
+
 # The Enneagram: Moving Beyond Flat Thinking to Mirror and Transform Failure
 
 Have you ever applied a "magic solution" – like a miracle diet or a foolproof productivity method – only to see everything fall apart without understanding why? I've experienced this personally: one evening, I'm full of energy, convinced that this time, it's going to work, but the next day, everything fizzles out. Instead of settling for a simplistic explanation like "I lack willpower," I discovered that my internal patterns, those unconscious mechanisms forged in childhood, were often the real culprits.

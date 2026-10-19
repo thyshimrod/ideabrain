@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 ### Recommandations et Guidelines pour une IA : Écrire dans le Style de Dan Koe 
 

@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 category: "[[Clippings-Amz]]"
 author: "[[Jean Yves Henry]]"
 title: La bioélectronique de Vincent (BEV) - Médecine Intégrée
@@ -7,7 +9,7 @@ clipped: 2024-07-19
 published: 
 topics: 
 tags:
-  - clippings
+  - sante
 in:
   - "[[Health]]"
 ---

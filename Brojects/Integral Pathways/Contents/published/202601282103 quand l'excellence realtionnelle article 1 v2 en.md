@@ -1,3 +1,19 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: excellence-relationnelle
+oeuvre: Le tableau de bord conjugal
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - couple
+  - couple/desir
+  - devperso
+  - relation
+---
+
 # The Conjugal Dashboard
 
 ## When relational excellence becomes a trap

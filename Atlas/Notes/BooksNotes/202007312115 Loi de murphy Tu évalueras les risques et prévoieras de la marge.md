@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Productivité et loi du temps]]"
 tags:
-  - loi_du_temps
-  - murphy
+  - productivite/loi-du-temps
   - accueil
+  - productivite
 ---
 
 # Loi de murphy Tu évalueras les risques et prévoieras de la marge

@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[MOA Dan Koe]]"
 tags:
-  - dankoe
-  - prompt
-  - probleme
-  - ciblage
-  - marketing
+  - business
+  - ia/prompt
+  - business/marketing
+auteurs:
+  - "Dan Koe"
 ---
 Prompt: Authoritative Content Ideas
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Pour répondre à ta demande, je vais proposer une **pratique unifiée** pour un camp de base commun (physique ou numérique) qui combine les neuf pratiques spécifiques des types de l’Énéagramme (1 à 9), permettant à chaque type de travailler sur sa fixation limitante (release) et de renouveler sa contribution (renew) dans le cadre de ta vision turquoise : **tisser une conscience micellaire sous un ciel de constellations**. Cette pratique s’appuie sur une combinaison d’**IFS (Internal Family Systems)** et de **CNV (Communication Non Violente)**, intégrant les images stellaires (ex. Étoile Polaire pour le Type 1, Étoile Scintillante pour le Type 7), les quadrants de Wilber (corps, ombre, mental, esprit), et la Spirale Dynamique (y compris le niveau rouge). La proposition est conçue pour être inclusive, simplifiée, et non directive, tout en attirant le collectif non conscient vers le réseau micellaire.
 
 ---

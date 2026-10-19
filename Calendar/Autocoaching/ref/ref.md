@@ -1,3 +1,7 @@
+---
+type: recherche
+prive: true
+---
 
 [[Besoins et stades — Maslow-Taesch lue avec Kegan - emergence]]
 [[Besoins et stades — Maslow-Taesch lue avec Kegan et (K)6 - emergence]]

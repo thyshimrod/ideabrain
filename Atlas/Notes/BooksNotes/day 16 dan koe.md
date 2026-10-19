@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Écrire sa première newsletter est un petit exploit.
 
 Il s'agit donc plutôt d'une journée de « remplissage » dans le défi, mais je pense qu'elle sera tout de même utile.

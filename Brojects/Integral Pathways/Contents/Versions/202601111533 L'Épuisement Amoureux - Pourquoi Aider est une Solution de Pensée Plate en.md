@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: "L'épuisement amoureux"
+langue: en
+tags:
+  - couple
+  - penseeplate
+  - relation
+---
+
 Voici une **traduction en anglais fidèle, fluide et conceptuellement précise**, adaptée à un lectorat Substack / coaching / pensée intégrale, sans simplifier le propos ni le rendre trop “marketing” :
 
 ---

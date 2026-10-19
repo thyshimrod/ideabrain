@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Performance et Résilience : Plan d’Activité Secondaire B2C
 
 ## 1. Contexte et Objectifs

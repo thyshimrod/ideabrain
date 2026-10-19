@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: causalite-simple
+oeuvre: Le piège caché
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 # Attention : Le piège invisible qui sabote votre succès
 
 Imaginez : Vous pensez avoir tout sous contrôle.  

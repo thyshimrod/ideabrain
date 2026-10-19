@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Pour répondre à votre demande, j’ai analysé le document intitulé *Dépasser la vue socialiste chrétienne sur la création de valeur* en me basant sur le cadre de la Spirale Dynamique (niveaux de conscience de Clare Graves et Ken Wilber) pour identifier les arguments, leur public cible en termes de niveaux de conscience, et leur organisation pour maximiser l’impact auprès d’un public de niveau Jaune (individus early adopters, intégratifs, orientés vers les systèmes et l’innovation). Voici une analyse détaillée, suivie d’un article réorganisé et d’une explication sur les arguments qui résonnent avec votre cible.
 
 ### Analyse des arguments et correspondance avec les niveaux de conscience

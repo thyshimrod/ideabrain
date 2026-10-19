@@ -1,7 +1,8 @@
 ---
+up:
+  - "[[SoloPreneur MAP]]"
 tags:
-  - solopreneur
-  - luc
+  - business
 ---
 
 

@@ -5,10 +5,9 @@ version: 1.1
 date: 05/04/2025
 intention: Produire et partager un contenu vendable (950 mots ou vidéo 7 min, 5 $ sur Stan.store) en 21 jours, en dénouant les sabotages systémiques pour libérer ta valeur et ton impact dans le chaos mondial.
 tags:
-  - éveil vivant
-  - systémique
-  - production
-  - estime
+  - eveil vivant
+  - systemique
+  - ia/prompt
 ---
 
 # Éveil vivant – Le chemin structuré

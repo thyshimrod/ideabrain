@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
+  - "[[Développement personnel]]"
 tags:
-  - developpementpersonnel
-  - blessuredelame
-  - lisebourbeau
-  - changement
+  - devperso
+  - devperso/blessures
+  - devperso/changement
+auteurs:
+  - "Lise Bourbeau"
 ---
 [[202506292141 Arissiel questions 1 la surprise]]
 

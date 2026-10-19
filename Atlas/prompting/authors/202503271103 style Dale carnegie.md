@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Dale Carnegie : Persuader par la Simplicité et l’Humain  
 
 ## Description  

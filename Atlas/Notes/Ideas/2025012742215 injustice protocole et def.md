@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Colere]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - cnv
   - injustice
-  - besoin
-  - colere
+  - cnv/besoins
+  - emotions/colere
 ---
 Est ce que tu te sens en colère, apeuré, indigné, tendu.
 

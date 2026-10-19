@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Prompt
 
 Intéressant car ta critique est pertinente, et se rapproche de mes attentes.

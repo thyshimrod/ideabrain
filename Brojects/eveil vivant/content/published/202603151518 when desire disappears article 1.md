@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: eveil-vivant
+serie: desir
+oeuvre: Quand le désir disparaît 1
+langue: fr
+plateforme: substack-fr
+reference: true
+tags:
+  - couple/desir
+  - integral
+  - couple
+---
+
 Voici une traduction qui respecte la précision conceptuelle de l'approche Intégrale (AQAL) et la profondeur psychologique du texte original :
 
 # Quand le désir disparaît, un ordre plus profond est à l'œuvre

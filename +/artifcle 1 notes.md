@@ -1,3 +1,18 @@
+---
+type: notes-article
+statut: brouillon
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: "Ce n'est pas la machine que tu as reprise"
+langue: fr
+up:
+  - "[[Couple]]"
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
 # Notes Substack — Semaine article 1
 
 ## "Ce n'est pas la machine que tu as reprise."

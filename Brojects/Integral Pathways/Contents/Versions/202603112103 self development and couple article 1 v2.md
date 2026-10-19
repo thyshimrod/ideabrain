@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: "Tu te développes et tu t'éloignes"
+langue: fr
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # Tu te développes. Et tu t'éloignes sans le vouloir.
 
 _Série "Grandir — et ne pas perdre l'autre" · Article 1 · Gratuit_

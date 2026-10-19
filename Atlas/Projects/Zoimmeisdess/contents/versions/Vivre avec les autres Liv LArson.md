@@ -5,10 +5,9 @@ version: 1.0
 date: 11/04/2025
 intention: Transformer les défis du développement personnel en une exploration douce des besoins, pour une connexion à soi et aux autres.
 tags:
-  - CNV
-  - empathie
-  - besoins
-  - paix
+  - cnv
+  - cnv/empathie
+  - cnv/besoins
 ---
 
 # Cultiver la Paix Intérieure

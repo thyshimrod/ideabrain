@@ -1,8 +1,7 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
-  - ancedote
-  - insister
-  - prise_de_recul
   - se_comprendre
   - soi
   - sabotage

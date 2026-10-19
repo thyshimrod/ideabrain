@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - conclusion
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C9
+chapitre: C9
+langue: fr
+reference: true
 date: 2026-10-14
-statut: validé
+statut_detail: validé
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 **Conclusion**

@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: Revenir sans régresser
+langue: en
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # Coming Back Without Regressing
 
 _Series "Growing — Without Losing the Other" · Article 5 · For subscribers_

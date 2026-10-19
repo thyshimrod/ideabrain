@@ -1,9 +1,11 @@
 ---
-tags:
-  - zoimmesidess
-  - cnv
+projet: zoimmeisdess
+up:
+  - "[[CNV]]"
 top:
   - "[[991 - Zoimmeisdess Project]]"
+tags:
+  - cnv
 ---
 
 [[202505061451 Mieux vivre avec ses emotions - intro]]

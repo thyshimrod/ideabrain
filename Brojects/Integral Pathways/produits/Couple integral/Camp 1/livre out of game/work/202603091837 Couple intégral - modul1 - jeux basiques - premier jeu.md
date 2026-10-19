@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Parfait. On lance.
 
 Je te propose qu'on construise le module complet dans l'ordre — scène par scène — en commençant par la première. Pour chaque scène on produit :

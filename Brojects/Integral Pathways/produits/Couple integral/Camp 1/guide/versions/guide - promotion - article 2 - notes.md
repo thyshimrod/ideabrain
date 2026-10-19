@@ -1,3 +1,16 @@
+---
+type: notes-article
+statut: brouillon
+projet: guide-roles
+serie: guide-roles
+oeuvre: The most exhausting role in a relationship is the one that looks like love.
+langue: en
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 Je note au passage que le prix dans l'article 2 est à 13€ au lieu de 15€ — à corriger avant publication.
 
 Voici les 10 notes :

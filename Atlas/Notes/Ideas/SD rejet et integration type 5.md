@@ -1,3 +1,11 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+tags:
+  - enneagramme
+  - spiraledynamique
+---
 Voici **le protocole intégral du TYPE 5**, couleur par couleur, **en reprenant exactement la structure** que tu as validée :  
 ✔️ Forces — ❌ Ombres — 🔥 Blessures — 🌿 Travail — 🧘 Mini-protocole (3 étapes).  
 Même modèle que ton exemple pour le type 1 en Violet.

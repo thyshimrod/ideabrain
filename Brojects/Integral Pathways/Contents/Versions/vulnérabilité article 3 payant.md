@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: Ce que tu crois lire chez lui
+langue: fr
+reference: true
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 # Ce que tu crois lire chez lui n'est peut-être pas ce qui s'y passe
 
 Le vendredi soir, j'ai annoncé à ma compagne que j'avais besoin de passer le week-end seul.

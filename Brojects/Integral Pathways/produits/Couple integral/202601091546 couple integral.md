@@ -1,6 +1,6 @@
 ---
 tags:
-  - vieintegrale
+  - integral/pratique
   - couple
   - relation
 ---

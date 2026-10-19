@@ -1,11 +1,13 @@
 ---
 up:
   - "[[Efforts]]"
+  - "[[Enneagramme - Intégration et désidentification]]"
+  - "[[Enneagramme]]"
 type: "[[Exploration]]"
 rank: "3"
 tags:
   - enneagramme
-  - integration
+  - enneagramme/integration
 ---
 [[202601041101 integration tous types - recherche globale]]
 [[202601041110 integration types - vision par auteur]]

@@ -1,10 +1,11 @@
 ---
+projet: zoimmeisdess
+up:
+  - "[[991 - Zoimmeisdess Project]]"
+  - "[[CNV]]"
 tags:
   - cnv
   - emotions
-  - zoimmesidess
-up:
-  - "[[991 - Zoimmeisdess Project]]"
 ---
 Une émotion selon une étude dure chimiquement quelques secondes, et se termine dans les 60 à 90Sec.
 Alors pourquoi, on a l'impression qu'on reste dans cette émotion beaucoup plus longtemps, des heures durant, ou des jours durant.

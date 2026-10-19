@@ -1,3 +1,9 @@
+---
+type: reprise
+projet: integral-pathways
+statut: archive
+perimetre: vision
+---
 # PROMPT DE REPRISE DE SESSION — INTEGRAL PATHWAYS
 
 ## Version consolidée — juin 2026 v2 — Vision globale + Architecture camps révisée

@@ -1,3 +1,9 @@
+---
+type: effort
+statut: on
+projet: livre-hors-jeu
+rank: 4
+---
 
 [[Article 1 pour livre v1]]
 [[Article 1 pour livre v2]]

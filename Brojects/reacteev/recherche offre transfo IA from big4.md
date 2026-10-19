@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: reacteev
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 Pour un cabinet de 20 personnes spécialisé en agilité, l'enjeu n'est pas de copier les Big 4 (Deloitte, PwC, EY, KPMG), mais d'occuper les **angles morts** que leur gigantisme les empêche d'adresser.
 
 Alors que les Big 4 se positionnent sur la **"Gouvernance Systémique"** (déploiement de plateformes d'agents IA, conformité massive à l'AI Act, réduction de coûts par l'automatisation), votre opportunité réside dans la **"Haute Couture Organisationnelle"**.

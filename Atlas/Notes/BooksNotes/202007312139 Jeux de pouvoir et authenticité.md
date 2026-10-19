@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - berne
-  - authentique
-  - jeuxpsychologiques
-  - AT
+  - at
+  - authenticite
+  - at/jeux
+auteurs:
+  - "Eric Berne"
 ---
 
 # Jeux de pouvoir et authenticité

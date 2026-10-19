@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour votre demande d'intégrer les trois insights – **l’Incandescence Initiatique**, **l’Essaim Éveillé**, et **le Changement Holonique Intégral** – dans l’article précédent intitulé **« Briser la honte pour des relations authentiques »** afin de renforcer son message. Je vais suivre le **Prompt Creative Thought Partner** pour fusionner ces insights de manière organique, en respectant la structure existante de l’article (accroche, problème, agitation, solution, ethos, appel à l’action) et en renforçant son impact persuasif. Les insights seront intégrés pour enrichir la vision de transformation des relations par l’éveil individuel et collectif, tout en restant aligné avec votre vision globale : **« Tisser un réseau vivant où chaque individu, à travers un parcours initiatique, libère son potentiel pour co-créer un monde intégral, influençant les systèmes en crise vers une conscience collective éveillée. »** L’article sera ajusté pour maintenir une longueur d’environ 500 mots, un ton engageant, et une cohérence avec les frameworks PAS, Ethos/Pathos/Logos, et les principes de Cialdini (Réciprocité, Autorité).
 
 ---

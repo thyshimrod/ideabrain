@@ -1,12 +1,12 @@
 ---
+up:
+  - "[[Transfo agile]]"
 tags:
   - agile
   - organisation
-  - agence
-  - management
-  - changement
-  - transformation
-  - homéostasie
+  - agile/management
+  - agile/transformation
+  - homeostasie
 ---
 
 Plusieurs points à travailler

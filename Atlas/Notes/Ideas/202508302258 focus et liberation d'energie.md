@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
   - energie
-  - integration
+  - enneagramme/integration
 ---
 
 

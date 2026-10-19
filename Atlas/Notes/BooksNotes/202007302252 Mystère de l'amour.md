@@ -1,7 +1,10 @@
 ---
+up:
+  - "[[Couple]]"
 tags:
-  - amour
+  - relation
   - silence
+  - couple
 ---
 
 # Mystère de l'amour

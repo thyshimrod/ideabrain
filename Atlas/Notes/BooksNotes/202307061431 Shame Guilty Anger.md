@@ -1,12 +1,15 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - honte
-  - culpabilite
-  - colere
+  - emotions/honte
+  - emotions/culpabilite
+  - emotions/colere
   - cnv
   - excuse
   - violence
-  - empathie
+  - cnv/empathie
 author: Liv Larson
 ---
 

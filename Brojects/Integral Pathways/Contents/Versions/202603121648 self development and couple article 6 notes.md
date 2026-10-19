@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: grandir
+oeuvre: Grandir sans témoin
+langue: fr
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # 10 notes Substack autonomes
 
 _Série "Grandir — et ne pas perdre l'autre" — Article 6_

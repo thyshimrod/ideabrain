@@ -1,3 +1,15 @@
+---
+type: offre
+statut: brouillon
+projet: reacteev
+oeuvre: Offre transformation IA
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 ### Lean Canvas pour le Pilier 2 de Reacteev : Transformation Organisationnelle Pilotée par l'IA
 
 Voici une description complète et structurée du Pilier 2 de Reacteev, présentée sous la forme d'un Lean Canvas. Ce pilier est pitché comme une offre de consulting premium autonome, destinée aux grands groupes confrontés aux disruptions de l'IA. Il se concentre sur la gouvernance résiliente, l'évolution des métiers augmentés et les nouveaux modèles organisationnels, en adressant spécifiquement les douleurs (pains) liées à l'IA – comme la perte de maîtrise humaine, la dépendance technologique et l'érosion des compétences. Les outcomes (résultats mesurables) sont mis en avant dans les Key Metrics, pour démontrer un ROI tangible. Le Lean Canvas permet de valider itérativement cette offre, en testant ses hypothèses auprès de clients pilotes.

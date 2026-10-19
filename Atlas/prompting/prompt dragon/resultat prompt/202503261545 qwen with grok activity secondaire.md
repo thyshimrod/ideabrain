@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Proposition d'activité secondaire : **"Labo Éveil Intégral"**
 
 ---

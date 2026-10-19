@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici une analyse des trois orientations professionnelles différenciantes ("Catalyseur de Transitions Vivantes", "Architecte d’Évolutions Ouvertes", "Tisserand de Sens Adaptatif") depuis une perspective extérieure, comme si je n’avais pas conçu le prompt ni la réponse. Je vais évaluer leur pertinence, leur capacité à convaincre des décideurs (DSI, DRH, dirigeants), leur réalisme d’implémentation, les points d’attention, les prérequis, et leur viabilité économique, avec l’objectif d’en faire une activité professionnelle durable.
 
 ---

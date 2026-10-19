@@ -1,14 +1,17 @@
 ---
+type: contenu
+format: video
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[Videos]]"
+  - "[[Honte, culpabilité et colère]]"
 created: 2024-07-20
 tags:
-  - agilite
+  - agile
   - coaching
-  - transformation
-  - developpementpersonnel
-rank: "5"
+  - agile/transformation
+  - devperso
 ---
 Vidéo sur ceux qui font du développement personnel, et qui ont l'impression de toujours faire l'effort.
 

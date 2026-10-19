@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.4
+chapitre: C3.4
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **3.4 — Ce que ce couplage vous apporte, à vous précisément**
 
 Vous avez, dans les pages qui précèdent, mis un nom sur quelque chose. Peut-être un couplage qui revient souvent, peut-être plusieurs selon les terrains. Je voudrais qu'on s'arrête un instant sur ce que ce nom-là recouvre vraiment, avant d'aller plus loin, parce que le repérer ne suffit pas encore à comprendre pourquoi il tient.

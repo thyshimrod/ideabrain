@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Couple]]"
+---
 Harville Hendrix, « _Getting the Love You Want_ »
 « _Les ressorts cachés de l’amour : Psychologie du couple_ » par Yvon Dallaire
 « _Psychologie du couple et de la famille_ » par Pascal De Sutter

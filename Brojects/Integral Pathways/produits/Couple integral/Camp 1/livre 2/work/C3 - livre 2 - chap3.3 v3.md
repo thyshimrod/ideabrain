@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - chap3
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.3
+chapitre: C3.3
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé (exemple d'Hélène ajouté le 14/10)
+statut_detail: "validé (exemple d'Hélène ajouté le 14/10)"
+tags:
+  - chap3
+  - at
+  - couple
+  - relation
 ---
 
 **3.3 — Le nom de ce que vous avez repéré**

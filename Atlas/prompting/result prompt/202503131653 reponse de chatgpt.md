@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici trois orientations différenciantes qui s'appuient sur ton expertise et ton approche hybride IA-humain :
 
 ---

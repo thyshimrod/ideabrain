@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Inspirer les Types Énéagramme à Rejoindre le Réseau Micellaire
 
 Cette proposition montre comment la vision turquoise de **tisser une conscience micellaire sous un ciel de constellations** peut inspirer chaque type de l’Énéagramme (1 à 9) à rejoindre le réseau micellaire, en relâchant leurs fixations limitantes (release) et en renouvelant leur contribution (renew). Chaque type est attiré par une **invitation** adaptée à ses motivations, guidé par une **pratique** dans un camp de base (ex. atelier IFS, cercle CNV), et intégré dans le collectif non conscient via un **rôle** dans les constellations. Les propositions s’appuient sur les images stellaires, les quadrants de Wilber (corps, ombre, mental, esprit), et la Spirale Dynamique (y compris le rouge), respectant la posture non directive et l’émergence organique.

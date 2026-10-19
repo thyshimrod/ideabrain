@@ -1,7 +1,8 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
-  - colere
-  - pratique
+  - emotions/colere
   - puissance
 ---
 

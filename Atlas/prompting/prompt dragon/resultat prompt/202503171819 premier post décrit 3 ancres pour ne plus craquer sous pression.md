@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici une description détaillée pour le contenu **"3 ancres pour ne plus craquer sous pression"**, conçu dans le cadre de l’activité principale *"L’ancre qui libère"* de la version 8.0 d’"Éveil Vivant". Ce contenu s’adresse à un public orange (pragmatique, orienté performance), avec une touche vert (bien-être, authenticité), et vise à offrir des outils concrets pour réancrer face à la pression, tout en restant aligné sur votre approche systémique (jaune/topaze) et vos convictions (aider, faire grandir). Je le présente sous forme de **Markdown**, avec une structure claire pour un post LinkedIn (environ 200-300 mots), incluant le contenu détaillé et des indications sur la manière de le présenter visuellement et stratégiquement.
 
 ---

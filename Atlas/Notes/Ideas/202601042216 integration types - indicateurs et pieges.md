@@ -1,10 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - kegan
-  - desidentification
+  - stades/kegan
+  - devperso/desidentification
   - identite
-  - changement
+  - devperso/changement
+  - enneagramme/integration
 ---
 Très bien. Je vais traiter **les deux axes ensemble**, mais de manière **distincte et articulée**, parce qu’en réalité ils s’éclairent mutuellement :  
 les **indicateurs du passage 4 → 5** deviennent souvent visibles **à travers les pièges spécifiques du type 7 à ce seuil**.

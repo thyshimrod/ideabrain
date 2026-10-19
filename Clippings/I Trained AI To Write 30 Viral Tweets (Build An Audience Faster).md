@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[SoloPreneur MAP]]"
 title: "I Trained AI To Write 30 Viral Tweets (Build An Audience Faster)"
 source: "https://www.youtube.com/watch?v=n2hPBtO9hjw"
 author:
@@ -7,7 +9,7 @@ published: 2025-04-17
 created: 2025-05-22
 description: "#electropop #edm #2010sWould you like to finance and support more projects? 🤎Buymeacoffe: https://www.buymeacoffee.com/AlbertCT💙PayPal:  https://www.paypal..."
 tags:
-  - "clippings"
+  - business/ecriture
 ---
 ![](https://www.youtube.com/watch?v=n2hPBtO9hjw)  
 

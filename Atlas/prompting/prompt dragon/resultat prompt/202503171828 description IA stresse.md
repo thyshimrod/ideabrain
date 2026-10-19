@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici une description détaillée pour le contenu **"L’IA vous stresse ? Votre score tech-humain le révèle"**, conçu dans le cadre de la sous-partie *"Néo face au futur"* de la version 8.0 d’"Éveil Vivant". Ce contenu cible un public orange (pragmatique, orienté performance), avec une touche vert (résilience humaine face à la technologie), et s’appuie sur votre expertise "Néo" (tech-humain) pour répondre à l’angoisse conjoncturelle liée à l’IA dans un monde VUCA. Je le présente sous forme de **Markdown**, avec une structure claire pour un post LinkedIn (environ 200-300 mots), incluant le contenu détaillé, le déroulé du mini-outil gamifié "Score tech-humain", et des indications sur la manière de le présenter.
 
 ---
@@ -58,7 +62,7 @@ Voici une description détaillée pour le contenu **"L’IA vous stresse ? Votre
   - **Introduction** : Accroche émotionnelle ("L’IA vous stresse ?") + promesse immédiate ("2 min, reprenez le contrôle").  
   - **Corps** : Présentation du mini-outil (5 questions listées, résultats en 3 niveaux), ton pragmatique et engageant.  
   - **Conclusion** : Appel à l’action (lien mini-outil, commentaire, teasing pilote "Décoder"), question ouverte pour interaction.  
-  - **Hashtags** : #EveilVivant (marque), #IA (thème), #Performance (orange) pour reach.  
+  - **Hashtags** : #EveilVivant (marque), #ia (thème), #Performance (orange) pour reach.  
 
 - **Visuel suggéré** :  
   - Image : Fond tech (bleu foncé), jauge 0-100 (style jeu vidéo), texte "Score tech-humain" en blanc/orange.  

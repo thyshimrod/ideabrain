@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Ces derniers jours, nous avons découvert le processus global de rédaction d'une newsletter.
 
 Lorsqu'il s'agit de rédiger une newsletter, le problème le plus fréquent est de ne pas réussir à rédiger une introduction convaincante.

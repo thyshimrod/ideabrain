@@ -1,6 +1,7 @@
 ---
 up:
   - "[[Efforts]]"
+  - "[[Coaching]]"
 type: "[[Videos]]"
 created: 2025-01-11
 tags:

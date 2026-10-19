@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Coaching]]"
 tags:
   - cnv
   - coaching
-  - reformulation
+  - coaching/ecoute
   - feedback
-  - ecoute
 ---
 
 Permet de vérifier que l'auditeur a bien entendu ce que nous voulions dire.

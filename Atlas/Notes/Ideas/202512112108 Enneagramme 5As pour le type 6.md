@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - 5A
-  - type6
+  - enneagramme/5a
+  - enneagramme/type6
   - guerison
+  - enneagramme/integration
 ---
 
 

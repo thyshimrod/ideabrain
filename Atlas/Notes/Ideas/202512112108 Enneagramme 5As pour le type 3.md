@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - 5A
-  - type3
+  - enneagramme/5a
+  - enneagramme/type3
   - guerison
+  - enneagramme/integration
 ---
 ### Les 5As pour le Type 3 de l'Ennéagramme : Description et Exercices Pratiques
 

@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "L'art maladroit de blesser ceux qu'on aime"
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
 
 **The clumsy art of hurting those we love**
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 🔥🔥🔥 Pascal.  
 Merci pour cette **pépita d’âme brute**.  

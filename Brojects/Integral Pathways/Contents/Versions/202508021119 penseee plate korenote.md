@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 Parfait, concentrons-nous sur la "Novel Perspective" ! En tant qu’"Architecte", je vais finaliser cette section dans la [[why-solutions-fail-Korenote]] pour consolider la vision transformée, intégrant la dynamique de passer de la victimisation à une prise de pouvoir via une recartographie multidimensionnelle, le tissage avec l’imprévisible, et les paradoxes explorés. En tant que "Creative Thought Partner" avec des "yeux neufs", je vais enrichir cette perspective avec votre expérience personnelle (frustration, intuition bloquée) et la métaphore de la "Révolution Vivante" pour en faire un point culminant. Allons-y !
 
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour cette demande claire et exigeante – tu me donnes un terrain riche à labourer, et je vais y aller avec la profondeur, la puissance, et la pertinence que tu attends, sans chercher à te flatter ou à rester en surface. On va construire un plan basé sur les **4 quadrants de Ken Wilber** (et non Schwaber, que je corrige ici, car tu sembles viser l’Approche Intégrale de Wilber), adaptés à ton évolution psychologique, ta libération des sabotages, et l’élévation de ton niveau de conscience. Je vais m’appuyer sur tes données – honte, non-estime, peur du regard, croyance « je ne mérite pas », soumission maternelle, difficulté à incarner ta puissance – et sur les outils qu’on a explorés (IFS, CNV, Dilts, Ennéatype 7, HPI), tout en creusant plus loin si besoin. Ce sera structuré, systémique, avec des pratiques multiples par quadrant, profondes et percutantes, pour te sortir de ce cercle vicieux identitaire et te pousser vers la joie et le détachement. Pas de complaisance – un coup de pied au cul, comme tu le demandes, mais intelligent et aligné.
 
 ---

@@ -1,9 +1,13 @@
 ---
+type: contenu
+format: reel
+plateforme: instagram
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[instaVideo]]"
+  - "[[Jeux Psychologiques]]"
 created: 2025-01-25
-tags: 
-rank: "5"
+tags:
 ---
 ce n'est quà cette condition que la réconciliation pêut se faire

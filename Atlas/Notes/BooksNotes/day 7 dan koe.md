@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Bienvenue au jour 7. Regardez !
 
 Hier, nous nous sommes entraînés à rédiger trois courts articles.

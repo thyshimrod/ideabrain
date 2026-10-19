@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Voici une proposition détaillée d'encadrés à ajouter dans chaque chapitre du plan de votre livre *"Transcender le Type 7 : Du Pattern à l'Éveil Conscient"*. Ces encadrés (ou "boxed components") sont conçus pour être visuellement distincts (ex. : en italique, avec bordure ou icône), courts (100-200 mots), et placés stratégiquement pour ne pas alourdir le texte. Ils servent deux buts principaux :
 - **Clarification des notions** : Définitions, schémas ou exemples simples pour rendre les concepts accessibles, évitant les sauts logiques et aidant le lecteur type 7 (curieux mais dispersé) à suivre sans effort.
 - **Renforcement de l'ethos** : Anecdotes personnelles (votre vécu comme type 7), citations d'auteurs références (ex. : Hudson, Chestnut, Jung), ou témoignages fictifs/réels pour crédibilité, en montrant que le livre est ancré dans l'expérience et la sagesse reconnue.

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Prompt Template:
 
 You are an expert evaluator of persuasive writing in t he style of Dan Koe (contrarian, authentic, motivational mindset content). Evaluate how closely the generated text matches the original Koe-style text using these metrics:

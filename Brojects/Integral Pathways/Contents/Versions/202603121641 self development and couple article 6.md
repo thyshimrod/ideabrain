@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: Grandir sans témoin
+langue: fr
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 # Grandir sans témoin — ce que ça coûte quand l'autre ne voit pas qui tu es devenu
 
 _Série "Grandir — et ne pas perdre l'autre" · Article 6 · Réservé aux abonnés_

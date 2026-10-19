@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 # Context File for Prompt Testing and Regression (Version mini 8 - 2025-07-21 ) 
 

@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.3
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 Merci d’avoir partagé la version de **Grok** 🙏  
 Je l’ai parcourue attentivement : il y a de bonnes idées, mais aussi beaucoup de lourdeur et de détails accessoires (QR codes, cahier détachable, références trop techniques ou trop marketing). Ça risque de diluer ton propos.
 

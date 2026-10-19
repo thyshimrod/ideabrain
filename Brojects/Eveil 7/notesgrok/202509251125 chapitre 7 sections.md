@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.6
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - integral/ombre
+---
+
 ### Plan Détaillé du Chapitre 7 : Facing Your Shadow : Découverte de l’Ombre du 7
 
 Ce chapitre 7 est une étape cruciale dans le livre, car il confronte directement l'ombre du type 7, en alignant avec votre prémice : identification via le "côté obscur" pour révéler les compulsions, étude du "pourquoi" enfance pour comprendre les sabotages, et chemin vers la transcendance en rendant l'inconscient conscient pour une guérison profonde plutôt qu'une atténuation des symptômes. Il s'aligne sur la Spirale Dynamique vert pour une compréhension holistique des émotions et des relations, avec un ton compassionnel et introspectif pour engager le lecteur sans jugement, en évitant toute stigmatisation de l'ombre comme "faiblesse". Longueur estimée : 30-35 pages (6000-7000 mots), pour une immersion émotionnelle sans surcharge, avec un équilibre théorie/pratique. Structure en 5 sections principales pour fluidité : hook/anecdote, définition et rôle de l'ombre, découverte de l'ombre du 7, exercices shadow work, conclusion/teaser. Chaque section inclut objectifs, contenu clé, lien à votre prémice, intégrations références (ex. : Chestnut pour shadow/sous-types, Robins pour embodied, Hudson pour releases, Cron pour narration, avec nuance pour éviter biais comme l'idéalisation de la guérison), exercices (structurés en 4 parties : ce qu'on change, moyen d'y arriver, description de la pratique, ce qu'on attend), fit à la Spirale Dynamique, et suggestions pour la conception/écriture (structure interne, ton, longueur, visuals comme quizzes ou checklists, cahier détachable, QR code pour audio fictif). Le chapitre commence par un hook provocant pour rappeler le "why" (affronter l'ombre pour émancipation), et se termine par un teaser pour le chapitre 8 (niveaux de santé) avec un appel à l'action motivant. Pour la réutilisation, chaque élément est auto-suffisant et détaillé, permettant une rédaction directe sans questions supplémentaires.

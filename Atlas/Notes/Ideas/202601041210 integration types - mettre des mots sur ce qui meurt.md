@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - desidentification
+  - devperso/desidentification
   - identite
-  - changement
+  - devperso/changement
+  - enneagramme/integration
 ---
 D’accord. Je vais le faire **sans dramatiser**, sans spiritualiser trop vite, et surtout **sans enjoliver**.  
 Mettre des mots sur _ce qui meurt_ à ce stade demande de rester très concret, presque clinique par endroits, parce que ce qui disparaît n’est pas abstrait : ce sont des **organisateurs de vie** qui ont longtemps été vitaux.

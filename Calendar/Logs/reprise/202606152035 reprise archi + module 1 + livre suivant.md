@@ -1,3 +1,9 @@
+---
+type: reprise
+projet: couple-integral
+statut: reference
+perimetre: vision
+---
 # PROMPT DE REPRISE DE SESSION — INTEGRAL PATHWAYS
 
 ## Version consolidée — juin 2026 v3 — Vision globale + Architecture camps + Camp 1 étendu

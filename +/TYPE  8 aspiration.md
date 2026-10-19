@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
+---
 
 ### Type 8 — Le Challenger / Le Leader
 

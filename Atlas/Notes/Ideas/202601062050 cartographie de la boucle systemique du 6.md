@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type6
+  - enneagramme/type6
   - sabotage
 ---
 Très bien. Je vais le faire **comme un travail de modélisation systémique**, pas comme une vulgarisation. L’objectif n’est pas seulement de « comprendre le type 6 », mais de **rendre visible la logique auto-organisée du sabotage**, exactement comme tu l’as fait pour le type 7.

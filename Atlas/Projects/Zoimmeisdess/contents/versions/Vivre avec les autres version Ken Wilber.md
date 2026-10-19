@@ -5,10 +5,10 @@ version: 1.0
 date: 11/04/2025
 intention: Transformer les défis du développement personnel en une exploration systémique des 4 quadrants pour une conscience éveillée.
 tags:
-  - intégral
-  - quadrants
+  - integral
+  - integral/aqal
   - conscience
-  - relations
+  - relation
 ---
 
 # L’Intégral du Développement

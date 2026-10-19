@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Développement personnel]]"
+tags:
+  - devperso
+---
 
 # Remise en question  religion
 

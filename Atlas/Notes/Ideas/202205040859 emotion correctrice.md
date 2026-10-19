@@ -1,11 +1,14 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Coaching]]"
 tags:
   - systemie
   - cnv
   - coaching
-  - changement
+  - devperso/changement
   - emotions
-  - homéostasie
+  - homeostasie
 ---
 
 La CNV est un processus qui permet de se relier à ses émotions. Il y a un processus d'accueil et de soutien.

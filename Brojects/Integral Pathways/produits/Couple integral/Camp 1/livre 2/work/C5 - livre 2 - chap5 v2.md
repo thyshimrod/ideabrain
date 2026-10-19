@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - chap5
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C5
+chapitre: C5
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé (enrichi le 14/10 : lien avec les couplages, trajectoires des couplages sans scène)
+statut_detail: "validé (enrichi le 14/10 : lien avec les couplages, trajectoires des couplages sans scène)"
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 **Chapitre 5 — Ce qui se passe quand rien ne bouge**

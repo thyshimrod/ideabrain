@@ -1,3 +1,17 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "Celui qui n'a pas peur"
+langue: fr
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Celui qui n'a pas peur
 
 Il n'hésite jamais longtemps. Quel restaurant, quelle destination, quelle décision concernant les enfants — il tranche, rapidement, avec cette espèce d'assurance tranquille qui, au début, lui semblait rassurante. Il n'est pas autoritaire. Il ne hausse pas le ton. Il dit simplement ce qu'il pense, sans avoir l'air d'en douter, et la conversation s'arrête là, naturellement, comme si le sujet était clos.

@@ -1,6 +1,6 @@
 ---
+projet: couple-integral
 tags:
-  - coupleintegral
   - produit
   - campsdebase
 ---

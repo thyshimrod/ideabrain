@@ -1,6 +1,10 @@
 ---
+up:
+  - "[[Développement vertical]]"
+  - "[[EDT ego development theory]]"
 tags:
-  - edt
+  - stades/edt
+  - stades
 author: Susanne R. Cook-Greuter
 book: "Nine Levels Of Increasing Embrace In Ego Development:\rA Full-Spectrum Theory Of Vertical Growth And Meaning Making"
 ---

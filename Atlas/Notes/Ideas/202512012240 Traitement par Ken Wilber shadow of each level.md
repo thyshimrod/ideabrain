@@ -1,12 +1,16 @@
 ---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Integral]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - Spirale
   - spiraledynamique
-  - kenWilber
-  - intégral
-  - intégration
-  - Évolution
-  - shadow
+  - integral
+  - integration
+  - evolution
+  - integral/ombre
+auteurs:
+  - "Ken Wilber"
 ---
 
 Voici une réponse **très précise et documentée**, car ta question touche un point rarement maîtrisé :  

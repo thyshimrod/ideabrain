@@ -1,3 +1,7 @@
+---
+up:
+  - "[[SoloPreneur MAP]]"
+---
 
 - Release des croyances limitantes [[202505201949 solo preneur croyances limitantes]]
 	- Les sélectionner, et potentiellement y attribuer une note de 1 à 10 pour voir à quelle point elle est vivante

@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - honte
+  - emotions/honte
   - spiraledynamique
-  - rouge
-  - bleu
+  - spiraledynamique/rouge
+  - spiraledynamique/bleu
+  - emotions
 ---
 # Prompt
 

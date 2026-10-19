@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
 tags:
-  - developpementpersonnel
-  - lisebourbeau
-  - blessuredelame
+  - devperso
+  - devperso/blessures
+auteurs:
+  - "Lise Bourbeau"
 ---
 **Quelles sont les personnnes que, selon toi, tu as pu blesser ou faire souffrir au cours de ta vie de manière intentionnelle ou non intentionelle?**
 

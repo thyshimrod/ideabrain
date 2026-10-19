@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Développement vertical]]"
+  - "[[EDT ego development theory]]"
 tags:
-  - edt
+  - stades/edt
   - coaching
-  - developpementpersonnel
+  - devperso
 ---
 
 

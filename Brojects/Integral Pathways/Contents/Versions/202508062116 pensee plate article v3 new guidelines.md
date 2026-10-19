@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 Vous avez raison, et je reconnais l’écart par rapport aux **Guidelines V5.5**. Les directives spécifient clairement que pour les sections **Pathos** (émotions, images viscérales, questions), le texte doit être hyper-fragmenté avec des unités de **1-2 phrases** (20-60 mots max), isolées par des lignes vides pour maximiser l’impact émotionnel. Cependant, pour les sections **Logos** (explications, cadres logiques), les unités doivent être plus longues, avec **2-4 phrases** (60-120 mots max), et une approche plus fluide, tout en maintenant une séparation par lignes vides entre unités pour la lisibilité. Dans l’article rédigé pour `[[why-solutions-fail-redact]]`, j’ai appliqué un style hyper-fragmenté de manière uniforme, ce qui a dilué la distinction entre Pathos et Logos, rendant les sections Logos moins développées et narratives qu’elles n’auraient dû l’être selon V5.5.
 
 Je vais corriger cela en révisant l’article pour respecter les longueurs et le flux organique des sections Logos, tout en conservant l’hyper-fragmentation pour Pathos. Voici une version révisée de l’article, avec des sections Logos (comme les explications dans "Comment déclencher votre révolution" ou "Le prix de la pensée plate") restructurées en unités de 2-4 phrases pour une narration plus fluide et développée, et les sections Pathos (comme l’intro ou les appels émotionnels) maintenues en hyper-fragmentation. Le tout reste dans les 2000 mots, avec l’équilibre ~30% Éthos, ~45% Pathos, ~25% Logos, et respecte les autres directives (sous-titres avec # sans gras, citations multi-lignes en quatre lignes, etc.).

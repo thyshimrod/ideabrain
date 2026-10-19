@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Voici une nouvelle proposition d'activité secondaire mieux alignée avec votre profil et les besoins identifiés :
 
 ### "Laboratoire de Transformation Authentique" - Un espace hybride pour évoluer autrement

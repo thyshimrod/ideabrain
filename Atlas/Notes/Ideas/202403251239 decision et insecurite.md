@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[Agilité]]"
 tags:
   - securite
   - securite_psychologique
-  - management
+  - agile/management
   - leadership
   - decision
 ---

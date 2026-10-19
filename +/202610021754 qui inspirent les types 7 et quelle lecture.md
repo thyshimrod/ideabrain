@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
 tags:
   - enneagramme
-  - type7
+  - enneagramme/type7
   - inspiration
 ---
 ### Type 7 — L'Épicurien / L'Enthousiaste

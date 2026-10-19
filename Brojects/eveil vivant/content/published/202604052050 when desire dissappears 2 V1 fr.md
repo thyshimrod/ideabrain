@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: eveil-vivant
+serie: desir
+oeuvre: Quand le désir disparaît 2
+langue: fr
+plateforme: substack-fr
+reference: true
+tags:
+  - couple/desir
+  - integral
+  - couple
+---
+
 ## Quand le désir disparaît (2) :
 
 ### Pourquoi vouloir le "faire revenir" interrompt souvent la transformation

@@ -1,4 +1,7 @@
 ---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
   - inspiration

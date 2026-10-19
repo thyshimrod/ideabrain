@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 ### [[why-brain-prefers-simplicity-Korenote]]
 
 #### Hook  

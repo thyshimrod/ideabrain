@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Développement personnel]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - honte
-  - colere
-  - tristesse
+  - emotions/honte
+  - emotions/colere
   - emotions
-  - racket
+  - at
   - sabotage
 ---
 intéressant de voir que chez moi le sabotage, est une stratégie pour me permettre de vivre la honte. Je me sens nul et insuffisant.

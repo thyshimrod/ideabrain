@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: integral-pathways
+langue: fr
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
+
 Voilà la synthèse complète de la série.
 
 ---

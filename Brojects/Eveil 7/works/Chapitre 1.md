@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: final
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.1
+langue: en
+reference: true
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 INTRODUCTION
 
 Simplicity is a lie that steals our joy — and as a Type 7, I spent years believing it, fleeing pain for an illusion of freedom. Imagine: you’re in the middle of an exciting project, an entrepreneurial adventure that looks perfect on paper. Then suddenly everything collapses and a wave of frustration rises inside you.

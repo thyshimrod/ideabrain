@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: "L'épuisement amoureux"
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - couple
+  - penseeplate
+  - relation
+---
+
 ### (and How Energy Architecture Replaces Burnout with Resilience)
 
 If you read my previous piece on the _myth of compatibility_, you already know the core problem:  

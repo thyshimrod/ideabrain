@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Spirale Dynamique]]"
+tags:
+  - spiraledynamique
+---
 Parfait.  
 Voici **le protocole intégral complet pour le niveau JAUNE**, rédigé **strictement selon le modèle Rouge** que tu m’as demandé, avec la même structure, le même niveau de profondeur, et **un encadré spécifique “Lecture pour Type 7”**.
 

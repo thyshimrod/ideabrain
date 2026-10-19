@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: vulnerabilite
+oeuvre: La réciprocité fantôme
+langue: fr
+reference: true
+tags:
+  - couple/vulnerabilite
+  - relation
+  - emotions
+---
+
 # La réciprocité fantôme — quand ce qu'on appelle intimité ne l'est peut-être pas
 
 Il y a une phrase que j'ai reçue un soir, dans une relation qui comptait beaucoup pour moi.

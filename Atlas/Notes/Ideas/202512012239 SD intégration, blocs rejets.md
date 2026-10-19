@@ -1,10 +1,13 @@
 ---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Spirale Dynamique]]"
 tags:
-  - Spirale
+  - spiraledynamique
   - guerison
   - evolution
-  - intégral
-  - intégration
+  - integral
+  - integration
 ---
 [[202512012230 intégration des parts des niveaux de SD rejetés, ou non intégrés]]
 

@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: reacteev
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 C'est une excellente analyse. Pour un cabinet de 20 personnes, l'objectif n'est pas de vendre des "tickets" (interventions ponctuelles), mais des **dispositifs d'accompagnement** qui s'inscrivent dans la durée (6 à 18 mois).
 
 L'idée de **"Rendre l'Agilité IA-Proof"** est un angle d'attaque très puissant car il part d'un actif que le client possède déjà (ses équipes agiles) et traite une angoisse réelle : l'obsolescence de son mode opératoire face à l'accélération technologique.

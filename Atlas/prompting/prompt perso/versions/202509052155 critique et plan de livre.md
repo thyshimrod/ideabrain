@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ### Analyse Critique du Document
 
 Votre document esquisse un projet de livre sur l'Ennéagramme, avec un focus sur le type 7, en commençant par un rappel général, en distinguant l'Ennéagramme des autres tests de personnalité, et en proposant un chemin de progression personnel. L'orientation vers un guide pratique (découverte, aspiration, changements) est claire et cohérente avec une approche de développement personnel. Cependant, une analyse critique révèle des incohérences, des fausses informations ou affirmations non fondées, des omissions importantes, et des biais tendancieux. Je vais détailler chaque catégorie, en expliquant pourquoi je considère ces éléments comme problématiques, avec des arguments logiques ou des faits vérifiés via mes recherches (web_search). J'ai utilisé des sources fiables comme l'Enneagram Institute (fondé par Riso-Hudson), des comparaisons académiques sur MBTI/Enneagram, et des références bibliographiques pour étayer mes points. Notez que l'Ennéagramme est un outil non scientifique (basé sur des traditions orales et des interprétations modernes), ce qui rend certaines affirmations subjectives, mais je me concentre sur les faits vérifiables.

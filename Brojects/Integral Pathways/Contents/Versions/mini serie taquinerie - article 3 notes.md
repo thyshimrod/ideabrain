@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "Celui qui n'a pas peur"
+langue: fr
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Notes de soutien — Article 3 : "Celui qui n'a pas peur"
 
 La note d'introduction se publie avant la sortie de l'article. Les 9 suivantes s'étalent sur la semaine après publication. Notes [LIEN] renvoient vers l'article, les autres se lisent seules.

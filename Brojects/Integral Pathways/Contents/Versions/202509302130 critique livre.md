@@ -1,3 +1,13 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 Très bonne demande 🙏  
 En m’appuyant sur l’argumentation que j’ai extraite du manuscrit (cf. analyse précédente), je peux te donner une **critique structurée** de ton livre.

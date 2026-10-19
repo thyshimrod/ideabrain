@@ -1,3 +1,12 @@
+---
+type: pilotage
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 
 Le but est de créer un book sur le sujet enneagramme, et plus particulièrement sur le type 7, car je suis type 7, et je commence à connaître mon sujet et qui je suis.

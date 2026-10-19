@@ -1,12 +1,15 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
+  - "[[Productivité et loi du temps]]"
 tags:
   - cnv
-  - obeir
   - exigence
-  - discipline
-  - rebellion
+  - productivite
+  - at/rebellion
   - inspiration
   - motivation
+  - emotions
 ---
 [[202307061431 Shame Guilty Anger]]
 

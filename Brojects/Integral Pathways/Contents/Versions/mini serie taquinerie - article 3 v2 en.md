@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "Celui qui n'a pas peur"
+langue: en
+reference: true
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
 
 
 # The One Who Is Not Afraid

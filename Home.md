@@ -1,94 +1,101 @@
 ---
 obsidianUIMode: preview
+type: map
 ---
 ![[dragonmiddle.png]]
-                         
 
-# Ce que j'ai envie de faire
+> [!quote]- Ce que j'ai envie de faire
+> - Continuer à **apprendre** comment fonctionnent le monde et les **relations humaines**, pour accompagner les autres et grandir moi-même.
+> - **Théoriser** pour expliquer le monde et l'aider à changer.
+> - **Transmettre** (articles, livres, vidéos, conférences) pour que les gens grandissent, trouvent de l'espoir et voient le monde autrement.
+> - Trouver **ma place** et **vivre de cette activité** : Integral Pathways et Couple intégral aujourd'hui, un lieu ou des séminaires demain.
 
-* J'ai envie de . . . continuer à **apprendre** comment **fonctionne le monde** pour avoir un meilleur impact
-* J'ai envie de . . . continuer à **apprendre** sur les **relations humaines** pour pouvoir accompagner les autres dans le but de rendre *le monde meilleur*. Mais aussi de *grandir moi même*
-* J'ai envie de . . . continuer à **théoriser** pour expliquer le monde, notamment l'aider à changer
-* J'ai envie de . . . continuer à **dispenser mon savoir** par différents moyens, afin que les gens grandissent, *trouvent de l'espoir*, voit le monde d'une *manière alternative*
-* J'ai envie de . . . trouver **ma place** au travers de tout cela, *contribuer* au monde
+> [!info]- Qui je suis
+> - Ennéagramme involutif : 7, aile 2, mineur 4 · MBTI : ESFJ (Consul)
+> - Valeurs : profondeur, simplicité (efficacité), créativité, autonomie, apprentissage
+> - Besoins à nourrir : connexion, contribution, faire grandir, réalisation, authenticité, profondeur
+> - Top talents : idéation, intellectualisme, studieux, individualisation, input, activateur, stratégique, positivité, connexion, arrangeur
 
-Pour cela :
-* Je vais continuer à publier **vidéos** et des **articles** sur les sujets qui m'intéressent, et faire des conférences
-* Je vais regarder pour un projet concret de type **lieu physique** pour *accueillir, coacher, former*
-* Je vais regarder pour créer un projet de **ventes de mes connaissance** à la manière de Nick Milo                           : **[[991 - Zoimmeisdess Project]]** 
-* Peut être proposer dans un temps aussi, des séminaires, ou des points de rencontre, où je parlerai de ma vision du monde.
+---
 
-# Qui je suis
-* Ennéagramme Involutif : 7       2                 Mineur 4
-* MBTI : ESFJ : Consul 
-* Valeurs : Profondeur, Simplicité (efficacité), Créativité, Autonomie, Apprentissage
-* Besoins à nourrir : Connexion, Contribution, faire grandir, Réalisation, Authenticité, Profondeur
-* Top Talents : Idéation, Intellectualisme, Studieux, Individualisation, Input, Activateur, Stratégique, Positivité, Connexion, Arrangeur
+> [!Training]+ # 🎯 Projets actifs
+> > *What can you work on?*
+>
+> | Projet | Pilotage | Prochaine action |
+> |---|---|---|
+> | **Integral Pathways** | [[Integral Pathways]] · [[202607310916 reprise stratégie]] | Trancher coaching ou app (6 mois) |
+> | **Couple intégral** | [[Couple intégral]] · [[Camp 1]] | Formaliser l'offre de coaching |
+> | **Livre 2 — Remise en jeu** | [[202610121000 main propre]] · [[202610120930 revue livre 2]] | Sources, langue et lieu de publication |
+> | **Publications** | [[Publications]] · [[follow substack]] | Publier les articles prêts |
+>
+> > [!Box]+ ### 🔥 On / ♻️ Ongoing
+> > ```dataview
+> > TABLE WITHOUT ID file.link AS "Effort", choice(statut, statut, file.folder) AS "Statut", projet AS "Projet", rank AS "Rank"
+> > FROM "Efforts" OR "Brojects"
+> > WHERE statut = "on" OR statut = "ongoing" OR file.folder = "Efforts/On" OR file.folder = "Efforts/Ongoing"
+> > SORT number(rank) DESC
+> > ```
+>
+> > [!Box]- ### 〰️ Simmering / 💤 Sleeping
+> > ```dataview
+> > TABLE WITHOUT ID file.link AS "Effort", choice(statut, statut, file.folder) AS "Statut", rank AS "Rank"
+> > FROM "Efforts"
+> > WHERE statut = "simmering" OR statut = "sleeping" OR file.folder = "Efforts/Sleeping"
+> > SORT number(rank) DESC
+> > ```
 
+> [!Training]+ # ✍️ Contenus en cours
+> > [!Box]+ ### En cours (modifiés récemment)
+> > ```dataview
+> > TABLE WITHOUT ID file.link AS "Contenu", projet AS "Projet", statut AS "Statut"
+> > FROM "Brojects" OR "Efforts"
+> > WHERE (type = "article" OR type = "contenu" OR type = "chapitre") AND contains(list("brouillon", "relecture"), statut) AND reference = true
+> > SORT file.mtime DESC
+> > LIMIT 10
+> > ```
+>
+> > [!Box]- ### Prêts à publier
+> > ```dataview
+> > TABLE WITHOUT ID file.link AS "Article", serie AS "Série", langue AS "Langue"
+> > FROM "Brojects"
+> > WHERE type = "article" AND statut = "final" AND reference = true
+> > SORT serie ASC
+> > ```
+>
+> > [!Box]- ### Modifié récemment dans Brojects
+> > ```dataview
+> > TABLE WITHOUT ID file.link AS "Fichier", dateformat(file.mtime, "yyyy-MM-dd") AS "Modifié"
+> > FROM "Brojects"
+> > SORT file.mtime DESC
+> > LIMIT 10
+> > ```
 
-> [!Map]- # Atlas
+> [!Box]+ # 📥 Inbox à traiter
+> > ```dataview
+> > TABLE WITHOUT ID file.link AS "Note", dateformat(file.ctime, "yyyy-MM-dd") AS "Créée"
+> > FROM "+"
+> > SORT file.ctime ASC
+> > ```
+> Objectif : inbox vide à chaque revue hebdo (modèle : [[Template, Revue hebdo]]).
+
+---
+
+> [!Map]- # 🗺️ Atlas
 > > *Where would you like to go?*
-> ![[dragon.png]]
-> 
-> Comprendre et décrypter les dynamiques de groupes et de société :
-> * [[Spirale Dynamique]]
-> * [[Jeux Psychologiques]]
-> * [[Enneagramme]]
-> 
-> Apporter de la lumière au monde, du soin, et faire grandir
-> * [[CNV]]
-> * [[Développement personnel]]
-> * [[Coaching]]
->   
+> ![[dragon.png|300]]
+>
+> **Comprendre** — [[Enneagramme]] · [[Spirale Dynamique]] · [[Integral]] · [[Développement vertical]] · [[Pensée plate et complexité]]
+> **Accompagner** — [[Coaching]] · [[CNV]] · [[Jeux Psychologiques|Analyse transactionnelle]] · [[Approches thérapeutiques]] · [[Atlas/Maps/Hypnose|Hypnose]] · [[Love coaching (formation)|Love coaching]]
+> **Grandir et vivre** — [[Développement personnel]] · [[Honte, culpabilité et colère]] · [[Blessures de l'âme]] · [[Couple]] · [[Pratique de vie intégrale]] · [[Productivité et loi du temps]] · [[Santé et alimentation]] · [[Moi - biographie et introspection|Moi]] · [[Citations]]
+> **Créer** — [[SoloPreneur MAP]] · [[Publications]] · [[Contenus]] · [[Prompting et IA]] · [[Agilité|Agilité et organisations]] · [[Communautés et communs]]
+> **Méta** — [[ZKN]] · [[Efforts]] · [[Exploration]]
 
-> [!Calendar]- # Calendar
-> > *What's on your mind?* 
-> 
-> Let see My Thoughts :
-> [[Thoughts logs]]
-> [[Psy Log]]
-> [[Keto Log]]
-> [[Change Log]]
-
-> [!Training]- # Efforts
-> > *What can you work on?* 
-> 
-> For a concentrated view, go to [[Efforts]].
-> 
-> Use this to keep priorities in order and the quickly adjust your bandwidth as needed. 
-> 
-> > [!Box]+ ### 🔥 On
-> > ``` dataview
-> > TABLE WITHOUT ID
->  > file.link as "",
->  > rank as "Rank"
-> > FROM "Efforts/On"
-> > SORT Rank asc
-> > ```
-> 
-> > [!Box]+ ### ♻️ Ongoing
-> > ``` dataview
-> > TABLE WITHOUT ID
-> > file.link as "",
-> > rank as "Rank"
-> > FROM "Efforts/Ongoing"
-> > SORT rank desc
-> > ```
-> 
-> > [!Box]- ### 〰️ Simmering
-> > Efforts can easily move from `on` to `simmering` in the background.
-> > 
-> > ``` dataview
-> > TABLE WITHOUT ID
-> > file.link as "",
-> > rank as "Rank"
-> > FROM "Efforts/Simmering"
-> > SORT rank desc
-> > ```
-> 
-> ![[robert-mccall-black-hole-concept-art copy.jpg|400]]
+> [!Calendar]- # 📅 Calendar
+> > *What's on your mind?*
+>
+> - Revue de la semaine : Periodic Notes → « Open weekly note » (modèle [[Template, Revue hebdo]])
+> - Logs vivants : [[Thoughts logs]] · [[Psy Log]] · [[Celebration & Victories]]
+> - Reprises IA courantes : [[202607310916 reprise stratégie]] (Integral Pathways) · [[202610091039 reprise]] (Livre 2) · [[prompt reprise v4]] (guide)
+> - Archives : [[Change Log]] · [[Keto Log]] · [[ZoimmeisdessProject Log]]
 
 ![[pale-blue-dot-banner.jpg]]
-
-
-

@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C0
+chapitre: C0
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 
 **Introduction — révision**

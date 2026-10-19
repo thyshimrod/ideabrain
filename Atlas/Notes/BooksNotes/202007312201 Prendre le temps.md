@@ -1,8 +1,8 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
-  - temps
-  - changement
-  - droit_erreur
+  - devperso/changement
 ---
 
 # Prendre le temps

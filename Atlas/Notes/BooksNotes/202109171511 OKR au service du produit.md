@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Agilité]]"
+  - "[[Transfo agile]]"
 tags:
-  - okr
+  - agile/okr
   - agile
-  - stratégie
+  - strategie
   - vision
 author: Tiphanie Vinet, Laurence Wolf
 ---

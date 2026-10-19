@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Agilité]]"
 tags:
   - manipulation
   - leadership

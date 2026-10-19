@@ -1,3 +1,16 @@
+---
+type: offre
+statut: final
+projet: reacteev
+oeuvre: Offre transformation IA
+langue: fr
+reference: true
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 ### Lean Canvas pour Reacteev : Cabinet de Pilotage de la Performance et de la Résilience Organisationnelle à l'Ère de l'IA
 
 Voici un pitch structuré de votre idée préférée (le repositionnement et les 4 offres de consulting premium pour Reacteev), présenté sous la forme d'un Lean Canvas. Ce canvas modélise Reacteev comme une "offre produit" stratégique, validable itérativement auprès de clients pilotes (grands groupes). J'ai mis un focus particulier sur les **pains** (douleurs/problèmes des clients, amplifiés par l'IA sans stratégie claire) et les **outcomes** (résultats mesurables, alignés sur ROI et résilience). Le pitch est conçu pour être présenté à un Comex ou investisseur, en soulignant la différenciation premium et non-suiveuse.

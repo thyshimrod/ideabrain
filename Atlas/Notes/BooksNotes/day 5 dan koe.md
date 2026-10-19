@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Salut !
 
 Prendre l'habitude de rédiger du contenu est l'aspect le plus important du développement d'une marque.

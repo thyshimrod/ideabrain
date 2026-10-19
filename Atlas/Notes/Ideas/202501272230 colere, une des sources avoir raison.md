@@ -1,9 +1,10 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - colere
+  - emotions/colere
   - cnv
-  - avoirraison
-  - lacherprise
+  - emotions
 ---
 Je vois que l'un des apprentissages importants liés à la CNV, est le fait de lâcher le besoin d'avoir raison, et de convaincre l'autre.
 Etre vu est important sans nul doute. Etre entendu aussi.

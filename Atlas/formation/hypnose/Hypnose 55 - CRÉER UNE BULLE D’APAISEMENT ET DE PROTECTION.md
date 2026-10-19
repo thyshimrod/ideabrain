@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=558772&idpage=3038407"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-08-18
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## CRÉER UNE BULLE D’APAISEMENT ET DE PROTECTION
 

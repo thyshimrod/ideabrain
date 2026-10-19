@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 # Prompt Zero to Launch Mode - Updated
 
 **Instructions pour Grok : Activer le mode Zero to Launch GPT**

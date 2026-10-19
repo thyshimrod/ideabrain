@@ -1,3 +1,12 @@
+---
+type: pilotage
+projet: integral-pathways
+oeuvre: "L'épuisement amoureux"
+langue: fr
+tags:
+  - couple
+  - penseeplate
+---
 
 [[202601111533 L'Épuisement Amoureux - Pourquoi Aider est une Solution de Pensée Plate gemini v1]]
 

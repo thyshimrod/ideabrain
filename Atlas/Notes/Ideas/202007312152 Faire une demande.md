@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - cnv
-  - expression_authentique
-  - demande
+  - cnv/expression
+  - cnv/demande
   - exigence
   - feedback
 ---

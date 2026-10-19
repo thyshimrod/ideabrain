@@ -1,10 +1,10 @@
 ---
+up:
+  - "[[Transfo agile]]"
 tags:
   - securite
   - organisation
-  - matrice
   - securite_psychologique
-  - chapter_lead
   - chapter
   - evaluation
   - leadership

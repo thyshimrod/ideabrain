@@ -1,8 +1,9 @@
 ---
+projet: zoimmeisdess
+up:
+  - "[[Enneagramme]]"
 tags:
-  - zoimmesidess
   - enneagramme
-  - profilage
   - comportement
   - relation
 ---

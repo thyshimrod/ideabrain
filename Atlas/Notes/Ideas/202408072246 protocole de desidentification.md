@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
-  - developpementpersonnel
+  - devperso
   - coaching
-  - desidentification
+  - devperso/desidentification
   - ego
-  - liberté
+  - liberte
 ---
 EBDR : Emotion + Belief/Behavior + Desire + Resistance
 

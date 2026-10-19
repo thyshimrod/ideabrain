@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: excellence-relationnelle
+oeuvre: Les outils qui enferment
+langue: fr
+reference: true
+tags:
+  - couple
+  - couple/desir
+  - devperso
+  - relation
+---
+
 # Les Outils Qui Enferment
 
 ## Comment le développement personnel devient une prison dorée

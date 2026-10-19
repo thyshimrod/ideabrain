@@ -1,3 +1,15 @@
+---
+type: recherche
+statut: notes
+projet: livre-hors-jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Voici une version concrète, prête à envoyer. Elle reste courte, directe, et orientée vers ce dont tu as réellement besoin pour la suite.
 
 ---

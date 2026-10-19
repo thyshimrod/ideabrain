@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.3
+chapitre: C2.3
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **2.3 — Les scènes rejouées**
 
 Reprenons maintenant les quatre scènes, une par une, avec ce vocabulaire en main. Pas pour les résumer, vous les connaissez déjà. Pour voir ce que le nom permet de voir, et que la première lecture, volontairement, laissait dans l'ombre.

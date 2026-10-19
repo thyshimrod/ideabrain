@@ -1,3 +1,18 @@
+---
+type: notes-article
+statut: brouillon
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: "Ce n'est pas la machine que tu as reprise"
+langue: en
+up:
+  - "[[Couple]]"
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
 # Substack Notes — Week of article 1
 
 ## "It's not the washing machine you picked back up."

@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.8
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ## 🌱 Exercice 1 – Revenir à ses sens
 
 **But :** apprendre à goûter l’instant présent sans chercher à l’améliorer.

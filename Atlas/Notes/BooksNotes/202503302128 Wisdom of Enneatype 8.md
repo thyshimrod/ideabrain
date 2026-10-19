@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type8
+  - enneagramme/type8
 ---
 ## L'Ennéagramme Type 8 en Bref
 Les Huit sont confiants en eux, forts et assertifs. Protecteurs, ingénieux, directs et décisifs, mais peuvent aussi être égocentriques et dominateurs. Les Huit sentent qu'ils doivent contrôler leur environnement, en particulier les gens, devenant parfois confrontationnels et intimidants. Les Huit ont typiquement des problèmes avec leur tempérament et avec le fait de se permettre d'être vulnérables. *À leur meilleur* : ils se maîtrisent eux-mêmes, utilisant leur force pour améliorer la vie des autres, devenant héroïques, magnanimes et inspirants.

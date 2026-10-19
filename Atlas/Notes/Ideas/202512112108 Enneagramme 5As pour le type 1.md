@@ -1,7 +1,8 @@
 ---
 tags:
   - enneagramme
-  - 5A
+  - enneagramme/5a
   - guerison
-  - type1
+  - enneagramme/type1
+  - enneagramme/integration
 ---

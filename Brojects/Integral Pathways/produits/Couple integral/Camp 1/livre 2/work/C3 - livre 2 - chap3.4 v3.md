@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - chap3
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.4
+chapitre: C3.4
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé (suite de l'exemple d'Hélène ajoutée le 14/10)
+statut_detail: "validé (suite de l'exemple d'Hélène ajoutée le 14/10)"
+tags:
+  - chap3
+  - at
+  - couple
+  - relation
 ---
 
 **3.4 — Ce que ce couplage vous apporte, à vous**

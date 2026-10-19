@@ -1,12 +1,14 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
   - motivation
-  - besoin
+  - cnv/besoins
 ---
 
 # Exemple de différence de motivation entre les types
-tags = #eneagramme, #motivation, #type, #besoin
+tags = #enneagramme, #motivation, #type, #cnv/besoins
 
 Concernant l'Envie/besoin de mettre de l'ordre
 

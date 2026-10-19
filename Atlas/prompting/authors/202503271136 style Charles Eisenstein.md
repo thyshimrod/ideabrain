@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Charles Eisenstein : Rêver un Monde Nouveau  
 
 ## Description  

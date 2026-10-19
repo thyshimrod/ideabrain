@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 # Questionnaire : Identifier vos Couleurs dans la Spirale Dynamique
 

@@ -1,3 +1,15 @@
+---
+type: produit
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 # Which role are you playing right now?
 
 ## A self-confrontation guide for the partner who thinks they're not the problem

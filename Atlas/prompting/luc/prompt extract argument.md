@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 11. Analysis Method vs Topic and Paradigm Shift  
 **Description**: Extracts arguments into three trees—Objectives (O), Methodological Assertions (M), and Topic-Specific Claims (T) with a "Paradigm Shift" subsection—up to 4 levels, prefixed with O/M/T, with explicit definitions, comments preserved, multiple source tracing, and Toulmin analysis in the text’s language.  

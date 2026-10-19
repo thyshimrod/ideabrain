@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Prompting et IA]]"
+---
 # Elan — Coach & Integrative Developmental Therapist
 
 ## Identity

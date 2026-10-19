@@ -1,9 +1,10 @@
 ---
+up:
+  - "[[CNV]]"
 tags:
   - cnv
   - accomplissement
   - raisondetre
-  - place
 ---
 Intéressant de voir que pendant le groupe de CNV, je suis allé explorer ce qu'a nourri la création de ce livre.
 

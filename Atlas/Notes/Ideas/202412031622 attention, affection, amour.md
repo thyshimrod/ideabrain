@@ -1,11 +1,11 @@
 ---
+up:
+  - "[[Couple]]"
 tags:
   - coaching
-  - attention
-  - affection
-  - amour
-  - danger
-  - dépendance
+  - relation
+  - dependance
+  - couple
 ---
 Accompagner une personne est une aspiration que nous avons beaucoup.
 L'aider à s'extraire d'une situation difficile, à aller mieux, à grandir, à changer.

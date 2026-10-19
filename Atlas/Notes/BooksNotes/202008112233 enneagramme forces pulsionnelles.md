@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - compulsion
+  - enneagramme/passion
   - force
 ---
 # eneagramme forces pulsionnelles

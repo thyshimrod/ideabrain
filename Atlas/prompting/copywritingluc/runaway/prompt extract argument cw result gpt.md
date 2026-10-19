@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour ce brief très précis. Voici une **analyse détaillée** de l'article que tu m’as partagé, structurée selon ta demande.
 
 ---

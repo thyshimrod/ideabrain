@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[MOA authors]]"
 style: Pogi – Structuré
 version: 1.1
 date: 05/04/2025
 description: Style systémique et profond, avec une structure claire et moins d’images, pour une exploration pratique et posée.
+tags:
+  - ia/prompt
 ---
 
 # Style Pogi – Structuré

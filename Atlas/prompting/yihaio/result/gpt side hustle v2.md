@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Activité secondaire : Éveil Vivant (version révisée - juin 2025)
 
 ## 🎯 Objectif principal

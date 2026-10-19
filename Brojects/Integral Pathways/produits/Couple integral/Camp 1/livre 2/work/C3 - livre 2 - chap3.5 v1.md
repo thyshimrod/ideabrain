@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C3.5
+chapitre: C3.5
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 Voici une proposition pour 3.5. Je pars du principe que la transition doit rester assez ouverte sur le contenu exact de 3.1 à 3.4 (je n'ai pas le texte complet de ces sous-parties, seulement leur résumé) — dis-moi si un passage entre en collision avec une formulation déjà posée plus tôt, ce sera facile à ajuster.
 
 ---

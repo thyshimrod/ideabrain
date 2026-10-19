@@ -1,6 +1,8 @@
 ---
+up:
+  - "[[Enneagramme - Armures et essence]]"
+  - "[[Enneagramme]]"
 tags:
-  - enneatype
   - enneagramme
 ---
 # Enneatype constitution definition

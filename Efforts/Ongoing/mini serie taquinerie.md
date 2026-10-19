@@ -1,3 +1,9 @@
+---
+type: effort
+statut: simmering
+projet: integral-pathways
+rank: 3
+---
 
 [[mini serie taquinerie - overview]]
 

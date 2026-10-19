@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C5
+chapitre: C5
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 Voici le Ch.5 construit horizon par horizon. Je n'ai pas fait défiler les quatre couples de la même façon à chaque fois : chacun apparaît avec un événement différent, de longueur variable.
 
 ---

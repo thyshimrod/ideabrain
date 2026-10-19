@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.1
+chapitre: C1.1
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 On passe au décryptage alors.
 
 Ce que la scène installe : un dimanche sans friction, sans conflit, sans Persécuteur, sans triangle de Karpman visible. L'outil du premier livre ne voit rien ici — parce qu'il n'y a rien à voir à ce niveau de lecture. C'est exactement ce qui rend cette scène utile pour introduire l'égogramme.

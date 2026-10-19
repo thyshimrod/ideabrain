@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: eveil-vivant
+serie: pensee-plate
+oeuvre: "L'énigme de l'essaim"
+langue: fr
+plateforme: substack-fr
+reference: true
+tags:
+  - integral/ombre
+  - penseeplate
+  - integral
+---
 
 Voici la traduction en français :
 

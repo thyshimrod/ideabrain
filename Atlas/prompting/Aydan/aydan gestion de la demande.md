@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 ### Nouvelle feuille de route en 5 étapes pour une gestion de la demande agile  
   

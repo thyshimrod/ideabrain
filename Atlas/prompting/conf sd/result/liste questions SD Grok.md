@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Atelier : Créez votre carte Spirale Dynamique avec un questionnaire contextualisé
 
 **Durée** : 55 minutes  

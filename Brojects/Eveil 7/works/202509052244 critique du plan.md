@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Évaluation de la Capacité du Livre à Répondre aux Besoins du Lecteur
 
 À la lumière de votre question, je vais évaluer si le sommaire révisé (11 chapitres) permet à un lecteur, présumé déjà familier avec son type (ici, type 7), de : (1) comprendre l'Ennéagramme dans son ensemble, (2) identifier ses comportements automatiques et sabotages, (3) obtenir des clés d'évolution vers une vie plus healthy et son intégration, et (4) trouver des manières de se déprogrammer pour une vie plus consciente. L’évaluation se base sur les descriptions détaillées des chapitres, les apports des références (Chestnut, Robins, Hudson, Cron), et votre vision (chemin de progression, transcendance ego, Spirale Dynamique). L’heure actuelle est 10:50 PM CEST, vendredi 5 septembre 2025, et je m’appuie sur nos échanges pour une réponse structurée et concise.

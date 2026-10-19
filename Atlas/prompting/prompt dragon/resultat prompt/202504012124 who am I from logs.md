@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 ---
 tags:
@@ -148,4 +152,4 @@ Ces logs, écrits entre juillet 2024 et avril 2025, sont un miroir brut de qui j
 ## Conclusion
 Je suis un mélange de lumière (profondeur, créativité) et d’ombre (honte, évitement). Mon type 7 danse entre exploration et fuite, mon Jaune cherche le sens, ma vulnérabilité crie pour être vue. Les sabotages (procrastination, compulsions) sont des vieux réflexes, mais mes motivations (lien, impact) me tirent vers l’avant. Ce Markdown est ma carte – à moi de jardiner maintenant.
 
-#EveilVivant #Honte #Transformation
+#EveilVivant #emotions/honte #Transformation

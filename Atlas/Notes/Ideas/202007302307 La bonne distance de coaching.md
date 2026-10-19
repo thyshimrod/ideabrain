@@ -1,7 +1,8 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
-  - proximite
 ---
 
 [[202007302310 écouter pleinement]]

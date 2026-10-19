@@ -1,3 +1,16 @@
+---
+type: recherche
+statut: notes
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.3
+chapitre: C2.3
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 Je prends la posture que tu demandes, avant d'écrire quoi que ce soit.
 
 **Ce qui est juste dans ta proposition, et pourquoi c'est plus fort que ce que j'avais écrit.** Les bénéfices cachés ne sont pas un ajout cosmétique, c'est en réalité le principe même qui fait tenir un jeu selon Berne — un jeu se répète parce qu'il procure un bénéfice, même quand ce bénéfice reste invisible pour celui qui le retire. J'avais décrit le mécanisme de couplage sans jamais répondre à la question la plus importante : pourquoi chacun reste-t-il à sa place ? Ta réponse — le confort de l'exécution d'un côté, la peur du vide et la sur-responsabilisation de l'autre — comble exactement ce trou, et surtout, elle rend les deux positions égales en légitimité. Marc n'est pas "celui qui se soumet", il est quelqu'un qui a trouvé, dans l'exécution, un endroit où il n'a ni à décider ni à être blâmé si ça tourne mal. Sophie n'est pas "celle qui contrôle", elle est quelqu'un qui a peut-être trop peur de ce qui se passerait si elle lâchait la barre. C'est un déplacement important : on ne regarde plus qui a le mauvais rôle, on regarde ce que chaque rôle protège.

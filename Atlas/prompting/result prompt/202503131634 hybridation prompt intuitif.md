@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour vos retours et cette demande d’hybridation ! Je vais intégrer les remarques de l’analyse externe pour ajuster la proposition : conserver l’originalité intuitive qui stimule votre profil HPI et votre vision pionnière, tout en renforçant la viabilité commerciale pour rassurer les décideurs (DRH, DSI, dirigeants) avec des concepts plus clairs, des livrables tangibles, et des preuves rapides. Voici un nouveau prompt, suivi de son exécution, qui équilibre ces deux dimensions.
 
 ---

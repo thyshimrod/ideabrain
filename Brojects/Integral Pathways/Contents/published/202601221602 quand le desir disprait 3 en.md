@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: desir
+oeuvre: Quand le désir disparaît 3
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - couple/desir
+  - integral
+  - couple
+---
+
 Voici la traduction en anglais :
 
 ---

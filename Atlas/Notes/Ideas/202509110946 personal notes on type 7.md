@@ -1,8 +1,10 @@
 ---
+projet: zoimmeisdess
+up:
+  - "[[Enneagramme]]"
 tags:
-  - type7
+  - enneagramme/type7
   - enneagramme
-  - zoimmesidess
 ---
 # just happened
 

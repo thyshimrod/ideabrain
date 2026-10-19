@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Love coaching (formation)]]"
 title: "Love Coaching"
 source: "https://www.spirivie-formations.org/formation/formation/70350/?idmodule=738057&idpage=4184801&suite"
 author:
@@ -6,7 +8,8 @@ published:
 created: 2026-07-23
 description:
 tags:
-  - "clippings"
+  - lovecoaching
+  - couple
 ---
 ![image%20menu](https://da32ev14kd4yl.cloudfront.net/versioned/spirivie-formations/image%20menu.png "image%20menu")
 

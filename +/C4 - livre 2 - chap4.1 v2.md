@@ -1,3 +1,17 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C4
+chapitre: C4
+langue: fr
+up:
+  - "[[Couple]]"
+tags:
+  - at
+  - couple
+  - relation
+---
 **Ch.4 — Ce qui résiste, même quand on a compris**
 
 Imaginez un paysage vu du ciel. Des collines douces, des vallées bien dessinées, un relief qui semble avoir toujours existé sous cette forme. Rien, dans ce paysage, ne raconte qu'il s'est construit couche après couche, sédiment après sédiment, décennie après décennie. On ne voit que le résultat : un relief stable, cohérent. La géologie permet de comprendre comment ce paysage s'est formé. Mais si l'on voulait construire une ville, et donc changer ce paysage, cette compréhension ne serait pas ce qui fait avancer le changement.

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Excellente question. Un bon **lead magnet** pour ta cible (niveau _Jaune_ dans la spirale dynamique, donc : autonome, curieux, systémique, créatif) doit :
 
 - Être **intellectuellement stimulant**, mais **pratique**.

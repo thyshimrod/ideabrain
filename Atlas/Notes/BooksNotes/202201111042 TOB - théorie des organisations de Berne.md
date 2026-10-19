@@ -1,11 +1,16 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
+  - "[[Transfo agile]]"
 tags:
   - organisation
-  - berne
-  - transformation
+  - at
+  - agile/transformation
   - groupe
   - leadership
 author: Eric Berne
+auteurs:
+  - "Eric Berne"
 ---
 Un groupe ou une organisation est une assemblée qui comporte une frontière interne délimitant une zone où se prennent les décisions. Cette zone est appelée leadership. A la périphérie se trouve l zone des membres qui suivent les décisions.
 

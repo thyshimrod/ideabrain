@@ -21,4 +21,4 @@ Nous guérissons – les blessures s’effacent, les liens se tissent. La libert
 ## Conclusion  
 Et si on aimait autrement ? La prochaine fois que tu te sens jugé, tends la main. Qu’est-ce que l’amour peut construire pour toi, aujourd’hui ?  
 
-#EveilVivant #Amour #Vérité
+#EveilVivant #relation #Vérité

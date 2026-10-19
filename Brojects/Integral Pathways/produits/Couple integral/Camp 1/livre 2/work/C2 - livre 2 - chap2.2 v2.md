@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - chap2
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.2
+chapitre: C2.2
+langue: fr
+reference: true
 date: 2026-10-12
-statut: validé
+statut_detail: validé
+tags:
+  - chap2
+  - at
+  - couple
+  - relation
 ---
 
 **2.2 — Les cinq voix intérieures**

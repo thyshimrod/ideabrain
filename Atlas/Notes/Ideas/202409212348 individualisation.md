@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[Agilité]]"
 tags:
-  - individualisation
-  - management
-  - competence
+  - agile/management
   - performance
   - equipe
+  - agile
 ---
 constat
 Dans les équipes, les gens sont considérés comme étant un métier. Les développeurs, les coachs, les testeurs. Les gens sont affectés non par leur talent, leur capacité, mais juste distribué au hasard selon leur métier. Cela ne me permet pas d'efficacité, mais plutôt une facilité "simpliste" pour le management, qui cherche avant tout à affecter des ressources, et à les occuper, plus qu'à se préoccuper de la performance, de la réussite.

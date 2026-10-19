@@ -5,10 +5,9 @@ version: 1.0
 date: 11/04/2025
 intention: Transformer les défis du développement personnel en une approche pratique et collaborative pour des relations plus fortes.
 tags:
-  - coaching agile
-  - relations
-  - responsabilité
-  - empathie
+  - relation
+  - responsabilite
+  - cnv/empathie
 ---
 
 # Grandir Ensemble

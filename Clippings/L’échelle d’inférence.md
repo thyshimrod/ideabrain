@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Coaching]]"
 title: "L’échelle d’inférence"
 source: "https://lanatomiedumanagement.wordpress.com/2016/04/26/lechelle-dinference/"
 author:
@@ -7,7 +9,7 @@ published: 2016-04-26
 created: 2025-08-16
 description: "L’échelle d’inférence: filtre des informations Chris Argyris et Peter Senge ont respectivement défini et popularisé «l’échelle d’inférence»: une façon imagée de décrire le cheminement mental par lequel l’abstraction va grandissant et peut engendrer des croyances et des certitudes erronées. Chacun d’entre nous a tendance à penser que nos croyances constituent LA vérité, que cette vérité…"
 tags:
-  - "clippings"
+  - coaching
 ---
 [![](https://s0.wp.com/wp-content/themes/pub/lovecraft/images/header.jpg)](https://lanatomiedumanagement.wordpress.com/)
 

@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Couple]]"
 tags:
-  - book
   - cnv
   - emotions
-  - besoin
-  - demande
+  - cnv/besoins
+  - cnv/demande
 book: cracking the communication code
 author: liv larson
 ---

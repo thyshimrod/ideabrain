@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Prompting et IA]]"
+  - "[[SoloPreneur MAP]]"
+tags:
+  - ia/prompt
+---
 
 
 ## Prompt

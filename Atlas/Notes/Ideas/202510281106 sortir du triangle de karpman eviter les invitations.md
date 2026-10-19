@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - berne
-  - karpman
-  - triangledramatique
-  - AT
-  - jeuxpsychologiques
+  - at
+  - at/karpman
+  - at/jeux
+auteurs:
+  - "Eric Berne"
 ---
 
 ### Pour éviter de répondre à une invitation au rôle de Sauveur (et aider l'autre à sortir de Victime)

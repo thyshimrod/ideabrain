@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.3
+chapitre: C2.3
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **Sophie et Marc, relus**
 
 Restons un instant de plus dans ce moment précis où Sophie, les yeux fermés, se dit que c'est ça, un bon dimanche. Elle vient de décider que oui. Et pourtant quelque chose reste, une seconde de plus, avant que le sommeil ne prenne le dessus — pas une inquiétude, pas un regret, juste un sentiment qu'il y a quelque chose sans pouvoir y mettre des mots. 

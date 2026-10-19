@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: trilogie-couple
+oeuvre: Le mythe du couple fonctionnel
+langue: en
+plateforme: substack-en
+reference: true
+tags:
+  - couple
+  - penseeplate
+  - relation
+---
+
 # The Myth of the Functional Couple:
 
 ## Why a Well-Organized Relationship Can Still Die

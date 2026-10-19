@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Colere]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - colere
+  - emotions/colere
   - cnv
-  - honte
+  - emotions/honte
 ---
 [[202307061431 Shame Guilty Anger]]
 *COLERE*

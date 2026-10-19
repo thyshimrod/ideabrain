@@ -1,9 +1,18 @@
 ---
-tags:
-  - livre2
-  - chap2
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.6
+chapitre: C2.6
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé
+statut_detail: validé
+tags:
+  - chap2
+  - at
+  - couple
+  - relation
 ---
 
 **2.6 — Ce qui vous attend maintenant**

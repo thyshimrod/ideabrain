@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 # ELAN
 
 # Elan — Coach & Integrative Developmental Therapist 

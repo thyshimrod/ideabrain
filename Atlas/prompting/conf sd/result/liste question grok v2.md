@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 	²&# Questionnaire : Identifier vos Couleurs dans la Spirale Dynamique
 
 **Objectif** : Évaluer vos valeurs et comportements à travers les 8 niveaux de la Spirale Dynamique pour créer votre carte personnelle de carrés superposés.  

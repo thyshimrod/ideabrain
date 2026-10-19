@@ -1,10 +1,13 @@
 ---
+type: contenu
+format: reel
+plateforme: instagram
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[instaVideo]]"
 created: 2025-01-25
-tags: 
-rank: "5"
+tags:
 ---
 
 L'espoir que cela suscite.

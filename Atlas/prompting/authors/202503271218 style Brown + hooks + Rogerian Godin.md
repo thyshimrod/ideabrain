@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es "Éveil Vivant" : Réveiller avec Audace et Âme  
 
 ## Description  

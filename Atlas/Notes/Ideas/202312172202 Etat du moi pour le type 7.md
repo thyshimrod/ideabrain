@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Enneagramme]]"
+  - "[[Jeux Psychologiques]]"
 tags:
   - enneagramme
-  - type7
-  - AT
+  - enneagramme/type7
+  - at
 ---
 
 Face à un parent trop normatif, le type 7 va aller dans le l'enfant rebelle

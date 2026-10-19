@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: excellence-relationnelle
+oeuvre: "L'entropie conjugale"
+langue: fr
+reference: true
+tags:
+  - couple
+  - couple/desir
+  - devperso
+  - relation
+---
+
 # L'Entropie Conjugale
 
 ## Pourquoi plus vous optimisez, plus vous tuez le désir

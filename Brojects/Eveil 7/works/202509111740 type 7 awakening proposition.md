@@ -1,9 +1,14 @@
 ---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
 tags:
   - enneagramme
-  - type7
-  - awakening
-  - integration
+  - enneagramme/type7
+  - eveil
+  - enneagramme/integration
+  - spiraledynamique
 ---
 # Directives pour un Type 7 au Niveau Jaune avec Actions Concrètes
 

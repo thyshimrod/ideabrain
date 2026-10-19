@@ -38,7 +38,7 @@ Tu as déjà fait un excellent travail en configurant ta formation sur Gumroad. 
 - **Publie sur YouTube et Instagram (30 min) :**  
   - **YouTube :** Charge la vidéo (titre : "Mieux vivre avec ses émotions : Découvre ce parcours !"). Ajoute le lien Gumroad dans la description.  
   - **Instagram :** Poste une version courte (1 min) en Reel (ex. : juste l’intro et un extrait des outcomes), et ajoute le lien Gumroad dans ta bio (comme expliqué précédemment).  
-  - **Légende Instagram :** "Tu veux transformer ta relation avec tes émotions ? Découvre mon parcours pour retrouver la sérénité – lien dans ma bio ! 🌿 #Hypersensibilité #Émotions"
+  - **Légende Instagram :** "Tu veux transformer ta relation avec tes émotions ? Découvre mon parcours pour retrouver la sérénité – lien dans ma bio ! 🌿 #Hypersensibilité #emotions"
 
 ---
 

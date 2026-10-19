@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 Voici les **80 questions**, soit **10 par niveau de la spirale dynamique**, toutes reformulées pour être **concrètes, situées dans des scènes de la vie quotidienne**, et **adaptées à un public français**. Elles visent à faire émerger les proportions de chaque couleur (vMème) chez les participants pour dessiner leur carte personnelle.
 
 ---

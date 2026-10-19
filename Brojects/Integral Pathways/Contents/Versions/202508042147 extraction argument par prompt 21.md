@@ -1,3 +1,12 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: en
+tags:
+  - penseeplate
+---
+
 ### Main Arguments
 1. Each failure is a mirror living, inviting a multidimensional recartography (Individuals seeking empowerment).
 2. Neglecting a quadrant creates tension that hinders progress (Individuals analyzing failures).

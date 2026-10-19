@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 - A = attention (agitating and painting a picture of the problem)
     

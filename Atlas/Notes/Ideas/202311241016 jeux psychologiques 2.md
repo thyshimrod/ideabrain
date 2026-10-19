@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - triangledramatique
-  - jeuxpsychologiques
-  - berne
-  - AT
+  - at/karpman
+  - at/jeux
+  - at
+auteurs:
+  - "Eric Berne"
 ---
 
 Pour le bourreau ou le persécuteur, on retrouve :

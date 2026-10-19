@@ -1,10 +1,10 @@
 ---
+up:
+  - "[[Jeux Psychologiques]]"
 tags:
-  - rebellion
-  - affirmation
-  - limite
+  - at/rebellion
   - contrainte
-  - opposition
+  - at
 ---
 La rebellion est un processus dans lequel on refuse une contrainte, et par lequel on se met en opposition le plus souvent passive. On a l'impression d'être un rebelle, mais c'est le plus souvent un comportement passif agressif où l'autre ne sait parfois même pas qu'il est en jeu.
 Pour le coup, cela génère plutôt un sabotage. Ce sabotage est aussi pour le rebelle, car finalement, il se met "en attente" d'une double conséquence : ne pas avoir fait l'action, donc elle est en train de pourrir et il faudra la gérer avec la contrainte du temps qui est passé, ou le pourrissement de l'action en elle même. Le deuxième effet en attente : la potentielle revanche de l'autre partie ou une "punition".

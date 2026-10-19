@@ -1,3 +1,12 @@
+---
+type: pilotage
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 
 # 10/01/2025 1525

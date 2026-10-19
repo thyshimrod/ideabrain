@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Développement personnel]]"
+tags:
+  - devperso
+---
 Voici l'article complet pour ton Substack, intitulé **"3 Exercices Rapides pour Réancrer Vos Émotions en 5 Minutes"**, rédigé en français avec un ton engageant et adapté à ton projet **Éveil Vivant**. Il respecte une longueur de 300-500 mots, inclut un call to action (CTA) vers ton lead magnet, et se termine par une question pour encourager les commentaires. L'article s'aligne sur le pilier **"L’ancre qui libère"**, en mettant en avant des techniques pratiques issues de ton expertise (CNV, réancrage émotionnel), et vise ton audience de 25-45 ans intéressée par le développement personnel.
 
 ---

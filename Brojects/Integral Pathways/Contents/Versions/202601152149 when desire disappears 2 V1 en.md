@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: desir
+oeuvre: Quand le désir disparaît 2
+langue: en
+reference: true
+tags:
+  - couple/desir
+  - integral
+  - couple
+---
+
 Voici une **proposition d’article de fond**, explicitement conçue comme **la suite directe** de  
 **“When Desire Disappears, a Deeper Order Is at Work”**,  
 dans un style **argumenté, intégral, non haché**, et assumant une **posture contrariante** vis-à-vis des lectures classiques du désir, du coaching et du développement personnel.

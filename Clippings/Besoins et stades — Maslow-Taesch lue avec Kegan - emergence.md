@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Développement vertical]]"
 title: "Besoins et stades — Maslow-Taesch lue avec Kegan - emergence"
 source: "https://publish.obsidian.md/luctaesch/Atlas/Notes/Besoins+et+stades+%E2%80%94+Maslow-Taesch+lue+avec+Kegan"
 author:
@@ -6,7 +8,8 @@ published:
 created: 2026-09-16
 description: "Besoins et stades — Maslow-Taesch lue avec Kegan - emergence - Powered by Obsidian Publish."
 tags:
-  - "clippings"
+  - stades
+  - stades/kegan
 ---
 ## Besoins et stades — Maslow-Taesch lue avec Kegan
 

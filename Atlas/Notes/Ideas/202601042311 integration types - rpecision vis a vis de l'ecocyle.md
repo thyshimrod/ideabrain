@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - ecocycle
-  - type7
-  - desidentification
+  - enneagramme/type7
+  - devperso/desidentification
+  - enneagramme/integration
 ---
 Pour un esprit HPI de Type 7, la clarté ne réside pas dans la simplification, mais dans la mise en lumière de la structure systémique. Votre sensation de manque de clarté vient du fait que le 7 survole souvent la **mécanique de la finitude**.
 

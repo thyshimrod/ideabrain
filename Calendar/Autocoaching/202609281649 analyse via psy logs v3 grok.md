@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 
 Voici ma lecture, dense, argumentée, et construite uniquement à partir du matériau que tu as fourni.
 

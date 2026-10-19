@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: integral-pathways
+serie: taquinerie
+oeuvre: Au lieu de piquer
+langue: fr
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Notes de soutien — Article 2 : "Au lieu de piquer"
 
 À publier sur la semaine suivant la sortie de l'article 2, espacées comme pour l'article 1. Notes marquées [LIEN] renvoient vers l'article, les autres se lisent seules.

@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 
 Je pars de mon propre regard, avant de croiser le tien.
 

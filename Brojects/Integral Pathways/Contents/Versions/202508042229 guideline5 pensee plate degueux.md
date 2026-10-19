@@ -1,3 +1,16 @@
+---
+type: article
+statut: abandonne
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: en
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 # Unleash Your Chaos: Turn Failures Into Your Forge
 
 Ever felt like every failure is a punch to the gut?

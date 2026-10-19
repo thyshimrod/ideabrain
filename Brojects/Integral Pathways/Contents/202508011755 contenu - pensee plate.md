@@ -1,3 +1,11 @@
+---
+type: pilotage
+projet: integral-pathways
+oeuvre: Brisez les chaînes de la pensée plate
+langue: fr
+tags:
+  - penseeplate
+---
 
 # reference
 

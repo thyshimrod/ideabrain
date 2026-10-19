@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Enneagramme - Armures et essence]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - trauma
 ---
 # enneagramme essence
 

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 Pour rappel, la scène 2 dans la séquence définie était **"Le retour tardif" / "Dis-moi que je compte"**.
 
 Je la produis dans la même architecture que la scène 1 révisée — avec la boucle renforçante, l'angle CNV, l'alerte, et le tracker 7 jours.

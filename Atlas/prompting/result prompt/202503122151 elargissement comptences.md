@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Effectivement j'ai des compétences CNV, spirale, et autres. JE vois que tu essayes de les mettre en avant, et je t'en remercie. Pour autant, je préférerai que cela soit plutôt un atout, plutôt qu'une manière de me valoriser. Si d'autres compétences (car je ne t'ai peut être pas tout cité, approche systémique, socio dynamique, théorie des organisations de Eric Berne, etc) te semblent pertinentes, je t'invite à me faire des propositions plus complètes sur ce que pourrait être mes missions, ma capacité à impacter, et à aider au changement dans les sociétés, et plus généralement dans la société (au sens humain):  1) je peux facilement acquérir de nouvelles compétences, car j'ai un background très étoffé déjà sur les dynamiques sociales, les différentes théories d'organisation, les pratiques de changement, 2) je recherche uen vraie voie différentiante avant que cela démarre réellement, pour avoir uen vraie place et un poids là dedans, 3) je cherche à avoir un vraie vision qui me permette de me positionner 4) on parle malgré tout de ma survie 5) j'ai un besoin de contribution, et d 'améliorer le monde qui est très important 6), enfin le changement de société est en cours quoiqu'il arrive autant en être un acteur (climat, changement de paradigme du vivre ensemble, place de l'homme versus l'humain).
 Peux tu me relancer le prompt en prenant en compte mes remarques?
 

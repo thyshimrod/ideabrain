@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Enneagramme - Accompagner chaque type]]"
 tags:
   - enneagramme
-  - type6
+  - enneagramme/type6
   - inspiration
+  - coaching
 ---
 Le Type 6 est structuré autour de la peur de l'incertitude, du manque de soutien et de l'insécurité. Pour lui, la notion orange de « briller seul au sommet » est non seulement peu attrayante, mais elle est source d'anxiété (être exposé, c'est devenir une cible).
 

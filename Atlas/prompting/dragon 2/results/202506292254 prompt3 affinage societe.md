@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Prompt
 
 Effectivement, je suis en pahse avec la résilience du monde bleu orange, qui va perdurer sur plusieurs décennies, à moins qu'il y ait un incident suffisamment grave (guerre, problèmes économiques, urgences économiques). Cela peut induite un effrondrement, et un retour à des structures basses de la spirale dynamique, ou si on a préparé d'autres bases de structure, permettre l'émergence par communauté d'autres systèmes de valeur. Difficile à présager.

@@ -1,3 +1,8 @@
+---
+up:
+  - "[[MOA RELEASe]]"
+  - "[[SoloPreneur MAP]]"
+---
 
 - [ ] L'argent ne fait pas le bonheur 
 - [x] Avoir de l'argent mène à la peur de le perdre

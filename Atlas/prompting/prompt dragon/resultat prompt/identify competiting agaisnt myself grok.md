@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 PROMPT : 
 Help me identify where I am Actually competiting against myself and design a strategy to break self imposed limitations.
 

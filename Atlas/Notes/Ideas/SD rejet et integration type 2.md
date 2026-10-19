@@ -1,3 +1,11 @@
+---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+tags:
+  - enneagramme
+  - spiraledynamique
+---
 Parfait.  
 Merci pour l’exemple — **je reprends exactement cette structure, cette concision, ce ton**, et je te fournis le **travail complet pour le Type 2**, _couleur par couleur_, avec :
 

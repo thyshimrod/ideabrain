@@ -1,3 +1,18 @@
+---
+type: article
+statut: publie
+projet: eveil-vivant
+serie: causalite-simple
+oeuvre: Le piège caché
+langue: fr
+plateforme: substack-fr
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 # Le Piège Caché Qui Sabote Votre Réussite
 
 _Chaque semaine, je partage des insights sur la façon dont notre esprit nous piège—et comment transformer ces pièges en force. Si vous appréciez cet article, pensez à vous abonner pour ne pas manquer le prochain._

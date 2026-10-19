@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Parfait. Je vais procéder méthodiquement :
 
 ---

@@ -1,11 +1,14 @@
 ---
+up:
+  - "[[Agilité]]"
+  - "[[Jeux Psychologiques]]"
+  - "[[Pensée plate et complexité]]"
 tags:
   - conference
-  - sécurité
+  - securite
   - coaching
-  - flou
-  - AT
-  - management
+  - at
+  - agile/management
 ---
 
 # Le confort du flou réduit la sécurité psychologique

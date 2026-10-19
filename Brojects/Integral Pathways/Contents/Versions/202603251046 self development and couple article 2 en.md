@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: grandir
+oeuvre: Ce que ta croissance fait à vos rôles
+langue: en
+reference: true
+tags:
+  - devperso
+  - couple
+  - at
+  - cnv
+---
 
 ---
 

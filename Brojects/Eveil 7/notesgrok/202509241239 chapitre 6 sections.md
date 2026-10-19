@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.5
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan Détaillé du Chapitre 6 : Le Type 7 : Traits, Compulsions et Sabotages
 
 Ce chapitre 6 est une étape essentielle dans le livre, car il approfondit le focus sur le type 7 après les bases générales des chapitres précédents, en alignant avec votre prémice : identification via stress/"côté obscur" pour révéler les compulsions, graines des types pour universalité, unicité modelée par l'histoire, et introduction à la conscience des sabotages pour préparer l'ombre et la transcendance. Il s'aligne sur la Spirale Dynamique orange pour le développement personnel via l'exploration des traits et compulsions, avec un ton empathique et introspectif pour engager le lecteur sans jugement. Longueur estimée : 30-35 pages (6000-7000 mots), pour une immersion détaillée sans surcharge, avec un équilibre théorie/pratique. Structure en 5 sections principales pour fluidité : hook/anecdote, traits et forces, compulsions et sabotages, nuances avec sous-types, conclusion/exercices/teaser. Chaque section inclut objectifs, contenu clé, lien à votre prémice, intégrations références (ex. : Hudson pour niveaux de santé, Chestnut pour sous-types, Robins pour embodied, Cron pour narration, avec nuance pour éviter biais comme les stéréotypes sur le 7 "joyeux"), exercices (structurés en 4 parties : ce qu'on change, moyen d'y arriver, description de la pratique, ce qu'on attend), fit à la Spirale Dynamique, et suggestions pour la conception/écriture (structure interne, ton, longueur, visuals comme quizzes ou checklists, cahier détachable, QR code pour audio fictif). Le chapitre commence par un hook personnel pour rappeler le "why" (comprendre traits/compulsions pour transcender sabotages), et se termine par un teaser pour le chapitre 7 (découverte ombre) avec un appel à l'action motivant. Pour la réutilisation, chaque élément est auto-suffisant et détaillé, permettant une rédaction directe sans questions supplémentaires.

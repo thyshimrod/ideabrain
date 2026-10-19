@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Enneagramme]]"
 title: "Enneagram Type 8: The Challenger"
 source: "https://www.enneagraminstitute.com/type-8/"
 author:
@@ -7,7 +9,8 @@ published: 2024-01-11
 created: 2026-01-20
 description: "Enneagram Personality Type 8, The Challenger. Learn more about Type Eight and use the RHETI test to help discover your personality type."
 tags:
-  - "clippings"
+  - enneagramme
+  - enneagramme/type8
 ---
 The Powerful, Dominating Type:  
 Self-Confident, Decisive, Willful, and Confrontational

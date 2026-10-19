@@ -1,3 +1,14 @@
+---
+type: chapitre
+statut: brouillon
+projet: guide-roles
+oeuvre: Which role are you playing right now?
+langue: fr
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
 
 **Le Sauveur — ce que ce rôle te coûte vraiment**
 

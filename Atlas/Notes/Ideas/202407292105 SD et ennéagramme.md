@@ -1,4 +1,8 @@
 ---
+up:
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+  - "[[Spirale Dynamique]]"
 tags:
   - enneagramme
   - spiraledynamique

@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - introduction
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C0
+chapitre: C0
+langue: fr
 date: 2026-10-12
-statut: proposition, à relire
+statut_detail: "proposition, à relire"
+tags:
+  - introduction
+  - at
+  - couple
+  - relation
 ---
 
 **Introduction**

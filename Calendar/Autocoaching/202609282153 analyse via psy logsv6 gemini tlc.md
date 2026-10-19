@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 
 Le passage vers l'intégration du type 7 et la libération des compulsions nécessite d'intervenir simultanément sur quatre niveaux : le corps, l'émotion, le modèle prédictif et l'expérimentation concrète. Quand le mental utilise la théorie ou la quête du « potentiel » comme bouclier, la transformation passe par la rééducation directe du système nerveux.
 

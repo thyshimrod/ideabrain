@@ -1,11 +1,12 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
+  - "[[Développement personnel]]"
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - honte
-  - humiliation
-  - psychosomatique
-  - retention
+  - emotions/honte
   - poids
-  - blessuredelame
+  - devperso/blessures
   - admiration
 ---
 Je m'aperçois que pour les personnes je pense qui ont une blessure de l'âme dite d'humiliation, il y a un sujet sur la manifestation de la honte.

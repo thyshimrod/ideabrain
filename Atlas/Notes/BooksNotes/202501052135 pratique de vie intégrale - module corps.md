@@ -1,8 +1,12 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
 tags:
-  - vieintegrale
-  - kenWilber
+  - integral/pratique
+  - integral
   - corps
+auteurs:
+  - "Ken Wilber"
 ---
 # Les 3 corps
 Il faut être 3 pour danser le tango.

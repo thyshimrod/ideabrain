@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: eveil-7
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
+
 ### Plan du Livre : "Transcender le Type 7 : Du Pattern à l'Éveil Conscient"
 
 Ce plan est construit à partir de votre prémice de korenote.md, en intégrant les éléments des échanges (critiques pour corriger incohérences/biais/omissions, références pour approfondir guérison/transcendance via shadow work, niveaux santé, narration, embodied practices, et analogie Spirale Dynamique pour progression lecteur : bleu-structure, orange-développement, vert-holistique, turquoise-reliance). Il est conçu pour un lecteur déjà typé 7, mais avec rappel général pour contextualiser. Structure : 12 chapitres, progressant de découverte (compréhension Ennéagramme) à transcendance ombre (déprogrammation ego, exploration potentiel sans sabotage). Chaque chapitre inclut exercices pratiques (journaling, méditations, affirmations) inspirés références (Chestnut-sous-types/shadow, Robins-conscious/embodied, Hudson-niveaux/affirmations, Cron-narration, McCord-journal). Longueur estimée : 250-300 pages, ton personnel/introspectif. Focus : Unicité vs patterns, stress/obscur pour identification, graines types, dynamisme (niveaux, intégration), espoir transcendance (sortir ego, vie consciente).

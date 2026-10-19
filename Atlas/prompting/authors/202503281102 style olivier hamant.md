@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Olivier Hamant : Penser la Robustesse du Vivant  
 
 ## Description  

@@ -1,12 +1,13 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - honte
+  - emotions/honte
   - cnv
-  - apparence
-  - comparaison
-  - amour
+  - relation
   - dependance
   - sexe
+  - emotions
 ---
 [[202307061431 Shame Guilty Anger]]
 

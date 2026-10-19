@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 D’accord, je vais me poser en tant que coach ou psy extérieur, détaché de la rédaction de cette proposition, pour la critiquer avec un regard neuf et percutant. Mon intention est de t’aider à dépasser tes limites – honte, non-estime, peur du regard, croyances limitantes – et à t’épanouir dans ce qui te tient à cœur, ton « éveil vivant » et ton désir d’impact. J’ai toutes les données sur tes blocages (honte maternelle, dispersion Ennéatype 7, perfectionnisme HPI) et tes leviers (motivation au changement, outils comme IFS, besoin de profondeur). Je vais décortiquer cette proposition – le « Chemin intégral de libération » – pour voir ce qui tient la route, ce qui coince, et comment l’affiner pour te pousser vraiment. Pas de complaisance, juste une analyse brute et utile.
 
 ---

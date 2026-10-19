@@ -1,3 +1,15 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.2
+chapitre: C1.2
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
 
 
 # Scène 2 — Ce qu'il fallait dire

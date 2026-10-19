@@ -1,11 +1,13 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Développement personnel]]"
 tags:
   - acceptation
   - accueil
   - celebration
   - coaching
-  - transformation
-  - changement
+  - devperso/changement
   - cnv
 author: JP Faure
 ---

@@ -1,7 +1,12 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Enneagramme]]"
+  - "[[Jeux Psychologiques]]"
 tags:
   - enneagramme
-  - integration
+  - enneagramme/integration
 ---
 Excellent point ! Ton observation sur ton propre chemin (7 qui se centre en réduisant son besoin de stimulation et de fuite émotionnelle) et ton analyse du 6 (mental dispersé par hypervigilance) ouvre la voie à une approche beaucoup plus **fine, expérientielle et transversale**.  
 On peut articuler ça avec **l’AT (Analyse Transactionnelle)**, **la CNV (Communication Non Violente)** et **la Spirale Dynamique** pour aller **au-delà des conseils génériques**.

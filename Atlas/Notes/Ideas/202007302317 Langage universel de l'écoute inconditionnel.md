@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - coaching
-  - ecoute
+  - coaching/ecoute
   - energie
-  - resistance
+  - devperso/resistance
 ---
 
 Etre capable d'écouter au delà des mots.

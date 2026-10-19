@@ -1,7 +1,10 @@
 ---
+up:
+  - "[[Moi - biographie et introspection]]"
 tags:
   - horoscope
   - verseau
+  - moi
 ---
 
 

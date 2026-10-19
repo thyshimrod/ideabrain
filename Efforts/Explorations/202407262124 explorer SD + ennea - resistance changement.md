@@ -1,8 +1,11 @@
 ---
+type: exploration
+statut: ouverte
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[Exploration]]"
-rank: "5"
+  - "[[Enneagramme x Spirale Dynamique]]"
+  - "[[Spirale Dynamique]]"
 ---
 Chaque type a ses zones de confort dans la spirale
 le 8 probablement en rouge

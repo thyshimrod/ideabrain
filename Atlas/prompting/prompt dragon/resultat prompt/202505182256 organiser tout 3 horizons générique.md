@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 # Prompt
 ok, cela reste très général, tu as compris l'idée de comment je veux repartir mon temps.

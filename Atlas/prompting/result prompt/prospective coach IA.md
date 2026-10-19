@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 
 Votre demande est riche et bien articulée, ce qui me permet de construire une analyse prospective adaptée à votre profil et à votre contexte. En tant qu’expert en prospective professionnelle et en stratégie d’adaptation aux mutations technologiques, je vais d’abord poser une analyse des tendances liées à l’IA et à la transformation des entreprises, puis proposer des orientations concrètes qui capitalisent sur vos forces (expertise en agilité, accompagnement humain, outils psychologiques et dynamiques de groupe) tout en répondant aux besoins émergents du marché sur un horizon de 5 à 10 ans.
 

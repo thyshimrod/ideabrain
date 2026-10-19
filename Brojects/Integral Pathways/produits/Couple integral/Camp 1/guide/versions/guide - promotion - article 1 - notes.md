@@ -1,3 +1,15 @@
+---
+type: notes-article
+statut: brouillon
+projet: guide-roles
+serie: guide-roles
+oeuvre: "You've done the work. You're still in the same scene."
+langue: en
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
 
 Pour les notes, le principe est simple : courtes, autonomes, pas promotionnelles. Une idée, une tension, une question — le lecteur doit avoir envie de répondre ou de partager. Le lien vers le guide n'apparaît pas dans chaque note — seulement dans une ou deux, naturellement.
 

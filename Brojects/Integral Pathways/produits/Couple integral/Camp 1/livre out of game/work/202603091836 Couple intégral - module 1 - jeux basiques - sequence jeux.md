@@ -1,3 +1,15 @@
+---
+type: pilotage
+projet: livre-hors-jeu
+oeuvre: Hors Jeu
+langue: fr
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 **Proposition de séquence des scènes**
 
 En tenant compte de la progressivité — du moins menaçant au plus intime :

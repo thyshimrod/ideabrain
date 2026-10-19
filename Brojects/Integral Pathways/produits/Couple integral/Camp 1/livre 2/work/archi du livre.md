@@ -1,3 +1,14 @@
+---
+type: pilotage
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 Reprenons proprement. On a quatre scènes, trois écrites, une théorie déjà esquissée dans le prompt de reprise — mais le fil qui les tient ensemble n'a jamais été rendu explicite. Il était implicite depuis le début, et les trois décryptages qu'on vient d'écrire viennent de le révéler sans qu'on le nomme.
 
 **Le fil rouge qui structure le chapitrage**

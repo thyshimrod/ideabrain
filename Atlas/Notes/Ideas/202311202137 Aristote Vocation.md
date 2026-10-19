@@ -1,12 +1,11 @@
 ---
+up:
+  - "[[Citations]]"
+  - "[[Coaching]]"
 tags:
   - citation
-  - vocation
-  - talent
-  - aristote
-  - besoin
+  - cnv/besoins
   - coaching
-  - ikigai
 ---
 là où vos talents et les besoins du monde se rencontrent, là se trouve votre vocation.
 

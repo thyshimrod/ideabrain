@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 ## Prompt
 J'aimerai que tu m'indiques si c'est en ligne aevc mon projet secondaire, et si certains éléments sont à écarter, ou au contraire sont dans une cible pertinente, et intéresseront mon public.

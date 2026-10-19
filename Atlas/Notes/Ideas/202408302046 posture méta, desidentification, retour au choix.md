@@ -1,12 +1,15 @@
 ---
+up:
+  - "[[Coaching]]"
+  - "[[Développement personnel]]"
 tags:
   - meta
   - identification
-  - desidentification
+  - devperso/desidentification
   - choix
   - controle
   - coaching
-  - changement
+  - devperso/changement
 ---
 Pour sortir de comportement qui nous pèse, automatique, tel que le contrôle (l'impuissance), la honte, la culpabilité, le mépris de soi... Il faut savoir se désidentifier de cela.
 

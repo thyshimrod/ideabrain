@@ -1,10 +1,12 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
   - coaching
-  - resistance
-  - liberté
+  - devperso/resistance
+  - liberte
   - protocole
-  - developpementpersonnel
+  - devperso
 ---
 ![[fredom.jpeg]]
 

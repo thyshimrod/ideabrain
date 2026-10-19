@@ -1,3 +1,11 @@
+---
+type: pilotage
+projet: integral-pathways
+oeuvre: Embrasser le chaos
+langue: fr
+tags:
+  - penseeplate
+---
 
 [[202601062024 embrasser le chaos english version]]
 [[202601190942 embrasser le chaos french]]

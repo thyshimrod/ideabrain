@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Prompt
 
 oui d'ailleurs, les éléments que tu marques comme étant punchy, taper dans un coussin et autre, sont des artifices qui ne marchent pas avec moi. Je suis trop mental (type 7), et très peu instinctif.

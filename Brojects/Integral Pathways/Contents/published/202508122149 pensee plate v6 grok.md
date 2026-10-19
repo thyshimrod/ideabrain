@@ -1,3 +1,17 @@
+---
+type: article
+statut: publie
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: fr
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 # Brisez les chaînes de la pensée plate : déclenchez votre Révolution Vivante
 
 related: - "[[why-solutions-fail-Korenote]]"

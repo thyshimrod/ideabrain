@@ -1,6 +1,6 @@
 ---
 tags:
-  - bio
+  - moi
   - autocoaching
 ---
 # Suivi de développement personnel — Pascal

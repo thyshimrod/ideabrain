@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 # prompt
 Dans mes pensées, je vois cela un peut comme une forme de société secrète, qui proposerait un parcours initiatique (camps de base), où chacun selon son niveau, et son envie, irait chercher le matériel nécessaire et suffisant pour atteindre un autre niveau, se libérer, et pouvoir accéder à une place différente dans la société.

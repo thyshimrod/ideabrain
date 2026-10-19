@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 tags:
-  - recettes
-  - keto
+  - sante/keto
+  - sante
 ---
 - 240g de farine d'amande 
 - 120g de ghee 

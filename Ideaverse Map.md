@@ -4,7 +4,6 @@ up:
 created: 2023-08-30
 obsidianUIMode: preview
 tags:
-  - map
 ---
 
 > [!Planet]- ## How to Customize your own Ideaverse.

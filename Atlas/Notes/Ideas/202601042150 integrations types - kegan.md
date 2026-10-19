@@ -1,10 +1,14 @@
 ---
+up:
+  - "[[Développement vertical]]"
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - desidentification
-  - kegan
+  - devperso/desidentification
+  - stades/kegan
   - identite
   - coaching
+  - stades
 ---
 Très bien. Je vais donc **mettre explicitement le processus de désidentification de l’armure enneagrammatique en dialogue avec la théorie du développement du sujet chez Robert Kegan**, en prenant le temps de **déplier les mécanismes**, les zones de recouvrement, mais aussi les différences importantes entre les deux cadres.
 

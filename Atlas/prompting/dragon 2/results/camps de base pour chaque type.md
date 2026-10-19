@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Pratiques des Camps de Base pour les Types Énéagramme dans la Vision Turquoise
 
 Ces pratiques spécifiques pour les camps de base (physiques ou numériques) sont conçues pour aider chaque type de l’Énéagramme (1 à 9) à relâcher sa fixation limitante (release) et à renouveler sa contribution (renew) dans le cadre de la vision turquoise de **tisser une conscience micellaire sous un ciel de constellations**. Chaque pratique s’appuie sur des outils comme l’IFS, la CNV, ou des rituels collaboratifs, adaptés aux quadrants de Wilber (corps, ombre, mental, esprit) et aux niveaux de la Spirale Dynamique (violet, rouge, bleu, orange, vert, jaune/turquoise). Les camps de base sont des espaces ouverts qui guident les étoiles (individus) vers l’intégration sans imposer de direction, renforçant l’émergence du réseau micellaire.

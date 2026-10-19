@@ -1,3 +1,16 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: desir
+oeuvre: Lecture AQAL de la perte de désir
+langue: fr
+reference: true
+tags:
+  - integral/aqal
+  - couple/desir
+---
+
 Voici une **lecture AQAL explicite, quadrant par quadrant**, du passage que nous avons décrit — **la disparition du désir comme transition développementale**, et non comme déficit motivationnel.  
 Je vais volontairement être **didactique, détaillé, et conceptuellement rigoureux**, en explicitant les **liens de causalité** entre quadrants, ainsi que les **erreurs classiques de lecture** quand on reste coincé dans un seul d’entre eux.
 

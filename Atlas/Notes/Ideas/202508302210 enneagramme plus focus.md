@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Développement personnel]]"
+  - "[[Enneagramme]]"
+  - "[[Productivité et loi du temps]]"
 tags:
   - enneagramme
-  - focus
-  - intégration
-  - exploration
+  - productivite
+  - enneagramme/integration
   - emergence
 published:
 ---

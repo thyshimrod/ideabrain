@@ -1,3 +1,17 @@
+---
+type: notes-article
+statut: brouillon
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: "Tu as résolu un problème qui n'existait pas"
+langue: en
+tags:
+  - at/jeux
+  - at/karpman
+  - couple
+  - cnv
+---
+
 # Substack Notes — Article 3
 
 ## "You solved a problem that didn't exist."

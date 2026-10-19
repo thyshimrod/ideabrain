@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
   - systemie
   - coaching
-  - changement
-  - homéostasie
+  - devperso/changement
+  - homeostasie
   - groupe
 ---
 Concernant la vision d'une équipe, il faut comprendre que les changements de type 1, vont surement nourrir l'homéostasie de l'équipe.

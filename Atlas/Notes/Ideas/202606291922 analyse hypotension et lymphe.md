@@ -1,10 +1,10 @@
 ---
+up:
+  - "[[Santé et alimentation]]"
 tags:
-  - santé
+  - sante
   - tension
-  - lymphe
-  - sel
-  - proteine
+  - sante/keto
 ---
 Voici une synthèse complète, structurée sous forme d'article clair et bienveillant, spécialement rédigée pour que votre compagne puisse comprendre les mécanismes de son corps et découvrir les solutions adaptées.
 

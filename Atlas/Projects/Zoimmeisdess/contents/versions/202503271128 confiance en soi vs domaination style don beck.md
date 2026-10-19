@@ -21,4 +21,4 @@ Le gain est clair : un vert qui libère les liens humains des jeux de pouvoir, u
 ## Conclusion  
 Où te situes-tu dans la spirale ? Le rouge et l’orange ont eu leur heure ; le vert appelle, le jaune pointe. La confiance que tu admires révèle ton mème – et ton prochain pas. Évolue avec intention. La spirale ne s’arrête pas – et toi non plus.
 
-#EveilVivant #Spirale #Évolution
+#EveilVivant #spiraledynamique #evolution

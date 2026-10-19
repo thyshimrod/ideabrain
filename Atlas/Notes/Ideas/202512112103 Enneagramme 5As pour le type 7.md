@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type7
+  - enneagramme/type7
   - guerison
-  - 5A
+  - enneagramme/5a
+  - enneagramme/integration
 ---
 
 Les "5As" (Awareness, Acceptance, Appreciation, Action, Adherence) sont un processus universel de croissance dans l'Ennéagramme, mais ils s'adaptent aux spécificités de chaque type. Pour le type 7 (l'Enthousiaste ou l'Épicurien), motivé par la recherche de plaisir, d'optimisme et d'aventures pour éviter la souffrance, la douleur ou l'ennui, ce processus aide à intégrer les aspects plus profonds de la vie. Le type 7 a tendance à "fuir" l'intériorité en se distrayant avec des options positives et multiples, ce qui peut mener à une superficialité ou une dispersion. Les 5As encouragent une reconnexion au centre mental en embrassant la réalité complète (joies et peines), favorisant l'intégration vers le type 5 (plus focalisé et introspectif) pour une croissance vers une fascination authentique et une concentration accrue.  

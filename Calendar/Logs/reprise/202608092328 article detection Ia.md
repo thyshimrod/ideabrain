@@ -1,3 +1,7 @@
+---
+type: recherche
+projet: integral-pathways
+---
 
 Oui — depuis le **21 juillet 2026**, Substack a lancé une fonction de détection IA en partenariat avec **Pangram**. Concrètement : l'outil estime, en pourcentage, la part d'un texte écrite par un humain ou avec assistance IA, sur les posts, notes et commentaires de plus de 100 caractères publiés après cette date. Points importants pour ton usage : [ALM Corp](https://almcorp.com/news/substack-ai-detection-pangram-transparency-2026/)
 

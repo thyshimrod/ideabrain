@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: guide-roles
+serie: guide-roles
+oeuvre: "You've done the work. You're still in the same scene."
+langue: en
+reference: true
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
+
 **"You've done the work. You're still in the same scene."**
 
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 ### Comparaison entre l'article de ChatGPT et ma proposition
 
 L'article généré par ChatGPT et ma proposition partagent des points communs, mais diffèrent dans leur structure, ton et niveau de détail. Voici une analyse comparative, suivie des éléments que je retiendrais pour améliorer ma proposition, et enfin un nouvel article intégrant ces enseignements.
@@ -113,7 +117,7 @@ Quel micro-problème allez-vous résoudre aujourd’hui ? Dites-le-moi en commen
 5. **Focus Jaune** : L’accent sur les paradoxes, les réseaux et la contribution systémique parle directement aux early adopters qui valorisent l’innovation et la pensée intégrative.
 
 ### Conseils pour la diffusion
-- **Plateformes** : Publiez sur LinkedIn et Twitter/X avec des extraits percutants (ex. : “La richesse de demain n’est pas de l’argent. C’est votre contribution.”). Utilisez des hashtags comme #Innovation, #Entrepreneurship, #FutureOfWork.
+- **Plateformes** : Publiez sur LinkedIn et Twitter/X avec des extraits percutants (ex. : “La richesse de demain n’est pas de l’argent. C’est votre contribution.”). Utilisez des hashtags comme #agile/transformation, #business, #agile/transformation.
 - **Engagement** : Posez une question dans vos posts (ex. : “Quel micro-problème voulez-vous résoudre ?”) pour encourager les commentaires et construire une communauté.
 - **Visuels** : Créez une infographie simple (ex. : un schéma réseau vs pyramide) pour accompagner l’article. Si vous voulez, je peux proposer un concept visuel.
 - **Série de contenus** : Transformez cet article en une série de posts ou un thread (ex. : un post par étape pratique) pour maintenir l’engagement.

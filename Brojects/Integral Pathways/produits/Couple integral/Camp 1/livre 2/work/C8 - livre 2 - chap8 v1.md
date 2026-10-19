@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - chap8
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C8
+chapitre: C8
+langue: fr
+reference: true
 date: 2026-10-13
-statut: validé (fil : Sophie et Marc ; témoignage personnel de Pascal à la fin)
+statut_detail: "validé (fil : Sophie et Marc ; témoignage personnel de Pascal à la fin)"
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 **Chapitre 8 — Quand l'un des deux change en profondeur**

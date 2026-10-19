@@ -1,3 +1,16 @@
+---
+type: article
+statut: final
+projet: guide-roles
+serie: guide-roles
+oeuvre: The most exhausting role in a relationship is the one that looks like love.
+langue: en
+reference: true
+tags:
+  - at/karpman
+  - couple
+  - devperso
+---
 
 
 **"The most exhausting role in a relationship is the one that looks like love."**

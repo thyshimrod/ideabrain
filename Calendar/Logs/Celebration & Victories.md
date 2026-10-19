@@ -1,5 +1,9 @@
+---
+type: log
+statut: actif
+---
 
-# 26/05/2025
+# 2025-05-26
 
 Tous ces moments avec Papa.
 Gérer Aydan, Papa, etecetc
@@ -12,7 +16,7 @@ Faire un gateau.
 M'occuper du jardin.
 
 
-# 21/07/2024
+# 2024-07-21
 Lancer un régime Keto
 Bien vivre, malgré la solitude et l'absence de Aydan.
 Etre arrivé à 103 kg (cela fait au moins 3 ans)

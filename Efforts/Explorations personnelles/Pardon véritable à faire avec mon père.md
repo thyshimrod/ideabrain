@@ -1,7 +1,9 @@
 ---
+type: exploration
+statut: ouverte
+prive: true
+rank: 3
 up:
   - "[[Efforts]]"
-type: "[[Exploration Personnelle]]"
-rank: "3"
 ---
 sa non présence, sa non protection.

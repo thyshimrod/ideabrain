@@ -1,12 +1,17 @@
 ---
+type: article
+statut: final
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "L'art maladroit de blesser ceux qu'on aime"
+langue: fr
+reference: true
 tags:
-  - article
-  - integralpath
-  - AT
-  - taquinerie
+  - at
   - authenticite
-  - stroke
-  - harcelement
+  - couple
+  - relation
+  - emotions/honte
 ---
 
 

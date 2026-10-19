@@ -1,8 +1,10 @@
 ---
+type: effort
+statut: sleeping
+rank: 2
 up:
   - "[[Efforts]]"
-type: "[[Exploration]]"
-rank: "2"
+  - "[[Enneagramme x Spirale Dynamique]]"
 ---
 préférence couleur selon healthy
 

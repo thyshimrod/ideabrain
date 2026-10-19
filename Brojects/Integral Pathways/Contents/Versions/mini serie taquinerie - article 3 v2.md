@@ -1,3 +1,18 @@
+---
+type: article
+statut: final
+projet: integral-pathways
+serie: taquinerie
+oeuvre: "Celui qui n'a pas peur"
+langue: fr
+reference: true
+tags:
+  - couple
+  - relation
+  - at
+  - emotions/honte
+---
+
 # Celui qui n'a pas peur
 
 Au début, elle disait ce qu'elle voulait. Pas toujours avec conviction — elle hésitait, tournait les choses, proposait deux options en même temps — mais elle disait quand même quelque chose. Un restaurant plutôt qu'un autre. Des vacances à la mer plutôt qu'à la montagne. Une façon d'organiser le week-end.

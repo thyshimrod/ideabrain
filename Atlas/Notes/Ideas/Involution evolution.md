@@ -1,6 +1,7 @@
 ---
+up:
+  - "[[Développement personnel]]"
 tags:
-  - involution
   - evolution
   - emotions
   - processus

@@ -1,6 +1,8 @@
 ---
+up:
+  - "[[Coaching]]"
 tags:
-  - changement
+  - devperso/changement
   - coaching
 book: Activez vos talents, ils peuvent changer le monde
 author: Matthieu Dardaillon

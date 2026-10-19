@@ -1,3 +1,13 @@
+---
+type: pilotage
+projet: eveil-7
+oeuvre: Éveil 7 — Ch.10
+langue: fr
+tags:
+  - enneagramme
+  - enneagramme/type7
+  - devperso
+---
 
 ### Plan Détaillé du Chapitre 11 : Overcoming Compulsions : Steps to Deprogramming the Ego
 

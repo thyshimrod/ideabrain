@@ -1,3 +1,7 @@
+---
+up:
+  - "[[Moi - biographie et introspection]]"
+---
 # PASCAL OGIL
 
 Agile Coach & Organisational Coach | Certified Professional Coach | Cultural Transformation & Leadership

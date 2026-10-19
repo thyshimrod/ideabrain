@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Jeremy Rifkin : Envisionner le Futur Collaboratif  
 
 ## Description  

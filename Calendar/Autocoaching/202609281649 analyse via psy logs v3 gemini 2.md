@@ -1,3 +1,8 @@
+---
+type: autocoaching
+prive: true
+statut: archive
+---
 Voici une lecture intégrale de la dynamique, restructurée pour intégrer à la fois **le pourquoi profond (l'architecture de l'ombre)** et **un plan d'exploration et de déplacement en 4 quadrants (Modèle Intégral de Wilber)**.
 
   

@@ -1,3 +1,16 @@
+---
+type: chapitre
+statut: brouillon
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C2.6
+chapitre: C2.6
+langue: fr
+tags:
+  - at
+  - couple
+  - relation
+---
+
 **2.6 — Ce qui vous attend maintenant**
 
 Vous venez de traverser quatre scènes, un vocabulaire, une carte des couplages les plus fréquents. Vous avez peut-être déjà reconnu, dans l'une ou l'autre, quelque chose de votre propre couple — un rôle que vous tenez sans plus y penser, une réponse que vous donnez presque automatiquement.

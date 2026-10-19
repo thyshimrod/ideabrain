@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
 tags:
   - enneagramme
-  - type7
+  - enneagramme/type7
   - guerison
-  - 5A
+  - enneagramme/5a
+  - enneagramme/integration
 ---
 Voici des exercices pratiques adaptés au type 7 de l'Ennéagramme (l'Enthousiaste ou l'Épicurien) pour mettre en œuvre les 5As (Awareness, Acceptance, Appreciation, Action, Adherence). Ces exercices s'inspirent du processus de croissance universel développé par David Daniels, qui aide les types 7 à affronter leur tendance à éviter la douleur et les limitations en cherchant constamment le plaisir et la nouveauté. Le type 7 bénéficie particulièrement de ces étapes pour développer une présence plus ancrée, en intégrant les aspects inconfortables de la vie sans fuir vers des distractions. Pour chaque "A", je décris brièvement l'étape, puis propose 2-3 exercices concrets et applicables au quotidien. Commencez par des sessions courtes (5-10 minutes) pour éviter la dispersion.
 

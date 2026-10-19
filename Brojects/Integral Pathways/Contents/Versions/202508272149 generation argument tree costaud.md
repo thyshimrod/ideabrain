@@ -1,3 +1,12 @@
+---
+type: recherche
+statut: notes
+projet: integral-pathways
+langue: fr
+tags:
+  - penseeplate
+---
+
 # Prompt
 
 grace au floating context, et le prompt 21 contenu dans ce fichier, tu m'avais généré dans la korenote, l'argument tree. J'aimerai qu'on améliore cet argument tree de plusieurs manières.

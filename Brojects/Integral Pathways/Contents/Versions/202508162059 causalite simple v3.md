@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 Tu as défragmenté le texte, mais je pense qu'il faut trouver un entre deux. Car là on a un article un peu dense. Je veux bien, quelques éléments de pathos en mode fragmenté, pour rendre cela plus simple à lire.
 De plus tu utilises des expressions un peu dramatiques, ou poétiques. (les débris d'un projet, me rongeait comme un acide lent...) J'aimerai que tu reviennes à quelque chose de moins "dramatiques", moins métaphorique, notamment pour répondre à un publique orange plus pragmatique.
 Et je sais que c'est aussi un défaut que tu as, quand tu ne sais pas générer un contenu, tu l'étends par des métaphores plus longues pour farie plus de mots.

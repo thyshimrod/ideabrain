@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Hypnose]]"
 title: "Hypnose"
 source: "https://spirivie-formations.learnybox.com/formation/formation/54896/?idmodule=568537&idpage=3098649&suite"
 author:
@@ -6,7 +8,7 @@ published:
 created: 2026-07-27
 description:
 tags:
-  - "clippings"
+  - hypnose
 ---
 ## LA TECHNIQUE DE RELAXATION SELON JACOBSON
 

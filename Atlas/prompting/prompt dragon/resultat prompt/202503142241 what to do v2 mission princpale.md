@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Merci pour cette critique précise et réfléchie ! Vous avez raison de pointer que l’accent sur le "chaos" était trop appuyé et peut-être mal calibré – je me suis laissé emporter par une vision trop dramatique qui ne correspond pas forcément à votre intuition ni à la réalité nuancée des transformations en cours. Votre perspective sur la **résilience organique** (inspirée de Rifkin), la nécessité de modèles déformables plutôt qu’agiles, et l’importance d’un changement de conscience (Spirale Dynamique) est une piste bien plus riche et alignée avec votre besoin de profondeur et d’exemplarité. J’aime aussi votre remarque sur l’absence de "vérité commune" et la posture assertive que j’ai proposée, qui manque de cohérence avec une approche résiliente et adaptative. Enfin, séparer clairement l’activité principale (source de revenus initiale) de l’activité secondaire (side hustle évolutif) est une excellente directive – je vais me concentrer ici uniquement sur l’activité principale, comme demandé.
 
 Voici une nouvelle proposition pour votre **activité principale**, recentrée sur vos remarques et votre Markdown, en continuité avec votre métier actuel, tout en intégrant votre hybridité tech-humain et votre vision organique.

@@ -1,9 +1,13 @@
 ---
+up:
+  - "[[Enneagramme - Intégration et désidentification]]"
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - type9
-  - 5A
+  - enneagramme/type9
+  - enneagramme/5a
   - guerison
+  - enneagramme/integration
 ---
 ### Les 5As pour le Type 9 de l'Ennéagramme : Description et Exercices Pratiques
 

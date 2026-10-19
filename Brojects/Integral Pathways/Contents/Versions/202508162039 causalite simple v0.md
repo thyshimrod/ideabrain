@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: en
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 # Why Your Brain Craves Simplicity – And How It's Holding You Back
 
 related: - "[[why-brain-prefers-simplicity-Korenote]]"

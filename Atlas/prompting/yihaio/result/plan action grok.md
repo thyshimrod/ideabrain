@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 # Éveil Vivant : Plan de Lancement Immédiat (16 Juin 2025)
 
 ## 1. Contexte

@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Éveil Vivant : Plan de Lancement Augmenté (16 Juin 2025)
 
 ## 1. Contexte

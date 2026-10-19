@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 Lance l'ajustement
 
 ## REsultat

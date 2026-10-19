@@ -1,3 +1,17 @@
+---
+type: article
+statut: final
+projet: eveil-vivant
+serie: pensee-plate
+oeuvre: Embrasser le chaos
+langue: fr
+reference: true
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 Voici la traduction en français :
 
 ---

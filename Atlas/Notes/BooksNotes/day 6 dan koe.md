@@ -1,3 +1,7 @@
+---
+up:
+  - "[[MOA Dan Koe]]"
+---
 Hé, écoutez,
 
 Il s'avère que je ne sais pas compter.

@@ -1,3 +1,16 @@
+---
+type: article
+statut: brouillon
+projet: integral-pathways
+serie: pensee-plate
+oeuvre: Brisez les chaînes de la pensée plate
+langue: fr
+tags:
+  - penseeplate
+  - integral
+  - spiraledynamique
+---
+
 Parfait, voici la **version réécrite optimisée** de ton article pour toucher **Orange (40%)**, **Vert (30%)** et **Jaune (30%)**, en gardant ton style mais avec transitions plus fluides, exemples concrets, et un **CTA communautaire** qui sert ta vision de “réseau vivant”.
 
 ---

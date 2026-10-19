@@ -1,19 +1,21 @@
 ---
+up:
+  - "[[CNV]]"
+  - "[[Couple]]"
+  - "[[Développement personnel]]"
+  - "[[Enneagramme]]"
 tags:
   - couple
   - se_comprendre
   - enneagramme
-  - peur
-  - intimite
+  - emotions/peur
   - relation
-  - empathie
+  - cnv/empathie
   - identification
   - comportement
   - cnv
-  - colline
   - conscience
   - choix
-  - envie
 ---
 Est ce que la vraie intimité ne vient pas de la connaissance de l'autre, et notamment de ses peurs profondes?
 Je joins les peurs profondes décrites par l'ennéagramme.

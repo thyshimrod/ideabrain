@@ -1,7 +1,8 @@
 ---
+up:
+  - "[[Enneagramme]]"
 tags:
   - enneagramme
-  - profilage
 ---
 Concernant l'acceptation des outils de profiling, il est intéressant de se dire, que chacun entre dans une forme de moule, qui correspond à une forme d'acceptation sociale. Il y a des comportements acceptés par la société, d'autres moins voire pas du tout.
 Du coup, chacun par mimétisme, par confort, ou par nécessité va adopter un ensemble d'habitudes élémentaires lui permettant l'intégration sociale, ou de survie.

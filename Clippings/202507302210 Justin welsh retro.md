@@ -1,8 +1,10 @@
 ---
+up:
+  - "[[SoloPreneur MAP]]"
 tags:
-  - solopreneur
-  - justinwelsh
-  - welsh
+  - business
+auteurs:
+  - "Justin Welsh"
 ---
 
 # My complete $10M journey (all 23 steps) Justin Welsh

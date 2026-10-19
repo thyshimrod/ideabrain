@@ -1,9 +1,11 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
   - excuse
-  - honte
-  - humiliation
-  - jeuxpsychologiques
+  - emotions/honte
+  - at/jeux
+  - emotions
 ---
 Quand je demande des excuses à l'autre, je me met dans une posture de domination, et je viens toucher la culpabilité pour forcer l'autre à s'excuser.
 En somme je le persécute, pour le forcer à être dans sa victime.

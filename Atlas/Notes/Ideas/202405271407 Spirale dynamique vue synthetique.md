@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[Spirale Dynamique]]"
 tags:
   - spiraledynamique
 ---

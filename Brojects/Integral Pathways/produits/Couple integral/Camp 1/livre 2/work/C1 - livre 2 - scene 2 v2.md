@@ -1,9 +1,17 @@
 ---
-tags:
-  - livre2
-  - scene2
+type: chapitre
+statut: final
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu — C1.2
+chapitre: C1.2
+langue: fr
+reference: true
 date: 2026-10-12
-statut: validé
+statut_detail: validé
+tags:
+  - at
+  - couple
+  - relation
 ---
 
 # Scène 2 — Ce qu'il fallait dire

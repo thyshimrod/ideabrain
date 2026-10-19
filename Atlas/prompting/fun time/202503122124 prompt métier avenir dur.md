@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 
 Les titres sont assez pertinents. La 2e proposition me parait vraiment bullshit. 
 Je pense que tu n'es pas assez différenciant, et que tu ne t'es pas permis d'aller dans une direction où l'IA prend vraiment beaucoup plus de place, et va changer réellement les choses. L'humain ne produira pratiquement plus et sa principale activité sera de piloter des IA. La créativité restera sa principale différenciation avec la machine.

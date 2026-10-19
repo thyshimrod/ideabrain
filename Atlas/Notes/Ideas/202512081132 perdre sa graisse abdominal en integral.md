@@ -1,8 +1,11 @@
 ---
+up:
+  - "[[Pratique de vie intégrale]]"
+  - "[[Santé et alimentation]]"
 tags:
   - sante
   - poids
-  - vieintegrale
+  - integral/pratique
 ---
 ### Proposition AQAL Personnalisée pour Perdre la Graisse Abdominale
 

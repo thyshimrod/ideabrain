@@ -1,11 +1,16 @@
 ---
+type: contenu
+format: video
+plateforme: youtube
+statut: idee
+rank: 5
 up:
   - "[[Efforts]]"
-type: "[[Videos]]"
+  - "[[Coaching]]"
+  - "[[Développement personnel]]"
 created: 2024-07-20
 tags:
   - coaching
-rank: "5"
 ---
 
 

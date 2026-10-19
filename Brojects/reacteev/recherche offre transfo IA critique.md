@@ -1,3 +1,14 @@
+---
+type: recherche
+statut: notes
+projet: reacteev
+langue: fr
+tags:
+  - agile/transformation
+  - ia
+  - business
+---
+
 C'est un exercice de vérité essentiel. Pour que **Reacteev** (20 personnes) gagne face à un **Big 4** ou pour qu'un DSI signe un contrat de 12 mois, nous devons sortir du "bon sens" pour entrer dans la "gestion de crise de croissance".
 
 Voici une critique sans filtre, en prenant la casquette d'un **DSI / Responsable de Transfo** d'un grand compte (Secteur Bancaire ou Industrie).

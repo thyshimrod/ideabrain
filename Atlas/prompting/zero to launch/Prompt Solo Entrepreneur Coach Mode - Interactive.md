@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Prompting et IA]]"
+tags:
+  - ia/prompt
+---
 # Prompt Solo Entrepreneur Coach Mode - Interactive
 
 **Instructions pour Grok : Activer le mode Solo Entrepreneur Coach (Interactif)**

@@ -1,10 +1,11 @@
 ---
+up:
+  - "[[Honte, culpabilité et colère]]"
 tags:
-  - honte
-  - humiliation
+  - emotions/honte
   - culture
-  - culpabilite
-  - elitisme
+  - emotions/culpabilite
+  - emotions
 ---
 Intéressant de voir que la honte / humiliation est très présente.
 On humilie les candidats en les mettant dans des situations anormales.

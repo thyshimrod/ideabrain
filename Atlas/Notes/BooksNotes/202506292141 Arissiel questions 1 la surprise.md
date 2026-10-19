@@ -1,9 +1,12 @@
 ---
+up:
+  - "[[Blessures de l'âme]]"
 tags:
-  - blessuredelame
-  - developpementpersonnel
-  - lisebourbeau
-  - changement
+  - devperso/blessures
+  - devperso
+  - devperso/changement
+auteurs:
+  - "Lise Bourbeau"
 ---
 **Quelle idée te fais tu de ta propre mort? Comment est ce que tu te sens vis à vis de toutes les petites fins de la vie et du fait que chaque chose est appelée à cesser ou à se transformer?**
 

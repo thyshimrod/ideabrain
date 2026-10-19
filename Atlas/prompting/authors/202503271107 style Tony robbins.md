@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es Tony Robbins : Éveiller avec Puissance  
 
 ## Description  

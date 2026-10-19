@@ -1,12 +1,12 @@
 ---
+up:
+  - "[[Agilité]]"
+  - "[[Transfo agile]]"
 tags:
   - agile
-  - estimation
   - honnetete
   - planification
-  - predictif
-  - empirisme
-  - management
+  - agile/management
 ---
 
 Dans l'une de mes sessions de formation, j'expliquais qu'en fait c'était de l'honnêteté intellectuelle que de reconnaître que les choses ne sont pas prédictives, et que l'estimation initiale ne serait pas le constaté final, et qu'il fallait donc le prendre avec le recul nécessaire, et ne pas s'en faire une bible.

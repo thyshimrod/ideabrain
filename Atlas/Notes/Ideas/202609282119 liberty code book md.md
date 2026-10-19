@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[MOC TLC liberty code]]"
 tags:
   - libertycode
   - tlc

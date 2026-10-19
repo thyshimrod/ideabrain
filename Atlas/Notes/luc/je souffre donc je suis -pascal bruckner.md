@@ -2,13 +2,15 @@
 in:
   - "[[Sources]]"
   - "[[Podcast]]"
-up: 
+up:
+  - "[[Jeux Psychologiques]]"
 related:
   - "[[20181216225527 Karpman Rev4]]"
   - "[[2024-08-22-dive in- Bruckner-Victimaire-MOC]]"
 created: 2024-08-20
 tags:
   - source
+  - at
 url: https://t.co/zeEqj6wqaD
 people:
   - "[[Pascal Bruckner]]"

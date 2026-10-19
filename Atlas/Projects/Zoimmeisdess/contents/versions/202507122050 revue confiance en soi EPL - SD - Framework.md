@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Développement personnel]]"
+tags:
+  - devperso
+---
 
 [[Prompt 25 with framework stucture and spiral]]
 [[202503241141 v2 confiance en soi vs domination]]

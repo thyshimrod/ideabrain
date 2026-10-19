@@ -1,3 +1,7 @@
+---
+tags:
+  - ia/prompt
+---
 # Visualisation Guidée : Chaque Type Rejoint une Constellation
 
 Cette visualisation guidée invite chaque type de l’Énéagramme (1 à 9) à voir son étoile (ex. Étoile Polaire, Étoile Solitaire) rejoindre une constellation dans la vision turquoise de **tisser une conscience micellaire sous un ciel de constellations**. Conçue pour un camp de base (physique ou numérique), elle aide chaque type à relâcher sa fixation limitante (release) et à renouveler sa contribution (renew) au réseau micellaire. La méditation s’appuie sur les images stellaires pour ancrer émotionnellement les participants, intégrant les quadrants de Wilber (corps, ombre, mental, esprit) et la Spirale Dynamique (y compris le rouge). Elle peut être pratiquée en groupe (ex. cercle méditatif) ou individuellement, respectant la posture non directive et l’émergence organique.

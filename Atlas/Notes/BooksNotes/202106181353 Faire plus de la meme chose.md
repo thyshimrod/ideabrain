@@ -1,7 +1,11 @@
 ---
+up:
+  - "[[Citations]]"
+  - "[[Coaching]]"
+  - "[[Pensée plate et complexité]]"
+  - "[[Transfo agile]]"
 tags:
-  - stratégie
-  - strategieechec
+  - strategie
   - citation
 author: Paul Watzlawick
 ---

@@ -1,3 +1,9 @@
+---
+up:
+  - "[[Honte, culpabilité et colère]]"
+tags:
+  - emotions
+---
 [[Vivre avec les autres]]
 
 [[Argument extrait de vivre avec les autres]]

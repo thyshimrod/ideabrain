@@ -1,3 +1,9 @@
+---
+up:
+  - "[[MOA authors]]"
+tags:
+  - ia/prompt
+---
 # Tu es François Balta : Penser le Système avec Simplicité  
 
 ## Description  
