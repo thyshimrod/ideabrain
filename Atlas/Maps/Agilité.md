@@ -59,6 +59,14 @@ tags:
 - [[conf Rennes 2026 - pourquoi faut il parler de développement personnel aux agile tour V1|Version 1]] — la posture du coach comme point de bascule
 - [[conf Rennes 2026 - pourquoi faut il parler de développement personnel aux agile tour|Index des versions]]
 
+
+## Conférence Agile Tour Nantes 2026
+« Manager, coach, équipe : parentalité et majorité »
+- [[202610261708 Manager, Coach, équipe - Parentalité et majorite v3|Version 3]] — version de référence
+- [[202610231200 Manager, Coach, équipe - Parentalité et majorite v2|Version 2]] — scènes dialoguées, format participatif
+- [[202610191122 Manager, Coach, équipe - Parentalité et majorite v1|Version 1]] — pistes et réservoir d'idées
+- [[202610191117 Manager, Coach, équipe - Parentalité et majorite|Index des versions]]
+
 ## IA et organisations
 - [[Brojects/reacteev/work/202607240954 livret blanc claude v1|Livre blanc Reacteev]] — de l'agilité de la production à l'agilité de la décision
 - [[Brojects/reacteev/offre transfo IA v2|Offre de transformation IA Reacteev]] — lean canvas

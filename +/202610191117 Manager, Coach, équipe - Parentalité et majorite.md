@@ -1,0 +1,3 @@
+- [[202610261708 Manager, Coach, équipe - Parentalité et majorite v3|Version 3]] — version de référence (théorie puis décryptage, sans atelier, 50 min)
+- [[202610231200 Manager, Coach, équipe - Parentalité et majorite v2|Version 2]] — scènes dialoguées et format participatif
+- [[202610191122 Manager, Coach, équipe - Parentalité et majorite v1|Version 1]] — pistes, relecture critique et réservoir d'idées

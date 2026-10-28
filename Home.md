@@ -85,10 +85,10 @@ type: map
 > ![[dragon.png|300]]
 >
 > **Comprendre** — [[Enneagramme]] · [[Spirale Dynamique]] · [[Integral]] · [[Développement vertical]] · [[Pensée plate et complexité]]
-> **Accompagner** — [[Coaching]] · [[CNV]] · [[Jeux Psychologiques|Analyse transactionnelle]] · [[Approches thérapeutiques]] · [[Atlas/Maps/Hypnose|Hypnose]] · [[Love coaching (formation)|Love coaching]]
+> **Accompagner** — [[Coaching]] · [[CNV]] · [[Analyse transactionnelle]] · [[Approches thérapeutiques]] · [[Atlas/Maps/Hypnose|Hypnose]] · [[Love coaching (formation)|Love coaching]]
 > **Grandir et vivre** — [[Développement personnel]] · [[Honte, culpabilité et colère]] · [[Blessures de l'âme]] · [[Couple]] · [[Pratique de vie intégrale]] · [[Productivité et loi du temps]] · [[Santé et alimentation]] · [[Moi - biographie et introspection|Moi]] · [[Citations]]
 > **Créer** — [[SoloPreneur MAP]] · [[Publications]] · [[Contenus]] · [[Prompting et IA]] · [[Agilité|Agilité et organisations]] · [[Communautés et communs]]
-> **Méta** — [[ZKN]] · [[Efforts]] · [[Exploration]]
+> **Méta** — [[ZKN]] · [[Efforts]] · [[Exploration]] · [[Analyses]]
 
 > [!Calendar]- # 📅 Calendar
 > > *What's on your mind?*
