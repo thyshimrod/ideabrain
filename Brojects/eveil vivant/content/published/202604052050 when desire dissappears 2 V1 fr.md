@@ -1,16 +1,17 @@
 ---
 type: article
-statut: publie
+statut: travail
 projet: eveil-vivant
 serie: desir
 oeuvre: Quand le désir disparaît 2
 langue: fr
-plateforme: substack-fr
-reference: true
+reference: false
 tags:
   - couple/desir
   - integral
   - couple
+version: travail
+publie: false
 ---
 
 ## Quand le désir disparaît (2) :

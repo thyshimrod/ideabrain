@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: Brisez les chaînes de la pensée plate
@@ -9,6 +9,9 @@ tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: travail
+publie: false
+reference: false
 ---
 
 Tu as défragmenté le texte, mais je pense qu'il faut trouver un entre deux. Car là on a un article un peu dense. Je veux bien, quelques éléments de pathos en mode fragmenté, pour rendre cela plus simple à lire.

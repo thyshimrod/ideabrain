@@ -1,5 +1,5 @@
 ---
-type: publication
+type: presentation-auteur
 statut: brouillon
 projet: livre-remise-en-jeu
 oeuvre: Remise en jeu — présentation de l'auteur
@@ -10,6 +10,8 @@ statut_detail: "brouillon v1 (version longue Amazon / Author Central, version co
 tags:
   - publication
   - auteur
+livre: "[[Remise en jeu - manuscrit v3]]"
+version: finale
 ---
 
 # Présentation de l'auteur

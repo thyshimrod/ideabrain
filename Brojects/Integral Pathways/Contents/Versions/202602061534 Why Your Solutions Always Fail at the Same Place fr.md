@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: Pourquoi vos solutions échouent au même endroit
@@ -9,6 +9,9 @@ tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: travail
+publie: false
+reference: false
 ---
 
 # Pourquoi Vos Solutions Échouent Toujours au Même Endroit

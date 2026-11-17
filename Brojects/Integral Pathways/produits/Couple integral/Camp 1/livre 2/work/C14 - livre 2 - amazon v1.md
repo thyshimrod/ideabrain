@@ -1,5 +1,5 @@
 ---
-type: publication
+type: fiche-amazon
 statut: brouillon
 projet: livre-remise-en-jeu
 oeuvre: Remise en jeu — fiche Amazon
@@ -10,6 +10,8 @@ statut_detail: "brouillon v1 (mots-clés KDP + description)"
 tags:
   - publication
   - amazon
+livre: "[[Remise en jeu - manuscrit v3]]"
+version: finale
 ---
 
 # Fiche Amazon KDP — Remise en jeu

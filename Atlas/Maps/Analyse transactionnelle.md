@@ -71,6 +71,10 @@ Une façon d'échanger qui s'est répétée jusqu'à devenir la norme, née d'un
 - [[guide complet|Guide Which Role]] : Sauveur, Persécuteur, Victime, la bascule
 - [[Remise en jeu - manuscrit|Remise en jeu]] : le livre 2, le couplage
 
+## Idées en exploration
+- [[202611151804 Le rituel du bonjour - soin, angoisse ou contrôle]] : ce que révèle un rituel quotidien du couple quand on l’arrête
+- [[202611151111 Le contrat de relation à renégocier]] : la crise comme signal d’un contrat implicite périmé
+
 > [!Box]+ Articles et contenus AT (versions de référence)
 > ```dataview
 > TABLE WITHOUT ID file.link AS "Contenu", type AS "Type", serie AS "Série", langue AS "Langue", statut AS "Statut"

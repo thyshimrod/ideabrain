@@ -1,15 +1,17 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: "Créer les conditions sans forcer l'ouverture"
 langue: fr
-reference: true
+reference: false
 tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: travail
+publie: false
 ---
 
 # Créer les conditions sans forcer l'ouverture

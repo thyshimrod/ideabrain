@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: taquinerie
 oeuvre: "Celui qui n'a pas peur"
 langue: fr
-reference: true
+reference: false
 tags:
   - couple
   - relation
   - at
   - emotions/honte
+version: travail
+publie: false
 ---
 
 # Celui qui n'a pas peur

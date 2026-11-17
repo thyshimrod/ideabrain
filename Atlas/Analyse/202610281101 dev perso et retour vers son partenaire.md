@@ -1,4 +1,13 @@
 ---
+type: idee-brute
+statut: analysee
+synthese: "[[202611151803 Le retour vers le partenaire]]"
+up:
+  - "[[202611151803 Le retour vers le partenaire]]"
+tags:
+  - couple
+  - relation
+  - devperso/changement
 analyse: faite
 analyse_note: "[[202610281108 Le retour au couple - analyse]]"
 analyse_date: 2026-10-28

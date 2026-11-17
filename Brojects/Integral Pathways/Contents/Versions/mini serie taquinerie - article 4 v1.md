@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: taquinerie
 oeuvre: Je ne transige pas là-dessus
@@ -11,6 +11,10 @@ tags:
   - relation
   - at
   - emotions/honte
+version: finale
+publie: true
+plateforme: substack-en
+a_verifier: "version anglaise publiée non retrouvée dans le vault"
 ---
 
 # Je ne transige pas là-dessus

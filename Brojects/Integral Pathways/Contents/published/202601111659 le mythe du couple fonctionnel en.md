@@ -11,6 +11,8 @@ tags:
   - couple
   - penseeplate
   - relation
+version: finale
+publie: true
 ---
 
 # The Myth of the Functional Couple:

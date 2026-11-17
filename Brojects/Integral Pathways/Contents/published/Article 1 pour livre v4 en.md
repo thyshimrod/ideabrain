@@ -12,6 +12,8 @@ tags:
   - at/karpman
   - couple
   - cnv
+version: finale
+publie: true
 ---
 
 # It's not the washing machine you picked back up.

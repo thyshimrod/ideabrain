@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: grandir
 oeuvre: Grandir sans témoin
@@ -10,6 +10,8 @@ tags:
   - couple
   - at
   - cnv
+version: travail
+reference: false
 ---
 
 # 10 notes Substack autonomes

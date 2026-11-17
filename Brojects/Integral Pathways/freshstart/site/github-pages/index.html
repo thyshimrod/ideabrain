@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Pascal Ogil, coach de couple et auteur. La relation comme un chemin pour grandir, seul et à deux.">
+<meta property="og:title" content="Pascal Ogil">
+<meta property="og:description" content="La relation comme un chemin pour grandir, seul et à deux.">
+<meta property="og:type" content="website">
+<title>Pascal Ogil</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;1,500&family=Lato:wght@400;700&display=swap">
+<style>
+/* Layout : une page de lecture calme, colonne centrale ; deux voix (sarcelle et rouille, comme les couvertures des livres), fond clair et chaleureux pour les deux partenaires des scènes. */
+:root{
+  /* Une seule ambiance, claire et chaleureuse : le papier des couvertures, le sarcelle et la rouille des deux silhouettes, l'or du chemin. */
+  --bg:#fcf9f4;
+  --surface:#f6ede4;
+  --glow:#fbe7c6;
+  --ink:#3b2a30;
+  --title:#5e2638;
+  --muted:#6f6166;
+  --line:#ead9cc;
+  --voice-a:#2f6f71;
+  --voice-b:#b45f36;
+  --voice-a-soft:#e1eeec;
+  --voice-b-soft:#f8e3d6;
+  --gold:#e9b547;
+  --font-display:"Lora", "Georgia", "Times New Roman", serif;
+  --font-body:"Lato", "Segoe UI", system-ui, sans-serif;
+  --font-mono:"Lato", "Segoe UI", system-ui, sans-serif;
+  --step--1:0.875rem; --step-0:1.0625rem; --step-1:1.3rem; --step-2:1.7rem; --step-3:2.2rem; --step-4:clamp(2.1rem, 4.6vw, 3.2rem);
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+body{margin:0}
+img{max-width:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:var(--step-0);line-height:1.6}
+.wrap{max-width:68rem;margin:0 auto;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+a{color:var(--voice-a);text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--voice-b);outline-offset:3px;border-radius:2px}
+h1,h2,h3{font-family:var(--font-display);font-weight:600;color:var(--title);line-height:1.15;text-wrap:balance;margin:0}
+p{margin:0}
+.label{font-family:var(--font-body);font-weight:700;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--voice-b)}
+
+.draft{background:var(--voice-b-soft);color:var(--ink);font-size:var(--step--1);text-align:center}
+.draft .wrap{padding-block:8px}
+
+header.top{border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 24px;padding-block:18px}
+.brand{font-family:var(--font-display);font-weight:600;font-size:var(--step-1);color:var(--title);text-decoration:none}
+nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 20px}
+nav a{color:var(--muted);text-decoration:none;font-size:var(--step--1)}
+nav a:hover{color:var(--ink)}
+
+.hero{background:radial-gradient(ellipse 70% 90% at 85% 40%, var(--glow), transparent 70%), linear-gradient(180deg, var(--bg), var(--surface))}
+.hero .wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center;padding-block:64px 56px}
+.hero h1{font-size:var(--step-4);margin-block:14px 20px}
+.hero .lede{font-size:var(--step-1);color:var(--muted);max-width:36rem}
+.cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.btn{display:inline-block;padding:12px 22px;border-radius:999px;font-weight:700;text-decoration:none;border:1px solid var(--voice-a)}
+.btn.primary{background:var(--voice-b);border-color:var(--voice-b);color:#fff}
+.btn.ghost{color:var(--voice-a)}
+
+.scene{display:flex;flex-direction:column;gap:12px;min-width:0}
+.line{max-width:85%;padding:12px 18px;border-radius:18px;font-size:var(--step-1);font-family:var(--font-display);font-style:italic;box-shadow:0 2px 10px rgba(94,38,56,.06)}
+.line.a{align-self:flex-start;background:var(--voice-a-soft);color:var(--voice-a);border-bottom-left-radius:4px}
+.line.b{align-self:flex-end;background:var(--voice-b-soft);color:var(--voice-b);border-bottom-right-radius:4px}
+.scene .caption{margin-top:6px;color:var(--muted);font-size:var(--step--1)}
+
+section.block .wrap{padding-block:56px;display:grid;gap:28px}
+section.block + section.block .wrap{border-top:1px solid var(--line)}
+.block h2{font-size:var(--step-3)}
+.intro{max-width:42rem;color:var(--muted)}
+
+.principles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.principles h3{font-size:var(--step-1);margin-bottom:8px}
+.principles p{color:var(--muted)}
+
+.zone{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+.zone > div{min-width:0}
+.zone p + p{margin-top:12px}
+.limit{background:var(--surface);border-radius:12px;padding:22px 24px}
+.limit h3{font-size:var(--step-1);margin-bottom:8px}
+
+.degrees{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:4px}
+.degree{border-top:3px solid var(--line);padding-top:12px}
+.degree.in{border-top-color:var(--voice-a)}
+.degree.out{border-top-color:var(--line)}
+.degree strong{display:block;font-weight:600}
+.degree span{color:var(--muted);font-size:var(--step--1)}
+
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:20px 32px}
+.tools dt{font-weight:700}
+.tools dd{margin:2px 0 0;color:var(--muted)}
+
+.books{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:24px}
+.book{display:flex;flex-direction:column;gap:8px;min-width:0}
+.cover-img{width:100%;max-width:100%;height:auto;aspect-ratio:600/856;object-fit:cover;border-radius:4px;box-shadow:0 1px 2px rgba(0,0,0,.12),0 6px 18px rgba(0,0,0,.10);background:var(--surface)}
+.cover{aspect-ratio:600/856;max-width:100%;border-radius:4px;display:flex;align-items:flex-end;padding:16px;font-family:var(--font-display);font-size:var(--step-2);line-height:1.1}
+.cover.c1{background:var(--voice-a);color:var(--bg)}
+.cover.c2{background:var(--voice-b);color:var(--bg)}
+.cover.c3{background:linear-gradient(160deg, var(--voice-a-soft), var(--voice-b-soft));color:var(--title);border:1px solid var(--line)}
+.cover.c4{background:var(--ink);color:var(--bg)}
+.book h3{font-size:var(--step-1)}
+.book p{color:var(--muted);font-size:var(--step--1)}
+.book .meta{font-size:var(--step--1);color:var(--muted)}
+
+.channels{display:grid;grid-template-columns:repeat(auto-fit,minmax(13rem,1fr));gap:16px}
+.channel{border:1px solid var(--line);border-radius:12px;padding:18px 20px;min-width:0}
+.channel strong{display:block}
+.channel span{color:var(--muted);font-size:var(--step--1);overflow-wrap:anywhere}
+
+.quiz{background:linear-gradient(135deg, var(--voice-a-soft), var(--glow));border-radius:16px;padding:32px;display:grid;gap:12px}
+.quiz h2{color:var(--voice-a)}
+
+.about{display:grid;grid-template-columns:14rem 1fr;gap:32px;align-items:start}
+.portrait-img{width:100%;max-width:14rem;height:auto;border-radius:12px;object-fit:cover}
+.portrait{aspect-ratio:4/5;max-width:100%;border-radius:12px;background:var(--surface);border:1px dashed var(--line);display:grid;place-items:center;color:var(--muted);font-size:var(--step--1);text-align:center;padding:12px}
+.about p + p{margin-top:14px}
+.contact{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px}
+.email{font-family:var(--font-body);font-weight:700;font-size:var(--step-0);color:var(--voice-a);user-select:all;overflow-wrap:anywhere}
+.about .creds{font-size:var(--step--1);color:var(--muted)}
+
+footer .wrap{border-top:1px solid var(--line);padding-block:28px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;color:var(--muted);font-size:var(--step--1)}
+
+@media (max-width:760px){
+  .hero{background:radial-gradient(ellipse 70% 90% at 85% 40%, var(--glow), transparent 70%), linear-gradient(180deg, var(--bg), var(--surface))}
+.hero .wrap{grid-template-columns:1fr;gap:32px;padding-block:40px}
+  .principles,.zone,.degrees{grid-template-columns:1fr}
+  .about{grid-template-columns:1fr}
+  .portrait-img{width:100%;max-width:14rem;height:auto;border-radius:12px;object-fit:cover}
+.portrait,.portrait-img{max-width:12rem}
+  .quiz{padding:24px}
+}
+@media (prefers-reduced-motion:no-preference){
+  .btn{transition:background-color .15s ease,color .15s ease}
+  .btn.ghost:hover{background:var(--voice-a-soft)}
+}
+</style>
+</head>
+<body>
+
+
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#top">Pascal Ogil</a>
+    <nav aria-label="Navigation principale">
+      <ul>
+        <li><a href="#demarche">La démarche</a></li>
+        <li><a href="#chemins">Les chemins</a></li>
+        <li><a href="#pour-qui">Pour qui</a></li>
+        <li><a href="#livres">Les livres</a></li>
+        <li><a href="#videos">Les vidéos</a></li>
+        <li><a href="#qui-suis-je">Qui suis-je</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <p class="label">Couple · relation · développement</p>
+        <h1>La relation comme un chemin pour grandir, seul et à deux.</h1>
+        <p class="lede">Comprendre ce qui se joue entre vous, en commençant par ta propre place, pour choisir ce que vous voulez vivre. Sans chercher de coupable, et sans recette.</p>
+        <div class="cta">
+          <a class="btn primary" href="#chemins">Voir les chemins</a>
+          <a class="btn ghost" href="#videos">Voir les vidéos</a>
+        </div>
+      </div>
+      <figure class="scene" aria-label="Exemple de scène">
+        <p class="line a">« C'est quel programme ? »</p>
+        <p class="line b">« Laisse, je vais le faire. »</p>
+        <p class="line b">« De toute façon, c'est toujours moi qui fais tout. »</p>
+        <figcaption class="caption">Une scène ordinaire, deux rôles, un jeu que les deux connaissent par cœur. C'est souvent par là que le chemin commence.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="block" id="demarche">
+    <div class="wrap">
+      <div>
+        <p class="label">La démarche</p>
+        <h2>Voir ce qui se joue, puis choisir autrement</h2>
+      </div>
+      <p class="intro">La plupart des tensions dans un couple ne viennent pas d'un manque d'amour. Elles viennent de scénarios qui se répètent, que personne n'a choisis et que chacun entretient. Je propose une paire de lunettes pour les voir.</p>
+      <div class="principles">
+        <div>
+          <h3>Deux co-auteurs</h3>
+          <p>Dans une dispute qui revient, il n'y a pas un coupable et une victime. Il y a deux personnes qui tiennent chacune un rôle, et qui y gagnent toutes les deux quelque chose.</p>
+        </div>
+        <div>
+          <h3>Commencer par soi</h3>
+          <p>On ne change pas l'autre. On peut changer sa propre place dans la scène, et initier ainsi le mouvement pour son couple. À un moment, le jeu se joue à deux.</p>
+        </div>
+        <div>
+          <h3>De la profondeur, sans jargon</h3>
+          <p>Derrière chaque scène, il y a des modèles solides. Ils restent en arrière-plan : ce qui compte, c'est que tu te reconnaisses et que tu comprennes.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="chemins">
+    <div class="wrap">
+      <div>
+        <p class="label">Les chemins</p>
+        <h2>Six territoires, autant de portes d'entrée</h2>
+      </div>
+      <p class="intro">Un couple n'avance pas par étapes. Il vit plusieurs chantiers à la fois. Chacun peut commencer par celui qui le concerne aujourd'hui.</p>
+      <dl class="tools">
+        <div><dt>Sortir des jeux</dt><dd>Les disputes qui reviennent, les rôles figés, ce qu'on rejoue sans le voir.</dd></div>
+        <div><dt>Ce qu'on n'ose pas dire</dt><dd>La honte et les silences qui organisent la relation sans qu'on les nomme.</dd></div>
+        <div><dt>Ce qui vient d'avant</dt><dd>Les héritages familiaux et l'attachement, qui se rejouent avec le partenaire.</dd></div>
+        <div><dt>Exister à deux</dt><dd>Garder sa place sans s'effacer ni imposer, et se rencontrer vraiment.</dd></div>
+        <div><dt>Le désir</dt><dd>Ce qui l'éteint, ce qui le laisse revenir, le corps et l'intimité.</dd></div>
+        <div><dt>Le sens</dt><dd>Ce que le couple construit au-delà de lui-même, et ce qu'il apporte au monde.</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="block" id="pour-qui">
+    <div class="wrap">
+      <div>
+        <p class="label">Pour qui</p>
+        <h2>Pas en crise. Pas tout à fait bien non plus.</h2>
+      </div>
+      <div class="zone">
+        <div>
+          <p>Tu vis en couple depuis des années. Il n'y a pas de drame, mais il y a des disputes qui reviennent, des rôles qui se sont figés, ou cette impression de vivre à côté de l'autre plutôt qu'avec lui.</p>
+          <p>Tu as peut-être lu, fait une thérapie, un coaching. Tu comprends beaucoup de choses. Et tu te retrouves quand même dans les mêmes scènes. C'est souvent seul qu'on commence à chercher, et c'est très bien ainsi.</p>
+        </div>
+        <div class="limit">
+          <h3>Ce que je n'accompagne pas</h3>
+          <p>Les ruptures en cours et les situations de violence demandent un autre cadre. Dans ces cas, je t'oriente vers un thérapeute de couple ou un médiateur.</p>
+          <div class="degrees" aria-label="Les trois degrés de jeu">
+            <div class="degree in"><strong>1er degré</strong><span>Les petits jeux du quotidien</span></div>
+            <div class="degree in"><strong>2e degré</strong><span>Ce qui pèse et s'installe</span></div>
+            <div class="degree out"><strong>3e degré</strong><span>Rupture, violence : un autre accompagnement</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="outils">
+    <div class="wrap">
+      <div>
+        <p class="label">Mes outils</p>
+        <h2>Plusieurs grilles pour lire une même scène</h2>
+      </div>
+      <dl class="tools">
+        <div><dt>Analyse transactionnelle</dt><dd>Les jeux psychologiques, les rôles qu'on prend sans les choisir, les états du moi.</dd></div>
+        <div><dt>Communication non violente</dt><dd>Le besoin caché derrière le reproche, et une façon de le dire sans attaquer ni céder.</dd></div>
+        <div><dt>Ennéagramme</dt><dd>Les stratégies que chacun a construites tôt, et ce qu'elles produisent à deux.</dd></div>
+        <div><dt>Développement adulte</dt><dd>Spirale dynamique et Kegan : une même scène ne se vit pas de la même façon selon le chemin parcouru.</dd></div>
+        <div><dt>Love coaching</dt><dd>Un cadre d'accompagnement centré sur la relation amoureuse.</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="block" id="livres">
+    <div class="wrap">
+      <div>
+        <p class="label">Les livres</p>
+        <h2>Pour comprendre seul, à ton rythme</h2>
+      </div>
+      <div class="books">
+        <article class="book">
+          <img class="cover-img" src="assets/livre-hors-jeu.jpg" alt="Couverture du livre Hors Jeu : deux silhouettes assises face à face" width="600" height="856" loading="lazy">
+          <h3>Hors Jeu / Out of the Game</h3>
+          <p>Six scènes ordinaires, six jeux qui transforment une simple discussion en conflit répétitif, et des portes pour en sortir.</p>
+          <p class="meta"><a href="https://www.amazon.fr/Hors-Jeu-r%C3%A9p%C3%A9titifs-concr%C3%A8tes-r%C3%A9inventer/dp/B0GXJWNS1S" target="_blank" rel="noopener">En français</a> · <a href="https://www.amazon.fr/Out-Game-scenes-ordinary-couple/dp/B0GYZ9ZNCB" target="_blank" rel="noopener">In English</a></p>
+        </article>
+        <article class="book">
+          <img class="cover-img" src="assets/livre-remise-en-jeu.jpg" alt="Couverture du livre Remise en jeu : deux silhouettes sur un canapé, tournées chacune de leur côté" width="600" height="856" loading="lazy">
+          <h3>Remise en jeu</h3>
+          <p>Quand le couple glisse vers la colocation : les jeux qui ne se voient pas, chez les couples qui ne se disputent plus.</p>
+          <p class="meta">Sortie le 21 novembre 2026</p>
+        </article>
+        <article class="book">
+          <div class="cover c3">Which Role?</div>
+          <h3>Which Role Are You Playing Right Now?</h3>
+          <p>Un guide court pour repérer son rôle préféré dans les jeux du couple, et le signal qui dit qu'on y est entré.</p>
+          <p class="meta">Guide en anglais · <a href="https://pascalogil.gumroad.com/l/ofhct" target="_blank" rel="noopener">Gumroad</a></p>
+        </article>
+        <article class="book">
+          <img class="cover-img" src="assets/livre-dispersion-joie-ancree.jpg" alt="Couverture du livre De la dispersion à la joie ancrée" width="600" height="852" loading="lazy">
+          <h3>De la dispersion à la joie ancrée</h3>
+          <p>L'épicurien en chemin : le type 7 de l'ennéagramme, raconté de l'intérieur.</p>
+          <p class="meta"><a href="https://www.amazon.fr/dispersion-grounded-joy-Enneatype-epicurian/dp/B0GC95TD5S" target="_blank" rel="noopener">Sur Amazon</a></p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="videos">
+    <div class="wrap">
+      <div>
+        <p class="label">Les vidéos</p>
+        <h2>Une minute pour voir autrement</h2>
+      </div>
+      <p class="intro">Des vidéos courtes : une scène du quotidien, une notion, une part de mon histoire. Chaque fois, ce qui se joue derrière, et une question à emporter.</p>
+      <div class="channels">
+        <div class="channel"><strong>Instagram</strong><span><a href="https://www.instagram.com/pascal_coach_de_coeur/" target="_blank" rel="noopener">@pascal_coach_de_coeur</a></span></div>
+        <div class="channel"><strong>TikTok</strong><span><a href="https://www.tiktok.com/@pascal.ogil.coach" target="_blank" rel="noopener">@pascal.ogil.coach</a></span></div>
+        <div class="channel"><strong>YouTube</strong><span><a href="https://www.youtube.com/@MrThyshimrod" target="_blank" rel="noopener">@MrThyshimrod</a> (vidéos longues)</span></div>
+        <div class="channel"><strong>Substack</strong><span><a href="https://integralpathways.substack.com/" target="_blank" rel="noopener">Integral Pathways</a> (articles de fond, en anglais)</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="questionnaire">
+    <div class="wrap">
+      <div class="quiz">
+        <p class="label">Bientôt</p>
+        <h2>Dans quelle scène est ton couple ?</h2>
+        <p>Un court questionnaire pour repérer le jeu qui revient le plus souvent chez vous, et savoir par où commencer.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="qui-suis-je">
+    <div class="wrap">
+      <div>
+        <p class="label">Qui suis-je</p>
+        <h2>Pascal Ogil</h2>
+      </div>
+      <div class="about">
+        <img class="portrait-img" src="assets/pascal-ogil.jpg" alt="Pascal Ogil, souriant, avec une écharpe orange" width="221" height="242">
+        <div>
+          <p>Pendant des années, c'est moi qui expliquais à ma compagne comment faire les choses. Quand elle a commencé à s'affirmer, mon confort d'avoir raison s'est effondré. Ce rééquilibrage nous a allégés tous les deux, et il est au cœur de ce que je transmets.</p>
+          <p>Je suis coach depuis de nombreuses années, auprès de personnes, d'équipes et d'organisations. J'ai vu partout les mêmes mécanismes : des rôles qu'on n'a pas choisis, des jeux qui se répètent, des besoins qu'on n'ose pas dire. Le couple est l'endroit où ils pèsent le plus, et où ils peuvent le plus changer.</p>
+          <p class="creds">Coach professionnel certifié (RNCP niveau 6) · Technicien en ennéagramme · Love coach certifié · Auteur de trois livres</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="accompagnement">
+    <div class="wrap">
+      <div>
+        <p class="label">Accompagnement</p>
+        <h2>Aller plus loin, quand tu seras prêt</h2>
+      </div>
+      <p class="intro">Les accompagnements individuels ouvriront prochainement. En attendant, tu peux m'écrire.</p>
+      <p class="contact"><span class="label">Contact</span> <span class="email" data-u="thyshimrod" data-d="gmail" data-t="com">thyshimrod [at] gmail [point] com</span></p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Pascal Ogil · Coach de couple</span>
+    <span>© 2026 Pascal Ogil</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var el=document.querySelector('.email[data-u]');
+  if(!el) return;
+  var addr=el.dataset.u+'@'+el.dataset.d+'.'+el.dataset.t;
+  var a=document.createElement('a');
+  a.href='mailto:'+addr; a.textContent=addr; a.className='email';
+  el.replaceWith(a);
+})();
+</script>
+
+</body>
+</html>

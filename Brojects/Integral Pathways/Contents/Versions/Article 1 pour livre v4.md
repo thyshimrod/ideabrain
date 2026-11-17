@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: livre-hors-jeu
 serie: livre-hors-jeu
 oeuvre: "Ce n'est pas la machine que tu as reprise"
 langue: fr
-reference: true
+reference: false
 tags:
   - at/jeux
   - at/karpman
   - couple
   - cnv
+version: travail
+publie: false
 ---
 
 # Ce n'est pas la machine que tu as reprise.

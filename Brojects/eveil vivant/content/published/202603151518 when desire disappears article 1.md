@@ -1,16 +1,17 @@
 ---
 type: article
-statut: publie
+statut: travail
 projet: eveil-vivant
 serie: desir
 oeuvre: Quand le désir disparaît 1
 langue: fr
-plateforme: substack-fr
-reference: true
+reference: false
 tags:
   - couple/desir
   - integral
   - couple
+version: travail
+publie: false
 ---
 
 Voici une traduction qui respecte la précision conceptuelle de l'approche Intégrale (AQAL) et la profondeur psychologique du texte original :

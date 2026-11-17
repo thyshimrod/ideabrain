@@ -10,6 +10,8 @@ reference: true
 tags:
   - enneagramme
   - penseeplate
+version: finale
+publie: true
 ---
 
 # The Enneagram: Moving Beyond Flat Thinking to Mirror and Transform Failure

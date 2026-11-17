@@ -1,16 +1,17 @@
 ---
 type: article
-statut: publie
+statut: travail
 projet: eveil-vivant
 serie: pensee-plate
 oeuvre: Comprendre les quadrants AQAL
 langue: fr
-plateforme: substack-fr
-reference: true
+reference: false
 tags:
   - integral/aqal
   - integral
   - penseeplate
+version: travail
+publie: false
 ---
 
 # Comprendre les Quadrants AQAL : Transformez Vos Échecs Quotidiens et Professionnels en Victoires Intégrales

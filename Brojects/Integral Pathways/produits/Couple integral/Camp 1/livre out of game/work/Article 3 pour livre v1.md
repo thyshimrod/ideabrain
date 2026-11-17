@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: livre-hors-jeu
 serie: livre-hors-jeu
 oeuvre: "Tu as résolu un problème qui n'existait pas"
 langue: fr
-reference: true
+reference: false
 tags:
   - at/jeux
   - at/karpman
   - couple
   - cnv
+version: travail
+publie: false
 ---
 
 # Tu as résolu un problème qui n'existait pas.

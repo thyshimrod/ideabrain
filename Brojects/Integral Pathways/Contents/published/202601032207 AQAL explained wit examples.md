@@ -11,6 +11,8 @@ tags:
   - integral/aqal
   - integral
   - penseeplate
+version: finale
+publie: true
 ---
 
 ### Understanding AQAL Quadrants: Transform Your Daily and Professional Failures into Integral Victories

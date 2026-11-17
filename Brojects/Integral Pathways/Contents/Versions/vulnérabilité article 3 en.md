@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: Ce que tu crois lire chez lui
@@ -10,6 +10,9 @@ tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 

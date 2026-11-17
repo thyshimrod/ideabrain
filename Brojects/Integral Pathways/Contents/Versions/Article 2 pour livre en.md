@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: livre-hors-jeu
 serie: livre-hors-jeu
 oeuvre: La dispute a commencé avant que tu rentres
@@ -13,6 +13,9 @@ tags:
   - at/karpman
   - couple
   - cnv
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 

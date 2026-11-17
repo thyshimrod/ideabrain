@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: guide-roles
 serie: guide-roles
 oeuvre: "You've stopped asking. You call it wisdom."
@@ -9,6 +9,8 @@ tags:
   - at/karpman
   - couple
   - devperso
+version: travail
+reference: false
 ---
 
 L'article 4 c'est _"You've stopped asking. You call it wisdom."_ — la Victime cultivée.

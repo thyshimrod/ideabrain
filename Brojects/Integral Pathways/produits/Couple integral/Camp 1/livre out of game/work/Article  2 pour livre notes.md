@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: livre-hors-jeu
 serie: livre-hors-jeu
 oeuvre: La dispute a commencé avant que tu rentres
@@ -10,6 +10,8 @@ tags:
   - at/karpman
   - couple
   - cnv
+version: travail
+reference: false
 ---
 
 # Substack Notes — Article 2

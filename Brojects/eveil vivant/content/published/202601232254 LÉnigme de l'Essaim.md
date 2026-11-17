@@ -1,16 +1,17 @@
 ---
 type: article
-statut: publie
+statut: travail
 projet: eveil-vivant
 serie: pensee-plate
 oeuvre: "L'énigme de l'essaim"
 langue: fr
-plateforme: substack-fr
-reference: true
+reference: false
 tags:
   - integral/ombre
   - penseeplate
   - integral
+version: travail
+publie: false
 ---
 
 Voici la traduction en français :

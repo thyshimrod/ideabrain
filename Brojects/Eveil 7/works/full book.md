@@ -8,6 +8,8 @@ tags:
   - enneagramme
   - enneagramme/type7
   - devperso
+version: travail
+reference: false
 ---
 
 ### Chapitre 1 : Découverte de l’Ennéagramme : Origines et Unicité

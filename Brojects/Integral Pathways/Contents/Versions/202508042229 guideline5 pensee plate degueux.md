@@ -1,6 +1,6 @@
 ---
 type: article
-statut: abandonne
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: Brisez les chaînes de la pensée plate
@@ -9,6 +9,9 @@ tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: travail
+publie: false
+reference: false
 ---
 
 # Unleash Your Chaos: Turn Failures Into Your Forge

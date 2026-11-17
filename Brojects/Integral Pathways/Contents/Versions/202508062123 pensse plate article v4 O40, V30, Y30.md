@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: Brisez les chaînes de la pensée plate
@@ -9,6 +9,9 @@ tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: travail
+publie: false
+reference: false
 ---
 
 # Brisez les chaînes de la pensée plate : forgez votre succès vivant

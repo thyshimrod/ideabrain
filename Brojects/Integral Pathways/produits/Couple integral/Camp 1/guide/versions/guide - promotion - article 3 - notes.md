@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: guide-roles
 serie: guide-roles
 oeuvre: You never raise your voice. You just keep score.
@@ -9,6 +9,8 @@ tags:
   - at/karpman
   - couple
   - devperso
+version: travail
+reference: false
 ---
 
 **Note 0 — Annonce de publication**

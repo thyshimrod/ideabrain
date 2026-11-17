@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: taquinerie
 oeuvre: Au lieu de piquer
@@ -11,6 +11,9 @@ tags:
   - relation
   - at
   - emotions/honte
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 

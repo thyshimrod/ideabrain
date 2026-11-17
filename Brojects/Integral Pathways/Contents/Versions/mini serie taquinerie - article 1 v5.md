@@ -1,17 +1,19 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: taquinerie
 oeuvre: "L'art maladroit de blesser ceux qu'on aime"
 langue: fr
-reference: true
+reference: false
 tags:
   - at
   - authenticite
   - couple
   - relation
   - emotions/honte
+version: travail
+publie: false
 ---
 
 

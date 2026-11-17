@@ -85,6 +85,10 @@ tags:
 - Honte, culpabilité, colère
 	- [[202307061431 Shame Guilty Anger|Shame, Guilt and Anger (Liv Larsson)]] — des signaux au service de la vie
 
+## Idées en exploration
+- [[202611151805 La gratitude par le besoin nourri]] : une estime de soi fondée sur la capacité à se nourrir
+- [[202611151147 Renégocier le contrat à partir des besoins]] : relire chaque clause du contrat comme un mélange de besoins, et trier ce que le couple doit porter
+
 ## Mes contenus
 - Écrits
 	- [[202512162311 CNV - ce que m'a permis mon livre|Ce que m'a permis mon livre CNV]]

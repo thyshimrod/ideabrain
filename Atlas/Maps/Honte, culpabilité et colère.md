@@ -63,6 +63,9 @@ tags:
 - [[Shame, Guilty, Anger - Liberté de choix ou dépendance|Liberté de choix ou dépendance]]
 - [[Shame, Guilty, Anger - obeir ou s auto discipliner|Obéir ou s'auto-discipliner]]
 
+## Idées en exploration
+- [[202611151800 La honte qui se montre par le corps]] : le corps comme mise en scène d’une honte non perçue
+
 ## Mes contenus
 - [[202507122145 MOA Honte|MOA Honte]] — la honte, reliquat de l'ère bleue
 - [[202503282215 injustice impuissance MOA|MOA Injustice et impuissance]]

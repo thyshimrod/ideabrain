@@ -125,6 +125,9 @@ Pour aller plus loin : section « Aide pour le 7 » de [[Enneagramme - Intégrat
 - [[202404291038 enneagramme spiritual|Almaas : les Idées saintes]]
 - [[Enneagram Type 8 The Challenger|Clipping : Type 8, The Challenger]]
 
+## Idées en exploration
+- [[202611152245 L'estime du 7 suspendue à l'étincelle dans les yeux de l'autre]] : une estime du 7 suspendue au reflet, et des outils à lire par ce qu'ils font à chaque armure
+
 ## Mes contenus
 - [[MOA Vivre pleinement son 7]] — livre Éveil 7
 - [[L'Ennéagramme - Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs|Article : au-delà de la pensée plate]] — Integral Pathways

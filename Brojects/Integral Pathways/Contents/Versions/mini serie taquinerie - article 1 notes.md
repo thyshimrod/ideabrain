@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: taquinerie
 oeuvre: "L'art maladroit de blesser ceux qu'on aime"
@@ -10,6 +10,8 @@ tags:
   - relation
   - at
   - emotions/honte
+version: travail
+reference: false
 ---
 
 # Notes de soutien — Article 1 : "L'art maladroit de blesser ceux qu'on aime"

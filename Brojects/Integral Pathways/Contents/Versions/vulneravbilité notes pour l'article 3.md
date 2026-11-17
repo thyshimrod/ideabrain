@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: Ce que tu crois lire chez lui
@@ -9,6 +9,8 @@ tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: travail
+reference: false
 ---
 
 Parfait. Je génère les 10 notes directement.

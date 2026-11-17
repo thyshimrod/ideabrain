@@ -36,6 +36,9 @@ tags:
 - [[202512222110 evolution depuis le jaune perso|Évoluer depuis le jaune]] — vers les stades supérieurs de l'EDT
 - [[202609171256 Claude partage des attachements lie a l environnement|Attachements liés à l'environnement]] — mon stade face au contexte BNP
 
+## Idées en exploration
+- [[202611152159 L'indépendance n'est pas l'autosuffisance]] : en Kegan 4, la dépendance devient choisie, pas supprimée ; l'autosuffisance est l'ombre du stade
+
 > [!Box]- Notes taguées pas encore listées ici
 > ```dataview
 > TABLE WITHOUT ID file.link AS "Note", file.folder AS "Dossier"

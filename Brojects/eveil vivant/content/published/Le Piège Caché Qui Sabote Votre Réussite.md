@@ -1,16 +1,17 @@
 ---
 type: article
-statut: publie
+statut: travail
 projet: eveil-vivant
 serie: causalite-simple
 oeuvre: Le piège caché
 langue: fr
-plateforme: substack-fr
-reference: true
+reference: false
 tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: travail
+publie: false
 ---
 
 # Le Piège Caché Qui Sabote Votre Réussite

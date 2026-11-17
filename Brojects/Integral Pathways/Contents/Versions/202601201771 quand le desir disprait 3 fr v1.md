@@ -1,15 +1,17 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: desir
 oeuvre: Quand le désir disparaît 3
 langue: fr
-reference: true
+reference: false
 tags:
   - couple/desir
   - integral
   - couple
+version: travail
+publie: false
 ---
 
 

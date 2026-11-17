@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: taquinerie
 oeuvre: Au lieu de piquer
 langue: fr
-reference: true
+reference: false
 tags:
   - couple
   - relation
   - at
   - emotions/honte
+version: travail
+publie: false
 ---
 
 # Au lieu de piquer

@@ -13,6 +13,7 @@ tags:
   - agile/transformation
   - ia
   - business
+version: travail
 ---
 ---
 title: "L'AGILITÉ À L'ÈRE DE L'IA : GOUVERNANCE, RENTABILITÉ ET HUMANITÉ"

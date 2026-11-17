@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: desir
 oeuvre: Quand le désir disparaît 2
@@ -10,6 +10,9 @@ tags:
   - couple/desir
   - integral
   - couple
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 Voici une **proposition d’article de fond**, explicitement conçue comme **la suite directe** de  

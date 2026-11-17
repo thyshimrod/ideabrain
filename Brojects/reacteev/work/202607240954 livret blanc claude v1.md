@@ -9,6 +9,7 @@ tags:
   - agile/transformation
   - ia
   - business
+version: finale
 ---
 
 # Livre blanc

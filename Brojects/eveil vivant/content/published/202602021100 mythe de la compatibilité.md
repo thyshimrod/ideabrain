@@ -1,16 +1,17 @@
 ---
 type: article
-statut: publie
+statut: travail
 projet: eveil-vivant
 serie: trilogie-couple
 oeuvre: Le mythe de la compatibilité
 langue: fr
-plateforme: substack-fr
-reference: true
+reference: false
 tags:
   - couple
   - penseeplate
   - relation
+version: travail
+publie: false
 ---
 
 # Le Mythe de la Compatibilité : Pourquoi votre quête de simplicité tue votre relation

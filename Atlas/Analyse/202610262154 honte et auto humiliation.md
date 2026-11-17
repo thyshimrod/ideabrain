@@ -1,4 +1,14 @@
 ---
+type: idee-brute
+statut: analysee
+synthese: "[[202611151800 La honte qui se montre par le corps]]"
+up:
+  - "[[202611151800 La honte qui se montre par le corps]]"
+tags:
+  - emotions/honte
+  - devperso/blessures
+  - sante
+  - integral/ombre
 analyse: faite
 analyse_note: "[[202610270857 Honte somatisée - analyse]]"
 analyse_date: 2026-10-27

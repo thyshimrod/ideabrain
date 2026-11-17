@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: trilogie-couple
 oeuvre: Ce que la trilogie dit de mon coaching
@@ -10,6 +10,9 @@ tags:
   - coaching
   - couple
   - integral
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 # What This Trilogy Says About My Coaching Approach

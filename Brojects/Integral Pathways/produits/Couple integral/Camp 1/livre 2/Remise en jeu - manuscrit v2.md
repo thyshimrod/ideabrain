@@ -3,6 +3,14 @@ title: Remise en jeu
 subtitle: Quand le couple glisse vers la colocation
 author: Pascal Ogil
 lang: fr-FR
+type: livre
+projet: livre-remise-en-jeu
+oeuvre: Remise en jeu
+langue: fr
+version: travail
+statut: travail
+publie: false
+reference: false
 ---
 
 # Introduction

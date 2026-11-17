@@ -1,4 +1,14 @@
 ---
+type: idee-brute
+statut: analysee
+synthese: "[[202611151801 L'adolescence, une relation à mettre à jour]]"
+up:
+  - "[[202611151801 L'adolescence, une relation à mettre à jour]]"
+tags:
+  - relation
+  - couple
+  - devperso/changement
+  - at/rebellion
 analyse: faite
 analyse_note: "[[202610270858 Adolescence et image figée - analyse]]"
 analyse_date: 2026-10-27

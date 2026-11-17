@@ -44,11 +44,13 @@ Le couple actuel, sur plusieurs années, a traversé les étapes que les livres 
 
 La note [[202601111730 une meme posture trois terrains]] formule une cohérence qui traverse l'individuel, le couple et l'organisation : rendre visible la structure qui produit le symptôme, puis accompagner un changement de design. C'est un point fort sous-estimé. Le parcours en entreprise n'est pas une vie parallèle à quitter ; c'est un troisième terrain où la même lecture s'applique (les notes d'octobre sur manager, coach, équipe et parentalité, la conférence sur le développement personnel chez les agilistes).
 
-## 5. La différenciation, en une phrase de travail
+## 5. La phrase d'identité
 
-> Je rends visible la structure invisible des scènes ordinaires, dans le couple, chez soi et dans les équipes, pour des personnes qui ont déjà fait du chemin et qui rejouent quand même.
+> **La relation comme un chemin pour grandir, seul et à deux.**
 
-Formulation provisoire. Elle cherche à tenir ensemble la porte d'entrée concrète (la scène), la profondeur (la structure), et la cible (les lucides qui rejouent).
+Choisie par Pascal le 02/11/2026. Elle porte l'ampleur de la démarche (tous les camps de la montagne, le développement de chacun, la relation comme chemin). La scène décryptée reste une porte d'entrée parmi d'autres, pas l'identité.
+
+*Ancienne formulation de travail, écartée car limitante :* « Je rends visible la structure invisible des scènes ordinaires… »
 
 ## 6. Les actifs à disposition
 

@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: livre-hors-jeu
 serie: livre-hors-jeu
 oeuvre: La dispute a commencé avant que tu rentres
 langue: fr
-reference: true
+reference: false
 tags:
   - at/jeux
   - at/karpman
   - couple
   - cnv
+version: travail
+publie: false
 ---
 
 # La dispute a commencé avant que tu rentres.

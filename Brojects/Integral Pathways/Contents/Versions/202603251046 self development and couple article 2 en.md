@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: grandir
 oeuvre: Ce que ta croissance fait à vos rôles
@@ -11,6 +11,9 @@ tags:
   - couple
   - at
   - cnv
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 ---

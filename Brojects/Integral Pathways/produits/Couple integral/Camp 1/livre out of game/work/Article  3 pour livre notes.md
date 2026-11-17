@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: livre-hors-jeu
 serie: livre-hors-jeu
 oeuvre: "Tu as résolu un problème qui n'existait pas"
@@ -10,6 +10,8 @@ tags:
   - at/karpman
   - couple
   - cnv
+version: travail
+reference: false
 ---
 
 # Substack Notes — Article 3

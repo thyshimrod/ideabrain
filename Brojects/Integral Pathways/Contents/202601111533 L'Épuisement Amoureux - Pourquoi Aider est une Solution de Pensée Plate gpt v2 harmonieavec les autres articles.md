@@ -1,15 +1,17 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: trilogie-couple
 oeuvre: "L'épuisement amoureux"
 langue: fr
-reference: true
+reference: false
 tags:
   - couple
   - penseeplate
   - relation
+version: travail
+publie: false
 ---
 
 Parfait. Je te propose une **version harmonisée** qui s’aligne clairement avec l’article précédent (_The Myth of Compatibility_), en conservant :

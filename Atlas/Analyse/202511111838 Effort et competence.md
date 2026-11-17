@@ -1,11 +1,18 @@
 ---
+type: idee-brute
+statut: analysee
+synthese: "[[202611151802 L'effort-créance]]"
 up:
+  - "[[202611151802 L'effort-créance]]"
   - "[[Productivité et loi du temps]]"
 tags:
   - frustration
   - abandon
   - effort
   - productivite
+  - devperso/resistance
+  - estimedesoi
+  - spiraledynamique
 analyse: faite
 analyse_note: "[[202610271121 Effort sans compétence - analyse]]"
 analyse_date: 2026-10-27

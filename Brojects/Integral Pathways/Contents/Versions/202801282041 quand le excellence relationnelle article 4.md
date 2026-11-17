@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: excellence-relationnelle
 oeuvre: Laisser mourir le projet
@@ -11,6 +11,10 @@ tags:
   - couple/desir
   - devperso
   - relation
+version: finale
+publie: true
+plateforme: substack-en
+a_verifier: "version anglaise publiée non retrouvée dans le vault"
 ---
 
 # Laisser Mourir le Projet

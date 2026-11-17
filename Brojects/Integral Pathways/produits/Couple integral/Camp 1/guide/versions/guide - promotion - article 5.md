@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: guide-roles
 serie: guide-roles
 oeuvre: "You don't exit the game by understanding it better."
@@ -10,6 +10,9 @@ tags:
   - at/karpman
   - couple
   - devperso
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 **"You don't exit the game by understanding it better."**

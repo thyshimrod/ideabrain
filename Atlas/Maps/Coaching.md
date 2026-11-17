@@ -82,6 +82,11 @@ tags:
 - [[Love coaching (formation)]] — formation SpiriVie
 - [[Approches thérapeutiques]] — ACT, TCD, TCC, IFS, constellations
 
+## Idées en exploration
+- [[202611152245 L'estime du 7 suspendue à l'étincelle dans les yeux de l'autre]] : un outil soigne une armure et en conforte une autre ; l'estime du 7 dépend du reflet
+- [[202611151805 La gratitude par le besoin nourri]] : une estime de soi fondée sur la capacité à se nourrir
+- [[202611151130 Prêter le méta au couple en crise]] : le tiers et la structure qui tiennent le recul que le couple n’a pas encore
+
 ## Mes contenus
 - [[Zoimmeisdess]] — hub du projet
 - [[Video - changement  = changement des relations qui nous entourent|Vidéo : changer, c'est changer ses relations]]

@@ -1,14 +1,16 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: "L'ennéagramme au-delà de la pensée plate"
 langue: fr
-reference: true
+reference: false
 tags:
   - enneagramme
   - penseeplate
+version: travail
+publie: false
 ---
 
 ### L'Ennéagramme : Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs

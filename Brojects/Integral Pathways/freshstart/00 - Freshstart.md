@@ -40,6 +40,10 @@ Ordre de lecture pour une IA qui reprend le travail : 01, puis 02, 03, 04. Les a
 | 13 | [[13 - Ligne éditoriale - étage 1]] | Le format signature, les accroches, les territoires de scènes, le ton, ce qu'on observe |
 | 14 | [[14 - Prise de recul du 28-10]] | Regard critique sur les deux premiers jours : valeur, pièges, résistances, manques, projection |
 | 15 | [[15 - Veille francophone]] | Le couple sur Instagram et TikTok en français : qui, quelles audiences, ce qui circule, la place libre |
+| 16 | [[16 - Enregistrement]] | Bien filmer en vertical sans gros matériel : support, cadrage, lumière, son, montage, kit minimal |
+| 17 | [[17 - Saison 0]] | Les dix-huit premières vidéos : qui je suis, notions simples, scènes de *Hors Jeu*, autres chemins, ordre de publication |
+| 18 | [[18 - Profils et site]] | Textes des profils Instagram, TikTok, Threads, et maquette du site |
+| 19 | [[19 - Tendance authenticité et IA]] | La saturation par l'IA, la réaction des plateformes, ce que ça change pour le projet |
 
 ## Étapes prévues
 

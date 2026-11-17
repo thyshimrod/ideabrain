@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: "L'ennéagramme au-delà de la pensée plate"
@@ -8,6 +8,9 @@ langue: fr
 tags:
   - enneagramme
   - penseeplate
+version: travail
+publie: false
+reference: false
 ---
 
 ### L'Ennéagramme : Au-Delà de la Pensée Plate, un Miroir pour Transformer Vos Échecs

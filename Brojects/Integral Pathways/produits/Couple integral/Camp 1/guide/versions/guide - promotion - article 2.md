@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: guide-roles
 serie: guide-roles
 oeuvre: The most exhausting role in a relationship is the one that looks like love.
@@ -10,6 +10,9 @@ tags:
   - at/karpman
   - couple
   - devperso
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: "Créer les conditions sans forcer l'ouverture"
@@ -10,6 +10,9 @@ tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 Why People Open Up When You Stop Asking Them To

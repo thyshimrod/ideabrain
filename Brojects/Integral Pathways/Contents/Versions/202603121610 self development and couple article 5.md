@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: grandir
 oeuvre: Revenir sans régresser
 langue: fr
-reference: true
+reference: false
 tags:
   - devperso
   - couple
   - at
   - cnv
+version: travail
+publie: false
 ---
 
 # Revenir sans régresser

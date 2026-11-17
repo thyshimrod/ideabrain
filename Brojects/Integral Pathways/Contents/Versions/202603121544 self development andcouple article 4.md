@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: grandir
 oeuvre: Le piège du missionnaire
 langue: fr
-reference: true
+reference: false
 tags:
   - devperso
   - couple
   - at
   - cnv
+version: travail
+publie: false
 ---
 
 # Le piège du missionnaire — quand tu veux embarquer l'autre dans ta propre croissance

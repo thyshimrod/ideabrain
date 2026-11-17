@@ -55,6 +55,9 @@ tags:
 - [[Enneagramme x Spirale Dynamique]] — chaque type selon les couleurs
 - [[Integral]] — le cadre AQAL de Ken Wilber
 
+## Idées en exploration
+- [[202611151802 L'effort-créance]] : quand la répétition se prend pour un mérite
+
 ## Mes contenus
 - [[conf causalité simple v2|Conférence : quitter la causalité simpliste (v2)]] — version de référence
 - [[conf causalité simple|Conférence : quitter la causalité simpliste (v1)]]

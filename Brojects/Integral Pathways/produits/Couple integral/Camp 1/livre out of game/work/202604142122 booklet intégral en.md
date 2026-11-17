@@ -1,6 +1,6 @@
 ---
 type: livre
-statut: final
+statut: publie
 projet: livre-hors-jeu
 oeuvre: Hors Jeu
 langue: en
@@ -10,6 +10,8 @@ tags:
   - at/karpman
   - couple
   - cnv
+version: finale
+publie: true
 ---
 
 # Integral Couple — Module 1

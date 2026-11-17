@@ -1,6 +1,6 @@
 ---
 type: produit
-statut: final
+statut: publie
 projet: guide-roles
 oeuvre: Which role are you playing right now?
 langue: fr
@@ -9,6 +9,8 @@ tags:
   - at/karpman
   - couple
   - devperso
+version: finale
+publie: true
 ---
 
 # Which role are you playing right now?

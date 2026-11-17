@@ -20,6 +20,8 @@ tags:
 > - [ ] Place du Livre 2 dans la montagne : Camp 1 ou Camp 5 ?
 
 ## Pilotage
+- **Feuille de route (chantiers en cours, par camp, boîte d'entrée)** : [[Feuille de route Integral Pathways]]
+- Articles à écrire, par saison et par camp : [[Articles à écrire]]
 - Reprise IA courante : [[202607310916 reprise stratégie]]
 - Vision de fond (montagne, 6 camps) : [[202606152035 reprise archi + module 1 + livre suivant]] · [[202606151125 Vision globale + Architecture camps révisée]]
 - Chiffres : [[follow substack]]
@@ -31,28 +33,23 @@ tags:
 - Autres projets : [[Eveil 7]] (livre type 7) · Reacteev ([[offre transfo IA v2]], [[202607240954 livret blanc claude v1]]) — hors activité solopreneur
 
 ## Produits
+Livres et guides en version finale (les 4e de couverture, présentations de l'auteur et fiches Amazon sont rattachées à leur livre dans [[Publications]]).
 ```dataview
-TABLE WITHOUT ID file.link AS "Produit", projet AS "Projet", statut AS "Statut", langue AS "Langue"
-FROM "Brojects"
-WHERE (type = "produit" OR type = "livre") AND reference = true
-SORT projet ASC
+TABLE WITHOUT ID file.link AS "Produit", oeuvre AS "Titre", type AS "Type", langue AS "Langue", choice(publie, "publié", "en cours") AS "État"
+FROM "Brojects/Integral Pathways" OR "Brojects/Eveil 7"
+WHERE version = "finale" AND (type = "livre" OR type = "produit")
+SORT projet ASC, langue ASC
 ```
+- *Éveil 7* : publié par chapitres, voir [[Eveil 7]].
 
 ## Publiés récemment
+Articles en version finale, publiés sur le Substack anglais (les plus récents d'abord, d'après l'horodatage du nom de fichier).
 ```dataview
-TABLE WITHOUT ID file.link AS "Article", serie AS "Série", langue AS "Langue", plateforme AS "Plateforme"
+TABLE WITHOUT ID file.link AS "Article", oeuvre AS "Titre", serie AS "Série"
 FROM "Brojects"
-WHERE type = "article" AND statut = "publie"
+WHERE type = "article" AND version = "finale" AND publie = true
 SORT file.name DESC
 LIMIT 15
-```
-
-## Prêts à publier
-```dataview
-TABLE WITHOUT ID file.link AS "Article", serie AS "Série", langue AS "Langue"
-FROM "Brojects"
-WHERE type = "article" AND statut = "final" AND reference = true
-SORT serie ASC
 ```
 Vue complète par série : [[Publications]]
 

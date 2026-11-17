@@ -11,6 +11,8 @@ tags:
   - couple/desir
   - integral
   - couple
+version: finale
+publie: true
 ---
 
 Voici une **traduction fidèle, dense et professionnelle** de l’article, en conservant le niveau conceptuel, le ton contrariant et le vocabulaire intégral. J’ai volontairement évité toute simplification “marketing” pour rester à hauteur d’experts.

@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: grandir
 oeuvre: Grandir sans témoin
@@ -11,6 +11,9 @@ tags:
   - couple
   - at
   - cnv
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 Voici une traduction fidèle, respectant le ton, le rythme et la nuance psychologique de votre texte.

@@ -11,6 +11,8 @@ tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: finale
+publie: true
 ---
 
 **The End of Digital Isolation: Why Your Network is a Prison (and How to Transform It into a Swarm)**

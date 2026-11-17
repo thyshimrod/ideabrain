@@ -11,6 +11,8 @@ tags:
   - couple/desir
   - integral
   - couple
+version: finale
+publie: true
 ---
 
 Voici la traduction en anglais :

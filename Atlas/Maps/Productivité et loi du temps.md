@@ -46,6 +46,9 @@ tags:
 - [[202506191739 produit -Pilotage Minimal 3 pratiques puissantes pour retrouver le cap en moins de 45 minutes|Pilotage minimal]] — 3 pratiques pour retrouver le cap en moins de 45 minutes
 - [[202408232155 how to be peacier|How to be peacier]] — une action simple pour chaque état
 
+## Idées en exploration
+- [[202611151802 L'effort-créance]] : quand la répétition se prend pour un mérite
+
 > [!Box]- Notes taguées pas encore listées ici
 > ```dataview
 > TABLE WITHOUT ID file.link AS "Note", file.folder AS "Dossier"

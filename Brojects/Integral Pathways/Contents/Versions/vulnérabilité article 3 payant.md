@@ -1,15 +1,17 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: Ce que tu crois lire chez lui
 langue: fr
-reference: true
+reference: false
 tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: travail
+publie: false
 ---
 
 # Ce que tu crois lire chez lui n'est peut-être pas ce qui s'y passe

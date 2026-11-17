@@ -34,6 +34,9 @@ tags:
 - [[Vivre avec les autres]] : se différencier sans entrer dans le triangle
 - [[je souffre donc je suis -pascal bruckner|Je souffre donc je suis]] : Bruckner et l'idéologie victimaire
 
+## Idées en exploration
+- [[202611152222 La peur de perdre fabrique le Sauveur]] : le don réglé sur la peur, la créance silencieuse et le débordement, dans un couple aux deux demandes muettes
+
 ## Mes contenus sur les jeux
 - [[zoimmeisdess AT jeux|Pourquoi on joue dans la relation]] : article Zoimmeisdess
 - [[Comment désarmorcer le jeu|Comment désamorcer le jeu]]

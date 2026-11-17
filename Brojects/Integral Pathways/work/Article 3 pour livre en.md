@@ -1,3 +1,15 @@
+---
+type: article
+projet: livre-hors-jeu
+serie: livre-hors-jeu
+oeuvre: "You solved a problem that didn't exist"
+langue: en
+version: finale
+statut: publie
+publie: true
+plateforme: substack-en
+reference: true
+---
 
 # You solved a problem that didn't exist.
 

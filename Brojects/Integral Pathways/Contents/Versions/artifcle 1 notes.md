@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: livre-hors-jeu
 serie: livre-hors-jeu
 oeuvre: "Ce n'est pas la machine que tu as reprise"
@@ -12,6 +12,8 @@ tags:
   - at/karpman
   - couple
   - cnv
+version: travail
+reference: false
 ---
 # Notes Substack — Semaine article 1
 

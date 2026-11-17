@@ -11,6 +11,8 @@ tags:
   - couple
   - penseeplate
   - relation
+version: finale
+publie: true
 ---
 
 Voici une **traduction fidèle et fluide en anglais**, pensée pour un public Substack anglophone (registre clair, assertif, conceptuel, sans trahir le fond) :

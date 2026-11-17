@@ -11,6 +11,8 @@ tags:
   - couple
   - penseeplate
   - relation
+version: finale
+publie: true
 ---
 
 ### (and How Energy Architecture Replaces Burnout with Resilience)

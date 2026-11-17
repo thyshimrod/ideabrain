@@ -12,6 +12,8 @@ tags:
   - couple/desir
   - devperso
   - relation
+version: finale
+publie: true
 ---
 
 # The Conjugal Dashboard

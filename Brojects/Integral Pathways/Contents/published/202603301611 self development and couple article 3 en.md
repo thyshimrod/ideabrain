@@ -12,6 +12,8 @@ tags:
   - couple
   - at
   - cnv
+version: finale
+publie: true
 ---
 
 # You No Longer Speak the Same Language — and It's Not a Communication Problem

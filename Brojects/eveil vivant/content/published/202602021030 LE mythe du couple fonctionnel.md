@@ -1,17 +1,18 @@
 ---
 type: article
-statut: publie
+statut: travail
 projet: eveil-vivant
 serie: trilogie-couple
 oeuvre: Le mythe du couple fonctionnel
 langue: fr
-plateforme: substack-fr
-reference: true
+reference: false
 tags:
   - relation
   - couple
   - couple/desir
   - penseeplate
+version: travail
+publie: false
 ---
 
 ## Pourquoi une relation bien organisée peut quand même mourir

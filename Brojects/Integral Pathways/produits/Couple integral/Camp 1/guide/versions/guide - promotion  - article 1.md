@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: guide-roles
 serie: guide-roles
 oeuvre: "You've done the work. You're still in the same scene."
@@ -10,6 +10,9 @@ tags:
   - at/karpman
   - couple
   - devperso
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 **"You've done the work. You're still in the same scene."**

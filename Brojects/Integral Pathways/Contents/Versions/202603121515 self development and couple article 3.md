@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: grandir
 oeuvre: Vous ne parlez plus la même langue
 langue: fr
-reference: true
+reference: false
 tags:
   - devperso
   - couple
   - at
   - cnv
+version: travail
+publie: false
 ---
 
 # Vous ne parlez plus la même langue — et ce n'est pas un problème de communication

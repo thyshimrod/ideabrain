@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: trilogie-couple
 oeuvre: Le mythe du couple fonctionnel
@@ -9,6 +9,9 @@ tags:
   - couple
   - penseeplate
   - relation
+version: travail
+publie: false
+reference: false
 ---
 
 Très bien.  

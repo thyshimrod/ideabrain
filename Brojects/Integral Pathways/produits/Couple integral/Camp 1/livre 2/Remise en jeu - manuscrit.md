@@ -1,10 +1,10 @@
 ---
 type: livre
-statut: brouillon
+statut: travail
 projet: livre-remise-en-jeu
 oeuvre: Remise en jeu
 langue: fr
-reference: true
+reference: false
 title: Remise en jeu
 subtitle: Quand le couple glisse vers la colocation
 author: Pascal Ogil
@@ -13,6 +13,8 @@ tags:
   - at
   - couple
   - relation
+version: travail
+publie: false
 ---
 
 # Introduction

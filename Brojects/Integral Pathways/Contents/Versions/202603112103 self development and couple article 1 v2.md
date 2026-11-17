@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: grandir
 oeuvre: "Tu te développes et tu t'éloignes"
 langue: fr
-reference: true
+reference: false
 tags:
   - devperso
   - couple
   - at
   - cnv
+version: travail
+publie: false
 ---
 
 # Tu te développes. Et tu t'éloignes sans le vouloir.

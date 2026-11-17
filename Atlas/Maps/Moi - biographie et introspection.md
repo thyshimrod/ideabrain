@@ -9,7 +9,7 @@ tags:
 ---
 > [!Map]+ # Moi - biographie et introspection
 > Tout ce qui me concerne directement : profil, human design, analyses de moi, réponses à mes logs, carrière et relations. Note privée, à ne pas publier.
-> **Sous-maps :** — · **Maps voisines :** [[Développement personnel]] · [[Développement vertical]] · [[Santé et alimentation]] · [[MOA Renew]]
+> **Sous-maps :** [[Autocoaching]] (exercices, suivi, explorations en cours) · **Maps voisines :** [[Développement personnel]] · [[Développement vertical]] · [[Santé et alimentation]] · [[MOA Renew]]
 
 ## Profil
 > [!info]- Qui je suis (repris de [[Home]])
@@ -23,6 +23,8 @@ tags:
 
 ## Human design
 - [[202603232257 mon human design|Mon human design]] — point d'entrée
+- [[human_design_blueprint_pascal|Blueprint complet]] — Générateur, Répondre, autorité sacrale, profil 2/4
+- [[202611131905 human design 1 - mon profil|1. Mon profil]] · [[202611131906 human design 2 - impact sur mon projet|2. Impact sur mon projet]] · [[202611131907 human design 3 - convergences avec ma connaissance de moi|3. Convergences]] · [[202611131908 human design 4 - synthese de travail et pistes d'evolution|4. Synthèse de travail]]
 - [[202603232258 incarnation cross|Croix d'incarnation]] — Croix de l'Angle Droit de l'Inattendu
 - [[Signature et non soi pour le manifesting Generator|Signature et non-soi du Générateur Manifesteur]] — frustration et colère comme signaux
 
@@ -59,6 +61,8 @@ tags:
 - [[202603232239 3 autorisation sans dette|Autorisation sans dette]] — créer par plaisir, sans chercher la validation
 - [[202603250936 introspection procra et axe de développement|Introspection procrastination]] — expert pour le fun vs enjeu de revenu
 - [[202604241513 horoscope changement verseau|Horoscope Verseau]] — Pluton en Verseau et le changement
+- [[202611131820 mon theme astral|Mon thème astral]] — Soleil Verseau, Ascendant à la limite Verseau/Poissons, Lune-Vénus en Poissons
+- [[202611131821 transits 2026 - ce qui se passe pour moi|Transits 2026]] — Pluton sur le Soleil, Saturne en carré à Mercure
 
 > [!Box]- Notes taguées pas encore listées ici
 > ```dataview

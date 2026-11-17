@@ -1,15 +1,17 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: Homme et vulnérabilité
 langue: fr
-reference: true
+reference: false
 tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: travail
+publie: false
 ---
 
 # Trilogie d'articles : La Contradiction Impossible

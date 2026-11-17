@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: taquinerie
 oeuvre: "Celui qui n'a pas peur"
@@ -10,6 +10,8 @@ tags:
   - relation
   - at
   - emotions/honte
+version: travail
+reference: false
 ---
 
 # Notes de soutien — Article 3 : "Celui qui n'a pas peur"

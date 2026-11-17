@@ -23,7 +23,7 @@ type: map
 >
 > | Projet | Pilotage | Prochaine action |
 > |---|---|---|
-> | **Integral Pathways** | [[Integral Pathways]] · [[202607310916 reprise stratégie]] | Trancher coaching ou app (6 mois) |
+> | **Integral Pathways** | [[Feuille de route Integral Pathways]] · [[Integral Pathways]] · [[202607310916 reprise stratégie]] | Trancher coaching ou app (6 mois) |
 > | **Couple intégral** | [[Couple intégral]] · [[Camp 1]] | Formaliser l'offre de coaching |
 > | **Livre 2 — Remise en jeu** | [[202610121000 main propre]] · [[202610120930 revue livre 2]] | Sources, langue et lieu de publication |
 > | **Publications** | [[Publications]] · [[follow substack]] | Publier les articles prêts |
@@ -86,8 +86,8 @@ type: map
 >
 > **Comprendre** — [[Enneagramme]] · [[Spirale Dynamique]] · [[Integral]] · [[Développement vertical]] · [[Pensée plate et complexité]]
 > **Accompagner** — [[Coaching]] · [[CNV]] · [[Analyse transactionnelle]] · [[Approches thérapeutiques]] · [[Atlas/Maps/Hypnose|Hypnose]] · [[Love coaching (formation)|Love coaching]]
-> **Grandir et vivre** — [[Développement personnel]] · [[Honte, culpabilité et colère]] · [[Blessures de l'âme]] · [[Couple]] · [[Pratique de vie intégrale]] · [[Productivité et loi du temps]] · [[Santé et alimentation]] · [[Moi - biographie et introspection|Moi]] · [[Citations]]
-> **Créer** — [[SoloPreneur MAP]] · [[Publications]] · [[Contenus]] · [[Prompting et IA]] · [[Agilité|Agilité et organisations]] · [[Communautés et communs]]
+> **Grandir et vivre** — [[Développement personnel]] · [[Honte, culpabilité et colère]] · [[Blessures de l'âme]] · [[Couple]] · [[Pratique de vie intégrale]] · [[Productivité et loi du temps]] · [[Santé et alimentation]] · [[Moi - biographie et introspection|Moi]] · [[Autocoaching]] · [[Citations]]
+> **Créer** — [[SoloPreneur MAP]] · [[Publications]] · [[Articles à écrire]] · [[Contenus]] · [[Prompting et IA]] · [[Agilité|Agilité et organisations]] · [[Communautés et communs]]
 > **Méta** — [[ZKN]] · [[Efforts]] · [[Exploration]] · [[Analyses]]
 
 > [!Calendar]- # 📅 Calendar

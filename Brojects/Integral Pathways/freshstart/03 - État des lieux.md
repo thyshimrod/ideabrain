@@ -21,7 +21,7 @@ Inventaire factuel, tiré du vault. Les chiffres viennent de [[follow substack]]
 | *De la dispersion à la joie ancrée : l'épicurien en chemin* (type 7) | Publié, fin 2025 | Amazon | Version anglaise de l'introduction et de la 4e de couverture rédigée |
 | *Hors Jeu* / *Out of the Game* | Publié, avril 2026 | Amazon FR et EN | Six scènes, jeux psychologiques, Karpman, CNV. Camp 1 |
 | Guide *Which Role Are You Playing Right Now?* | En vente, 13 € | Gumroad | Au lancement : 0 vente, 10 vues |
-| *Remise en jeu*, sous-titre proposé *Quand le couple glisse vers la colocation* | Manuscrit complet, environ 40 700 mots, 10 chapitres, postface et annexes | Mise en page Scribus à faire | Suite de *Hors Jeu*, sur le couplage. Reste : vérification des sources et des éditeurs cités, langue et lieu de publication |
+| *Remise en jeu*, sous-titre proposé *Quand le couple glisse vers la colocation* | Mis en page et soumis (fin octobre). Épreuve papier attendue le 14/11, publication le 21/11/2026 | Amazon | Suite de *Hors Jeu*, sur le couplage |
 | Session découverte | 45 min, 50 € | Calendly | |
 | Offre de coaching | Envisagée (3 séances, 150 à 200 €) | Non publiée | Lien prévu en dernière page des livres |
 
@@ -39,6 +39,9 @@ Publication anglaise *Integral Pathways* (affichée aussi sous le nom *Out of th
 Ce qui a fonctionné qualitativement : des retours sur la profondeur et le changement d'angle ; l'article sur la croissance qui éloigne du couple a produit des commentaires substantiels ; une psychothérapeute (Rachel, newsletter *Grounded*) est venue d'elle-même.
 
 ## Autres canaux
+
+- **Site** (mise à jour du 03/11) : en ligne sur https://thyshimrod.github.io/pascalogilcoach/
+- **TikTok** (mise à jour du 02/11) : compte créé, @pascal.ogil.coach.
 
 - **Instagram** : compte existant, peu vivant. Réflexion de septembre sur une relance par des vidéos de décryptage de scènes, avec un format long sur YouTube. Le projet Claude dans lequel ce travail est ouvert s'appelle « publication insta ».
 - **YouTube** : une chaîne passée, créée par plaisir, citée comme le modèle d'une création sans pression.

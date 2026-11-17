@@ -13,6 +13,7 @@ tags:
   - agile/transformation
   - ia
   - business
+version: travail
 ---
 
 # ÉDITORIAL : LIBÉRER L'AGILITÉ DE SA PROPRE BUREAUCRATIE

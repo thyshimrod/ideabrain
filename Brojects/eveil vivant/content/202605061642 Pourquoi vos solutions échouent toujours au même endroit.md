@@ -1,15 +1,17 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: eveil-vivant
 serie: pensee-plate
 oeuvre: Pourquoi vos solutions échouent au même endroit
 langue: fr
-reference: true
+reference: false
 tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: travail
+publie: false
 ---
 
 **La géométrie cachée de vos impasses**

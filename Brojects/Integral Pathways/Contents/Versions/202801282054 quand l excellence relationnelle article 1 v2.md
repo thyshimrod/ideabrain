@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: excellence-relationnelle
 oeuvre: Le tableau de bord conjugal
@@ -10,6 +10,9 @@ tags:
   - couple/desir
   - devperso
   - relation
+version: travail
+publie: false
+reference: false
 ---
 
 # Le Tableau de Bord Conjugal

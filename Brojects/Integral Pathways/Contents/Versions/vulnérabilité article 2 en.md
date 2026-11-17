@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: La réciprocité fantôme
@@ -10,6 +10,9 @@ tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 # The Phantom Reciprocity — when what we call intimacy might not be

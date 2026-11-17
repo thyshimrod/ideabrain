@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: grandir
 oeuvre: "Tu te développes et tu t'éloignes"
@@ -10,6 +10,9 @@ tags:
   - couple
   - at
   - cnv
+version: travail
+publie: false
+reference: false
 ---
 
 # Tu te développes. Et tu t'éloignes sans le vouloir.

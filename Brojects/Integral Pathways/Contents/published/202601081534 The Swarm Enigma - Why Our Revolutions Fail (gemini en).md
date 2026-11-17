@@ -11,6 +11,8 @@ tags:
   - integral/ombre
   - penseeplate
   - integral
+version: finale
+publie: true
 ---
 
 Here is the English translation of your article, optimized for **Substack**. I have maintained the structural integrity, the intellectual depth, and the strategic placement of visual anchors to ensure high engagement.

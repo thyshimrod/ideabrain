@@ -30,6 +30,9 @@ tags:
 - [[202411112235 template pardon veritable|Template du pardon véritable]] — guérir la blessure par le pardon
 - [[Explorer CNV - blessure de l'autre|Explorer CNV et blessure de l'autre]] — exploration en cours
 
+## Idées en exploration
+- [[202611151800 La honte qui se montre par le corps]] : le corps comme mise en scène d’une honte non perçue
+
 ## Mes contenus
 - [[Vivre avec les autres|Vivre avec les autres]] — l'injustice ressentie quand on change
 > ```dataview

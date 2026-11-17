@@ -1,15 +1,17 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: La réciprocité fantôme
 langue: fr
-reference: true
+reference: false
 tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: travail
+publie: false
 ---
 
 # La réciprocité fantôme — quand ce qu'on appelle intimité ne l'est peut-être pas

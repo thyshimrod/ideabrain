@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: guide-roles
 serie: guide-roles
 oeuvre: You never raise your voice. You just keep score.
@@ -10,6 +10,9 @@ tags:
   - at/karpman
   - couple
   - devperso
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 **"You never raise your voice. You just keep score."**

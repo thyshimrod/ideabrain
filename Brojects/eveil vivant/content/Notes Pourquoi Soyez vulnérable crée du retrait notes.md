@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: eveil-vivant
 serie: vulnerabilite
 oeuvre: Pourquoi « Soyez vulnérable » crée du retrait
@@ -9,6 +9,8 @@ tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: travail
+reference: false
 ---
 
 Pour maintenir l'intérêt sur la durée, il faut varier les angles : certains doivent piquer l'ego, d'autres offrir une lueur d'espoir, et d'autres encore apporter une clarté purement technique.

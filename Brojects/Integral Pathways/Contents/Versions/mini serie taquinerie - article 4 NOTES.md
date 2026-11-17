@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: taquinerie
 oeuvre: Je ne transige pas là-dessus
@@ -10,6 +10,8 @@ tags:
   - relation
   - at
   - emotions/honte
+version: travail
+reference: false
 ---
 
 # Notes de soutien — Article 4 : "Je ne transige pas là-dessus"

@@ -20,6 +20,9 @@ Premier jet. Ce qui est proposé ici s'appuie sur les décisions déjà prises (
 
 Faire vivre à quelqu'un qui ne me connaît pas, en moins d'une minute, l'expérience de mon regard : se reconnaître dans une scène, et voir pour la première fois ce qui s'y joue. Rien à vendre à cet étage. Le signe que ça marche : la personne envoie la vidéo à son conjoint ou à un proche, ou raconte sa propre scène en commentaire.
 
+> [!note] 02/11/2026
+> L'identité est « la relation comme un chemin pour grandir, seul et à deux ». La scène décryptée est un format et une porte d'entrée, pas le positionnement. Les vidéos alternent scènes, notions, histoire personnelle et questions, sur tous les territoires de la montagne.
+
 ## 2. Le format signature : la scène décryptée
 
 Un cadre fixe, une variété infinie à l'intérieur.
@@ -101,6 +104,8 @@ Proposition : une « saison 0 » d'environ 10 à 15 vidéos sur quatre à six se
 - **Mon histoire et mon intention** : qui je suis, pourquoi le couple, ce que j'ai traversé (le premier mariage, le couple actuel, le passage du contrôle au rééquilibrage). C'est ce qui crée l'alliance.
 - **Des notions accessibles, ouvertes par une situation** : pourquoi on joue, à quoi ça sert, comment on apprend à aimer dans sa famille, les rôles qu'on prend sans les choisir, les modes d'interaction. Accessible ne veut pas dire abstrait : chaque notion part d'un moment reconnaissable.
 - **Quelques scènes simples de *Hors Jeu*** : premier essai du format signature, et promotion du livre.
+
+**Pas de temps fort** (Pascal, 02/11) : la sortie de *Remise en jeu* le 21/11 n'est pas un événement à orchestrer. Les livres sont des ressources parmi d'autres dans un flux continu ; leur matière (scènes, notions, chapitres) nourrit les vidéos au fil de l'eau.
 
 Nuance factuelle : sur TikTok et dans les Reels, une vidéo est d'abord montrée à des personnes qui ne suivent pas le compte. Un petit nombre d'abonnés n'empêche donc pas une vidéo d'être vue ; c'est la rétention qui décide. La raison forte de la saison 0 est l'apprentissage, pas la rareté de l'audience.
 

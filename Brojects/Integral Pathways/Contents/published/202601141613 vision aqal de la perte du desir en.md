@@ -11,6 +11,8 @@ tags:
   - integral/aqal
   - couple/desir
   - relation
+version: finale
+publie: true
 ---
 
 # AQAL Reading of the "After the Disappearance of Desire" Passage

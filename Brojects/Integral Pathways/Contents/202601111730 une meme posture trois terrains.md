@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: trilogie-couple
 oeuvre: "Une même posture, trois terrains"
@@ -10,6 +10,10 @@ tags:
   - coaching
   - couple
   - integral
+version: finale
+publie: true
+plateforme: substack-en
+a_verifier: "version anglaise publiée non retrouvée dans le vault"
 ---
 
 Voici une **déclinaison individuel / couple / organisation** de cette posture, pensée comme un **texte d’architecture d’accompagnement**, pas comme une brochure commerciale.

@@ -12,6 +12,78 @@ tags:
 
 Une entrée par session de travail : ce qui a bougé, ce qui a été décidé, ce qui reste ouvert. La plus récente en haut.
 
+## 2026-11-03 · Tendance authenticité
+
+**Fait** : recherche sur la saturation des réseaux par l'IA et le retour de l'authentique, voir [[19 - Tendance authenticité et IA]]. Le courant existe ; la migration vers Substack est une lecture trop simple ; ce qui devient rare, c'est la confiance dans une personne réelle. Les choix du projet (face caméra, image brute, histoire vécue, contact direct) vont dans ce sens. Vigilance : redire les scripts écrits avec l'IA avec ses propres mots.
+
+## 2026-11-03 · Site en ligne
+
+**Fait** : site publié par Pascal sur https://thyshimrod.github.io/pascalogilcoach/ (vérifié : la page se charge, toutes les sections présentes). Le référencement attendra d'avoir des visiteurs.
+
+**Suite** : lien du site dans les bios ; premiers tournages de la saison 0.
+
+## 2026-11-02 · Site plus doux
+
+**Retour de Pascal** : fond trop sombre (le site suivait le mode sombre de l'appareil), peu adapté à un public majoritairement féminin et à un sujet qui doit parler d'espoir.
+
+**Changé** : une seule ambiance claire quel que soit le réglage de l'appareil ; fond papier chaud comme les couvertures, titres bordeaux comme sur les livres, sarcelle et rouille adoucis, halo doré derrière l'accroche (l'or du chemin du livre sur le type 7), typographie plus douce (Lora et Lato, proche des couvertures), suppression de la police technique.
+
+## 2026-11-02 · Site prêt pour GitHub Pages
+
+**Fait** : version finale du site dans `site/github-pages/` avec photo, couvertures, liens, comptes TikTok et YouTube, adresse mail protégée, mode d'emploi de publication. Maquette claude.ai mise à jour (version 6).
+
+**Reste** : lien de *Remise en jeu* après le 21/11, photo plus grande.
+
+## 2026-11-02 · Finalisation du site
+
+**Décisions** : site statique sur GitHub Pages ; contact par thyshimrod@gmail.com (ajouté à la maquette, version 4). En attente : photo et liens Amazon.
+
+## 2026-11-02 · Saison 0 élargie
+
+**Ajouté** : un bloc D dans [[17 - Saison 0]] (la honte et les silences, exister à deux, le sens). Avec B3 et C6, les six territoires de la montagne sont présents dès la saison 0. Dix-huit vidéos, environ six semaines à trois par semaine.
+
+## 2026-11-02 · Phrase d'identité
+
+**Critique de Pascal** : l'accent mis sur « décrypter les scènes » est limitatif au regard de sa ligne directrice.
+
+**Décision** : identité = « La relation comme un chemin pour grandir, seul et à deux. » La scène décryptée devient une porte d'entrée parmi d'autres.
+
+**Mis à jour** : bios Instagram et TikTok ([[18 - Profils et site]]), phrase de [[02 - Forces et différenciation]], note dans [[13 - Ligne éditoriale - étage 1]], site en version 2 (nouvelle accroche, section « Les chemins »).
+
+## 2026-11-02 · Profils et site
+
+**Décisions** : tout sous le nom Pascal Ogil ; le site commence par une maquette publiée en privé sur claude.ai.
+
+**Créé** : [[18 - Profils et site]] (champ nom, bios Instagram et TikTok, Threads, à la une, épinglées) et la maquette du site (source dans `site/`).
+
+**À faire par Pascal** : créer le compte TikTok, mettre à jour Instagram, relier Threads.
+
+## 2026-11-02 · Scripts complets
+
+**Changé** : les fiches en quatre lignes de [[17 - Saison 0]] sont remplacées par des scripts complets (environ 45 à 60 secondes chacun), avec le texte à l'écran. Pascal débute en format court et préfère un texte entier, qu'il adaptera.
+
+## 2026-11-02 · Saison 0
+
+**Créé** : [[17 - Saison 0]], quinze fiches de vidéos en quatre lignes (ouverture, situation, mécanisme, question), en trois blocs : qui je suis, notions simples ouvertes par une situation, scènes de *Hors Jeu*. Ordre de publication alterné.
+
+**Point de prudence** : divorce en procédure, aucun détail identifiable sur l'ex-épouse ni les enfants dans les vidéos.
+
+## 2026-11-02 · Enregistrement
+
+**Créé** : [[16 - Enregistrement]], premier volet de la fabrique (téléphone plutôt que webcam pour le vertical, lumière de fenêtre, micro-cravate comme meilleur achat, tournage par lots sur notes, montage CapCut ou Whisper).
+
+## 2026-11-02 · *Remise en jeu* soumis
+
+**Fait** : mise en page et publication lancées. Épreuve papier le 14/11, publication le 21/11/2026.
+
+**Décision** : pas de temps fort autour de la sortie. Le livre est une ressource dans un flux continu de contenus.
+
+## 2026-10-28 · Rodage et simplicité
+
+**Retenu** : pas de mise en scène compliquée ni de matériel lourd ; enregistrement actuel à la webcam. Besoin de conseils d'enregistrement.
+
+**Proposé** : une saison 0 de rodage (10 à 15 vidéos), mêlant mon histoire, des notions accessibles ouvertes par une situation, et quelques scènes de *Hors Jeu*. Elle répond à l'intuition de Pascal de commencer par une introduction, et sert l'apprentissage technique.
+
 ## 2026-10-28 · Présence face caméra
 
 **Décision** : face caméra. Expérience existante de vidéos longues sur YouTube. Pistes de formats créatifs ajoutées à [[13 - Ligne éditoriale - étage 1]].

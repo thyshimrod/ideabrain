@@ -1,15 +1,17 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: Why your solutions fail
 langue: fr
-reference: true
+reference: false
 tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: travail
+publie: false
 ---
 
 Connaissez-vous cette sensation d'effondrement quand une solution "infaillible" s'écrase lamentablement ? J'y ai été confronté – fixant un projet raté, un virage de carrière bloqué, ou même mon propre corps qui se rebelle contre un régime simple. Ce n'était pas de la paresse ou de la malchance. C'était moi, piégé dans une pensée plate, accusant le monde tout en ignorant le réseau de forces en jeu. C'est le mythe que nous avons tous acheté : une cause, une solution. Mais c'est un mensonge qui vous maintient coincé dans la victimisation. Et si vos échecs étaient des invitations à une révolution plus profonde – un soulèvement vivant et respirant contre la simplicité qui vous rend votre pouvoir ?

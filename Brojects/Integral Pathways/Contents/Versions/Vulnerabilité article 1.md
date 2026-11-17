@@ -1,6 +1,6 @@
 ---
 type: article
-statut: final
+statut: publie
 projet: integral-pathways
 serie: vulnerabilite
 oeuvre: Pourquoi « Soyez vulnérable » crée du retrait
@@ -10,6 +10,9 @@ tags:
   - couple/vulnerabilite
   - relation
   - emotions
+version: finale
+publie: true
+plateforme: substack-en
 ---
 
 # Why "Be Vulnerable" Creates Withdrawal — The Hidden Structural Paradox in Modern Relationships

@@ -14,6 +14,7 @@ tags:
   - agile/transformation
   - ia
   - business
+version: travail
 ---
 ---
 title: "L'AGILITÉ À L'ÈRE DE L'IA : DE LA PRODUCTION À LA DÉCISION"

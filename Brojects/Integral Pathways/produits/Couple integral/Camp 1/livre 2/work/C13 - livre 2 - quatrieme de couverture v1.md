@@ -1,5 +1,5 @@
 ---
-type: chapitre
+type: quatrieme-couverture
 statut: brouillon
 projet: livre-remise-en-jeu
 oeuvre: Remise en jeu — 4e de couverture
@@ -11,6 +11,8 @@ statut_detail: "brouillon v1 (4e de couverture ; bio de l'auteur à compléter)"
 tags:
   - couple
   - couverture
+livre: "[[Remise en jeu - manuscrit v3]]"
+version: finale
 ---
 
 **Quatrième de couverture**

@@ -11,6 +11,8 @@ tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: finale
+publie: true
 ---
 
 ---

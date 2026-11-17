@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: pensee-plate
 oeuvre: "L'énigme de l'essaim"
@@ -9,6 +9,9 @@ tags:
   - integral/ombre
   - penseeplate
   - integral
+version: travail
+publie: false
+reference: false
 ---
 
 ### The Hidden Wealth of Our Crisis: Using the Collective Shadow to Build an Awakened Society

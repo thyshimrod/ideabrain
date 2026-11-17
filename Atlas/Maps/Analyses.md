@@ -20,6 +20,15 @@ WHERE file.folder = "Atlas/Analyse" AND analyse != "faite"
 SORT file.ctime ASC
 ```
 
+## Idées retravaillées
+Pour chaque idée analysée, une note de synthèse dans `Atlas/Notes/Ideas`, qui renvoie à la note de départ et à l'analyse complète.
+```dataview
+TABLE WITHOUT ID file.link AS "Idée", potentiel AS "Potentiel", up AS "Maps", note_origine AS "Note de départ", analyse_complete AS "Analyse"
+FROM "Atlas/Notes/Ideas"
+WHERE type = "idee" AND analyse_complete
+SORT file.name DESC
+```
+
 ## Analyses
 ```dataview
 TABLE WITHOUT ID file.link AS "Analyse", sujet AS "Sujet", potentiel AS "Potentiel", preuve AS "Preuve", contenus AS "Contenus", date AS "Date"

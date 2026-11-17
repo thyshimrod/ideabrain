@@ -1,6 +1,6 @@
 ---
 type: article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: excellence-relationnelle
 oeuvre: "Quand l'excellence relationnelle devient un piège (texte global)"
@@ -10,6 +10,9 @@ tags:
   - couple/desir
   - devperso
   - relation
+version: travail
+publie: false
+reference: false
 ---
 
 # Quand l'excellence relationnelle devient un piège : Pourquoi les couples les mieux gérés s'effondrent en silence

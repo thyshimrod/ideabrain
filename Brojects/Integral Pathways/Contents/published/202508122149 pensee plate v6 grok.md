@@ -10,6 +10,10 @@ tags:
   - penseeplate
   - integral
   - spiraledynamique
+version: finale
+publie: true
+plateforme: substack-en
+a_verifier: "version anglaise publiée non retrouvée dans le vault"
 ---
 
 # Brisez les chaînes de la pensée plate : déclenchez votre Révolution Vivante

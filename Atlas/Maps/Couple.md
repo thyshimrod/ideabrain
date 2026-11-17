@@ -45,6 +45,16 @@ tags:
 - [[biographies couple|Bibliographie couple]] — Hendrix, Dallaire, De Sutter, Malarewicz…
 - [[202607312114 coach reference|Coachs de référence]] — Jimmy on relationships, Jimmy Knowles, The Freemans
 
+## Idées en exploration
+- [[202611151801 L'adolescence, une relation à mettre à jour]] : le parent qui ne met pas à jour sa relation à l’enfant qui grandit
+- [[202611151803 Le retour vers le partenaire]] : l’étape que le développement personnel n’enseigne pas
+- [[202611151804 Le rituel du bonjour - soin, angoisse ou contrôle]] : ce que révèle un rituel quotidien du couple quand on l’arrête
+- [[202611151111 Le contrat de relation à renégocier]] : la crise comme signal d’un contrat implicite périmé
+- [[202611151130 Prêter le méta au couple en crise]] : renégocier le contrat quand le couple n’a pas (ou plus) la posture méta
+- [[202611151147 Renégocier le contrat à partir des besoins]] : la stratégie garde sa forme, le dosage des besoins change
+- [[202611152159 L'indépendance n'est pas l'autosuffisance]] : posséder ses besoins n'est pas les nourrir seul ; le couple reste privilégié pour les besoins relationnels
+- [[202611152222 La peur de perdre fabrique le Sauveur]] : la peur de perdre transforme l'amour en effort non demandé, puis en créance et en débordement
+
 ## Mes contenus
 - [[Brojects/Integral Pathways/produits/Couple integral/202601091546 couple integral|Couple intégral]] — pilotage du projet
 - [[202610121000 main propre|Livre 2 : main propre]] — pilotage du livre

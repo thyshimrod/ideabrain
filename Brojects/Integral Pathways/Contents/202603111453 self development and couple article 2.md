@@ -1,16 +1,18 @@
 ---
 type: article
-statut: final
+statut: travail
 projet: integral-pathways
 serie: grandir
 oeuvre: Ce que ta croissance fait à vos rôles
 langue: fr
-reference: true
+reference: false
 tags:
   - devperso
   - couple
   - at
   - cnv
+version: travail
+publie: false
 ---
 
 # Ce que ta croissance fait à vos rôles — sans que tu le voies

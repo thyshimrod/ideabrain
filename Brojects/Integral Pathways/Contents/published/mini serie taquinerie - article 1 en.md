@@ -12,6 +12,8 @@ tags:
   - relation
   - at
   - emotions/honte
+version: finale
+publie: true
 ---
 
 **The clumsy art of hurting those we love**

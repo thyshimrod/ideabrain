@@ -1,6 +1,6 @@
 ---
 type: notes-article
-statut: brouillon
+statut: travail
 projet: integral-pathways
 serie: taquinerie
 oeuvre: Au lieu de piquer
@@ -10,6 +10,8 @@ tags:
   - relation
   - at
   - emotions/honte
+version: travail
+reference: false
 ---
 
 # Notes de soutien — Article 2 : "Au lieu de piquer"

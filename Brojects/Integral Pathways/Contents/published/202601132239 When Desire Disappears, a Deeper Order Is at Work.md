@@ -11,6 +11,8 @@ tags:
   - couple/desir
   - integral
   - couple
+version: finale
+publie: true
 ---
 
 Merci pour la précision — elle est très juste.  

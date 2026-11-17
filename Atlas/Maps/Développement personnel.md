@@ -78,6 +78,10 @@ tags:
 ## Regards critiques
 - [[pal|Critiques du développement personnel]] — Brenifier (penser plutôt que coacher), Jobard et autres
 
+## Idées en exploration
+- [[202611151801 L'adolescence, une relation à mettre à jour]] : le parent qui ne met pas à jour sa relation à l’enfant qui grandit
+- [[202611151803 Le retour vers le partenaire]] : l’étape que le développement personnel n’enseigne pas
+
 ## Mes contenus
 ### Zoimmeisdess
 - [[Zoimmeisdess Vivre avec ses émotions|Vivre avec ses émotions]] — présentation de la série
